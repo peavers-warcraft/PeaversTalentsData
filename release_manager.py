@@ -45,7 +45,7 @@ class Version:
         return f"{self.major}.{self.minor}.{self.patch}"
 
 class ReleaseManager:
-    def __init__(self, toc_file: str = "PeaversTalents.toc"):
+    def __init__(self, toc_file: str = "PeaversTalentsDataData.toc"):
         self.toc_file = toc_file
         self.current_version = self._get_current_version()
 
@@ -109,7 +109,7 @@ class ReleaseManager:
         self._run_git_command(['commit', '-m', commit_msg])
 
         # Create and push tag
-        tag_name = f"PeaversTalents-{new_version}"
+        tag_name = f"PeaversTalentsData-{new_version}"
         tag_message = f"Release {new_version}"
         if release_notes:
             tag_message += f"\n\n{release_notes}"
@@ -124,7 +124,7 @@ class ReleaseManager:
 
     def _create_release_zip(self, version: str) -> str:
         """Create a ZIP file for the release."""
-        zip_name = f"PeaversTalents-{version}.zip"
+        zip_name = f"PeaversTalentsData-{version}.zip"
 
         with zipfile.ZipFile(zip_name, 'w', zipfile.ZIP_DEFLATED) as zf:
             # Add all files except .git, .github, and other unnecessary files
@@ -137,7 +137,7 @@ class ReleaseManager:
                         continue
 
                     file_path = os.path.join(root, file)
-                    archive_path = os.path.join('PeaversTalents', file_path[2:])
+                    archive_path = os.path.join('PeaversTalentsData', file_path[2:])
                     zf.write(file_path, archive_path)
 
         return zip_name
@@ -174,7 +174,7 @@ class ReleaseManager:
         metadata = {
             "changelog": "",  # You can add changelog here if needed
             "changelogType": "markdown",
-            "displayName": f"PeaversTalents v{version}",
+            "displayName": f"PeaversTalentsData v{version}",
             "gameVersions": [retail_version_id],
             "releaseType": "release"  # or "alpha", "beta"
         }
