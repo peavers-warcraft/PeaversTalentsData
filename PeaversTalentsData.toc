@@ -2,7 +2,7 @@
 ## Title: PeaversTalentsData
 ## Notes: Datasource for PeaversTalents and others
 ## Author: Peavers
-## Version: 0.0.3
+## Version: 0.0.4
 ## X-Curse-Project-ID: 1198986
 
 src/Data/ArchonMythicDB.lua
