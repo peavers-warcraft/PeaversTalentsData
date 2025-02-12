@@ -1,0 +1,18 @@
+## Interface: 110007
+## Title: PeaversTalentsData
+## Notes: Datasource for PeaversTalents and others
+## Author: Peavers
+## Version: 0.0.1
+## X-Curse-Project-ID: 1184820
+
+src/Data/TopPlayersMythicDB.lua
+src/Data/TopPlayersRaidDB.lua
+src/Data/CommunityMiscDB.lua
+src/Data/CommunityMythicDB.lua
+src/Data/CommunityRaidDB.lua
+src/Data/MostPopularMiscDB.lua
+src/Data/MostPopularMythicDB.lua
+src/Data/MostPopularRaidDB.lua
+
+src/Api/Api.lua
+src/Api/ApiTest.lua
