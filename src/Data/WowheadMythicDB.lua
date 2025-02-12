@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-12 17:11:33",
+	updated = "2025-02-12 20:28:39",
 
 	[1] = {
 		specs = {
@@ -80,16 +80,6 @@ local talentData = {
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwMz2MGzMmhZGDzYmhZMzMmJzwYmZmxYmhhxYmZYMDzyMYD",
 				},
 			},
-			[254] = {
-				[0] = {
-					label = "Mythic | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYmZmxwMDDzMzMzMzYmxmZMAAAAAAAwMMmxMzMzMTmxYYmhxwMLzgN",
-				},
-				[1] = {
-					label = "Mythic | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAmZmZMjZYGzMzMzMzwMjNGDAAAAAAAMDjZMzMzMzkZMGmZYMMzyMYD",
-				},
-			},
 			[255] = {
 				[0] = {
 					label = "Sentinel M | Sentinel",
@@ -158,6 +148,16 @@ local talentData = {
 				[1] = {
 					label = "Mythic Gorefiends Grasp | Deathbringer",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghZmZGjZmxMDzYmZmmhhZGzYAAAAAwMzMzMzMmNzMjBAAAzMzMAAAAjttBGwSwywEYYBgZwG",
+				},
+			},
+			[251] = {
+				[0] = {
+					label = "Mythic Breath of Sindragosa | Deathbringer",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMGgZGjZmxYYGzMzMzMGmJzYMjBMzYMjZmZmZmZxMAAAAAAAAAAAAjltBGwCYZYCZsgZYMDA",
+				},
+				[1] = {
+					label = "Mythic Shattered Frost | Rider of the Apocalypse",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZmxYYmZmZmZGGmJzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAAsYWMMwAzmGaYDzMGzMA",
 				},
 			},
 			[252] = {
@@ -370,12 +370,6 @@ local talentData = {
 				[0] = {
 					label = "Mythic General Scale | Scalecommander",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMGmZDAAAAAMAAYmBGGD1wMzAAAAgZmZ2GzMLjZGYsNjBLwyYYsNAmJiNMzA",
-				},
-			},
-			[1467] = {
-				[0] = {
-					label = "Mythic | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMmZwMjxw0wMTmtZ2mZmZGzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
 				},
 			},
 			[1468] = {

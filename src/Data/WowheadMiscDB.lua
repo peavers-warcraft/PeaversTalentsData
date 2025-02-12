@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-12 17:11:33",
+	updated = "2025-02-12 20:28:39",
 
 	[1] = {
 		specs = {
@@ -64,16 +64,6 @@ local talentData = {
 				[0] = {
 					label = "Open World / Delve Build | Pack Leader",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwM2mxYmxMMzYGzYmhZMmZmJzYGzMzMGzMmhxwMzYWGGmBA",
-				},
-			},
-			[254] = {
-				[0] = {
-					label = "Delves Build | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYssNwAmgZhtAzCAAAAAAYmZmZgxYMmZmZmZYmZ2YMLAAAAAAAYGzwYmZMzMzMjBmZGjhZWmBA",
-				},
-				[1] = {
-					label = "Delves Build | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAmZmZYYYmZmZmZmZGmZsxYWAAAAAAAwMmhxMzYmZmZGDMzMGDzsMDA",
 				},
 			},
 			[255] = {
@@ -162,6 +152,12 @@ local talentData = {
 				[1] = {
 					label = "Open-World | Deathbringer",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxMzYMzMmZYGzMz0MMMzYGDAAAAAmZmZmZmZmNzMjBAAAzMzMAAAAjttBGwSwywEYYBgZwG",
+				},
+			},
+			[251] = {
+				[0] = {
+					label = "Delves | Rider of the Apocalypse",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGzMjxYYmxMzMzMGzMZGYghZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY20QDbYmZGzMA",
 				},
 			},
 			[252] = {
@@ -386,16 +382,6 @@ local talentData = {
 				[0] = {
 					label = "Delves | Scalecommander",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMmxMbAAAAAgBAAzMwwYoGmZGAAAAMzMz2YmZZMzAjtZMYBWGDjtBwMRshxA",
-				},
-			},
-			[1467] = {
-				[0] = {
-					label = "Delves | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjtBkZQwGmB",
-				},
-				[1] = {
-					label = "Open-World | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDMDzw0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjlBkZQwGmB",
 				},
 			},
 			[1468] = {
