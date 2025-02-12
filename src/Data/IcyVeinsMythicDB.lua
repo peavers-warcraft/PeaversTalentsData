@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsMythicDB = addonTable.IcyVeinsMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-12 14:20:06",
+	updated = "2025-02-12 17:11:33",
 
 	[1] = {
 		specs = {
@@ -208,16 +208,6 @@ local talentData = {
 	},
 	[8] = {
 		specs = {
-			[64] = {
-				[0] = {
-					label = "Spellslinger AoE/Dungeon/Delve",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzwMzmBGz0YMzYmZwwMMzMzMzMzDMzMzMzMzYGAAAYmZbZZZmpNAAAAAAYBAAAAAAAA",
-				},
-				[1] = {
-					label = "Frostfire AoE/Dungeon/Delve",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzwMzmBGz0YMzYmZGGmBPwMzMzMzMzMzYmZGzMLz0MzysAAAALAAAAAAYWAAAAAAAAA",
-				},
-			},
 			[62] = {
 				[0] = {
 					label = "Spellslinger Mythic",
@@ -326,16 +316,6 @@ local talentData = {
 				[0] = {
 					label = "AoE/Mythic",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLAMGMzMT0MzMzMzYWgNGAAAAAAwwYALbzshxsMAmAAAA2YmZAA",
-				},
-			},
-			[105] = {
-				[0] = {
-					label = "Keeper of the Grove Dungeon Healing",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GeAGLbjtNbzAAAAAAAAAAAAYxwgZMmRmBzMjZmZATbGAAAAAgBAgBYbbsgpZmlBAAAwCjhhZM",
-				},
-				[1] = {
-					label = "Wildstalker Dungeon Healing",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GeAGLLjtNbzAAAAAAAAAAAAYZwgZwMywMzYMzMzYhpNAAAAAAGAAGAAAAAY2mZrZZmFbwMwMG",
 				},
 			},
 		},
