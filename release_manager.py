@@ -45,7 +45,7 @@ class Version:
         return f"{self.major}.{self.minor}.{self.patch}"
 
 class ReleaseManager:
-    def __init__(self, toc_file: str = "PeaversTalentsDataData.toc"):
+    def __init__(self, toc_file: str = "PeaversTalentsData.toc"):
         self.toc_file = toc_file
         self.current_version = self._get_current_version()
 
