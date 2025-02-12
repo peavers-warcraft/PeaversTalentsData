@@ -163,20 +163,3 @@ function API.GetSources()
 
     return sources
 end
-
--- Get available dungeons
-function API.GetDungeons()
-    local dungeons = {
-        { id = 0, name = "All Dungeons" },
-        { id = 1, name = "Ara-Kara City of Echoes" },
-        { id = 2, name = "City of Threads" },
-        { id = 3, name = "Grim Batol" },
-        { id = 4, name = "Mists of Tirna Scithe" },
-        { id = 5, name = "Siege of Boralus" },
-        { id = 6, name = "The Dawnbreaker" },
-        { id = 7, name = "The Necrotic Wake" },
-        { id = 8, name = "The Stonevault" }
-    }
-
-    return dungeons
-end

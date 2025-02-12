@@ -3,7 +3,7 @@
 ## Notes: Datasource for PeaversTalents and others
 ## Author: Peavers
 ## Version: 0.0.1
-## X-Curse-Project-ID: 1184820
+## X-Curse-Project-ID: 1198986
 
 src/Data/TopPlayersMythicDB.lua
 src/Data/TopPlayersRaidDB.lua
