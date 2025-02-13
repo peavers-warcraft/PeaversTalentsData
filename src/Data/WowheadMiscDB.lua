@@ -66,6 +66,16 @@ local talentData = {
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwM2mxYmxMMzYGzYmhZMmZmJzYGzMzMGzMmhxwMzYWGGmBA",
 				},
 			},
+			[254] = {
+				[0] = {
+					label = "Delves Build | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYssNwAmgZhtAzCAAAAAAYmZmZgxYMmZmZmZYmZ2YMLAAAAAAAYGzwYmZMzMzMjBmZGjhZWmBA",
+				},
+				[1] = {
+					label = "Delves Build | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAmZmZYYYmZmZmZmZGmZsxYWAAAAAAAwMmhxMzYmZmZGDMzMGDzsMDA",
+				},
+			},
 			[255] = {
 				[0] = {
 					label = "Sentinel Single Target | Sentinel",
@@ -382,6 +392,16 @@ local talentData = {
 				[0] = {
 					label = "Delves | Scalecommander",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMmxMbAAAAAgBAAzMwwYoGmZGAAAAMzMz2YmZZMzAjtZMYBWGDjtBwMRshxA",
+				},
+			},
+			[1467] = {
+				[0] = {
+					label = "Delves | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjtBkZQwGmB",
+				},
+				[1] = {
+					label = "Open-World | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDMDzw0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjlBkZQwGmB",
 				},
 			},
 			[1468] = {
