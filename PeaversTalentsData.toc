@@ -16,4 +16,3 @@ src/Data/MostPopularMythicDB.lua
 src/Data/MostPopularRaidDB.lua
 
 src/Api/Api.lua
-src/Api/ApiTest.lua
