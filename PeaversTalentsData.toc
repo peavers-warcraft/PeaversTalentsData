@@ -16,4 +16,3 @@ src/Data/WowheadMythicDB.lua
 src/Data/WowheadRaidDB.lua
 
 src/Api/Api.lua
-src/Api/ApiTest.lua

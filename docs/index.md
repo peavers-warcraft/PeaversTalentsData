@@ -21,22 +21,6 @@ layout: default
    ```
 
 ---
-
-## Table of Contents
-
-1. [API Overview](#api-overview)  
-2. [Function Reference](#function-reference)  
-   1. [API.GetBuilds(classID, specID, [source], [dungeonID])](#apigetbuildsclassid-specid-source-dungeonid)  
-   2. [API.GetLastUpdate([source])](#apigetlastupdatesource)  
-   3. [API.GetSources()](#apigetsources)  
-3. [Error Handling](#error-handling)  
-4. [Data Structures](#data-structures)  
-   1. [Build Object](#build-object)  
-   2. [Updates Table](#updates-table)  
-5. [Examples](#examples)  
-
----
-
 ## API Overview
 
 The **PeaversTalentsData** library exposes a set of functions via `PeaversTalentsData.API` that allow you to:
