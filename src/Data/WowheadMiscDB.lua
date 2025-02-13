@@ -289,11 +289,11 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "Delves / Open World | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMzMmtxMbmZmZGjZGYmZmBzMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMmxsNmZzMzMzYmZGYmZmBzMAAA",
 				},
 				[1] = {
 					label = "Delves / Open World | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMzMmtxMbmZmZGjZYYmZmBzMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMmxsNmZzMzMzYmZYYmZmBzMAAA",
 				},
 			},
 			[267] = {
