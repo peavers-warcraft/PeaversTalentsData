@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-12 22:21:34",
+	updated = "2025-02-12 19:02:34",
 
 	[1] = {
 		specs = {
@@ -78,6 +78,16 @@ local talentData = {
 				[1] = {
 					label = "Pack Leader Mythic Build | Pack Leader",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwMz2MGzMmhZGDzYmhZMzMmJzwYmZmxYmhhxYmZYMDzyMYD",
+				},
+			},
+			[254] = {
+				[0] = {
+					label = "Mythic | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYmZmxwMDDzMzMzMzYmxmZMAAAAAAAwMMmxMzMzMTmxYYmhxwMLzgN",
+				},
+				[1] = {
+					label = "Mythic | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAmZmZMjZYGzMzMzMzwMjNGDAAAAAAAMDjZMzMzMzkZMGmZYMMzyMYD",
 				},
 			},
 			[255] = {
@@ -194,20 +204,6 @@ local talentData = {
 				[0] = {
 					label = "Mythic | Stormbringer",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYbWWmZmZGzysMzghZMDAAAAAAbmxwGsAzohGbAgZbaGw2iZmJMzMjhlZMjNzyYxiZmxYYmNGA",
-				},
-			},
-			[263] = {
-				[0] = {
-					label = "StormMythic | Stormbringer",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZmhZZmZZZMDAAAAAAAAAgNA2MjhNyCMDDNYBAzykBswYmZYmZmlhlZmJLsMWGzMAAzYA",
-				},
-				[1] = {
-					label = "StormMythic | Totemic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMgZmZYmZmBLzM2GzAAAAAAAAAAYDWgFYGbasNAmJYDAzykZgFGzMDzMzsMsMzMBLjlxMDAwMzA",
-				},
-				[2] = {
-					label = "ElementalistMythic | Stormbringer",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMz2MzMGjZMzwsMssMGAAAAAAAAAA2AYzMG2ILwMM0gFAMLTGwCjZmhZmZWGWmZmswyYZMzAAMDA",
 				},
 			},
 			[264] = {
@@ -370,6 +366,12 @@ local talentData = {
 				[0] = {
 					label = "Mythic General Scale | Scalecommander",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMGmZDAAAAAMAAYmBGGD1wMzAAAAgZmZ2GzMLjZGYsNjBLwyYYsNAmJiNMzA",
+				},
+			},
+			[1467] = {
+				[0] = {
+					label = "Mythic | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMmZwMjxw0wMTmtZ2mZmZGzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
 				},
 			},
 			[1468] = {
