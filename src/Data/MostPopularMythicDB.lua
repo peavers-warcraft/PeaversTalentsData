@@ -382,12 +382,6 @@ local talentData = {
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMGmZDAAAAAMAAYmBGGD1wMzAAAAgZmZ2GzMLjZGYsNjBLwyYYsNAmJiNMzA",
 				},
 			},
-			[1467] = {
-				[0] = {
-					label = "Mythic | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMmZwMjxw0wMTmtZ2mZmZGzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
-				},
-			},
 			[1468] = {
 				[0] = {
 					label = "Mythic - Echowarden | Chronowarden",

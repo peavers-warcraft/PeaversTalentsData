@@ -394,16 +394,6 @@ local talentData = {
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMmxMbAAAAAgBAAzMwwYoGmZGAAAAMzMz2YmZZMzAjtZMYBWGDjtBwMRshxA",
 				},
 			},
-			[1467] = {
-				[0] = {
-					label = "Delves | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjtBkZQwGmB",
-				},
-				[1] = {
-					label = "Open-World | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDMDzw0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjlBkZQwGmB",
-				},
-			},
 			[1468] = {
 				[0] = {
 					label = "Delves | Chronowarden",
