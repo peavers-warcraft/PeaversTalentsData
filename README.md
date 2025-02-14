@@ -11,6 +11,7 @@ Peavers Talents Data aggregates information from the following sources:
 - **Archon**
 - **Wowhead**
 - **Icy Veins**
+- **U.GG (New!)**
 
 ### Implementation
 For implementation details and API documentation, please refer to the [documentation](https://github.com/peavers/PeaversTalentsData/blob/master/docs/index.md).
