@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsMiscDB = addonTable.IcyVeinsMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-12 19:02:34",
+	updated = "2025-02-14 14:32:20",
 
 	[1] = {
 		specs = {
@@ -115,11 +115,11 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Single-Target Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZYMmxMDNmBDmBMmlZmBAAAAAAA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAMjZmZwMzwMzMMzMjxMbzMeAAAAAAAAYGGzMzMzYGNzYMMzAzYGzMG",
 				},
 				[1] = {
 					label = "Single-Target Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZYMmxMDNmBDmBMmlZmBAAAAAAA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAzYmZmhZmhZmZYmZGjZ2mZAAAAAAAAmhxMzMzMmRzMGDzMwMmxMjB",
 				},
 			},
 			[255] = {
@@ -251,14 +251,6 @@ local talentData = {
 					label = "Frostfire Boltslinger",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmtZBzYGzmBmZ0YMzYGmZGzMDPwMzMDzMzMzMzMwMLz0Mz2sAAAALAAAAAAYAAAAAAAAA",
 				},
-				[4] = {
-					label = "Spellslinger AoE/Dungeon/Delve",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzwMzmBGz0YMzYmZwwMMzMzMzMzDMzMzMzMzYGAAAYmZbZZZmpNAAAAAAYBAAAAAAAA",
-				},
-				[5] = {
-					label = "Frostfire AoE/Dungeon/Delve",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzwMzmBGz0YMzYmZGGmBPwMzMzMzMzMzYmZGzMLz0MzysAAAALAAAAAAYWAAAAAAAAA",
-				},
 			},
 			[62] = {
 				[0] = {
@@ -376,14 +368,6 @@ local talentData = {
 			},
 			[105] = {
 				[0] = {
-					label = "Keeper of the Grove Dungeon Healing",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GeAGLbjtNbzAAAAAAAAAAAAYxwgZMmRmBzMjZmZATbGAAAAAgBAgBYbbsgpZmlBAAAwCjhhZM",
-				},
-				[1] = {
-					label = "Wildstalker Dungeon Healing",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GeAGLLjtNbzAAAAAAAAAAAAYZwgZwMywMzYMzMzYhpNAAAAAAGAAGAAAAAY2mZrZZmFbwMwMG",
-				},
-				[2] = {
 					label = "Delves",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZmNz2MjBLLjtFbzAAAAAAAAAAAAYZwgZwMCGzYMzMjZbmpNAAAAAAGAAGAAAAAY2mZrZbmFbwMgZG",
 				},

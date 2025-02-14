@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2025-02-12 19:02:34",
+	updated = "2025-02-14 14:32:20",
 
 	[1] = {
 		specs = {
@@ -582,18 +582,18 @@ local talentData = {
 	},
 	[13] = {
 		specs = {
-			[1473] = {
+			[1467] = {
 				[0] = {
-					label = "Raid Single Target | Scalecommander",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmxygZGzMjhZ2AAAAAADAAmZAwYqZMzMAAAAYGzsNmZWGzMwYbGDWglxwYbAMTEbYmB",
+					label = "Raid | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMYGmBDYwYmGzMTmtx2MzMzYGzsNDYGzsNmZWGzADMGsALjRjtBkZQwGG",
 				},
 				[1] = {
-					label = "Raid Single Target with Cleave | Scalecommander",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmhBzMLzMjhZ2AAAAAADAAmZAwYqZMzMAAAAYGzsNmZWGzMwYbGDWglxwYbAMTEbYmB",
+					label = "Raid Single Target | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMYmNzgBMYMTzYmJz2YbMzMjZMz2MgZMz2YmZZMDMwYwCsMGN2GQmBBbYA",
 				},
 				[2] = {
 					label = "Raid Council | Scalecommander",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmhBzMLzMjhZ2AAAAAADAAmZAwYqZMzMAAAAYGzsNmZWGzMwYbGDWglxwYbAMTEbYmB",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMYADGz0YmZysNz2MzMzYGzsNDYGzsNmZWGzADMGsALjRjtBkZQwGG",
 				},
 			},
 			[1468] = {

@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-12 19:02:34",
+	updated = "2025-02-14 14:32:20",
 
 	[1] = {
 		specs = {
@@ -376,10 +376,10 @@ local talentData = {
 	},
 	[13] = {
 		specs = {
-			[1473] = {
+			[1467] = {
 				[0] = {
-					label = "Mythic General Scale | Scalecommander",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMGmZDAAAAAMAAYmBGGD1wMzAAAAgZmZ2GzMLjZGYsNjBLwyYYsNAmJiNMzA",
+					label = "Mythic | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMmZwMjxw0wMTmtZ2mZmZGzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
 				},
 			},
 			[1468] = {

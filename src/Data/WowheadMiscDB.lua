@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-12 19:02:34",
+	updated = "2025-02-14 14:32:20",
 
 	[1] = {
 		specs = {
@@ -388,10 +388,14 @@ local talentData = {
 	},
 	[13] = {
 		specs = {
-			[1473] = {
+			[1467] = {
 				[0] = {
 					label = "Delves | Scalecommander",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwgZmlZMmxMbAAAAAgBAAzMwwYoGmZGAAAAMzMz2YmZZMzAjtZMYBWGDjtBwMRshxA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjtBkZQwGmB",
+				},
+				[1] = {
+					label = "Open-World | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDMDzw0MmZysNz2MzMzYGzsNDYmZswMz2YGYAGsALjRjlBkZQwGmB",
 				},
 			},
 			[1468] = {
