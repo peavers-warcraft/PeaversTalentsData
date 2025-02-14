@@ -11,6 +11,8 @@ src/Data/TopPlayersRaidDB.lua
 src/Data/CommunityMiscDB.lua
 src/Data/CommunityMythicDB.lua
 src/Data/CommunityRaidDB.lua
+src/Data/WorldwideMythicDB.lua
+src/Data/WorldwideRaidDB.lua
 src/Data/MostPopularMiscDB.lua
 src/Data/MostPopularMythicDB.lua
 src/Data/MostPopularRaidDB.lua
