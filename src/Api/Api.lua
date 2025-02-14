@@ -17,7 +17,7 @@ local ERR_INVALID_DUNGEON = "Invalid dungeon ID provided"
 ---Helper function to validate inputs for API functions
 ---@param classID number The WoW class ID (1-13)
 ---@param specID number|nil The specialization ID
----@param source string|nil The source of talent builds ("wowhead", "icy-veins", or "archon")
+---@param source string|nil The source of talent builds ("wowhead", "icy-veins", "archon", or "ugg")
 ---@param dungeonID number|nil The dungeon ID (0-8, where 0 typically represents "All")
 ---@return boolean isValid Whether the inputs are valid
 ---@return string|nil errorMsg Error message if validation fails
@@ -30,7 +30,7 @@ local function ValidateInputs(classID, specID, source, dungeonID)
         return false, ERR_INVALID_SPEC
     end
 
-    if source and not (source == "wowhead" or source == "icy-veins" or source == "archon") then
+    if source and not (source == "wowhead" or source == "icy-veins" or source == "archon" or source == "ugg") then
         return false, ERR_INVALID_SOURCE
     end
 
@@ -44,7 +44,7 @@ end
 ---Retrieves talent builds for a specific class and specialization
 ---@param classID number The WoW class ID (1-13)
 ---@param specID number The specialization ID
----@param source string|nil Optional source filter ("wowhead", "icy-veins", or "archon"). If nil, returns builds from all sources
+---@param source string|nil Optional source filter ("wowhead", "icy-veins", "archon" or "ugg"). If nil, returns builds from all sources
 ---@param dungeonID number|nil Optional dungeon ID (0-8, where 0 typically represents "All"). If nil, returns builds for all dungeons
 ---@return table|nil builds Array of build tables containing source, category, dungeonID, label, talentString, and updated fields
 ---@return string|nil errorMsg Error message if the request fails
@@ -58,7 +58,7 @@ function API.GetBuilds(classID, specID, source, dungeonID)
 
     ---Helper to add builds from a specific database
     ---@param db table The database to pull builds from
-    ---@param sourceName string Name of the source ("wowhead", "icy-veins", or "archon")
+    ---@param sourceName string Name of the source ("wowhead", "icy-veins", "archon" or "ugg")
     ---@param category string Category of builds ("mythic", "raid", or "misc")
     local function AddBuildsFromDB(db, sourceName, category)
         if not db[classID] or not db[classID].specs or not db[classID].specs[specID] then
@@ -124,15 +124,20 @@ function API.GetBuilds(classID, specID, source, dungeonID)
         AddBuildsFromDB(addon.ArchonRaidDB, "archon", "raid")
     end
 
+    if not source or source == "ugg" then
+        AddBuildsFromDB(addon.UggMythicDB, "ugg", "mythic")
+        AddBuildsFromDB(addon.UggRaidDB, "ugg", "raid")
+    end
+
     return builds
 end
 
 ---Retrieves the last update timestamps for each data source and category
----@param source string|nil Optional source filter ("wowhead", "icy-veins", or "archon"). If nil, returns updates for all sources
+---@param source string|nil Optional source filter ("wowhead", "icy-veins", "archon", "ugg"). If nil, returns updates for all sources
 ---@return table|nil updates Table containing update timestamps for each source and category
 ---@return string|nil errorMsg Error message if the request fails
 function API.GetLastUpdate(source)
-    if source and not (source == "wowhead" or source == "icy-veins" or source == "archon") then
+    if source and not (source == "wowhead" or source == "icy-veins" or source == "archon" or source == "ugg") then
         return nil, ERR_INVALID_SOURCE
     end
 
@@ -163,11 +168,15 @@ function API.GetLastUpdate(source)
         AddUpdateTimes("archon", addon.ArchonMythicDB, addon.ArchonRaidDB)
     end
 
+    if not source or source == "ugg" then
+        AddUpdateTimes("ugg", addon.UggMythicDB, addon.UggRaidDB)
+    end
+
     return updates
 end
 
 ---Returns a list of available talent build sources
----@return table sources Array of available source names ("wowhead", "icy-veins", "archon")
+---@return table sources Array of available source names ("wowhead", "icy-veins", "archon", "ugg")
 function API.GetSources()
     local sources = {}
 
@@ -181,6 +190,10 @@ function API.GetSources()
 
     if addon.ArchonMythicDB or addon.ArchonRaidDB then
         table.insert(sources, "archon")
+    end
+
+    if addon.UggMythicDB or addon.UggRaidDB then
+        table.insert(sources, "ugg")
     end
 
     return sources

@@ -11,6 +11,8 @@ src/Data/ArchonRaidDB.lua
 src/Data/IcyVeinsMiscDB.lua
 src/Data/IcyVeinsMythicDB.lua
 src/Data/IcyVeinsRaidDB.lua
+src/Data/UggMythicDB.lua
+src/Data/UggRaidDB.lua
 src/Data/WowheadMiscDB.lua
 src/Data/WowheadMythicDB.lua
 src/Data/WowheadRaidDB.lua
