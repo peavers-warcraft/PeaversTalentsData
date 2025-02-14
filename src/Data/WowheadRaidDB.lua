@@ -596,20 +596,6 @@ local talentData = {
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmhBzMLzMjhZ2AAAAAADAAmZAwYqZMzMAAAAYGzsNmZWGzMwYbGDWglxwYbAMTEbYmB",
 				},
 			},
-			[1467] = {
-				[0] = {
-					label = "Raid | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMYGmBDYwYmGzMTmtx2MzMzYGzsNDYGzsNmZWGzADMGsALjRjtBkZQwGG",
-				},
-				[1] = {
-					label = "Raid Single Target | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMYmNzgBMYMTzYmJz2YbMzMjZMz2MgZMz2YmZZMDMwYwCsMGN2GQmBBbYA",
-				},
-				[2] = {
-					label = "Raid Council | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMYADGz0YmZysNz2MzMzYGzsNDYGzsNmZWGzADMGsALjRjtBkZQwGG",
-				},
-			},
 			[1468] = {
 				[0] = {
 					label = "Raid - Echowarden | Chronowarden",
