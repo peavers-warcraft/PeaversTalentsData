@@ -1,10 +1,8 @@
 name: Release Management
 
 on:
-  pull_request:
-    types: [closed]
-    branches:
-      - master
+  schedule:
+    - cron: '0 */6 * * *'
   workflow_dispatch:
     inputs:
       version_bump:
