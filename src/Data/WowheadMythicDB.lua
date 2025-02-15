@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-14 14:32:20",
+	updated = "2025-02-15 23:14:57",
 
 	[1] = {
 		specs = {
@@ -78,16 +78,6 @@ local talentData = {
 				[1] = {
 					label = "Pack Leader Mythic Build | Pack Leader",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwMz2MGzMmhZGDzYmhZMzMmJzwYmZmxYmhhxYmZYMDzyMYD",
-				},
-			},
-			[254] = {
-				[0] = {
-					label = "Mythic | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYmZmxwMDDzMzMzMzYmxmZMAAAAAAAwMMmxMzMzMTmxYYmhxwMLzgN",
-				},
-				[1] = {
-					label = "Mythic | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAmZmZMjZYGzMzMzMzwMjNGDAAAAAAAMDjZMzMzMzkZMGmZYMMzyMYD",
 				},
 			},
 			[255] = {
@@ -283,10 +273,6 @@ local talentData = {
 					label = "Mythic | Diabolist / Soul Harvester",
 					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswMMjtxMbmZmZGzMjZMjZmxgZAAA",
 				},
-				[1] = {
-					label = "Mythic | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMMjtxMbmZmZGzMjZMjZmxgZAAA",
-				},
 			},
 			[267] = {
 				[0] = {
@@ -370,22 +356,6 @@ local talentData = {
 				[2] = {
 					label = "Mythic Cheat | Fel-Scarred",
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMmZMMjMzMYYGLjhZsNDzMzwMmZ2mZmtZmhZYGAAAAglZxMGmFNNwMzMstB",
-				},
-			},
-		},
-	},
-	[13] = {
-		specs = {
-			[1467] = {
-				[0] = {
-					label = "Mythic | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMmZwMjxw0wMTmtZ2mZmZGzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
-				},
-			},
-			[1468] = {
-				[0] = {
-					label = "Mythic - Echowarden | Chronowarden",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2mtBGzMjZZGzYADAAmZMjhxYGxMDAAAwMzMZsNzYMzMAAMmNLsADMjGawYBG",
 				},
 			},
 		},
