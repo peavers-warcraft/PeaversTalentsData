@@ -20,9 +20,35 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Enable auto-merge
+      - name: Random delay
+        run: |
+          # Random delay between 10-60 seconds to help avoid race conditions
+          sleep $(( RANDOM % 50 + 10 ))
+
+      - name: Enable auto-merge with retries
         run: |
           gh auth status
-          gh pr merge "${{ github.event.pull_request.number }}" --rebase --auto
+          
+          # Function to attempt merge with retries
+          attempt_merge() {
+            for i in {1..5}; do
+              echo "Attempt $i to merge PR #${{ github.event.pull_request.number }}"
+          
+              if gh pr merge "${{ github.event.pull_request.number }}" --rebase --auto; then
+                echo "Merge successful!"
+                exit 0
+              else
+                if [ $i -lt 5 ]; then
+                  echo "Merge failed. Waiting before retry..."
+                  sleep $(( 20 * i )) # Exponential backoff
+                fi
+              fi
+            done
+          
+            echo "All merge attempts failed"
+            exit 1
+          }
+          
+          attempt_merge
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
