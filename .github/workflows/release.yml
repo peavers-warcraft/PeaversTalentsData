@@ -27,8 +27,6 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch' || (github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'master')
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
