@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-15 23:14:57",
+	updated = "2025-02-15 23:49:25",
 
 	[1] = {
 		specs = {
@@ -78,6 +78,16 @@ local talentData = {
 				[1] = {
 					label = "Pack Leader Mythic Build | Pack Leader",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwMz2MGzMmhZGDzYmhZMzMmJzwYmZmxYmhhxYmZYMDzyMYD",
+				},
+			},
+			[254] = {
+				[0] = {
+					label = "Mythic | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYmZmxwMDDzMzMzMzYmxmZMAAAAAAAwMMmxMzMzMTmxYYmhxwMLzgN",
+				},
+				[1] = {
+					label = "Mythic | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAmZmZMjZYGzMzMzMzwMjNGDAAAAAAAMDjZMzMzMzkZMGmZYMMzyMYD",
 				},
 			},
 			[255] = {
@@ -292,6 +302,16 @@ local talentData = {
 				[1] = {
 					label = "Mythic - Advanced/Scalding Brew | Shado-Pan",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzYMmBmlZegtZmZGDAAAAAAwyCImZgZYwMYbmZGmlhZsNLz02iNbzMjZWAAgNEAAAz2s0MzMLYwG",
+				},
+			},
+			[269] = {
+				[0] = {
+					label = "Shado-pan Mythic and Raid Council | Shado-pan",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMMzMMzMAAAAAAAAAAAYZZYmYmhxMgFmx2MzMMbDzglZCAglxMMzMmlZAAsBANLzSzMzsAA",
+				},
+				[1] = {
+					label = "Conduit of the Celestials Mythic and Raid Council | Conduit of the Celestials",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMMzMMzMAAAAAAAAAAAYZZYmYmhxMgFmx2MzMMbDzglZCAglxMjZMmlZAAssMLLz2MzEEAA",
 				},
 			},
 			[270] = {
