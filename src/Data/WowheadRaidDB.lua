@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2025-02-15 23:14:57",
+	updated = "2025-02-15 23:49:25",
 
 	[1] = {
 		specs = {
@@ -134,6 +134,28 @@ local talentData = {
 				[3] = {
 					label = "Raid - Pack Leader Raid Quick Cleave Build | Pack Leader",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwM2mxsMzYYMzMDjZGmxYmZmMDjZmZGjZGzwYMzMYZGYGmN",
+				},
+			},
+			[254] = {
+				[0] = {
+					label = "Raid Single Target | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYGzMzgZmhZmZYmZGjZ2mZ8AAAAAAAAwMMmZmZmZmZyMzYYmBGmZZGA",
+				},
+				[1] = {
+					label = "Raid Single Target | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GQmNsBAAAAAAmxMzMDzMDzMzwMzMGzsNzAAAAAAAAMDjZmZmZmZmMzMGmZghZWmBA",
+				},
+				[2] = {
+					label = "Raid Single Target with Cleave | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYmZmZGMzYYmZMzMzYMz2MDAAAAAAAwMMmZmZmZmZamxYYmBGmZZGA",
+				},
+				[3] = {
+					label = "Raid Single Target with Cleave | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GQmNsBAAAAAAmZmZmZYMzYmZGzMzwYmtxAAAAAAAAMDjZmZmZmZmmZMGmZghZWmBA",
+				},
+				[4] = {
+					label = "Raid Council | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYGzMzMMzMMzMjZmZGjZ2MDAAAAAAAwMMzMmZmxMamxYYmhxwMmZYB",
 				},
 			},
 			[255] = {
@@ -438,20 +460,12 @@ local talentData = {
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMzyMDMGAAAAAAAAAAAssMMiZGYGGWMzYbmZGmthZwyMBAwyMzwMzY2mBAwGA0sMLNzMzCA",
 				},
 				[2] = {
-					label = "Shado-pan Mythic and Raid Council | Shado-pan",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMMzMMzMAAAAAAAAAAAYZZYmYmhxMgFmx2MzMMbDzglZCAglxMMzMmlZAAsBANLzSzMzsAA",
-				},
-				[3] = {
 					label = "Conduit of the Celestials Raid Single Target | Conduit of the Celestials",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMzgZmZMLzAAAAAAAAAAAAAWWGGxMDMDDLmZsNzMDz2wMYZmAAYbmZGzYmZbGAALLzyysNzMBBAA",
 				},
-				[4] = {
+				[3] = {
 					label = "Conduit of the Celestials Raid Single Target w/ Cleave | Conduit of the Celestials",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMzyMDMGAAAAAAAAAAAssMMiZGYGGWMzYbmZGmthZwyMBAwyMzMmxY2mBAwyyssMbzMTQAAA",
-				},
-				[5] = {
-					label = "Conduit of the Celestials Mythic and Raid Council | Conduit of the Celestials",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMMzMMzMAAAAAAAAAAAYZZYmYmhxMgFmx2MzMMbDzglZCAglxMjZMmlZAAssMLLz2MzEEAA",
 				},
 			},
 			[270] = {
@@ -476,6 +490,16 @@ local talentData = {
 				[2] = {
 					label = "Raid Council | Keeper of the Grove",
 					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUYmZGGmZAzMMzMAbzMbGzsNzsYMzMzMbGjhZGbgFGgBYbbsgpZmlRAAAA2MzYMA",
+				},
+			},
+			[103] = {
+				[0] = {
+					label = "Raid Single Target with Cleave | Wildstalker",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMz8AzMAAAAAALBDDYMzMamxMMzMWmhtZGAAAAAAAgBAAAQAwsNzSz2MLbgZAA",
+				},
+				[1] = {
+					label = "Raid Council | Wildstalker",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbzmZWYGzMb2MjtZmZGzMAAAAAALBDDYMzMamxMMzMWmhtZGAAAAAAAgBAAAQAwsNzSz2MLbgZAA",
 				},
 			},
 			[104] = {
