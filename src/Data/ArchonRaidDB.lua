@@ -9,7 +9,7 @@ local talentData = {
 			[71] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAAzYmZMzMzsZZZZmBAAAADmGmZYbGzAzYMzMYmhBGmhBAAAAAAAPwYWmZmBQgx22ALgBMDTgBYD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAAzYmZMzMzsZZZZmBAAAADmGmZYbGzAzYYmxmZGGYYGGAAAAAAA8AjZZmZGABGbLDsAGwMMBGgN",
 				},
 				[1] = {
 					label = "Ulgrax",
@@ -113,7 +113,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Silken Court",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMbzsMzMz2mZMMNDMzMAWGYYjZmBegZeghBAAAAAAMzAAsstBYYgNYZxoxMAmNsxsB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMbzsMzMz2mZMMNzgZmBwyADbMzMwDMzDMMAAAAAAgZGAgltNADDsBLLGNmBwshNsB",
 				},
 				[8] = {
 					label = "Ansurek",
@@ -421,7 +421,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Broodtwister Ovinax",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZmxMzMDzwwMzMMzMz0yMmtZAAAAAAw22MzgZmxCsMbDAAAAzMADsBzY0Y2AsNwiZA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZmxMzMDzwwMzMMzMz0yMmtZAAAAAAY22mZGMzMWglZbAAAAYmBYgNYGjGzGgtBWMA",
 				},
 				[6] = {
 					label = "Kyveza",
@@ -513,7 +513,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Ansurek",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mtZGD2GjZmxMbmtZmZmhBAAAAAAAAAAAzilZbYbmZwswYGmxgF2mpxELDYmBACwsNLLgxmN",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mtZGD2GjZmxMbmtZmZmhBAAAAAAAAAAAzilZjxMzgZhxMYMYxsNTjJWGwMDAEgZbW2AjNb",
 				},
 			},
 			[257] = {
@@ -703,11 +703,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Silken Court",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxMjlZMzMz0MGmZYMAAAAAAAAAwMjZMmZmBAmNzwsMMzMzDYmZMwAzY0YZBw2gNAMzAA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxMjlZMzMz0wMmZYMAAAAAAAAAwMjZMmZmBAmNzwsMMzMzDYmZMwAzY0YZBw2gNAMzAA",
 				},
 				[8] = {
 					label = "Ansurek",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYsMjZmZmGmZmZMjBAAAAAAAAwwMjZMGzAAsZGmlZMzMzYmZALmFDDMwsxQjFAYGA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAMMzYGjxMAAbmhZZGzMzMmZGwiZxwADMbM0YBAmBA",
 				},
 			},
 		},
@@ -859,7 +859,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Kyveza",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAAMbzCmxDMzsYYegZGNGzMmBzMMDzMzMzMmZmZmZmZGmBAAAmZ2WWWmZaDAAAAAAAAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxMmFPAjZGNGzMmBzMMDzMzMzMmZmZmZmZGmBAAAmZ2WWWmZaDAAAAAAAAAAAAAAA",
 				},
 				[7] = {
 					label = "The Silken Court",
@@ -901,7 +901,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Silken Court",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAAmZbWMmxMzs4BYMzwYamxAAAAAAgBAAAmZ2WWWmZiFAAAAAAAwyMGmZmZGzwMzMGzYmZGDjB",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAAmZbWMmxMzsAjZGGTzMLDAAAAAAGAAAYmZbZZZmJWAAAAAAAALzYYmZmZMDzMzYMjZmZMMG",
 				},
 				[8] = {
 					label = "Ansurek",
@@ -1003,7 +1003,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Sikran",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZY2GAAAAAAAAAAzAGzYYBGYZYhGWYmZG2GzsYmZmZMmxwMzMzAzMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWGAAAAAAAAAAzAGzYYBGYZYhGWYmZG2GzsYmZmZMmxwMzMzAzMAAA",
 				},
 				[4] = {
 					label = "Rashanan",
@@ -1209,7 +1209,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Broodtwister Ovinax",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALjCmZGGmZAzMMzMYYbMLmlZWmZWMmZmZmFjxwMjNwCDwAstNWw0MzyAAAAgNzMGA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUYmZGGmZAzMMzMAbzMbmlZWmZWMmZmZmFjxwMjNwCDwAstNWw0MzyAAAAgNzMGA",
 				},
 				[6] = {
 					label = "Kyveza",
