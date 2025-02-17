@@ -73,5 +73,5 @@ jobs:
           curl -X POST \
           -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
-          https://api.github.com/repos/peavers/PeaversTalentsData/actions/workflows/packaging.yml/dispatches \
+          https://api.github.com/repos/peavers/PeaversTalentsData/actions/workflows/package-and-release.yml/dispatches \
           -d '{"ref":"master"}'
