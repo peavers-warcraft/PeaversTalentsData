@@ -2,7 +2,7 @@
 ## Title: PeaversTalentsData
 ## Notes: Datasource for PeaversTalents and others
 ## Author: Peavers
-## Version: 0.0.18
+## Version: 0.0.19
 ## X-Curse-Project-ID: 1198986
 ## IconTexture: Interface\AddOns\PeaversTalentsData\src\Media\Icon.tga
 
