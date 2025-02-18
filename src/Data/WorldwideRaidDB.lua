@@ -71,7 +71,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Silken Court",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAMwYwwwMYZYmZBGmxYYGmZW2mZMzMbMzMzMDzwGGmZMAAAAMGYDWWMMmBwsALGLA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAMwYwMGmBLDzMLwwMYYGmZW2mZMzMbMzMzMDzwGGmZMAAAAMGYDWWMMmBwsALGLA",
 				},
 			},
 		},
@@ -199,7 +199,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswGwsAAAAAAAmxMzMYmZYmZGmZmxYmtZGPAAAAAAAAMDjZmZmZMDzMGDzMwMmxMjB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswGwsAAAAAAAmxMzMDzMDzMzwMzMGzsNzAAAAAAAAMDjZmZmZMDzMGDzMwMmxMjB",
 				},
 				[4] = {
 					label = "Ulgrax the Devourer",
@@ -222,6 +222,40 @@ local talentData = {
 	},
 	[4] = {
 		specs = {
+			[259] = {
+				[0] = {
+					label = "Rashanan",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAAYbbmZwMjxMzsMbzMzYgxMzMjZ2sNmBYzsMwAWALDDwwCA",
+				},
+				[1] = {
+					label = "Broodtwister Ovinax",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAAYbbmZwMjxMzsMbzMzYgxMzMjZ2sMmBYzsMwAWALDDwwCA",
+				},
+				[2] = {
+					label = "Queen Ansurek",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAAYbbmZwMjxMzsMbzMzYgxMzMjZ2sMmBYzsMwAWALDDwwCA",
+				},
+				[3] = {
+					label = "The Bloodbound Horror",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAAYbbmZwMjxMzsMbzMzYgxMzMjZ2sNmBYzsMwAWALDDwwCA",
+				},
+				[4] = {
+					label = "Ulgrax the Devourer",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAAYbbmZwMjxMzsMbzMzYgxMzMjZ2sNmBYzsMwAWALDDwwCA",
+				},
+				[5] = {
+					label = "Sikran Captain of the Sureki",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAAYbbmZwMjxMzsMbzMzYgxMzMjZ2sNmBYzsMwAWALDDwwCA",
+				},
+				[6] = {
+					label = "Nexus-Princess Kyveza",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLDWmBAAAAAAbbzMDmZwMzsMbzMzYgxMzMjZ2sNmBYzsMwAWALDDwwCA",
+				},
+				[7] = {
+					label = "The Silken Court",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLDWmBAAAAAAbbzMDmZwMzsMbzMzYgxMzMjZ2sMmBYzsMwAWALDDwwCA",
+				},
+			},
 			[260] = {
 				[0] = {
 					label = "Rashanan",
@@ -267,7 +301,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Queen Ansurek",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWGzMjZGDjhhZmZmxY2GmZstNzMzMzMgxysNAAAAMDG2MLDMgFwywAMLwA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWGzMjZGDjhhZmZmxY2GmZstNzMmZmxgxysNAAAAMDGWMLDMgFwywAMLwA",
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
@@ -275,7 +309,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Ulgrax the Devourer",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWGzMjZGDjhhZmZmxY2GmZstNzMmZmBMWmtBAAAgZwwmZZgBsAWGGgZBzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWGzMjZGDjhhZmZmxY2GmZstNzMmZmxgxysNAAAAMDG2MLDMgFwywAMLwA",
 				},
 				[5] = {
 					label = "Sikran Captain of the Sureki",
@@ -305,7 +339,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Queen Ansurek",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAYZYGLPwgZmZMwMmhxyMzsMAAAAAWmthlZGYWYWmxMjxYhNmZGmFAMzCWAGzyAMWgFA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAsMGbPAzMzYmxsMYmZZmlZYBAAAAwsMbDbzAYMLzYmxwssYDzMMLDAzsgFgxsNAjNYB",
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
@@ -317,7 +351,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Sikran Captain of the Sureki",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAsMGbDz8AzYGml5BYmZhlZYZAAAAALz2sNmtZAwYmZmZGzsAMzwsBgZWwGwY2GgxCsA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAsMYZmZmBzMwMmZWGLzwyAAAAAjZZ2G2mZGAjZmZGjZWAmZYWAwMLYBYMbDwYDWA",
 				},
 				[6] = {
 					label = "Nexus-Princess Kyveza",
@@ -343,7 +377,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMzMLDmNmZmZMbMwYMMLmthZGsADgZ2sMMLGAYMWA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMzMLDmNmZmZMbMwYMMLmthZGsADgZ2sMMbGAYMWA",
 				},
 				[4] = {
 					label = "Ulgrax the Devourer",
@@ -351,7 +385,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Sikran Captain of the Sureki",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMzMLDmNmZmZMbMwYMMLmthZGsADgZ2sMMbGAYMWA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPAzMz2sNmZmZMzMLDmNmZmZMbMwYMMLmthZGsADgZ2sMMLGAYMWA",
 				},
 				[6] = {
 					label = "Nexus-Princess Kyveza",
@@ -521,7 +555,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmhZ2mZmZY2mZWWGAAAAAAAAAAYDgNzYYDWgZYwgFAMLDzALLmZmZYMzsNsMzMAjlxMDAwMGA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmhZ2mZmZY2mZWWGAAAAAAAAAAYDgNzYYDWgZYwgFAMLDzALLmZmZYMzsMsMzMAjlxMDAwMGA",
 				},
 				[4] = {
 					label = "Ulgrax the Devourer",
@@ -567,7 +601,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Nexus-Princess Kyveza",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMz2M2GzMjZZ2GbGY2MzCMgBMLMAjFMzswYbmZmhZbhZGjZYshlZmZwYYWGDAghB",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZ2mx2YGjZZ2GLPwMwiZWgBMgZjBYswMmFmxMjZY2MMjxYGzG2MmZYWGmtxAAYYA",
 				},
 				[7] = {
 					label = "The Silken Court",
@@ -623,7 +657,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Queen Ansurek",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGYbW8AmZmxs4B4BMzwYMzYGAAAAAAGAAAYmZbZZZmBLAAAAAAAglZMMzMzMmhZmZMmxMzMGGD",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGjZGzAAAAAAwAAAAzMbLLLzMYBAAAAAAAsMjhZmZmxMMzMjxMmZmxwYA",
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
@@ -1013,7 +1047,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Broodtwister Ovinax",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLjtZmZGLDmZWmBzYmNAAAAAAAAMzgZYMGGmZGAAAAYMz2YmxYmBGbzAjZzCLwAzwgBWwMzA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLjtZmZGLDmZWmBzYmNAAAAAAAAMzAgZGGzMzAAAAAjZ2GzMbjZGYsNDMmNLsADMDDGYBzMD",
 				},
 				[2] = {
 					label = "Queen Ansurek",
