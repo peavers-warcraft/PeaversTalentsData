@@ -395,11 +395,11 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Hellcaller Raid Cleave | Hellcaller",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZxMzYZmZmFzMzMAgZsADMLGNmBkZBsMDAAAAAAAAYMbA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZxMzYZmZmFzYmBAMjFYgZxoxMgMLglZAAAAAAAAgZMbA",
 				},
 				[1] = {
 					label = "Hellcaller Raid Council | Hellcaller",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZxMzYZmZmFzMzMAgZsADMLGNmBkZBsMDAAAAAAAAYMbA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMzMLmZGLzMzsYGzMAgZsADMLGNmBkZBsMDAAAAAAAAYMbA",
 				},
 				[2] = {
 					label = "Soul Harvester Raid Cleave | Soul Harvester",
