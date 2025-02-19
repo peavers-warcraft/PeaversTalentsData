@@ -324,6 +324,16 @@ local talentData = {
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZMmhZsMjtZMzYAAAAAAA2WAxMDmBjFzglZmZMjhZmlZx0ymNbzMjZ2AAgNAAAgZb2amZmFmBb",
 				},
 			},
+			[269] = {
+				[0] = {
+					label = "Single-Target",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMzgZmZMLzAYAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAAbzMDzMjZbGAAbAgZZWamZmFAA",
+				},
+				[1] = {
+					label = "",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMMzMMzMAAAAAAAAAAAYZZYmYmhxMgFmx2MzMMbDzglZCAglxMMzMmlZAAsBAmlZpZmZWAA",
+				},
+			},
 			[270] = {
 				[0] = {
 					label = "Delve Soloing",
