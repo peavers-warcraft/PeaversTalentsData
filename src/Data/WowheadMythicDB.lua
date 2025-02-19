@@ -163,7 +163,7 @@ local talentData = {
 			[251] = {
 				[0] = {
 					label = "Mythic Breath of Sindragosa | Deathbringer",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMGgZGjZmxYYGzMzMzMGmJzYMjBMzYMjZmZmZmZxMAAAAAAAAAAAAjltBGwCYZYCZsgZYMDA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAMzYMzMGDzYmZmZmxwMZGDjBMzYMjZmZmZmZZmBAAAAAAAAAAAYssNwAWALDTIjFMzYMDA",
 				},
 				[1] = {
 					label = "Mythic Shattered Frost | Rider of the Apocalypse",
