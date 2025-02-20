@@ -57,11 +57,11 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Raid AoE Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAzMzMzMMmZMzMjZmZYMz2YAAAAAAAAmhxMzMzMmRzMGDzMwMmxMjB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZYMmxMDNmBDmBMmlZmBAAAAAAA",
 				},
 				[1] = {
 					label = "Raid AoE Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAMzMzMDmZmhZmxMzMjxMbmBAAAAAAAYGGzMzMzYGNzYMMzAzYGzMG",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZYMmxMDNmBDmBMmlZmBAAAAAAA",
 				},
 			},
 			[255] = {
