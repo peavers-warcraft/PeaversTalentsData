@@ -78,40 +78,6 @@ local talentData = {
 	},
 	[2] = {
 		specs = {
-			[65] = {
-				[0] = {
-					label = "Mists of Tirna Scithe",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZMDzMmZW2mxsYGWmBmttZsZMjZMzMMwsxAAGYgNgNmZmZmZZ2mZmNDAAAwCgBbAGzA",
-				},
-				[1] = {
-					label = "City of Threads",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbmZYmxMziZMLzMjlBYbbGMmxMmZGGY2YAADYwGwGzMzMzsMLzMziBAAAYBAgxwYmB",
-				},
-				[2] = {
-					label = "Grim Batol",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMAbjZYmxMziZMLzMjlZAbbzYzYGGzMDDMbMAgBAbAbMzMzMzysNzMLGAAAgFgZAAjZA",
-				},
-				[3] = {
-					label = "Ara-Kara City of Echoes",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbYmZmxMzCzYZmZsNDDbbGbGzwYmZYAbMAgBALAbMmZmZWmtZmZzAAAAsAMwiZMmxA",
-				},
-				[4] = {
-					label = "The Necrotic Wake",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZMDzMmZW2mxsYmxyMwsZGMmhxMzwAzGDAYgB2A2YmZmZmlZbmZ2MAAAALAzgNAjZA",
-				},
-				[5] = {
-					label = "The Stonevault",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMAbjZYmxMziZMLzMsMDMbbzYDzwYmZYgZjBAMAYDYjZmZmZWmtZmZxAAAAsAMDAMjZA",
-				},
-				[6] = {
-					label = "The Dawnbreaker",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALjZYmxMzmZMLzMjlZAbLzYzYGGzMDDMbMAgBAbAbMzMzMzysNzMLGAAAgFgZAAjZA",
-				},
-				[7] = {
-					label = "Siege of Boralus",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZMDmhZ2WmZmNmZWmBmtNjNjZMjZmZMwsxAAGAsBsxMzwMLzyMzsYAAAAWwAYjBzYMA",
-				},
-			},
 			[66] = {
 				[0] = {
 					label = "Mists of Tirna Scithe",
@@ -472,40 +438,6 @@ local talentData = {
 	},
 	[7] = {
 		specs = {
-			[262] = {
-				[0] = {
-					label = "Mists of Tirna Scithe",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxMAzMDAAAAAWMzGMgBMbMAzCAYWGzA2WGjxgZmhxyMzMDzyglZmZGGzMbjBA",
-				},
-				[1] = {
-					label = "City of Threads",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxY2mlZmBMzMDAAAAAWMzGMgBMbMAzCAYMmBstMGjBzMz2wyMmZYWGLWmZMYMzsNGA",
-				},
-				[2] = {
-					label = "Grim Batol",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGzysMmhBzMAAAAAwiZ2gBMgZjBYWAAz2YGw2CzMGmZmxwyMmxmZZwyMzMDjZmFGA",
-				},
-				[3] = {
-					label = "Ara-Kara City of Echoes",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MjxY2mlZmBMzMDAAAAAWMzCMgBMbMAzCAY2GzA2WYMGMzMmZWmxM2MLjFLjZGwMz2YA",
-				},
-				[4] = {
-					label = "The Necrotic Wake",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMzMgZmZAAAAAwmZ2gBMgZjBYWAAz2YGw2iZmxwMzMG2mZmBzyglxYwMmZjBA",
-				},
-				[5] = {
-					label = "The Stonevault",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxYWmlxgBzMDAAAAAWMzGMgBMbMAzCAY2GzAWWYmxwMzMmx2MmxiZZwyYmxMjZmFGA",
-				},
-				[6] = {
-					label = "The Dawnbreaker",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxY2mlZmBMzMDAAAAAWMzGMgBMbMAzCAY2GzA2WYmxwMzMbDLzYGMLjFLjxgxMz2YA",
-				},
-				[7] = {
-					label = "Siege of Boralus",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGz2sMmBMzMDAAAAAWMzGMgBMbMAzCAY2GzA2WYMGMzMGWmxM2MLjlZZmxgxMzyYA",
-				},
-			},
 			[263] = {
 				[0] = {
 					label = "Mists of Tirna Scithe",
@@ -716,40 +648,6 @@ local talentData = {
 				[7] = {
 					label = "Siege of Boralus",
 					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMLDAAAYmZmZZmxYbmZmFzYmBAMjFYgZxwYGAzCYZGAAAAAAAAYGWA",
-				},
-			},
-			[266] = {
-				[0] = {
-					label = "Mists of Tirna Scithe",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMbDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMMzMzMwMDAAA",
-				},
-				[1] = {
-					label = "City of Threads",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMLDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMMzMzMwMDAAA",
-				},
-				[2] = {
-					label = "Grim Batol",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMbDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMMzMzMwMDAAA",
-				},
-				[3] = {
-					label = "Ara-Kara City of Echoes",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMbDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMMzMzMwMDAAA",
-				},
-				[4] = {
-					label = "The Necrotic Wake",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMLDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMMzMzMwMDAAA",
-				},
-				[5] = {
-					label = "The Stonevault",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMLDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMMzMzMwMDAAA",
-				},
-				[6] = {
-					label = "The Dawnbreaker",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMLDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMMzMzMwMDAAA",
-				},
-				[7] = {
-					label = "Siege of Boralus",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzwY2MzMMLDAAAAAAAAAgZAjZMsADsMsghFmZMjtxMbmZmZGjZMjZMzMGMDAAA",
 				},
 			},
 		},
