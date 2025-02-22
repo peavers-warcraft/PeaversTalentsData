@@ -457,7 +457,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Shado-pan Raid Single Target w/ Cleave | Shado-pan",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMzyMDMGAAAAAAAAAAAssMMiZGYGGWMzYbmZGmthZwyMBAwyMzwMzY2mBAwGA0sMLNzMzCA",
+					talentString = "[=talent-build-7835]",
 				},
 				[2] = {
 					label = "Conduit of the Celestials Raid Single Target | Conduit of the Celestials",
@@ -465,7 +465,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Conduit of the Celestials Raid Single Target w/ Cleave | Conduit of the Celestials",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYGzMzyMDMGAAAAAAAAAAAssMMiZGYGGWMzYbmZGmthZwyMBAwyMzMmxY2mBAwyyssMbzMTQAAA",
+					talentString = "[=talent-build-7836]",
 				},
 			},
 			[270] = {
