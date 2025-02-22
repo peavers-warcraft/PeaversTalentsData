@@ -79,11 +79,11 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Mythic/Delves Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGDjxMmZImBDmBwsYGAAAAAAAA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAMzMzYYmhhZmZmZmZMzYzMGAAAAAAAYGGzYmZmZmJzYMMzwYYmlZwG",
 				},
 				[1] = {
 					label = "Mythic/Delves Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGDjxMmZImBDmhNYWMDAAAAAAMA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAzMzMmxMMjZmZmZmZYmxGjBAAAAAAAmhxMmZmZmZyMGDzMMGmZZGsB",
 				},
 			},
 			[255] = {
