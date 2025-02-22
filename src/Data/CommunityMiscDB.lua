@@ -115,11 +115,11 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Single-Target Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZYMmxMDNmBDmBMmlZmBAAAAAAA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAMjZmZwMzwMzMMzMjxMbzMeAAAAAAAAYGGzMzMzYGNzYMMzAzYGzMG",
 				},
 				[1] = {
 					label = "Single-Target Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZYMmxMDNmBDmBMmlZmBAAAAAAA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAzYmZmhZmhZmZYmZGjZ2mZAAAAAAAAmhxMzMzMmRzMGDzMwMmxMjB",
 				},
 			},
 			[255] = {
