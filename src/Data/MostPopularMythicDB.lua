@@ -287,7 +287,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Mythic AoE | Hellcaller",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNDmZmFzGLLmZAAAAAzMzsMzMzYBGYWMaMDgZL2wAAAAAAAYmZGDAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MwsZmZYWmNjxMmFz2YZxMDAAAAYmZmlZmZGLwAzmRMDgZL2wAAAAAAAYMzYAA",
 				},
 			},
 		},
