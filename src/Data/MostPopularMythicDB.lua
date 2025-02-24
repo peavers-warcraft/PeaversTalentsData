@@ -13,21 +13,21 @@ local talentData = {
 				},
 				[1] = {
 					label = "Juggernaut Mythic | Slayer",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAAzMzMjZMmFLLLzMDAAAADmGmZYZYGYsMmZGMzwYGPAzwAAAAAAAgHYMLzMzAsFYstMwCYAzwEyAsB",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZmZGzYMLWWWmZGAAAAGMNMzsMmhxywMjFzMDzwDMMAAAAAAAYMLzMzAsFGbbDsBGwMMhMwG",
 				},
 				[2] = {
 					label = "Spiky AoE Mythic | Colossus",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAYYmZMjZMzsNbLLjZAAAAYw0wMDLDzAjlxYGMzwYGDzwAAAAAAAgZMbDGgtYAsZGDLwAzoNaAsA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZGzYGjZb2WWGzAAAAwgphZmlxMMWGzMjNzMDzghBAAAAAAgZMbjxAslZAbmxwCMwMajGwC",
 				},
 			},
 			[72] = {
 				[0] = {
 					label = "Burst Mythic | Slayer",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAagZGghZYMMzsBDzMjhZYmZbbmxMzsxMjZmhZYz2MMzYAAAgwM2WGYBMBzwEYshN",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMbmZYGjZmZhZmZmZwwMbbzMmZmNMjZmZMzYZYwMzAAAAxYbZgNwEMDTgBbA",
 				},
 				[1] = {
 					label = "Sustained Mythic | Mountain Thane",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAagxghhZwywMzGMMjxwMMzssNzYmZ2YmxMzwMsZbGmZMAAAQYMwGssY0YGQmFYxYB",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMLjZYsMmZmFmZmxMYYmltZGzMzGmZmZGmZsMMYGDAAAEGYDWWMaMDIzCMWA",
 				},
 			},
 			[73] = {
@@ -327,7 +327,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "Mythic - Wildstalker Recommended | Wildstalker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbwYDmMMzMmFzyMDzYMAAAAAAgBMAAQAAAz2MbNbzsYjxMwwswQD",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbwYDmMMzMmFzyMDzYmZAAAAAAAgBAACAAY2mZrZbmFbMmBGmFQD",
 				},
 				[1] = {
 					label = "Mythic - Keeper of the Grove | Keeper of the Grove",
