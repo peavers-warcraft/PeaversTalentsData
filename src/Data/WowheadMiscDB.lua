@@ -15,11 +15,11 @@ local talentData = {
 			[72] = {
 				[0] = {
 					label = "Delves/Open World | Mountain Thane",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAaAzghhZwywMzGMMjxwMMzstNzYmx2YmxYGmhNbzwMzMAAAQYMwGssY0YGQmFYxYB",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YwMLjZYsMMzswMzMzMYYmttZGzMzGmZmZGmZsghZGDAAAEGYDWWMaMDIzCMWA",
 				},
 				[1] = {
 					label = "Leveling/Open World | Mountain Thane",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAaAGMjhZwyYmZ2ghZMGmhZmttZGzM2GzMGzwMsZbGmZmBAAACjB2glFjGzAysALGLA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YgZZmZYsMmZmFmZmxMYYmttZGzM2GzMPwYGmhFbzwMjBAAACDsBLLGNmBkZBGLA",
 				},
 			},
 			[73] = {
@@ -83,11 +83,11 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Delves Build | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAmZmZYYYmZmZmZmZGmZsxYWAAAAAAAwMmhxMzYmZmZGDMzMGDzsMDA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZmxMamxYYmhxwMmBbzMjtxysZGjBPwMzMzMzMLGDWG",
 				},
 				[1] = {
 					label = "Delves Build | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYssNwAmgZhtAzCAAAAAAYmZmZgxYMmZmZmZYmZ2YMLAAAAAAAYGzwYmZMzMzMjBmZGjhZWmBA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZjtAzCAAAAAAAAAAAAAAzYGzYmZGzoZGjhZGGDzYGsNmx2YZ2MjZGDzMzMzMzsYMYZA",
 				},
 			},
 			[255] = {
@@ -353,7 +353,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "Delves | Wildstalker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZGmtZmHAzy2witZAAAAAAAAAAAAsNYYmxwIYMjZmZmBjptZAAAAAAGAAmBAgAAAmtZ2a2mZxGjBYM",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZGmtZmHAzyywitZAAAAAAAAAAAAsNYmNMTGzwYWMLzMzixMDAAAAAAAgBAgAAAmtZ2a2mZxGMDYMLgG",
 				},
 			},
 		},
