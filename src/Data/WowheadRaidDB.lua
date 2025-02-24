@@ -36,32 +36,32 @@ local talentData = {
 			},
 			[73] = {
 				[0] = {
-					label = "Raid Single Target | Preview Build",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMbzsMzMz2mZMMNzgZmBwyADbMzMwDMzDMMAAAAAAgZGAgltNADDsBLLGNmBwsFbYD",
+					label = "Raid Single Target | Mountain Thane",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjRjZZMDjlBG2mZGzYGDDAAAAAAYGAgltNAGYD2WMaMDgZLMbA",
 				},
 				[1] = {
-					label = "Raid Single Target with Cleave | Preview Build",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMbzsMzMz2mZMMNzgZmBwyADbMzMwDMzDMMAAAAAAgZGAgltNADDsBLLGNmBwsFbYD",
+					label = "Raid Single Target with Cleave | Colossus",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstxYMTjZZMDjlxMzwyMzwMYYAAAAAAAzAAsstBAsZGDbkBmhFawC",
 				},
 				[2] = {
-					label = "Raid Council | Preview Build",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmxMmZbmlZmZ2YGDTzAzMDwsMwwGzMDYmHYYAAAAAAAzMAALbbAGGYDWWMaMDgZL2Y2A",
+					label = "Raid Council | Colossus",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstxYMTjZZMDjlxMzwyMzwMYYAAAAAAAzAAsstBAsZGDbkBmhFawC",
 				},
 				[3] = {
-					label = "Mountain Thane Raid Punish Build | Preview Build",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMbzsMzMz2mZMMNzgZmBwyADbMzMwDMzDMMAAAAAAgZGAgltNADDsBLLGNmBwsFbYD",
+					label = "Raid Punish | Mountain Thane",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjRjZZMDjlBG2mZGzYGDDAAAAAAYGAgltNAGYD2WMaMDgZLMbA",
 				},
 				[4] = {
-					label = "Mountain Thane Raid Execute Build | Preview Build",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMbzsNzMz2mZMMNzgZmBwyADbMzMwDMzDMMAAAAAAgZGAgttNADDsBLLGNmBwsFbYD",
+					label = "Raid Execute | Mountain Thane",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMbzMzstZGjRjZZMDjlBG2mZGzYGDDAAAAAAYGAgttNAGYD2WMaMDgZLMbA",
 				},
 				[5] = {
-					label = "Colossus Raid Punish Build | Preview Build",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzwMzgZbmlZmZ22YMMNDMzMAzyYmZAzMD8AMDDAAAAAAYmBA8ALbbAGgNzYYjMwMsQjNsA",
+					label = "Raid Punish | Colossus",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstwYMTjZZMDjlxMzwyMzYGYYAAAAAAAzAAsstBAsZGDLkBmhFawC",
 				},
 				[6] = {
-					label = "Colossus Raid Execute Build | Preview Build",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzwMzgZbmtZmZ22YMMNDMzMAzyYmZAzMD8AMDDAAAAAAYmBA8AbbbAGgNzYYjMwMsQjNsA",
+					label = "Raid Execute | Colossus",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstwYMTjZZMDjlxMzwyMzYGYYAAAAAAAzAAsstBAsZGDLkBmhFawC",
 				},
 			},
 		},
@@ -70,16 +70,8 @@ local talentData = {
 		specs = {
 			[65] = {
 				[0] = {
-					label = "Raid - Avenging Crusader | Lightsmith",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALzMDmZbmZxMmlZG2mBmttZaLmxMmZGGY2yAAGAsBsxMzYGAEAwMzy2SbzMsBYGADjZG",
-				},
-				[1] = {
-					label = "Raid - Melee | Herald",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZwMbzMLmxsMzwyMwstNTbxMmxMzwAzWGAwAGsBsxMzYmZZ2mZmlGAAQALAgNGDjZA",
-				},
-				[2] = {
-					label = "Raid - Caster | Herald",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZwMmZW2mxsMzwyMwstZaLmxMmZGGY2yAAGwgNgNmZGzMLz2Mzs0AAACYBDgNGDjZA",
+					label = "Raid - Avenging Wrath | Heraldbest",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZwMmZW2MzsMzwyMwstZaLmxMmZGGY2yAAGwgNgNmZGzMLz2Mzs0AAACYBDgNDDjZA",
 				},
 			},
 			[66] = {
@@ -99,19 +91,11 @@ local talentData = {
 			[70] = {
 				[0] = {
 					label = "Raid Single Target | Templar",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAassNzstsNGbjZ22mZDAAAAAAjmmhhZGbzgZbYWmlZYYwMmhlF2AAAIzMtNLz2MAgNgBAjxMMD",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzYbGMbDjZZGGGMjZGLLsBAAQmZabWmtZAAbADAGjZYG",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Templar",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAassNzstsNGbjZ22mZDAAAAAAjmmhhZGbzgZbYMLzYbYwMmhlF2AAAIzMtNLz2MAgNgBAjxMMD",
-				},
-				[2] = {
-					label = "Raid Council | Templar",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAittZmtltZGbmZWWMbDAAAAAAjmmhhZGbzgZbYMLzssNMYGGWWYDAAgMz02sMbzAA2AGAMGzwMA",
-				},
-				[3] = {
-					label = "Raid Divine Storm | Herald of the Sun",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAiltZmNbzM2MmttZ2GAAAAAAGNNDDzM2mBz2wsMbzsshhxwwyGbDAMLz2Mzs1gAAAWAGAMGzwMA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbmZ22mZDAAAAAAjmmhhZGbzgZbYMLGbDDmhZsswGAAAZmptZZ2mBAsBMAYMmhZA",
 				},
 			},
 		},
@@ -120,52 +104,32 @@ local talentData = {
 		specs = {
 			[253] = {
 				[0] = {
-					label = "Raid - Pack Leader Single-Target Build | Pack Leader",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwM2GmlZGDjxMzYYGzMGzMzkZYMzMzYMzYGGjZmBLzAzwsB",
-				},
-				[1] = {
-					label = "Raid - Dark Ranger Single-Target Build | Dark Ranger",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYstMwAGwswWIjFAAAAAAMAAAAAAAmxwsMzYYmxMzYGmlZGjZmZyMMmZmZMmZMDjxMzglZgZY2A",
-				},
-				[2] = {
-					label = "Raid - Dark Ranger Raid Council Build | Dark Ranger",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYstMwAGwswWIjFAAAAAAMAAAAAAAzYbGjZGzwMjZMjZGmxMzYmMDjZmZGjZGzwYMzMYZGYGmN",
-				},
-				[3] = {
-					label = "Raid - Pack Leader Raid Quick Cleave Build | Pack Leader",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAwM2mxsMzYYMzMDjZGmxYmZmMDjZmZGjZGzwYMzMYZGYGmN",
+					label = "Raid Pack Leader Single Target | Pack Leader",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMGAzMjZmxYYGzMzMzMGmJzYYMgZGjZMzMzMzMLzMAAAAAAAAAAAAjltBGwCYZYCZsgZYMDA",
 				},
 			},
 			[254] = {
 				[0] = {
-					label = "Raid Single Target | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYGzMzgZmhZmZYmZGjZ2mZ8AAAAAAAAwMMmZmZmZmZyMzYYmBGmZZGA",
+					label = "Raid Single Target | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GQmNsBAAAAAAAAAAAAAwMmxMzMzMmRmxYYmBGmZZmBj5BmNMbmxMzMLzMDjZmZZZMYZA",
 				},
 				[1] = {
-					label = "Raid Single Target | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GQmNsBAAAAAAmxMzMDzMDzMzwMzMGzsNzAAAAAAAAMDjZmZmZmZmMzMGmZghZWmBA",
+					label = "Raid Single Target | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAAAAAAAAAzYGzMzMzYGZGjhZGYYmlZGMDzGmNzYmZmlZmhxMzssMGjlB",
 				},
 				[2] = {
-					label = "Raid Single Target with Cleave | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYmZmZGMzYYmZMzMzYMz2MDAAAAAAAwMMmZmZmZmZamxYYmBGmZZGA",
+					label = "Raid Single Target with Cleave | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZmxMamxYYmhxwMmBbzMPwsNWmNzYMDzMDjZmZZZMYZA",
 				},
 				[3] = {
-					label = "Raid Single Target with Cleave | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GQmNsBAAAAAAmZmZmZYMzYmZGzMzwYmtxAAAAAAAAMDjZmZmZmZmmZMGmZghZWmBA",
-				},
-				[4] = {
-					label = "Raid Council | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAmgZhtAzCAAAAAAYGzMzMMzMMzMjZmZGjZ2MDAAAAAAAwMMzMmZmxMamxYYmhxwMmZYB",
+					label = "Raid Single Target with Cleave | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZjtAzCAAAAAAAAAAAAAAzYGzMmZGzoZGjhZGYYmlZGMzY2YZ2MjZmZWmZGGzMWWGDWG",
 				},
 			},
 			[255] = {
 				[0] = {
 					label = "Sentinel Raid Council | Sentinel",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMjZmxYmZmZYmZMmZMDAAAAAAAAAAAAAAaGGzwMzYmxMMGmZYMjZWmBL",
-				},
-				[1] = {
-					label = "Pack Leader Raid Council | Pack Leader",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxM2YILw2wQDWmZsNMzMzYmZmZYmZMmZMDAAAAAAAAAAAAAAaGGzwMzYmxMMGmZYMjZWmBL",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZmlZmZmxMzYMjxYMmZMLAAAAAAAQzwYGzMzYGmhxwMDjhZWmBbAAAAAADA",
 				},
 			},
 		},
@@ -185,10 +149,6 @@ local talentData = {
 					label = "Raid Council | Deathstalker",
 					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMbwyMAAAAAA022MzgZGjZmZZ2mZmxAjZmZGzsZZMDwmZZgBsEsMMBGWA",
 				},
-				[3] = {
-					label = "Raid Easy Mode | Fatebound",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmBDAAAAAAzGsMDAAAAAAttNzMmZmxYmZWmlZmZMwYmZmxMb2GzAYgFYGjGzGIbDYD",
-				},
 			},
 			[260] = {
 				[0] = {
@@ -207,11 +167,11 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "Raid Build Single Target | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxwYMDzMzMjxsNMzYbbmZMzMjBjlZbAAAAYGMAGzmhBGYW0CtYDG",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMGGjZ8AzMzMjxsNMzYbbmZMzMjBjlZbAAAAYGMAGzmhBGYW0CtYDG",
 				},
 				[1] = {
 					label = "Raid Build Single Target Play this | Deathstalker",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmmZGzMGGDDzMzMjxsNMzYbbmZMzMjBjlZbAAAAYGMsYWGYALglhJkZBG",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMGGjZ8AzMzMjxsNMzYbbmZMzMjBjlZbAAAAYGMsYWGYALglhJkZBG",
 				},
 				[2] = {
 					label = "Raid Build Cleave | Trickster",
@@ -228,36 +188,28 @@ local talentData = {
 		specs = {
 			[256] = {
 				[0] = {
-					label = "Raid Mindbender | Voidweaver",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mtZGD2GjZmxMbmlZmZmhBAAAAAAAAAAAzilZbYbmZwswwMzMGsw2MNmYBYmBAFgZbW2AjNb",
+					label = "Raid SFiend | Oracle",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2MPwMzMzMmZmhZ2YbmZmZGAAAAAAAAAAAzilZbYbmZMmFGzgxgF2mpxELDAzsgNKGz2AM2wCA",
 				},
 				[1] = {
-					label = "Raid Full Uppies | Voidweaver",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mNGzMz2YMzMmZzsMzMzMMAAAAAAAAAAAYWsMbDbzMDmFGzwMGsw2MNmYZAzMAoAMbzyGYsZD",
+					label = "Raid Mindbender | Voidweaver",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2MPwMmZmxMzMjZ2YZmZmZGAAAAAAAAAAAzilZbYbmZMmFGzgxgF2mpxELDYmBAFgZb22AjNbA",
 				},
 			},
 			[257] = {
 				[0] = {
 					label = "Raid Lightweaver | Archon",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAALDGLmxMzYmBmxMMzyMjlBAAAAmFLz2w2MzgZhxMmZMYZBmxUzCAwMLWmMLGAyYwG",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAwYMmtZmZMDjHYGmZbmxMAAAAwsYZ2G2mZGMLMLzYMGssAzQNLAAzsZZysYAIjBbYmtB",
 				},
 			},
 			[258] = {
 				[0] = {
 					label = "Raid Single Target | Archon",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMaWMAkxYB",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLegxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA",
 				},
 				[1] = {
-					label = "Raid Single Target | Voidweaver",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAMm5BAAAAAAAAAAAAAGmFzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsA",
-				},
-				[2] = {
 					label = "Raid Cleave | Archon",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAYmHYAAAAAAAAAAAAAGmlxYmZ2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNLGAyYsA",
-				},
-				[3] = {
-					label = "Raid Cleave | Voidweaver",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAMz4BAAAAAAAAAAAAAmxsMGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxC",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAgBzMDAAAAAAAAAAAghZxDMmZmtBzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA",
 				},
 			},
 		},
@@ -280,8 +232,8 @@ local talentData = {
 			},
 			[251] = {
 				[0] = {
-					label = "Raid Single Target | Deathbringer",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMGAzMjZmxYYGzMzMzMGmJzYMjBMzYMjZmZmZmZxMAAAAAAAAAAAAjltBGwCYZYCZsgZYMDA",
+					label = "Raid Single Target | Rider of the Apocalypse",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxYYGzMzMzMGmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY20QDbYmZGzMA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Deathbringer",
@@ -298,48 +250,44 @@ local talentData = {
 		specs = {
 			[262] = {
 				[0] = {
-					label = "General Raid Build | Stormbringer",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMzMgZmZAAAAAwmZ2gBMgZjJkZBAMbTzA2WMzMNMzMjhtZmZwsMYZMGMjZ2YA",
+					label = "Raid Single Target | Farseer",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMGMYmBAAAAwmZ2gBMgZjJkZBAMbTzYY2YMTMzMzYYbmZGMbDWmZmZmZYmNA",
 				},
 				[1] = {
-					label = "Mobile Raid Single Target | Farseer",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGzysMGMYmZAAAAAwiZ2gBMgZjJkZBAMbTzA2WMzMNMzMjhtZmZwsMYZMzYmhZ2YA",
+					label = "Raid Single Target with Cleave | Farseer",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMGMmZmBAAAAwmZ2gBMgZjJkZBAMbTzYY2YMTMzMzYYbmZGMbDWmZmZYYmNA",
 				},
 				[2] = {
-					label = "Raid Pure Single Target | Farseer",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGzysMGMYmZAAAAAwiZ2gBMgZjJkZBAMbTzA2WMzMNMzMjhtZmZwsMYZMzYmhZ2YA",
-				},
-				[3] = {
-					label = "Raid Single Target with Cleave | Stormbringer",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMzMzYWmlZmBMzMDAAAAAAbmxwGsAzohGbAgZbaGw2iZmphZmZMsNzMDmlBLjxghZ2YA",
-				},
-				[4] = {
-					label = "Raid Council | Stormbringer",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMzMgZmZAAAAAwmZ2gBMgZjJkZBAMbTzA2WMzMNMzMjhtZmZwsMYZMGMjZ2YA",
+					label = "Raid Council | Farseer",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz2yMjZGzysMGMYmBAAAAwmZ2gBMgZjJkZBAMbTzYY2YMTMzMzYYbmZGMbDWmZmZmZYmNA",
 				},
 			},
 			[263] = {
 				[0] = {
-					label = "StormRaid Cleave | Stormbringer",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZmtZmZGmlZmllxAAAAAAAAAAwGAbmxwGZBmhhGsAgZZyMwyiZmZGGzMLDLzMTgxyYmBAwYA",
+					label = "Raid Cleave | Cleave",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYZmx2sMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
 				},
 				[1] = {
-					label = "StormRaid Council | Stormbringer",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmhZ2mZmZYWmZWWGDAAAAAAAAAAbAsZGDbkFYGGawCAmlJzALLmZmZYMzsMsMzMBGLjZGAAjB",
+					label = "Raid Councilbest | Council",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYZmx2sMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
+				},
+				[2] = {
+					label = "Raid Cleavebest | Cleave",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMDzMzMzMmZsNGAAAAAAAAAAYB2gZsox2AYmgNAYZamZwyiZmZGGzMbDLzMTghZZmBAYA",
+				},
+				[3] = {
+					label = "Raid Council | Council",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMDzMzMzMmZsNGAAAAAAAAAAYB2gZsox2AYmgNAYZamZwyiZmZGGzMbDLzMTghZZmBAYA",
 				},
 			},
 			[264] = {
 				[0] = {
 					label = "Totemic Chain Heal Raid | Totemic",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZWmx2YmxMLzyYzAsALwM20YZAZGYDzMLmx2MzMTmtFmZaMDzshlZMDGDzyYAAMM",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZMWmtxihFWgFYGbasMgMDsxYmNLjtZmZmMbLmZmGzwMbYZGzgxwsMGAAMA",
 				},
 				[1] = {
 					label = "Farseer Chain Heal Raid | Farseer",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMz2M2GzMjZZ2GbGY2MzCMgJYWYCMWwMzCjtZmZmMbLMz0YGGbYZmZGMGmlxAAYYA",
-				},
-				[2] = {
-					label = "Farseer Riptide Raid | Farseer",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMjZmtxwwysN2MswmZWgBMBzCTgxCzMzyYsNzMzkZbxMz0YGGbYZGzgxwsMGAADA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZMWmtxihFbmZBGwEMLMBGLMmZzyYbmZmJz2iZmpxMMzGWmxMYMMLjBAAD",
 				},
 			},
 		},
@@ -348,44 +296,52 @@ local talentData = {
 		specs = {
 			[64] = {
 				[0] = {
-					label = "Raid Single Target | Spellslinger",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMGmZmZYMzMzYmZmZmZMYGIAAwMz2yyyMTbAAAAAAYAAAAAAAAA",
+					label = "Raid Single Target | Frostfire",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMmZGmhZmZmZGzMzMzYmBzMLz0MzysAAAgWAAAAAAwAAAAAAAAA",
 				},
 				[1] = {
-					label = "Raid Single Target with Cleave | Spellslinger",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMGmZmBzMzMzYmZmZmZmBzABAAmZ2WWWmZaDAAAAAADAAAAAAAAA",
+					label = "Raid Single Target with Cleave | Frostfire",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMDGmhZmZmZmZmZmZGzMzYmZZmmZWmFAAA0CAAAAAAAAAAAAAAA",
 				},
 				[2] = {
-					label = "Raid Council | Spellslinger",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMGmZmBzMzMzYmZmZmZmBzABAAmZ2WWWmZaDAAAAAADAAAAAAAAA",
+					label = "Raid Council | Frostfire",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMmZGmhZmZmZGzMzMzYmBzMLz0MzysAAAgWAAAAAAwAAAAAAAAA",
 				},
 				[3] = {
-					label = "Raid Frostfire | Frostfire",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMmZGzMDPwMzMDzMzMzMzMwMLz0Mz2sAAAgWAAAAAAwAAAAAAAAA",
+					label = "Raid | Spellslinger",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMGmZmhZmZmZGzMzMzYmBzABAAmZ2WWWmZaDAAAAAADAAAAAAAA",
+				},
+				[4] = {
+					label = "Raid | Frostfire",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMmZGmhZmZmZGzMzMzYmBzMLz0MzysAAAgWAAAAAAwAAAAAAAAA",
 				},
 			},
 			[62] = {
 				[0] = {
 					label = "Raid Single Target | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAglhhZmZmxMMzYMzMmZmxYGD",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAgFGmZWmlxMjZmZMzMzMjhxYA",
 				},
 				[1] = {
 					label = "Raid Cleave | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAglZMMzMzMmhZmZMmxMzMGGD",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAglxwMzysMMMzMDzMzMzMmxYA",
 				},
 				[2] = {
 					label = "Raid Council | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAglZMMzMzMmhZmZMmxMzMGGD",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAglxwMzysMMMzMDzMzMzMmxYA",
 				},
 			},
 			[63] = {
 				[0] = {
-					label = "Raid | Frostfire",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsZgZGmGzMmBAAAAAgZWmpZmlZBCAAYxYGMjZMzMWMLjxMPAmZZGMLMzAAAAAAAA",
+					label = "Raid | Sunfury",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsYgZGmGzMmBAAAAAgBCYmZaZWWmBAYzYGMmZMzYWMLjZMzwMbzwMLYAAAAAAAA",
 				},
 				[1] = {
-					label = "Sunfury Raid | Sunfury",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsYgZGmGzMmBAAAAAgBCYmZaZWWmBAYzYGMmZMzYWMLjZMzwMbzwMLYAAAAAAAA",
+					label = "Raid Frostfire | Frostfire",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsZgZGmGzMmBAAAAAgZWmpZmlZBCAAYxYGMzMjZmZWMLjxMPAmZbGMLYAAAAAAAA",
+				},
+				[2] = {
+					label = "Raid Council | Sunfury",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsYgZGmGzMmBAAAAAgBCYmZaZWWmBAYzMzYmZMjZmxixMDDbzMbzgZBAAAAAAAA",
 				},
 			},
 		},
@@ -394,20 +350,16 @@ local talentData = {
 		specs = {
 			[265] = {
 				[0] = {
-					label = "Hellcaller Raid Cleave | Hellcaller",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZxMzYZmZmFzYmBAMjFYgZxoxMgMLglZAAAAAAAAgZMbA",
+					label = "Raid Single Target | Hellcaller / Soul Harvester",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMzMLmZGLzMzsZGzMAgZsADMLGNmBkZBsMDAAAAAAAAMmNA",
 				},
 				[1] = {
-					label = "Hellcaller Raid Council | Hellcaller",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMzMLmZGLzMzsYGzMAgZsADMLGNmBkZBsMDAAAAAAAAYMbA",
+					label = "Raid Cleave | Hellcaller / Soul Harvester",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZxMzYZmZmFzYmBAMjFYgZxoxMgMLglZAAAAAAAAgZMbA",
 				},
 				[2] = {
-					label = "Soul Harvester Raid Cleave | Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZZmxYzMzswMzMAgZGLLDMgJYG2CMsNDAAAAAAAAMzMbG",
-				},
-				[3] = {
-					label = "Soul Harvester Raid Council | Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZZmxYzMzswMzMAgZGLLDMgJYG2CMsNDAAAAAAAAMzMbG",
+					label = "Raid Council | Hellcaller / Soul Harvester",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMzMLmZGLzMzsYGzMAgZsADMLGNmBkZBsMDAAAAAAAAYMbA",
 				},
 			},
 			[266] = {
@@ -431,47 +383,39 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Raid Default - Standard/Defensive | Master of Harmony",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMjFzDsNzMzAAAAAAAwyCIMDMDzswYsNzMDzyYM2mlZaZ7BWsNmZmZBAAWmtplZbmlBAAEAGsA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzwMWmx2MzMDAAAAAAALLgwMwMMzCjx2MzMMLjxYbWmpltZx2YGmFAAYZ2mWmtZWGAAQAYYD",
 				},
 				[1] = {
 					label = "Raid Default - Advanced/Offensive | Shado-Pan",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMsMjtZmZGAAAAAAAWWAhZgZYmFGjtZmZYWGmx2sMTbL2mtZmxMLAAwGCAAgZbWamZmNmBL",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLgYmBmhBGjtZmZYWGzM2mlZab7B2mtZmhZBAA2QAAAMbzSzMzswMsA",
 				},
 				[2] = {
 					label = "Raid - Single Target | Shado-Pan",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMsMjtZmZGAAAAAAAWWAhZgZYmFGjtZmZYWGmx2sMTbL2mtZmxMLAAwGCAAgZbWamZmNmBL",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLgYmBmhBGjtZmZYWGzM2mlZab7B2mtZmhZBAA2QAAAMbzSzMzswMsA",
 				},
 				[3] = {
 					label = "Raid - Single Target with Cleave | Master of Harmony",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMsMjtZmZGAAAAAAAWWAhZgZYmFGjtZmZYWGmx2sMTbb2mtZmxMLAAwysNtMbzsMAAgAYGsB",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLgwMwMM2YM2mZmhZbMzYbWmpttHYb2mZGmFAAYZ2mWmtZWGAAQAMDbA",
 				},
 				[4] = {
 					label = "Raid - Council | Master of Harmony",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMjFzDsNzMzAAAAAAAwyCIMDMDzswYsNzMDzyYM2mlZaZ7BWsNmZmZBAAWmtplZbmlBAAEAGsA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzwMWmx2MzMDAAAAAAALLgwMwMMzCjx2MzMMLjxYbWmpltZx2YGmFAAYZ2mWmtZWGAAQAYYD",
 				},
 			},
 			[269] = {
 				[0] = {
-					label = "Shado-pan Raid Single Target | Shado-pan",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMzgZmZMLzAYAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAAbzMDzMjZbGAAbAQzys0MzMLAA",
-				},
-				[1] = {
-					label = "Shado-pan Raid Single Target w/ Cleave | Shado-pan",
-					talentString = "[=talent-build-7835]",
-				},
-				[2] = {
 					label = "Conduit of the Celestials Raid Single Target | Conduit of the Celestials",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMzgZmZMLzAAAAAAAAAAAAAWWGGxMDMDDLmZsNzMDz2wMYZmAAYbmZGzYmZbGAALLzyysNzMBBAA",
-				},
-				[3] = {
-					label = "Conduit of the Celestials Raid Single Target w/ Cleave | Conduit of the Celestials",
-					talentString = "[=talent-build-7836]",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAALjZGmhZbGAALLzyysNzMBBAwA",
 				},
 			},
 			[270] = {
 				[0] = {
-					label = "Rising Mist | Jade Bond Yulon Raid Healing Build | Conduit of the Celestials",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzCzYYDzYmZZYDLzMb2mlllZmlFMTMzAzwMLGYZmZGmFbjhZxEAAAAAEgFLzyysNzMBAA2A",
+					label = "Raid Default Build | Conduit of the Celestials",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmhxGmxMzywG2mZ2sNLbbzMLLMjmZmBmhZYgtZmZY2GjBLmAAAAAgAsYZWWmtZmJAAYD",
+				},
+				[1] = {
+					label = "Raid Single-Target Sheiluns Gift Build | Conduit of the Celestials",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmB2wMmZWeA22WmtZG2mlttZmlFmRzMzAzwMMw2MzMMbjxgFTAAAAAQAWsMLLz2MzEAAsB",
 				},
 			},
 		},
@@ -481,45 +425,45 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Raid Single Target | Keeper of the Grove",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUYmZGGmZAzMMzYAbzMGmZbGLGzMzMzixMjZmxGYjBYA22GLYamZZEAAAgNzMGDA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMgZWGLzMYwYbsMz2MWYmZGzyMmZMjxGWYAGgttxCmmZWGBAAAYzMzMDYzYYA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Keeper of the Grove",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUYmZGGmZAzMMzMAbzMbGzsNzsYMzMzMbGjhZGbgFGgBYbbsgpZmlRAAAA2MzYMA",
-				},
-				[2] = {
-					label = "Raid Council | Keeper of the Grove",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUYmZGGmZAzMMzMAbzMbGzsNzsYMzMzMbGjhZGbgFGgBYbbsgpZmlRAAAA2MzYMA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMgZWGLzMYwwMLzsNjFmZmZmlZMzYGjNswAMAbbjFMNzsMCAAAwmZmZA2MGG",
 				},
 			},
 			[103] = {
 				[0] = {
-					label = "Raid Single Target with Cleave | Wildstalker",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMz8AzMAAAAAALBDDYMzMamxMMzMWmhtZGAAAAAAAgBAAAQAwsNzSz2MLbgZAA",
+					label = "Raid Single Target | Wildstalker",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMjZmBAAAAAYJY2MGzgaGzyYZmZWGzMDAAAAAAAMAAAACAmtZWa2mZZDmZAYBDD",
 				},
 				[1] = {
+					label = "Raid Single Target with Cleave | Wildstalker",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzMDAAAAAAAAAAAQAwsNzSz2MLbwMDALYYA",
+				},
+				[2] = {
 					label = "Raid Council | Wildstalker",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbzmZWYGzMb2MjtZmZGzMAAAAAALBDDYMzMamxMMzMWmhtZGAAAAAAAgBAAAQAwsNzSz2MLbgZAA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMz8AzMAAAAAALBzmxYGUzYWGLzMzyYmZAAAAAAAgBAAAQAwsNzSz2MLbwMDALYYA",
 				},
 			},
 			[104] = {
 				[0] = {
 					label = "Ripweaving Raid Single Target | Druid of the Claw",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMzy8AjZMDzYxDMMzsYZAMgZGTmmZmxMzMMYjBAAAAAAMmZAAAAQNz2sMzsMAAWYmZAA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYMzMzyMMzMDGLeghZmFLDAmRzYmZmZxYmZMmhBAAAAAgxMDAAAAqZ2mlZmlBAwCMAsYGM",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Druid of the Claw",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMzy8AjZMDzYxDMMzsYZAMgZGTmmZmxMzMMYjBAAAAAAMmZAAAAQNz2sMzsMAAWYmZAA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYMzMzyMMzMDGLeghZmFLDAmRzYmZmZxYmZMmhBAAAAAgxMDAAAAqZ2mlZmlBAwCMAsYGM",
 				},
 				[2] = {
 					label = "Raid Council EC Build | Elunes Chosen",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMzy8AjZMjZGLMMzsYZAMgZGTmmZmxMzMMYjBAAAAAAMmZAAAAQNz2sMzsMAAWYmZAA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMzy8AjZMjZGLMMzsYZAgxMZamZWMbzMjxMMAAAAAAMmZAAAAQNz2sMzsMAAWYMAsYGM",
 				},
 			},
 			[105] = {
 				[0] = {
 					label = "Raid - Ramping Rejuv | Keeper of the Grove",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZBDjttxyitZAAAAAAAAAAAAsMDYGGzoZGwMmZmZGmptZAAAAAAGAAMgllxCmmZWGAAgAWYMAmB",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZBPAjttZWWsNDAAAAAAAAAAAgNDNbMmmBwsMzyMzwwMAAAAAgBAwAWWGLYamZZAAACYhxMDYmNMmB",
 				},
 			},
 		},
@@ -528,20 +472,20 @@ local talentData = {
 		specs = {
 			[577] = {
 				[0] = {
-					label = "Raid Single Target | Fel-Scarred",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzgZmZMmJmZGAAAAAAwsMmxMMGLzMz2sNLjZGmZBLbwysYGDzmmGMzMzw2G",
+					label = "Raid ST Inertia | Aldrachi Reaver",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjZmJmZGAAAAAAwsZMbzwMzsNzMb2mlxwMzwYZbWmBDjtNmkhZmBWWA",
 				},
 				[1] = {
-					label = "Raid Single Target with Cleave | Fel-Scarred",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzgZmZMmJmZGAAAAAAwsMmxMMGLzMz2sNLjZGmZBLbwysYGDzmmGMzMzw2G",
+					label = "Raid ST No Mover | Aldrachi Reaver",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjZmJmZGAAAAAAwsZMbzwMzsNzMbYZGMzMmxy2sMDGGbbMJDzMDssA",
 				},
 				[2] = {
-					label = "Raid Council | Fel-Scarred",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZGMzMjxMZmZGAAAAAAwsMMmhZGYmtZbWmZGMDssBLziZMMbaaMmZGDbb",
+					label = "Raid ST Inertia | Fel-Scarred",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYAzMzgZmZMmJmZGAAAAAAwsMmxMMGLzMzmtZZegZmZmZZwGsMLmxwsppBzMzMstB",
 				},
 				[3] = {
-					label = "Raid ST Low Mover | Aldrachi Reaver",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzMjZmZMmJmZGAAAAAAwsZmxMYmZbmZ2YWGzMzYgltZbGMM22YSGmZmBLL",
+					label = "Raid ST No Mover | Fel-Scarred",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZGMzMjxMxMzAAAAAAAmlxMmhxYZmZ2wyMmZmZWGW2glZxMGmNNNYmZmhtN",
 				},
 			},
 			[581] = {
@@ -555,7 +499,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Raid Council | Fel-Scarred",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMmZkZmxYYmZbMYsNjZegZMzwMjZGbjZYGMAAAAALziZMMbaagZmZYbD",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMmZkZmxYYmZbmBjtZMzDMjZwMjZGbjZYGMAAAAALziZMMbaagZmZYbD",
 				},
 			},
 		},
