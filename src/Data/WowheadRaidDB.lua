@@ -9,13 +9,9 @@ local talentData = {
 			[71] = {
 				[0] = {
 					label = "Single Target Raid | Slayer",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwMmZGzYegZbWWWmZAAAAwgphZmlZmhZMYGbmZGMMDDAAAAAAAPwYWmZmBQGjttBWADYGmQGYD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwMmZGzYegZbWWWmZAAAAwgphZmFzMMjBzYzMzwMMDDAAAAAAAPwYWmZmBQGjttBWADYGmQGYD",
 				},
 				[1] = {
-					label = "Two-Target Raid | Colossus",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAAzYmZMzMPwsYZZZmBAAAADmGmBbGzAzYYmxiZGGGDzwAAAAAAAgHYMbzMzAsEAsYGDbwAzoNawgF",
-				},
-				[2] = {
 					label = "Raid Multitarget | Slayer",
 					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwMmZGzYMbzyyyMzAAAAwgphZmlZmhZMMzYzMzghHYYAAAAAAA4BGzyMzMAyYstNwCYAzwEyAb",
 				},
@@ -28,10 +24,6 @@ local talentData = {
 				[1] = {
 					label = "Multitarget Raid | Slayer",
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YGzYzMDzYMzMLMzMjZwwMbbzMmZmFMjZmZMzYZYwMzAAAAxYbZgFwEMDTgBbA",
-				},
-				[2] = {
-					label = "Two-Target Raid | Mountain Thane",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAaYMgZMMDzywMzGMMDGmhZmltZGzMzCzMPwMzwMsxMMzYAAAgwYgNYZxoxMgMLwCWA",
 				},
 			},
 			[73] = {
@@ -198,7 +190,7 @@ local talentData = {
 			},
 			[257] = {
 				[0] = {
-					label = "Raid Lightweaver | Archon",
+					label = "Raid | Archon",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAwYMmtZmZMDjHYGmZbmxMAAAAwsYZ2G2mZGMLMLzYMGssAzQNLAAzsZZysYAIjBbYmtB",
 				},
 			},
