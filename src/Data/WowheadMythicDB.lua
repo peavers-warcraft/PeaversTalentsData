@@ -29,11 +29,11 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Mythic | Mountain Thane",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZMjZWmZZmZmNmxYmGzyYGGLDMsNzMmxMGGAAAAAAwMAALbbAMwGstY0YGAzWwG",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAIGAAAAmZmxMjZMzyMLzMzsxMGz0YWGzwYZghtZmxMmxwAAAAAAAzMAALbbAMwGstY0YGAzWwG",
 				},
 				[1] = {
 					label = "Mythic | Colossus",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstwYMTjZZMDjlxMzwyMzYGYYAAAAAAAzAAsstBAsZGDLkBmhFawC",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAIGAAAAmZmxMzMYWmZZmZmtFGjZaMLjZYsMmZGWmZGzADDAAAAAAMzAAsstBAsZGDLkBmhFawC",
 				},
 			},
 		},
@@ -69,7 +69,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mythic | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZjtAzCAAAAAAAAAAAAAAzYGzYmZGzoZGjhZGGDzYGsNmx2YZ2MjZGDzMzMzMzsYMYZA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZjtAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbjZsNWmNzYmZGmZmZMzMLGDWG",
 				},
 			},
 			[255] = {
@@ -315,7 +315,7 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "Mythic | Druid of the Claw",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzMDAAAAAAAAAAAQzsMLzMbDIwCMzAwCGG",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzYAAAAAAAAAAAAamlZZmZbABWgZGAWYGG",
 				},
 			},
 			[104] = {
@@ -326,12 +326,12 @@ local talentData = {
 			},
 			[105] = {
 				[0] = {
-					label = "Mythic - Wildstalker Recommended | Wildstalker",
+					label = "Mythic - Lifebloom Recommended | Wildstalker",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbwYDmMMzMmFzyMDzYmZAAAAAAAgBAACAAY2mZrZbmFbMmBGmFQD",
 				},
 				[1] = {
-					label = "Mythic - Keeper of the Grove | Keeper of the Grove",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZmFz2wDwYZbstYbGAAAAAAAAAAAALDGMDmRwYGjZmZMLMtxAAAAAAGAAmBssMWw0MzyAAAEwCmZgZM",
+					label = "Mythic - Rejuv | Wildstalker",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYZbmZmxiZbMYstMzyitZAAAAAAAAAAAAsNYsBTGmZGziZZmhZMzMAAAAAAAAAAIAAgZbmtmtZWsxYGgZWAN",
 				},
 			},
 		},
