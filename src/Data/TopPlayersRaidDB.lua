@@ -117,7 +117,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Ansurek",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMLzsMzMz2mZMMNgZmBwyADbMzMMMzDMMAAAAAAgZGAgltNADDsBLLGNmBwshNzsB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAYEDAAAAzMzYmZGMbzsMzMz2mZMMNzgZmBwyADbMzMwDMzDMMAAAAAAgZGAgltNADDsBLLGNmBwshNsB",
 				},
 			},
 		},
@@ -1095,7 +1095,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Kyveza",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMsMjtZmZGAAAAAAAWWwImZgZYsxgtZmZYWGzM2sMTbLPw2sNzMMLAAwGAAAwsNLNzMzCzgF",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMsMjtZmZGAAAAAAAWWwImZgZYsBsNzMDz2Ymx2sMTbLPw2sNzMMLAAwGAAAwsNLNzMzCzgF",
 				},
 				[7] = {
 					label = "The Silken Court",
