@@ -25,7 +25,7 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Delves | Colossus",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstwYMTjZZMDjlxMzwyMzYGYYAAAAAAAzAAsstBAsZGDLkBmhFawC",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAIGAAAAmZmxMzMYWmZZmZmtFGjZaMLjZYsMmZGWmZGzADDAAAAAAMzAAsstBAsZGDLkBmhFawC",
 				},
 			},
 		},
@@ -69,15 +69,15 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Hybrid | Pack Leader",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAYmZMzMGDzYmZmZmxwMZGDjBMzMMjZmZmZmZZmBAAAAAAAAAAAYssNwAWALDTIjFMzYMDA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzohG2AAAAAAwYMbjHYWmZGMzYmhFmxMjxMjJzYGzMmxYmxMMGzYwyMYZGmNAAAAAAA",
 				},
 				[1] = {
 					label = "Pack Leader AoE | Pack Leader",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAYmZMzMGDzYmZmZmxwMZGDjBMzMMjZmZmZmZZmBAAAAAAAAAAAYssNwAWALDTIjFMzYMDA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzohG2AAAAAAwYMbz8AjZmBmZMDLmZMzYMzYyMmxMjZMmZMDjxMGGzwsMD2AAAAAAAA",
 				},
 				[2] = {
 					label = "Delves | Pack Leader",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZmxYYmZmZmZGGmJzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAAsYWMMwAzmGaYDzMGzMA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzohG2AAAAAAwYMbzYWmZGDzMmhFzMMzMmZMZGzYmxMGzMmhxwYGjZMjZwGAAAAAAA",
 				},
 			},
 			[254] = {
@@ -87,7 +87,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Delves Build | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZjtAzCAAAAAAAAAAAAAAzYGzYmZGzoZGjhZGGDzYGsNmx2YZ2MjZGDzMzMzMzsYMYZA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZjtAzCAAAAAAAAAAAAAAzYGzwMzYGNzYMMzwYYmlZw2YGbjlZzMmZmhZmZGzMzixglB",
 				},
 			},
 			[255] = {
@@ -113,15 +113,15 @@ local talentData = {
 			[260] = {
 				[0] = {
 					label = "Keep it Rolling Single Target | Fatebound",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZMmZmZYGGjZMMzMz0yMmtZAAAAAAw22MzgZmxCsMbDAAAAzMADsBzY0Y2AsNhFzA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZMzMzYYGGjZMMzMz0yMmtZAAAAAAw22MzgZmxCsMbDAAAAzMADsBzY0Y2AsNhFzA",
 				},
 				[1] = {
 					label = "Keep it Rolling Cleave | Fatebound",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mhZMjxMzMDzwwMzMMzMz0yMmtZAAAAAAw22MzgZmxCsMbDAAAAzMADsBzY0Y2AsNhFzA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mhZMjZmZGDzwwMzMMzMz0yMmtZAAAAAAw22MzgZmxCsMbDAAAAzMADsBzY0Y2AsNhFzA",
 				},
 				[2] = {
 					label = "Delves/Leveling/World Content | Fatebound",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMwMzYGDmZGmhhZGzMjZmptZMLzAAAAAAgttZmhHYmhFmZZWGAAAAmZGwAbwMGNmNAbTYxMA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMwMzYGzwMGmhhZGzMjZmptZMLzAAAAAAgttZmhHYmhFmZZWGAAAAmZGwAbwMGNmNAbTYxMA",
 				},
 			},
 			[261] = {
@@ -311,11 +311,11 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Open-World/Delves | Shado-Pan",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzgxyMz2MzMDAAAAAAALLgYmBmhBzglZmZMzywM2mlZaZzitxMMbAAwGCAAgZbWamZmFmhNA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzgxyMz2MzMDAAAAAAALLgYmBmhBzglZmZMzywMWmlZaZzitxMMbAAwGCAAgZbWamZmFmhNA",
 				},
 				[1] = {
 					label = "Legacy Content/Speed | Shado-Pan",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzwMWmx2MmZMAAAAAAAbLgYmBzgxiZwyMzMmxwMzysYaZz2sNzMMbAAwGCAAgZb2amZmFmhNA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzwMWmx2MmZMAAAAAAAbLgYmBzgxiZwyMzMmxwMzysYaZzmtZmxMbAAwGCAAgZb2amZmFmhNA",
 				},
 			},
 			[270] = {
@@ -337,7 +337,7 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "Delves | Druid of the Claw",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzMDAAAAAAAAAAAQzsMLzMbDIwCMzAwCGG",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzYAAAAAAAAAAAAamlZZmZbABWgZGAWYGG",
 				},
 			},
 			[104] = {
