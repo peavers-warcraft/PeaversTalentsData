@@ -242,11 +242,11 @@ local talentData = {
 			},
 			[63] = {
 				[0] = {
-					label = "Cleave-based Mythic",
+					label = "Sunfury Cleave-based Mythic",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjhZbWwMjZmFDMmx0YmxMAAAAAAMAgZmplZZZGAgNzMjZmxMmZGLGzMMsNzsNjFzCAAAAAAAA",
 				},
 				[1] = {
-					label = "Flamestrike-based Mythic",
+					label = "Sunfury Flamestrike-based Mythic",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjhZbWwMjZmFDMmx0YmxMAAAAAAMAgZmplZZZGAgNzMjZGmxMzYxYmh5BsNzsNjFzCAAAAAAAA",
 				},
 			},
@@ -257,35 +257,35 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "AoE/Mythic Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGAAAwMzMzyMjxyMzMLMzMDAYmxy2ADYAzwWghtZAAAAAAAAgZYB",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjYWMMmNzMDzyAAAAmZMzyMjxyMzMLMzMDAYmxy2ADYAzwWghtZAAAAAAAAwMsA",
 				},
 				[1] = {
 					label = "AoE/Mythic Hellcaller",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGAAAwMjZWmZG2mZmZxMmZAAzYBGYWMaMDgZBsMDAAAAAAAAMDLA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjYWMMmNzMDzyAAAAmZMzyMjxyMzMLmxMDAYGLwAziRjZAMLglZAAAAAAAAwMsA",
 				},
 			},
 			[266] = {
 				[0] = {
 					label = "AoE/Mythic Diabolist",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZY2GAAAAAAAAAAzAGzYYBGYbYhGWYmxMz2YmNzMzMjxMGmxMzYwMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYbYhGWYmZmZ2GzsZmZmZMmZGMmZGwMAAA",
 				},
 				[1] = {
 					label = "AoE/Mythic Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZY2GAAAAAAAAAAzMW2GYADYGWCM2YmxMz2YmNzMzMjxMGmxMzYwMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMWWGYADYG2CM2YmZmZ2GzsZmZmZMmZGMmZGwMAAA",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "AoE/Mythic Diabolist",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmFjxMzsYWmZZZmZAAAAgxMsMzMzAGzYYBGYbYhGLYAAAAAAAMMmBAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmFjxMzsYWmZZZmZAAAAgxMYmZZGwYGDLwAbDL0YBDAAAAAAghxMAA",
 				},
 				[1] = {
 					label = "AoE/Mythic Diabolist Shadowburn Variant",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNjxMmFzmZbZmZAAAAgZmhlZmZGwYGDLwAbDL0YBDAAAAAAghZmBAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNjxMmFDz2yMzAAAAAzMDLzMbzAGzYYBGYbYhGLYAAAAAAAMMzMAA",
 				},
 				[2] = {
 					label = "AoE/Mythic Hellcaller",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmNjxMmFzmZZZmZAAAAghZmlZmZGLwAziRjZAMbYDDAAAAAAgZMmBAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGGAMbswAAAAAAWWMz2MAAAAAAGAAAAAAAYMAA",
 				},
 			},
 		},
@@ -295,21 +295,21 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "DefaultMythic",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMwsMzDsNzMzYAAAAAAAWWAxMDMDDmBbzMzwsMMjlZZm22egFbjZYWAAglZZaZ2mZbAAAAwgN",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWm5B2mZmZMAAAAAAALLgYmBmhBzgtZmZYWGmxysMTbbPwitxMMLAAwysMtMbzsNAAAAYYD",
 				},
 				[1] = {
 					label = "AdvancedMythic",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMwsMjtZmZGDAAAAAAwyCImZgZYwMYbmZGmlhZsNLz022DsZbmZYWAAgNAAAgZbWamZmFMYD",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWmx2MzMjBAAAAAAYZBEzMwMMYGsNzMDzywM2mlZab7B2sNzMMLAAwGAAAwsNLNzMzCG2A",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "Shado-Pan AoE/Mythic/Delve",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmZsgBYMAAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAAAmhlBAAAAAAA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMjZ2mZGzMDAAAAAAAAAAAWWGmJmZYMDYhZsNzMDz2wMYZmAAYZMzYmBLzAAYDAMLzSzMzsAYG",
 				},
 				[1] = {
 					label = "Conduit of the Celestials AoE/Mythic/Delve",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzgFMAMAAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAAAMsMAAAAAAAA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAwyYGMDz2MAAWWmllZbmZCAAYG",
 				},
 			},
 			[270] = {
