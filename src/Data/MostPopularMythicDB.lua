@@ -8,26 +8,22 @@ local talentData = {
 		specs = {
 			[71] = {
 				[0] = {
-					label = "Full AoE Mythic | Slayer",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAYYmZMjZmZmFbLLjZAAAAYw0wMDLDzAjlxMzgZGGz4BYGGAAAAAAAMjZZMGgtAjtlBWADYGmQGgN",
+					label = "Spiky AoE Mythic | Colossus",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZGzYGjZb2WWGzAAAAwgphZmlxMMWGzMjNzMDzghBAAAAAAgZMbjxAslZAbmxwCMwMajGwC",
 				},
 				[1] = {
 					label = "Juggernaut Mythic | Slayer",
 					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZmZGzYMLWWWmZGAAAAGMNMzsMmhxywMjFzMDzwDMMAAAAAAAYMLzMzAsFGbbDsBGwMMhMwG",
 				},
-				[2] = {
-					label = "Spiky AoE Mythic | Colossus",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZGzYGjZb2WWGzAAAAwgphZmlxMMWGzMjNzMDzghBAAAAAAgZMbjxAslZAbmxwCMwMajGwC",
-				},
 			},
 			[72] = {
 				[0] = {
-					label = "Burst Mythic | Slayer",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMbmZYGjZmZhZmZmZwwMbbzMmZmNMjZmZMzYZYwMzAAAAxYbZgNwEMDTgBbA",
+					label = "Main Mythic | Mountain Thane",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMLjZYsMmZmFmZmxMYYmltZGzMzGmZmZGmZsMMYGDAAAEGYDWWMaMDIzCMWA",
 				},
 				[1] = {
-					label = "Sustained Mythic | Mountain Thane",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMLjZYsMmZmFmZmxMYYmltZGzMzGmZmZGmZsMMYGDAAAEGYDWWMaMDIzCMWA",
+					label = "Alternate Mythic | Slayer",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMbmZYGjZmZhZmZmZwwMbbzMmZmNMjZmZMzYZYwMzAAAAxYbZgNwEMDTgBbA",
 				},
 			},
 			[73] = {
@@ -69,7 +65,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Mythic | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZmxMamxYYmhxwMmBbzMjtxysZGjBPwMzMzMzMLGDWG",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRmxYYmhZZYmlZw2MzYbsMbmxYwDMzMzMzMzixglB",
 				},
 				[1] = {
 					label = "Mythic | Dark Ranger",
@@ -154,26 +150,30 @@ local talentData = {
 			},
 			[252] = {
 				[0] = {
-					label = "Mythic/Delves | Sanlayn",
+					label = "M/Delves - Apoc | Sanlayn",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZYGjZmZAgZzMMLzYmZmZMGDMwMGNWWAsNxGAMDA",
 				},
 				[1] = {
+					label = "M/Delves - No Apoc | Sanlayn",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyGgtJ2AgZA",
+				},
+				[2] = {
 					label = "Rider M Setup | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAMMzYGzMzMDAYDMLGzMzMMzA2MbGGyAzGDNWwAMDA",
 				},
-				[2] = {
+				[3] = {
 					label = "Rider M No Apoc | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGDzMzMDAMbmhZBzMz8AzMzA2MbGGyAzGDNWAgZA",
 				},
-				[3] = {
+				[4] = {
 					label = "Rider M No Setup | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGjZMzMDAMbmhZBzMz8AzMzA2MbGGyAzGDNWAgZA",
 				},
-				[4] = {
+				[5] = {
 					label = "Rider M All Burst | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZmxYYmZmZmphhZGzYAAAAAAAAAMMzYMjZmZAAAzixMzMzMzMgNzmhhMwsxQjFMAzAA",
 				},
-				[5] = {
+				[6] = {
 					label = "Rider M Hybrid | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGzYMzMDAYzMMLGzMzMjZGwmZzwQGY2YoxCAMDA",
 				},
@@ -362,8 +362,8 @@ local talentData = {
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMMjMzMYYmZbmxYsNjZMjZwMz2MzsZmZbmhZAAAAAWmFzYYW00AzMw2G",
 				},
 				[1] = {
-					label = "Mythic Defensive | Fel-Scarred",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZkZmBDzMbjxYsNDzMjZMGz2MzsZmZbmhZAAAAAWmFzYYW00AzMD22A",
+					label = "Mythic Defensive | Aldrachi Reaver",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZkZmBDzMbjxYsNDzMjZ8AGz2MzsZmZbmhZAAAAY2mBDjlNmkBzMMWWA",
 				},
 				[2] = {
 					label = "Mythic Cheat | Fel-Scarred",
