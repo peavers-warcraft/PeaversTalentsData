@@ -199,11 +199,11 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Default/DefensiveRaiding",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMjlZegtZmZGAAAAAAAWWAhZgZYmFGjtZmZYWGjx2sMTLbPwitxMmZBAAWmtplZbmlBAAAAD2A",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGmxyMPw2MzMDAAAAAAALLgwMwMMzCjx2MzMMLjxYbWmpltHYx2YGzsAAALz20ysNzyAAAAghNA",
 				},
 				[1] = {
 					label = "Advanced/OffensiveRaiding",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMsMjtZmZGAAAAAAAWWAxMDMDDMGbzMzwsMmZsNLz022DsNbzMDzCAAsBAAAMbzSzMzswMYB",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLgYmBmhBGjtZmZYWGzM2mlZab7B2mtZmhZBAA2AAAAmtZpZmZWYGWA",
 				},
 			},
 			[270] = {
