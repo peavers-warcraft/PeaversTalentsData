@@ -256,8 +256,12 @@ local talentData = {
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGYbW8AmxDMmFDjZGmGzMmBAAAAAgBAMzMtMLLzAAsZMDGzMmZYxsMmxMDzsNDzsMMAAAAAAA",
 				},
 				[1] = {
-					label = "Single-Target Cleave",
+					label = "Sunfury Single-Target Cleave",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGYbW8AmxDMmFDjZGmGzMmBAAAAAgBAMzMtMLLzAAsZMDGzMmZMLmlxMmZYmtZYmFMAAAAAAA",
+				},
+				[2] = {
+					label = "Frostfire Single-Target Cleave",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxDMmNDjZGmGzMmBAAAAAgZWmpZmlZBAAAsYMDmZmxMzMLmlxYmHAzsNDmFMAAAAAAA",
 				},
 			},
 		},
@@ -267,31 +271,31 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Single-Target",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGAAAwMjZWmZM2MzMLMzMDAYmxy2ADYAzwSghtZAAAAAAAAgZmZzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjYWMMmNzMDzyAAAAmZMziZmxyMzMbmxMDAYGLwAziRjZAMLglZAAAAAAAAgxsB",
 				},
 				[1] = {
 					label = "Delves",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGAAAwMjZWmZmx2MzMLMmZAAzMWWGYADYG2CMsNDAAAAAAAAMDLA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjYWMMmNzMDzyAAAAmZMzyMjxyMzMLmxMDAYGLwAziRjZAMLglZAAAAAAAAwMsA",
 				},
 			},
 			[266] = {
 				[0] = {
 					label = "Single-Target",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYbYhGWYmZGz2YmFzMzMjxMGMzMzAzMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYZYhGWYmZmZ2GzsYmZmZMmZGMmZGwMAAA",
 				},
 				[1] = {
 					label = "Delves",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsNzMDz2AAAAAAAAAAYeAwYGDLwAbDL0wCzMmZ2GzsZmZmZMMGmZGzYYmBAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYbYhGWYmZmZ2GzsZmZmZMmZGMmZGwMAAA",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "Single-Target",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAghZmZmZEzmhxsZmZY2mFzwMzsY2MWMzAAAAAjZmZZmZmBMmxwCMw2wGNWwAAAAAAAYGjZAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAghZmZmZEzmhxsZmZY2mNzwMzsYYwMDAAAAMmZWWmZ2mBMmxwCMw2wGNWwAAAAAAAYGjZAA",
 				},
 				[1] = {
 					label = "Delves",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmFjxMzsYWmZZZmZAAAAgxMsMzMzAGzYYBGYbYhGLYAAAAAAAMMmBAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmFjxMzsYWmZZZmZAAAAgxMYmZZGwYGDLwAbDL0YBDAAAAAAghxMAA",
 				},
 			},
 		},
@@ -301,17 +305,17 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Delves/Open-WorldTalents",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZMmBjlZmtZmZGAAAAAAAWWAxMDMDDmBLzMzYmlhZsNLz0ymFbjZYWAAgNAAAgZbWamZmFmBb",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzgxyMz2MzMDAAAAAAALLgYmBmhBzglZmZMzywM2mlZaZzitxMMLAAwGAAAwsNLNzMzCzwG",
 				},
 				[1] = {
 					label = "Legacy Content/SpeedTalents",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZMmhZsMjtZMzYAAAAAAA2WAxMDmBjFzglZmZMjhZmlZx0ymtZbmZY2AAgNAAAgZb2amZmFmBb",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzwMWmx2MmZMAAAAAAAbLgYmBzgxiZwyMzMmxwMzysYaZz2sNzMMbAAwGAAAwsNbNzMzCzwG",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "Single-Target",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYGsgBgBAAAAAAAAAAAgllhRMzAzwwiZGbzMzwsNMDWmJAAAghlBAAAAAAA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAALjZGmhZbGAALLzyysNzMBAAYA",
 				},
 			},
 			[270] = {
