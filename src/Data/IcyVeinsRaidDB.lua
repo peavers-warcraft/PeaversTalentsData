@@ -78,16 +78,6 @@ local talentData = {
 	},
 	[4] = {
 		specs = {
-			[259] = {
-				[0] = {
-					label = "Deathstalker Raid",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmhHYAAAAAAY2glZAAAAAAottZmhZmxYmZWmtZmZMwYmZmxMb2GzAsYWGYALglhJwwCA",
-				},
-				[1] = {
-					label = "Fatebound Raid",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmBDAAAAAAzGsMDAAAAAAttNzMmZmxYmZWmtZmZMwYmZmxMb2GzAYgFYGjGzCgtBsB",
-				},
-			},
 			[260] = {
 				[0] = {
 					label = "Fatebound Raid Hidden Opportunity",
@@ -199,11 +189,11 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Default/DefensiveRaiding",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGmxyMPw2MzMDAAAAAAALLgwMwMMzCjx2MzMMLjxYbWmpltHYx2YGzsAAALz20ysNzyAAAAghNA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMjlZegtZmZGAAAAAAAWWAhZgZYmFGjtZmZYWGjx2sMTLbPwitxMmZBAAWmtplZbmlBAAAAD2A",
 				},
 				[1] = {
 					label = "Advanced/OffensiveRaiding",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLgYmBmhBGjtZmZYWGzM2mlZab7B2mtZmhZBAA2AAAAmtZpZmZWYGWA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAGjxMMsMjtZmZGAAAAAAAWWAxMDMDDMGbzMzwsMmZsNLz022DsNbzMDzCAAsBAAAMbzSzMzswMYB",
 				},
 			},
 			[270] = {
