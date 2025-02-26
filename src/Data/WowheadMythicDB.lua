@@ -43,7 +43,7 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Mythic - Avenging Wrath | Heraldbest",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbMDzMmZW2mxsYGWmBmttZarxMmxMzwAzWGAwAgNgNmZmZmZZ2mZmlGAAQALAmhNDYMD",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbMDzMmZWMzMLmhlZgZbbm2aMjZMzMMwslBAMAYDYjZmZmZWmtZmZpBAAEwCgZYzAGzA",
 				},
 			},
 			[66] = {
@@ -111,7 +111,7 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "Mythic | Archon",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGzyYmxMMzDMDjlZmZGAAAAgZZ2G2mZGMLMLzYwYswGmZqZBAYmFLTmNDAZMYDjtB",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGzyYmxMMzDMDjlZmZGAAAAgZZ2G2mZGMLMLzYwYswGmZqZBAYmFLTmNDAZMYDjlB",
 				},
 			},
 			[258] = {
@@ -249,7 +249,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Mythic | Hellcaller / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAghZmZmZEzmhxsZmZY2GAAAwMjZWmZegx2MzMLmxMDAYGLwAziRjZAZWALzAAAAAAAAAzwCA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMjx2MzMLmxMDAYGLwAziRjZAZWALzAAAAAAAAgZYB",
 				},
 			},
 			[266] = {
@@ -321,17 +321,17 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "EC Mythic | Elunes Chosen",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLDYzYGNDjZmFz2MzsMmBAAAAAAMMGwy2MbYMLDgpAAAAbwAwmZwA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLDYzYGNDzMzsY2mZmlxMAAAAAAghxAW2mZDjZZAMFAAAYDGA2MwA",
 				},
 			},
 			[105] = {
 				[0] = {
 					label = "Mythic - Lifebloom Recommended | Wildstalker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbwYDmMMzMmFzyMDzYmZAAAAAAAgBAACAAY2mZrZbmFbMmBGmFQD",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbQ2gJDzMjZxsMzYZGzMDAAAAAAAMAAQAAAz2MbNbzsYjxMwwsAaA",
 				},
 				[1] = {
 					label = "Mythic - Rejuv | Wildstalker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYZbmZmxiZbMYstMzyitZAAAAAAAAAAAAsNYsBTGmZGziZZmhZMzMAAAAAAAAAAIAAgZbmtmtZWsxYGgZWAN",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYZbmZmxiZbMYstMzyitZAAAAAAAAAAAAsNIbwkhZmxsYWmZsMjZmBAAAAAAAAAABAAMbzs1sNziNGzAMzCoB",
 				},
 			},
 		},
@@ -363,7 +363,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mythic Defensive | Aldrachi Reaver",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZkZmBDzMbjxYsNDzMjZ8AGz2MzsZmZbmhZAAAAY2mBDjlNmkBzMMWWA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZkZmBDzYbMmZsNDzMjZMGz2MzsZmZbmhZAAAAY2mBDjlNmkBzMMWWA",
 				},
 				[2] = {
 					label = "Mythic Cheat | Fel-Scarred",
