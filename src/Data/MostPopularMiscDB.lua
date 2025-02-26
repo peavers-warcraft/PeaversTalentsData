@@ -39,7 +39,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Lightsmith | Mythic Build",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbMDzMmZW2mxsYGWmBmttZarxMmxMzwAzWGAwAgNgNmZmZGAEAwMzy2SLzMsBYG2MgxMA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbMDzMmZWMzMLmhlZgZbbm2aMjZMzMMwslBAMAYDYjZmZmBABAMzsst0yMDbAmhNDYMD",
 				},
 				[2] = {
 					label = "Delves | Lightsmith",
@@ -281,7 +281,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Delves/Open-World | Hellcaller / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAghZmZmZEzmhxsZmZY2GAAAwMjZWmZegx2MzMLmxMDAYGLwAziRjZAZWALzAAAAAAAAAzwCA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMjx2MzMLmxMDAYGLwAziRjZAZWALzAAAAAAAAgZYB",
 				},
 			},
 			[266] = {
@@ -353,7 +353,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "Delves | Wildstalker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZGmtZmHAzyywitZAAAAAAAAAAAAsNYmNMTGzwYWMLzMzixMDAAAAAAAgBAgAAAmtZ2a2mZxGMDYMLgG",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZGmtZmHAzyywitZAAAAAAAAAAAAsNoZDzkxMMmFzyMzsYMzAAAAAAAAYAAIAAgZbmtmtZWsBzAGziBN",
 				},
 			},
 		},
