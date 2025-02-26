@@ -343,15 +343,15 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Raid Single Target | Hellcaller / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMzMLmZGLzMzsZGzMAgZsADMLGNmBkZBsMDAAAAAAAAMmNA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzAz2MzMMbDAAAYmxMLmZGLzMzsZGzMAgZsADMLGNmBkZBsMDAAAAAAAAMmNA",
 				},
 				[1] = {
 					label = "Raid Cleave | Hellcaller / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZxMzYZmZmFzYmBAMjFYgZxoxMgMLglZAAAAAAAAgZMbA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMmZxMzYZmZmFzYmBAMjFYgZxoxMgMLglZAAAAAAAAwMmNA",
 				},
 				[2] = {
 					label = "Raid Council | Hellcaller / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAzMzMLmZGLzMzsYGzMAgZsADMLGNmBkZBsMDAAAAAAAAYMbA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzAz2MzMMbDAAAYmxMLmZGLzMzsYGzMAgZsADMLGNmBkZBsMDAAAAAAAAMmNA",
 				},
 			},
 			[266] = {
@@ -455,7 +455,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "Raid - Ramping Rejuv | Keeper of the Grove",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmBwsMzyMzwwMAAAAAgBAwAWWGLYamZZAAACYhxMDYmNMmB",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmZAmlZWmZGGmBAAAAAMAAGwyyYBTzMLDAAQALMmZAzshRD",
 				},
 			},
 		},
