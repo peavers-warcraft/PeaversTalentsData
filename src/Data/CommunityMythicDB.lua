@@ -89,7 +89,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "Mythic/AoE Sentinel",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2AbzMWmZmZmZMjZmxYMGzMmFAAAAAAAoZMjZMzMMDGGDzMMLDzsMD2AAAAAAGA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2AbzMWmZmZGjZMzMzYMGzMmFAAAAAAAoZMjZMzMMDGGDzMMLDzsMD2AAAAAAGA",
 				},
 				[1] = {
 					label = "Mythic/AoE Pack Leader",
@@ -100,12 +100,6 @@ local talentData = {
 	},
 	[4] = {
 		specs = {
-			[259] = {
-				[0] = {
-					label = "Deathstalker Mythic",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmZGmhHYAAAAAAY2gtZAAAAAAottZmhZmxYmZWmlxYwMzMzgZmZbbZMDwmZZgBsAWGmADLA",
-				},
-			},
 			[260] = {
 				[0] = {
 					label = "Fatebound Mythic Hidden Opportunity",
@@ -277,15 +271,15 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "AoE/Mythic Diabolist",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmFjxMzsYWmZZZmZAAAAgxMYmZZGwYGDLwAbDL0YBDAAAAAAghxMAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmFjxMzsYWmZZZmZAAAAgxMsMzMzAGzYYBGYbYhGLYAAAAAAAMMmBAA",
 				},
 				[1] = {
 					label = "AoE/Mythic Diabolist Shadowburn Variant",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNjxMmFDz2yMzAAAAAzMDLzMbzAGzYYBGYbYhGLYAAAAAAAMMzMAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNjxMmFzmZbZmZAAAAgZmhlZmZGwYGDLwAbDL0YBDAAAAAAghZmBAA",
 				},
 				[2] = {
 					label = "AoE/Mythic Hellcaller",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGGAMbswAAAAAAWWMz2MAAAAAAGAAAAAAAYMAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWmNjxMmFzmZZZmZAAAAghZmlZmZGLwAziRjZAMbYDDAAAAAAgZMmBAA",
 				},
 			},
 		},
@@ -295,21 +289,21 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "DefaultMythic",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWm5B2mZmZMAAAAAAALLgYmBmhBzgtZmZYWGmxysMTbbPwitxMMLAAwysMtMbzsNAAAAYYD",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMwsMzDsNzMzYAAAAAAAWWAxMDMDDmBbzMzwsMMjlZZm22egFbjZYWAAglZZaZ2mZbAAAAwgN",
 				},
 				[1] = {
 					label = "AdvancedMythic",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWmx2MzMjBAAAAAAYZBEzMwMMYGsNzMDzywM2mlZab7B2sNzMMLAAwGAAAwsNLNzMzCG2A",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMwsMjtZmZGDAAAAAAwyCImZgZYwMYbmZGmlhZsNLz022DsZbmZYWAAgNAAAgZbWamZmFMYD",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "Shado-Pan AoE/Mythic/Delve",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMjZ2mZGzMDAAAAAAAAAAAWWGmJmZYMDYhZsNzMDz2wMYZmAAYZMzYmBLzAAYDAMLzSzMzsAYG",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmZsgBYMAAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAAAmhlBAAAAAAA",
 				},
 				[1] = {
 					label = "Conduit of the Celestials AoE/Mythic/Delve",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAwyYGMDz2MAAWWmllZbmZCAAYG",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzgFMAMAAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAAAMsMAAAAAAAA",
 				},
 			},
 			[270] = {
