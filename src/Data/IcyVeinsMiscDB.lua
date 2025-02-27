@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsMiscDB = addonTable.IcyVeinsMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-27 03:37:36",
+	updated = "2025-02-27 22:24:30",
 
 	[2] = {
 		specs = {
@@ -37,7 +37,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Single-Target Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAAAAAAAAYGzYmZmZGzIzYMMzADzsMzgx8AzGmNzYmxsMzMMzMzssMGsM",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAAAAAAAAYGzYmZmZGzIzYMMzADzsMzgZY2wsZGzMzsMzMMmZmllxYsM",
 				},
 			},
 			[255] = {
@@ -127,7 +127,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Single-Target",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAghZmZmZEzmhxsZmZY2mNzwMzsYYwMDAAAAMmZWWmZ2mBMmxwCMw2wGNWwAAAAAAAYGjZAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmFzwMzsZ2MWMzAAAAAjZmtlZmlZAjZMsADsNsQjFMAAAAAAAmxYGAA",
 				},
 			},
 		},
