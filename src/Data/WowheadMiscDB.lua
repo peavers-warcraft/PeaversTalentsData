@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-21 01:33:09",
+	updated = "2025-02-27 03:17:21",
 
 	[1] = {
 		specs = {
@@ -39,7 +39,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Lightsmith | Mythic Build",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbMDzMmZWMzMLmhlZgZbbm2aMjZMzMMwslBAMAYDYjZmZmBABAMzsst0yMDbAmhNDYMD",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbMDzMmZWMjZZmhlZgZbbm2aMjZMzMMwslBAMAYDYjZZmZGAEAwMzy2SLzMsBYG2MgxMA",
 				},
 				[2] = {
 					label = "Delves | Lightsmith",
