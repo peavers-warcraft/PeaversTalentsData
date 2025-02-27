@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsRaidDB = addonTable.IcyVeinsRaidDB or {}
 
 local talentData = {
-	updated = "2025-02-27 03:37:36",
+	updated = "2025-02-27 22:24:30",
 
 	[1] = {
 		specs = {
@@ -21,7 +21,7 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Standard Raid Colossus",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAIGAAAAmZmxMzMYWmZZmZmtNzYMTDLjZYsMwwyMzgZGDDAAAAAAMzAAsstBAsYGDbwAzwCNmZB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjZaYZMDjlBGWmZGMzYYAAAAAAAzAAsstBAsYGDbwAzwCNmZB",
 				},
 			},
 		},
