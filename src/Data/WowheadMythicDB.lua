@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-27 03:17:21",
+	updated = "2025-02-27 22:24:30",
 
 	[1] = {
 		specs = {
@@ -65,7 +65,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Mythic | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRmxYYmhZZYmlZw2MzYbsMbmxYwDMzMzMzMzixglB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRmxYYmhZZYmlZw2MzYbmlZzMGDMzMzMzMzixglB",
 				},
 				[1] = {
 					label = "Mythic | Dark Ranger",
@@ -175,7 +175,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Rider M Hybrid | Rider of the Apocalypse",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGzYMzMDAYzMMLGzMzMjZGwmZzwQGY2YoxCAMDA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAMMzYGjZmZAAbgZxYmZmZMzA2MbGGyAzGDNWwAMDA",
 				},
 			},
 		},
@@ -195,7 +195,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mythic/AoEbest | Mythic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMmZsNmBAAAAAAAAAALwGMjFN2GAzEsBgZZyMwyiZmZGmxMbDLzMTWYZYMzAAMDA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMbmx2YGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAwMA",
 				},
 			},
 			[264] = {
@@ -255,7 +255,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "Mythic | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswMMjtxMbmZmZGzMjZMjZmxgZAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswMjZmtxMbmZmZGjZMYmZmBmZAAA",
 				},
 			},
 			[267] = {
@@ -276,6 +276,16 @@ local talentData = {
 				[1] = {
 					label = "Mythic - Advanced | Shado-Pan",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWmx2MzMjBAAAAAAYZBEzMwMMYGsNzMDzywM2mlZab7B2sNzMMLAAwGCAAgZbWamZmFMsB",
+				},
+			},
+			[269] = {
+				[0] = {
+					label = "Shado-pan Mythic and Raid Council | Shado-pan",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMjZ2mZGzMDAAAAAAAAAAAWWGmJmZYMDYhZsNzMDz2wMYZmAAYZMzYmBLzAAYDAaWmlmZmZBwM",
+				},
+				[1] = {
+					label = "Conduit of the Celestials Mythic and Raid Council | Conduit of the Celestials",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAwyYmBDz2MAAWWmllZbmZCCAwM",
 				},
 			},
 			[270] = {
