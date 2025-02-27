@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2025-02-27 03:17:21",
+	updated = "2025-02-27 22:24:30",
 
 	[1] = {
 		specs = {
@@ -29,7 +29,7 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Raid Single Target | Mountain Thane",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjRjZZMDjlBG2mZGzYGDDAAAAAAYGAgltNAGYDWWMaMDgZLMbA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjZaMLjZYsMww2MzwYGDDAAAAAAYGAgltNAGYDWWMaMDgZLMbA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Colossus",
@@ -41,7 +41,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Raid Punish | Mountain Thane",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjRjZZMDjlBG2mZGzYGDDAAAAAAYGAgltNAGYDWWMaMDgZLMbA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjZaMLjZYsMww2MzwYGDDAAAAAAYGAgltNAGYDWWMaMDgZLMbA",
 				},
 				[4] = {
 					label = "Raid Execute | Mountain Thane",
@@ -103,7 +103,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Raid Single Target | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GQmNsBAAAAAAAAAAAAAwMmxMzMzMmRmxYYmBGmZZmBj5BmNMbmxMjZZmZYmZmZZZMYZA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GQmNsBAAAAAAAAAAAAAwMmxMzMzMmRmxYYmBGmZZmBzwshZzMmZmZZmZYMzMLLjxYZA",
 				},
 				[1] = {
 					label = "Raid Single Target | Dark Ranger",
@@ -265,11 +265,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Raid Cleavebest | Cleave",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMDzMzMzMmZsNGAAAAAAAAAAYB2gZsox2AYmgNAYZamZwyiZmZGGzMbDLzMTghZZmBAYA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmx2wAAAAAAAAAAgFYBmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
 				},
 				[3] = {
 					label = "Raid Council | Council",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMDzMzMzMmZsNGAAAAAAAAAAYB2gZsox2AYmgNAYZamZwyiZmZGGzMbDLzMTghZZmBAYA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmx2wAAAAAAAAAAgFYBmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
 				},
 			},
 			[264] = {
@@ -357,15 +357,15 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "Raid Single Target | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswMmhtxMLmZmZGzMjhZmZmBmZAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswMzMzsNmZxMzMzYMzMYMzMgZAAA",
 				},
 				[1] = {
 					label = "Raid Single Target Cleave | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMmxsNmZzMzMzYmZGYmZmBzMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMjZmtxMbmZmZGjZMYmZmBmZAAA",
 				},
 				[2] = {
 					label = "Raid Council | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswMMjtxMbmZmZGzMjZMjZmxgZAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswMjZmtxMbmZmZGjZMYmZmBmZAAA",
 				},
 			},
 		},
@@ -399,14 +399,6 @@ local talentData = {
 					label = "Conduit of the Celestials Raid Single Target | Conduit of the Celestials",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAALjZGmhZbGAALLzyysNzMBBAwA",
 				},
-				[1] = {
-					label = "Shado-pan Mythic and Raid Council | Shado-pan",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMjZ2mZGzMDAAAAAAAAAAAWWGmJmZYMDYhZsNzMDz2wMYZmAAYZMzYmBLzAAYDAaWmlmZmZBwM",
-				},
-				[2] = {
-					label = "Conduit of the Celestials Mythic and Raid Council | Conduit of the Celestials",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAwyYmBDz2MAAWWmllZbmZCCAwM",
-				},
 			},
 			[270] = {
 				[0] = {
@@ -425,11 +417,11 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Raid Single Target | Keeper of the Grove",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMgZWGLzMYwYbsMz2MWYmZGzyMmZMjxGWYAGgttxCmmZWGBAAAYzMzMDYzYYA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMwDYWGLzMDwMbjlZ2mxCzMzYWmxMjZM2wCDwAstNWw0MzyIAAAAbmZmZAbGYA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Keeper of the Grove",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMgZWGLzMYwwMLzsNjFmZmZmlZMzYGjNswAMAbbjFMNzsMCAAAwmZmZA2MGG",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMwDYWGLzMDwMmZZmtZswMzMzsMjZGzYshFGgBYbbsgpZmlRAAAA2MzMDwmBG",
 				},
 			},
 			[103] = {
