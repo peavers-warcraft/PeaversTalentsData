@@ -2,14 +2,14 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-27 03:17:21",
+	updated = "2025-02-27 22:24:30",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "Delves/Leveling/Open World | Colossus",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwYmZMjZMzsNbLLjZAAAAYw0ADLzYGYsMmZGMzwwYYGGAAAAAAAMjZbwAsFDgNzYYBGYGtRDMsA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZGzYGjZb2WWGzAAAAwgphxsMzMMWGzMjNzMDzghBAAAAAAgZMbjxAslZALmxwCMwMajGwC",
 				},
 			},
 			[72] = {
@@ -93,7 +93,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "Sentinel Single Target | Sentinel",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxoxyAY2C2mZmtZMzMmZGDMGmZmZmZbAAAAAAAQzwYGzMzYGmhxwMDjhZMzwGAAAAAwAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxoxyAY2C2mZmtZMzMmZGDMGmZmZmZbAAAAAAAQzwwYmZGzwMMGmZYMMzyMDbAAAAAADA",
 				},
 				[1] = {
 					label = "Delves | Sentinel",
@@ -287,7 +287,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "Delves / Open World | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMmxsNmZzMzMzYmZGYmZmBzMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMjZmtxMbmZmZGjZMYmZmBmZAAA",
 				},
 			},
 			[267] = {
