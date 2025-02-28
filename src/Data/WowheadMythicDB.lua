@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-02-28 19:52:22",
+	updated = "2025-02-28 23:00:11",
 
 	[1] = {
 		specs = {
@@ -91,7 +91,7 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "Mythic Build Play this | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMGjZYmZmhxsNMzYbbmZMzMjBjlZZAAAAYGMAGzmhBGYW0CtYDG",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZhxy0YGzMmxYMDzMzMMmthZmZbbmZMzMjBjlZZAAAAYGMAGzmhBGYW0CtYDG",
 				},
 				[1] = {
 					label = "Mythic Build | Deathstalker",
@@ -145,7 +145,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mythic Shattered Frost | Rider of the Apocalypse",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZmxYYmZmZmZGGmJzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAAsYWMMwAzmGaYDzMGzMA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZmxMDjZmZmZGGmJzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAAsYWMMwAzmGaYDzMGzMA",
 				},
 			},
 			[252] = {
