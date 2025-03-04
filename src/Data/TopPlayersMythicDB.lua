@@ -137,7 +137,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Siege of Boralus",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZmZmtxMGAAgBAAAAAAg2yMzihZmxYwWbAADAwAbDAAAAYmZZbplZGLMYAYwMbYA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZmZmtxMGAAgBAAAAAAg2amZWMMzwYG0GAwADAw2AAAAAmZW2WaZmxCDGAGMzGG",
 				},
 				[6] = {
 					label = "The Dawnbreaker",
