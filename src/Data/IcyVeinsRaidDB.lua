@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsRaidDB = addonTable.IcyVeinsRaidDB or {}
 
 local talentData = {
-	updated = "2025-02-28 19:52:22",
+	updated = "2025-03-04 00:57:09",
 
 	[1] = {
 		specs = {
@@ -40,8 +40,8 @@ local talentData = {
 		specs = {
 			[256] = {
 				[0] = {
-					label = "Oracle Raid",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2MPwMzMzMmZmhZ2YbmZmZGAAAAAAAAAAAzysMbDmZGMLMmhZMYhtZaMxyAwMLYjwY2GgxGWAA",
+					label = "Voidweaver Raid",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2MPwMmZmxMzMjZ2YbmZmZGAAAAAAAAAAAzysMbDmZGjZhxMYMYhtZaMxyAmZAgAMbz2CYsZDA",
 				},
 			},
 			[257] = {
@@ -63,7 +63,7 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "Raid Build",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYYGzMzMNjZmZGzYAAAAAAAAAMzMzwYwMAgZzMMbzYmZmxMDwmZxwADMbM0YBAmBA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYYGzMzMNjZmZGzYAAAAAAAAAMzMzwYMmBAMbmhZZGzMzMMDDMwMGNWWAsMYDAmBA",
 				},
 			},
 		},
