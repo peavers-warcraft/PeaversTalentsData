@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-28 23:00:11",
+	updated = "2025-03-04 00:22:41",
 
 	[1] = {
 		specs = {
@@ -177,7 +177,7 @@ local talentData = {
 			[251] = {
 				[0] = {
 					label = "Delves | Rider of the Apocalypse",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGzMjxYYmxMzMzMGzMZGYghZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY20QDbYmZGzMA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGzMjxMDjxMzMzMGzMZGYghZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY20QDbYmZGzMA",
 				},
 			},
 			[252] = {
@@ -241,7 +241,7 @@ local talentData = {
 			[264] = {
 				[0] = {
 					label = "Delve | Totemic",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzYmhZZsYGLsALwMW0YbAZGYjZGbMz2MzMystwMTjZGGYZGzgZZYWGDAAA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzYmhZZsYGLsALwMW0YbAZGYjZGLMz2MzMystwMTjZGGYZGzgZZYWGDAAA",
 				},
 			},
 		},
@@ -261,11 +261,11 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Delves | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMLmtZBzMmZWgHwMDjpZGzAAAAAAwAAgAmZ2WWWmZiFAAAAAA2AYZMMzsMLDDzMzwMzMzMjZMG",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjZxsNLYmxMzCwMzYMNPwYGAAAAAAGAAEwMz2yyyMTsAAAAAAwGALjhZmlZZYYmZGmZmZmZMjxA",
 				},
 				[1] = {
 					label = "Open World | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMLmtZBzMmZWgHwMDjpZGzAAAAAAwAAgAmZ2WWWmZiFAAAAAA2AYZMMzsMLDDzMzwMzMzMjZMG",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjZxsNLYmxMzCwMzYMNPwYGAAAAAAGAAEwMz2yyyMTsAAAAAAwGALjhZmlZZYYmZGmZmZmZMjxA",
 				},
 			},
 			[63] = {
@@ -287,17 +287,17 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "Delves / Open World | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMjZmtxMbmZmZGjZMYmZmBmZAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswYMzsNmZzMzMzYMjhZmxMYmZAAA",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "Single Target | Diabolist",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmNzwMzsY2MWMzAAAAAzMDLzMzMgxMGWIDsNsQjFMAAAAAAAGzMzAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFzwMzsY2MWMzAAAAAjZmtlZmlZAjZMsQGYbYhGLYAAAAAAAMjxMAA",
 				},
 				[1] = {
 					label = "Cleave build | Diabolist/Hellcaller",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgxMzMzMjY2MwsZmZYWmNzwYmFzmZbxMDAAAAMzMsMzMzYBGYWMaMDgZL2wAAAAAAAYMzMDAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFDmZmFzmZZxMDAAAAMmZ2WmZWmxCMwsY0YGAzWshBAAAAAAwMGzAA",
 				},
 				[2] = {
 					label = "Open-world/delves | Diabolist",
@@ -343,11 +343,11 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "Open-World | Elunes Chosen",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYMzMzyMMmZMGLMMzsYZAMMaGmZmZxsNzMLjZAAAAAAAjZmBssNzGGzyAYKAAAwGMAsZGM",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYMzMzyMMmZMGLMMzsYZAMMaimZmlZ2mZmlxMAAAAAAgxMzAW2mZDjZZAMFAAAYDGA2MzwA",
 				},
 				[1] = {
 					label = "Delves | Elunes Chosen",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMWmHYMjZMzYhhZmFLDYxYGNDjZmFz2MzsMmBAAAAAAMMmBW2mZDjZZAMFAAAYDGA2MDG",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMWmhZMjZGLMMzsYZALGzoZYMzsY2mZmlxMAAAAAAghxMwy2MbYMLDgpAAAAbwAwmZwA",
 				},
 			},
 			[105] = {
