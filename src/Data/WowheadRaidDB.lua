@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2025-03-04 00:22:41",
+	updated = "2025-03-04 00:57:09",
 
 	[1] = {
 		specs = {
@@ -199,6 +199,14 @@ local talentData = {
 					label = "Raid Cleave | Archon",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAgBzMDAAAAAAAAAAAghZxDMmZmtBzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA",
 				},
+				[2] = {
+					label = "Raid Single Target | Voidweaver",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbGmZmFbzMzMGzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mttgZjFA",
+				},
+				[3] = {
+					label = "Raid Cleave | Voidweaver",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAmZGAAAAAAAAAAAAMMbGmZmFbzMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgZmZAgAMbz2WwsxCA",
+				},
 			},
 		},
 	},
@@ -253,19 +261,19 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "Raid Cleave | Cleave",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYZmx2sMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYZmxysMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
 				},
 				[1] = {
-					label = "Raid Councilbest | Council",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYZmx2sMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
+					label = "Raid Council | Council",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYZmxysMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
 				},
 				[2] = {
 					label = "Raid Cleavebest | Cleave",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmx2wAAAAAAAAAAgFYBmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmx2wAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
 				},
 				[3] = {
-					label = "Raid Council | Council",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmx2wAAAAAAAAAAgFYBmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
+					label = "Raid Councilbest | Council",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmx2wAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
 				},
 			},
 			[264] = {
