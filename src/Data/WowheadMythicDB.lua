@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-03-04 00:22:41",
+	updated = "2025-03-04 00:57:09",
 
 	[1] = {
 		specs = {
@@ -121,7 +121,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mythic | Voidweaver",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAMegZxDMmZmlZbMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmNWAA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsYbmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMzMDAEgZb22CmNWAA",
 				},
 			},
 		},
@@ -191,11 +191,11 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "Mythic/AoE | Mythic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZGzMLzM2mlBAAAAAAAAAYDwmZMsRWgZYoBLAYWmMDssYmZmhZMz2wyMzkFWGGzMAAjB",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbkFYGGawCAmlJzALLmZmZYGzsNsMzMZhlhxMDAwYA",
 				},
 				[1] = {
 					label = "Mythic/AoEbest | Mythic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMbmx2YGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAwMA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMbmxyYGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAwMA",
 				},
 			},
 			[264] = {
