@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsMiscDB = addonTable.IcyVeinsMiscDB or {}
 
 local talentData = {
-	updated = "2025-02-28 19:52:22",
+	updated = "2025-03-04 00:57:09",
 
 	[2] = {
 		specs = {
@@ -21,7 +21,7 @@ local talentData = {
 			[70] = {
 				[0] = {
 					label = "Templar Single-Target",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzYbGMbDjZZGGGMjZYZhNAAAYmptZZ2mBAsBMAYMmhZA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzYbGMbDzysNDDDmhhlF2AAAgZm2mlZbGAwGwAgxYGmB",
 				},
 			},
 		},
@@ -31,7 +31,7 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Single-Target Pack Leader",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmlxDMLzMDmZMzwCzYmxYmxEjZMzMzMjZGzYGDzMwgxMDbAAAAAAAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmlxDMLzMDmZMzwCzYmxYmxkZMjZmZGjZGzYGDjBmBLzMsBAAAAAAA",
 				},
 			},
 			[254] = {
@@ -153,7 +153,7 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Single-Target",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBMzCLzMDzwMGLzsNjFmZmZmlZMzYmZshFGgBYbbsgpZmlBAAAAbMjBYzAD",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUGNjxMDwswyMzgxMz2YZmtZswMzMmlZMzYGjNsxAMAbbjFMNzsMAAAAYjZmZAbGDD",
 				},
 			},
 			[103] = {
