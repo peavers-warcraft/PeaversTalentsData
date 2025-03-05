@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsRaidDB = addonTable.IcyVeinsRaidDB or {}
 
 local talentData = {
-	updated = "2025-03-04 00:57:09",
+	updated = "2025-03-05 11:32:23",
 
 	[1] = {
 		specs = {
@@ -79,11 +79,11 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "Raid / Single Target - Totemic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzM2GAAAAAAAAAAgFYBmxiGbDgZAbAwy0MzglFzMzMMmZ2GWmZmADzyMDAwA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzMWGAAAAAAAAAAgFYBmxiGbDgZAbAwy0MzglFzMzMMmZ2GWmZmADzyMDAwA",
 				},
 				[1] = {
 					label = "Raid / Single Target - Stormbringer Recommended",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmx2sNAAAAAAAAAAbA2MjhNYBmhhGsAALTzMDWWMzMzwYmZbYZmZCMMLzMAAjB",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmxysNAAAAAAAAAAbA2MjhNYBmhhGsAALTzMDWWMzMzwYmZbYZmZCMMLzMAAjB",
 				},
 			},
 			[264] = {
@@ -131,7 +131,7 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Fel-Scarred Raid / Single-Target",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjZmJmZGAAAAAAwsNzMMwMbzMzmtZZMMzMMW2mtZwwYZjJMMzMDsA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjZmJmZGAAAAAAwsZMbzwMzsNzMb2mlxwMzwYZb2mBDjlNmwwMzAWA",
 				},
 			},
 		},
