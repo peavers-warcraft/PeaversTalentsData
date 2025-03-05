@@ -2,18 +2,18 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsMythicDB = addonTable.IcyVeinsMythicDB or {}
 
 local talentData = {
-	updated = "2025-03-04 00:57:09",
+	updated = "2025-03-05 11:32:23",
 
 	[7] = {
 		specs = {
 			[263] = {
 				[0] = {
 					label = "AoE / Mythic - Totemic Recommended",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMmZsNmBAAAAAAAAAALwGMjFN2GAzA2AwsMZGYZxMzMDzYmthlZmJLsMMmZAAmB",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMbmxyYGAAAAAAAAAAsAbwMW0YbAMDYDAzykZglFzMzMMjZ2GWmZmswywYmBAYGA",
 				},
 				[1] = {
 					label = "AoE / Mythic - Stormbringer",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMjZYmZGzMLzM2mlBAAAAAAAAAYDwmZMsBbwMM0gFAMLTGwyiZmZGmxMbDLzMTWYZsMmZAAGD",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbwCMDDNYBAzykZglFzMzMMjZ2GWmZmswywYmBAYMA",
 				},
 			},
 		},
