@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsMiscDB = addonTable.IcyVeinsMiscDB or {}
 
 local talentData = {
-	updated = "2025-03-04 00:57:09",
+	updated = "2025-03-05 11:32:23",
 
 	[2] = {
 		specs = {
@@ -69,6 +69,10 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Single Target",
+					talentString = "filesystemArtistId",
+				},
+				[1] = {
+					label = "Single Target",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghBzYMzMmZYGzMz0MjhZGzYGAAAAAmZmZmZmZmNzMjBAAAzMzMDAAAYstNwAWALDTghFAMYD",
 				},
 			},
@@ -79,11 +83,11 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "Delves - Stormbringer",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzCmxMz2MzMDjZmllxAAAAAAAAAAwGAbmxwGsAzwQDWAwsMZALMmZGmZmZZYZmZyCLjlxMDAgxA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbwGMDDNYBAzykBssYmZmhZMz2wyMzkFWGLjZGAgxA",
 				},
 				[1] = {
 					label = "Delves - Totemic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMmZsNmBAAAAAAAAAALwGMjFN2GAzA2AwsMZGYZxMzMDzYmthlZmJYZsMmZAAmB",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMmZsMmBAAAAAAAAAALwGMjFN2GAzA2AwsMZGYZxMzMDzYmthlZmJYZsMmZAAmB",
 				},
 			},
 		},
@@ -136,6 +140,10 @@ local talentData = {
 		specs = {
 			[268] = {
 				[0] = {
+					label = "Delves/Open-WorldTalents",
+					talentString = "lastFmArtistProcessingComplete",
+				},
+				[1] = {
 					label = "Delves/Open-WorldTalents",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzgxyMz2MzMDAAAAAAALLgYmBmhBzglZmZMzywM2mlZaZzitxMMLAAwGAAAwsNLNzMzCzwG",
 				},
