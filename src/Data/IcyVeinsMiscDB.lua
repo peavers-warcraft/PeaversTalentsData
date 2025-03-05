@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.IcyVeinsMiscDB = addonTable.IcyVeinsMiscDB or {}
 
 local talentData = {
-	updated = "2025-03-05 11:32:23",
+	updated = "2025-03-05 13:13:05",
 
 	[2] = {
 		specs = {
@@ -68,10 +68,6 @@ local talentData = {
 		specs = {
 			[250] = {
 				[0] = {
-					label = "Single Target",
-					talentString = "filesystemArtistId",
-				},
-				[1] = {
 					label = "Single Target",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghBzYMzMmZYGzMz0MjhZGzYGAAAAAmZmZmZmZmNzMjBAAAzMzMDAAAYstNwAWALDTghFAMYD",
 				},
@@ -140,10 +136,6 @@ local talentData = {
 		specs = {
 			[268] = {
 				[0] = {
-					label = "Delves/Open-WorldTalents",
-					talentString = "lastFmArtistProcessingComplete",
-				},
-				[1] = {
 					label = "Delves/Open-WorldTalents",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzgxyMz2MzMDAAAAAAALLgYmBmhBzglZmZMzywM2mlZaZzitxMMLAAwGAAAwsNLNzMzCzwG",
 				},
