@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.UggRaidDB = addonTable.UggRaidDB or {}
 
 local talentData = {
-	updated = "2025-03-05 13:13:05",
+	updated = "2025-03-05 22:02:28",
 
 	[1] = {
 		specs = {
@@ -13,7 +13,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Broodtwister Ovinax",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAYYmZMjZMzsNbLLjZAAAAYwYYmhlZMDMziZmZwMDDDMDDAAAAAAAmxsNYA2wAYzMGWgBmhNMAWA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAAzYmZMjxsNbLLzMDAAAADGDzMsMjZgxywMjFzMMMwMMAAAAAAAYGzyMjBYBAsZGDbwAzwGGMYB",
 				},
 				[2] = {
 					label = "Queen Ansurek",
@@ -93,7 +93,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZwMbzMLmxsMzwyMwstNjNMjZMzMMwsxAAGwgNgNmZGzMLz2MzsYAAAAWAAbMGGzA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbmZwMmZWMzMLzMsMDYbbGbwYGzMDDMbMAgBMYDYjZmxMzysNzMLGAAAgFMA2YMMmZA",
 				},
 				[4] = {
 					label = "Ulgrax the Devourer",
@@ -203,7 +203,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Ulgrax the Devourer",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYstMwAGwswGwYBAAAAAADAAAAAAwMz2MGzMzgZGDzYmhZMmZmhZYMzMzMjZGzwYYmBmhZZGsB",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswGwYBAAAAAADAAAAAAwMz2MGzMmhZGDzYmhZMzMmhZYMjZmZMzYGGDzMMmhZZGsB",
 				},
 				[5] = {
 					label = "Sikran Captain of the Sureki",
@@ -339,7 +339,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Queen Ansurek",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAALAbzwMzYmxsNjZmxYZGWGAAAAwysMbMbzMAMmZmZmxMbgZmhZBAzsgFgxsMAjFYB",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAYZYGLPwgZmZMwMmhxyMzsMAAAAAWmthlZGYWYWmxMjxYhNmZGmFAMzCWAGzyAMWgFA",
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
@@ -589,7 +589,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Queen Ansurek",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbsNLeAzwYWMMzMDjxYMDmZYGmZmZmZMzMzMjZmZMzsMjZmlZBAAAWAAAAAAAAAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZYMGjZGzMjZmhHYmZmhZmZmZmZGYmlZMzsNLAAAwCAAAAAAGAAAAAAAAA",
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
@@ -649,7 +649,7 @@ local talentData = {
 			[63] = {
 				[0] = {
 					label = "Rashanan",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbWwMMzsYgZmxYMzYmBAAAAAwMLzYmZZWAAAALmZmZmZMGzMzixMjZwMzyMWYBAAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsYgZGGjZGzAAAAAAwMLzYmZZWAAAALGzgZmZMzMWMLjxMPAmZZGMLMDAAAAAAAA",
 				},
 				[1] = {
 					label = "Broodtwister Ovinax",
@@ -699,7 +699,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzAz2MzMMLDAAAYmxMLmZGLzMzsZGzMAgZsBDMLGGzAYWALzAAAAAAAAAzY2A",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZgZzAz2MzMMbDAAAYmxMLmZGLzMzsYmZmBAMjFYgZxwYGAzCYZGAAAAAAAAwY2A",
 				},
 				[4] = {
 					label = "Ulgrax the Devourer",
@@ -903,15 +903,15 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "Rashanan",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMMDmZGjhxsNzgx2Mm5BmxMDzMmZsNmhZYGAAAAmtZwwYZjBGMzMDLA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZwMzghZmtxYG2mxMzwMeAjZbmZ2MzsNzwMAAAAMbzghx2CDMYmZwC",
 				},
 				[1] = {
 					label = "Broodtwister Ovinax",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMMDmZGjhxsNzgx2Mm5BmxMDzMmZsNmhZYGAAAAmtZwwYZjBGMzMDLA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZwMzghZmtxYG2mxMzwMeAjZbmZ2MzsNzwMAAAAMbzghx2CDMYmZwC",
 				},
 				[2] = {
 					label = "Queen Ansurek",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMzMjhZwMzghZmlxYG2mxMzwMjhZZmZ2MzYmBDAAAAz2MYYstwADmZYsA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZwMzghZmtxYG2mxMzwMeAjZbmZ2MzsNzwMAAAAMbzghx2CDMYmZwC",
 				},
 				[3] = {
 					label = "The Bloodbound Horror",
