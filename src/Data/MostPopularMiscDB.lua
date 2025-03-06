@@ -245,7 +245,7 @@ local talentData = {
 			[264] = {
 				[0] = {
 					label = "Delve | Totemic",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzYmhZZsYGLsALwMW0YbAZGYjZGLMz2MzMystwMTjZGGYZGzgZZYWGDAAA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAZGYjZGLWMbzMzIz2CzMNmZYglZMDmlhZZMAAYA",
 				},
 			},
 		},
