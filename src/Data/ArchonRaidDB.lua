@@ -9,7 +9,7 @@ local talentData = {
 			[71] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwMmZGzYmZzyyyMDAAAAGMNMzsMzMMjBzYzMzghZYAAAAAAA4BGzyMzMAyYstNwCYAzwEYgN",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwMmZGzYegZbWWWmZAAAAwgphZmlZmhZMYGbmZGMMDDAAAAAAAPwY2mZmBQGjttBWADYGmADsB",
 				},
 			},
 			[72] = {
@@ -21,7 +21,7 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAIGAAAAmZmxMzMYWmZbmZmtNGjRjZZMDzsMmZGWmZGzADDAAAAAAMzAAsttBAsZGDbwAzwCNYB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstxYMTjZZMDjlxMzwyMzwMYYAAAAAAAzAAsstBAsZGDbwAzwCNYB",
 				},
 			},
 		},
@@ -31,19 +31,19 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALzMDmxMDzMzyMjHYZA22mJhxMmZGGY2yAAGwgNgNmlZmZmlZbmZ2aAAAAWwAYxMGGzA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZwMmZW2MzsMzwyMwstZaLmxMmZGGY2yAAGwgNgNmlZMzsMbzMzSDAAAwCGAbGGGzA",
 				},
 			},
 			[66] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsMmZMzyMLjZmZmx2MmhhZGDAAwAAAAAAAQamZ2MMzwYmxWAAGYAA2GAAAAwMzy2SbzMWMDGAGMDjB",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsMzMjZWmZhZmZmxmZmhBDDAAwAAAAAAAQbNzMbGmBjZmZLAADMAGYbAAAAAzMLbLtNzYxADAjhhxA",
 				},
 			},
 			[70] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAYkmZzwMjtZwsNMLz2MMMYwwyCbAYAAmZabWmtZAAbADAmZMMG",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzYbGMbDzysNDDDmhhlF2AAAgZm2mlZbGAwGwAgxYGmB",
 				},
 			},
 		},
@@ -53,10 +53,14 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmtxDMLzMDmZMzwCzYmxYmxkZYmZMzMjZGzwYYMMLDGzMsBAAAAAAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmlxDMLzMDmZMzwCzYmxYmxkZMjZGzYMzYGGjZMYZGsMDzGAAAAAAA",
 				},
 			},
 			[254] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAAAAAAAAYGzYmZmZGzIzYMMzADzYmhtZGzGLzmZMzYWmZGGzMzy2YwyA",
+				},
 			},
 			[255] = {
 			},
@@ -65,13 +69,17 @@ local talentData = {
 	[4] = {
 		specs = {
 			[259] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLDWmBAAAAAg22mZGMzgZmZZ2mZmxAjZmZGzsZZMDwmZZgBsAWGmADLA",
+				},
 			},
 			[260] = {
 			},
 			[261] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxwYMDzMzMjxsNMzYbbmZmZmZAjlZbAAAAYGMAGzmhBGY2YhWsBD",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxwYMDzMzMjxsNMzYbbmZMzMjBjlZbAAAAYGMAGzmhBGYWYhWsBD",
 				},
 			},
 		},
@@ -87,13 +95,13 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAGjxsNzMjZYYGmZbmxMAAAAwsYZ2G2mZGMLMmxMjBLLwMmaWAAmZzywsYAIjBbGzsN",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAwYMmtZmZMDjHYGmZbmxMAAAAwsYZ2G2mZGMLMLzYMGssAzQNLAAzsZZYWMAkxgNMz2A",
 				},
 			},
 			[258] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAzMzAAAAAAAAAAAAghZzwMzsYbmZmxsNzMGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stBmNWAA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAmZGAAAAAAAAAAAAMMbGmZmFbzMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgZmZAgAMbz2GY2YBA",
 				},
 			},
 		},
@@ -103,7 +111,7 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghZMzMjZMGjlZMzMTzwwMzMjBAAAAAzMzMzYmZ2MzMGAAAMzMzMAAAADMwMGNW2AsNgNAGYD",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghBzYMjZmZYGzMz0MjhZGzYAAAAAwMzMzMzMzsZmZMAAAYmZmZAAAAGYgZMassBYbAbAMD2A",
 				},
 			},
 			[251] = {
@@ -113,23 +121,31 @@ local talentData = {
 				},
 			},
 			[252] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAMzMzwYwMAgZzMMbzYmZmxMDwiZxwADMbM0YBAmBA",
+				},
 			},
 		},
 	},
 	[7] = {
 		specs = {
 			[262] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJwsAAmlpZGYbZMmGMzMLYZmZGbGDzyMzMzMDzsBA",
+				},
 			},
 			[263] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmxysNAAAAAAAAAAbA2MjhNYBmhhGsAALTzMDWWMzMzwYmZZYZmZCMMLzMAAjB",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzMWGAAAAAAAAAAgFYDmxiGbDgZAbAwy0MzglFzMzMMmZ2GWmZmADzyMDAwA",
 				},
 			},
 			[264] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZM2mlxmhFWgFYGbasMAmB2YMzilx2MzMTmtFzMTjZYGYZmxgxMmlxAAgB",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZMWmlxihFWgFYGbasMAmB2YMzilx2MzMTmtFzMTjZYmNsMjZwYYWGDAAG",
 				},
 			},
 		},
@@ -139,15 +155,19 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxMmFDPgZGNGzMmhZmhZYmZmZmxMzMzMmZwMzyMNzsMLAAAwCAAAAAAGAAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAAbmtZxYGzY28A8AzMjGjZGDmZGmhZmZmZGzMzMzYmBzMLz0MzysAAAALAAAAAAYAAAAAAAAA",
 				},
 			},
 			[62] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxDMzs4B4BMzwYamxMAAAAAAMAAAwMz2yyyMTsAAAAAAwGALjhZmlZZYYmZGmZmZmZMjxA",
+				},
 			},
 			[63] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxDMmNDjZGmGzMmBAAAAAgZWmpZmlZBAAAsYMDmZmxMzMLmlxYmHAzsNDmFMAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsYgZGmGzMmBAAAAAgBAMzMtMLLzAAsZMDGzMmZMLmlxMmZYmtZYmFMAAAAAAA",
 				},
 			},
 		},
@@ -157,11 +177,15 @@ local talentData = {
 			[265] = {
 			},
 			[266] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZYhGWYmZmZ2GzsYmZmZMmZGMmZGwMAAA",
+				},
 			},
 			[267] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZY2mFDmZmFzmZZxMDAAAAMzMsMzsMjFYgZxoxMAmNshBAAAAAAwYmZGAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmNDmZmFzmZZxMDAAAAMzMsMzsMjFYgZxoxMAmNshBAAAAAAwYmZGAA",
 				},
 			},
 		},
@@ -169,13 +193,21 @@ local talentData = {
 	[10] = {
 		specs = {
 			[268] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMjBAAAAAAYZBjYmBmhxmZw2MzMMbjZGbWMtt8Abz2MzwsAAAbAAAAz2s0MzMLMDLA",
+				},
 			},
 			[269] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAALjZGmZMbzAAYZZWWmtZmJAAAA",
+				},
 			},
 			[270] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZhZgN2mxMzC2sNbzMb2mlttZmlFGamZGYGmBD2mZmhZbMGmFTAAAAAAALWmllZbmZCAAWA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZhZMshZMzsMshtZmNbzy2yMzyCzoZmZgZYGGYZmZGmtxYwiJAAAAAAgFLzyysNzMBAAbA",
 				},
 			},
 		},
@@ -185,17 +217,25 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUzs1MmZmBYWYZmZwwYbmlZ2mxCzMzYWmxYMjxGWYAGgttxCmmZWGAAAAsZmxMgNDM",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUzs0MmZmBYWYZmZwwYbmlZ2mxCzMzYWmxYMjxGWYAGgttxCmmZWGAAAAsZmxMgNDM",
 				},
 			},
 			[103] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMbMmFzMmZ2mtHwYbmZGPwMDAAAAAwWwwAzMqZMLsMzMGzMzAAAAAAAAAAAAamlZZmZbAALwMzAYhZYA",
+				},
 			},
 			[104] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYMzMzyMMzMDGLeghZmFbDAMay0MzsY2mZGjZYAAAAAAYMzAAAAANz2sMzsMAAWYMDgFzgB",
+				},
 			},
 			[105] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbjx0MAmtxyMzwYmZAAAAAgBMAGw2yYBTzMLDAAAgFGzAMDMaA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbjx0MAmlZWmZGGmBAAAAAMAAGwyyYBTzMLDAAAgFGzMgZ2woB",
 				},
 			},
 		},
@@ -205,27 +245,35 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjxMhZGAAAAAAws9AjxMjZmZbmZ2sNLjhZmhxy2sNDGGbbMhhZmBsA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjZmJmZGAAAAAAwsZMbzwMzsNzMb2mlxwMzwYZbWmBDjtNmwwMzAWA",
 				},
 			},
 			[581] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMmZkZmxYYMbzMYsNjZegZMzwMjZGbjZYGMAAAAAbziZMMbMNwMzMsB",
+				},
 			},
 		},
 	},
 	[13] = {
 		specs = {
 			[1473] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmxyAzsMzMGmZDAAAAAAAAMDMYM1YmZGAAAAMjZ2GzMLjZGYsNjBLwyYYsMAmBxGmZA",
+				},
 			},
 			[1467] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMYGmBDYwYmGzMTmtx2MzMzYGzsMDYGzsNmZWGzADMGsALjRjtBwMAshB",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMYGmBDYwYmGzMTmtxyMzMzYGzsMDYGzsNmZWGzADMGsALjRjtBwMAshB",
 				},
 			},
 			[1468] = {
 				[0] = {
 					label = "Vexie",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAeAzMjZbeAMMzYWMzMYmBAAMzwYYMmZihBAAAMzMTMbzMzsMmBAzYGYBsAmhJwihNDD",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMbzghZmHYWwMbjZGAAgZMjhxYGhZAAAAmZmJzsNzYWmZGAMjZgFwCYGmAbwmhB",
 				},
 			},
 		},
