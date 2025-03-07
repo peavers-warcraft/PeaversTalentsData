@@ -203,7 +203,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Single Target | Sanlayn",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAMzMzwYMmBAMbmhZxYmZmxMDDMwMGNW2AsNxGAMDA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAMzMzwYMmBAMbmhZZGzMzMMDDMwMGNW2AsNxGAMDA",
 				},
 				[5] = {
 					label = "ST with Cleave | Sanlayn",
