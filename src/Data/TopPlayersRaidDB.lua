@@ -63,6 +63,10 @@ local talentData = {
 				},
 			},
 			[255] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxox2AY2AbzMz2MmZmZmZMwYYmZmxsNAAAAAAAoZMjZYmZMDGGDzMMGmZZmhNAAAAAgBA",
+				},
 			},
 		},
 	},
@@ -175,6 +179,10 @@ local talentData = {
 	[9] = {
 		specs = {
 			[265] = {
+				[0] = {
+					label = "Vexie",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZY2GAAAwMjZWmZM2MzMLMzMDAYmxyyADYAzwWghtZAAAAAAAAwMzsZA",
+				},
 			},
 			[266] = {
 				[0] = {
