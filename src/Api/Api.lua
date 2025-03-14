@@ -33,7 +33,8 @@ local PROVIDERS = {
     archon = {
         databases = {
             mythic = { db = "ArchonMythicDB", category = "mythic" },
-            raid = { db = "ArchonRaidDB", category = "raid" }
+            heroic_raid = { db = "ArchonHeroicRaidDB", category = "heroic_raid" },
+            mythic_raid = { db = "ArchonMythicRaidDB", category = "mythic_raid" }
         }
     },
     ugg = {

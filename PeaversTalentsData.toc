@@ -9,7 +9,8 @@
 ## X-Curse-Project-ID: 1198986
 
 src/Data/ArchonMythicDB.lua
-src/Data/ArchonRaidDB.lua
+src/Data/ArchonHeroicRaidDB.lua
+src/Data/ArchonMythicRaidDB.lua
 src/Data/IcyVeinsMiscDB.lua
 src/Data/IcyVeinsMythicDB.lua
 src/Data/IcyVeinsRaidDB.lua
