@@ -39,7 +39,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YGzYzMDzYwMLMzMjZYGmZbbmxMzsgZmZmZMzYZAmZGAAAIGbLDsAGwMMBGsB",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYmZzMDzYwMLMzMjZYGmZbbmxMzsgZmZmZMzYZAmZGAAAIGbLDsAGwMMBGsB",
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
@@ -171,7 +171,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGN2GAzG2AAAAAAAAAAAAAAYGzYmZmZGzIzYMMzADzsMD2GMbsMbmxMzMLzMDjZmZZZMGLD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAAAAAAAAYGzYmxMzYGZGjhZGYYmlZGWGMbmtZzMmZmZZmZYMzMLLjBLD",
 				},
 			},
 			[255] = {
@@ -181,7 +181,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Vexie",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxoxyAY2AbzMz2MmZGzMjBGDzMzMzsNAAAAAAAoZYYMzMjZYGGDzMMGmZZmhNAAAAAgBA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxox2AY2AbzMz2MmZGzMjBGDzMzMzsNAAAAAAAoZMjZmZmhZYGGDzMwwMLzgNAAAAAgBA",
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
@@ -229,7 +229,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZMzMzYYGGMjhZmZmWmxsNDAAAAAAz22MzgZmxCsMbDAAAAzMDAGzmhBGYWYhWYzA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZMzMzYYGGjZMMzMz0yMmtZAAAAAAw22MzgZmxCsMbDAAAAzMADsBzY0Y2AsNwiZA",
 				},
 			},
 			[261] = {
@@ -349,7 +349,7 @@ local talentData = {
 			[251] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxMDDzMzMzwYmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY2YohNMzMjZGA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxYYGzMzMzMGmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY2YohNMzMjZGA",
 				},
 				[1] = {
 					label = "Vexie",
@@ -389,7 +389,7 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJwsAAmtpZMMbMmJmZmZMsNzMDmtBLzMzMzMMzGA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJwsAAmtpZGMbLMzEzYmBWmxMzmxwsMzMzMzwMbA",
 				},
 				[1] = {
 					label = "Vexie",
@@ -401,7 +401,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJwsAAmtpZmBbYmphxMz2MWmZmBjhZZMzMzMMzGA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJwsAAsNNDMLLMz0wMzMbDLzYmhZZwyMzMzMDzsBA",
 				},
 			},
 			[263] = {
@@ -459,7 +459,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbsNLeAz4BGzmhxMjGj5BGzwMzwMMzMzMzYmZmZGzMYmZZmmZWmFAAAYBAAAAAADAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxMmFDPgZGNGzMmhZmhZYmZmZmxMzMzMmZwMzyMNzsMLAAAwCAAAAAAGAAAAAAAAA",
 				},
 				[3] = {
 					label = "Rik Reverb",
@@ -477,7 +477,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmNDPgZGGTzMmBAAAAAgBAAAmZ2WWWmZiFAAAAAAAwCDzMLzyYmxMzMmZmZmxwYM",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAAAmZ2WWWmZiFAAAAAAAwCDzMLzyYmxMzMmZmZmxwYM",
 				},
 				[3] = {
 					label = "Rik Reverb",
@@ -671,7 +671,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMjZmBAAAAAYLY2MMmZUzYWYZmZMGzAAAAAAAADAAAAAwsNzSz2MLbwMDALmBD",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMjZmBAAAAAYLY2MGzYUzYWGLzMjxMGAAAAAAAYAAAAAAmtZWa2mZZDmZAYhZYA",
 				},
 				[3] = {
 					label = "Rik Reverb",
@@ -699,7 +699,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmZAmlZWmZGGmBAAAAAMAAGwyyYBTzMLDAAAgFGzMgZ2woB",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjtNzyyYGAAAAAAAAAAAAbGaWYMNzAMLzsMzMMMDAAAAAYAAMgllxCmmZWGAAAALMmZAzshRD",
 				},
 				[1] = {
 					label = "Vexie",
@@ -773,7 +773,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxMbzMzMMYmZZGzMjZ2AAAAAAAAwMDMMGTNMzMAAAAYGzsNmZWGzMwMbzYwCsMGGbDgZQshxA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxMbzMzMWGYmlZMzMmZDAAAAAAAAzMwwYM1wMzAAAAgZMz2YmZZMzAzsNjBLwyYYsNAmBxGGD",
 				},
 			},
 			[1467] = {
