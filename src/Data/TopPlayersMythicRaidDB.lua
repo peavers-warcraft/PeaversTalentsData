@@ -185,6 +185,10 @@ local talentData = {
 					label = "Rik Reverb",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAAAAAAAAYGzYmxMzYGZGjhZGYYmlZGWGMbmtZzMmZmZZmZYMzMLLjBLD",
 				},
+				[4] = {
+					label = "Stix Bunkjunker",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzC2AAAAAAAAAAAAAAYGGzYmZGzoZGjhZGGzYGzMsNY2YZ2MjZmZWmZGGzMzyygxyA",
+				},
 			},
 			[255] = {
 				[0] = {
