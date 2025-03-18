@@ -289,6 +289,10 @@ local talentData = {
 					label = "Stix Bunkjunker",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMGjZYmZmhxsNMzYbbmZMzMDYsMbDAAAAzgBwY2MMwAzCL0iNMD",
 				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxwYMDzMzMjxsNMzYbbmZMzMDYsMbDAAAAzgBwY2MMwAzCL0iNMD",
+				},
 			},
 		},
 	},
@@ -602,6 +606,10 @@ local talentData = {
 				[3] = {
 					label = "Rik Reverb",
 					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MwsZmZYWGAAAwMjZWmZM2MzMLMzMDAYmxy2ADYAzwWghtZAAAAAAAAwMzsZA",
+				},
+				[4] = {
+					label = "Stix Bunkjunker",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MwsNzDMDzyAAAAmZMziZmxyMzMLmxMDAYGLwAziRjZAMLglZAAAAAAAAwMmNA",
 				},
 			},
 			[266] = {
