@@ -25,7 +25,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwMmZGzYMbzyyyMzAAAAwgphZmtZmhZMYGbmZGMMDDAAAAAAAPwYWmZmBYJM22GYBMgZYCMwG",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAwMmZGzYMbzyyyMzAAAAwgphZmlZmhxygZsZmZwwMMAAAAAAA8AjZZmZGglwYbbgFwAmhJwAb",
 				},
 			},
 			[72] = {
@@ -49,6 +49,10 @@ local talentData = {
 					label = "Stix Bunkjunker",
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMLzMDjlBzswMzMMMDzssNzYmZ2wMzMzwMzsMgHYGDAAAEGYDW2MaMDgZBGLA",
 				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYGbmZYGDmZhZmZMDzwMbbjxMzsgZmZmZMzYZYgZGAAAIGbLDsAGwMMBmhN",
+				},
 			},
 			[73] = {
 				[0] = {
@@ -65,11 +69,15 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMbzMzstxYMaMLjZYsMmZGWmZGmBDDAAAAAAYGAgttNAgNzYYDGYGWoxYB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMbzMzstxYMTjZZMDjlxMzwyMzwMYYAAAAAAAzAAsttBAsZGDbwAzwCNYB",
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoZGAAAAmZmhZmBzyMLzMzstxYMTDLzMDjlxMzwyMzgBDDAAAAAAYGAgltNAgNzYYDGYGWoxYB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjZaMLjZYsMwwyMzwMzYYAAAAAAAzAAsstBAsZGDbwAzwCNYB",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoZGAAAAmZmxMzMYWmZZmZmtNzYMTDLzMDjlBGWmZGMzYYAAAAAAAjBAsYDAYxMG2gBmhFaMWA",
 				},
 			},
 		},
@@ -97,6 +105,10 @@ local talentData = {
 					label = "Stix Bunkjunker",
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZwMmZWYmZZmxDsMDMbbmEzYGzMDDMbZAADYwGwGzyMmZWmtZmZrBAAAYBDgNGjZMD",
 				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZMDmxMzy2MzsMGWmxYstZSYWmxMzwAzSGAwAgNgNmlZMzsMbzMzSDAAAwCGAbMzwYmB",
+				},
 			},
 			[66] = {
 				[0] = {
@@ -113,11 +125,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsMmZMzy8ALjZmZmx2MzMmBDDAAwAAAAAAAQyMzihZwYmZ2CAMGwAYw2AAAMz02sMbzAAsZgBgZGGGD",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMmZMWmZmZGjNjZmZWYYAAAAAAAAAAQyMzyMjZmxYY2aDAYAAmBbDAAAAYmZZbplZGLGYAYmxMLYA",
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMjZWGLjZmZmx2MzMMYGDAAwAAAAAAAQyMzihZGGzY2CAMGYAYgBAAYmptZZ2mBAYzMYAYMMMG",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNPwMjZWGLjZmZmx2MzMMYYAAAGAAAAAAAarZmhhZGGjZ2CAMGYAMw2AAAMz02sMbzAAsZGMAMYGGD",
 				},
 			},
 			[70] = {
@@ -167,6 +179,10 @@ local talentData = {
 					label = "Stix Bunkjunker",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmtZegxMzAzMmhFzMmZMmZMZGzYGzMzYmxMMGmZYMYWmBbAAAAAAAA",
 				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmlxDMLzMDmZMzwCzYmxYmxkZMDzMzMMDzwYYmhxwMmZMbAAAAAAAA",
+				},
 			},
 			[254] = {
 				[0] = {
@@ -205,7 +221,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYgtxox2AY2AbzMz2MmZGzMjBGDzMzMzsNAAAAAAAoZYYMzMjZYGGDzMMGmZZmhNAAAAAgBA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxox2AY2AbzMzyMzMzYmZMjxYMGzMmNAAAAAAAoZMjZMzMMDzwYYmZMGmxMDbAAAAAAAA",
 				},
 			},
 		},
@@ -219,7 +235,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Vexie",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAA022MzgZGjZmZZ2mZmxAjZmZGzsZZMDwmZZgBsAWGmADLA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAA022MzMMzgZmZZ2mZmxAjZmZGzsZZMDwmZZgBsAWGmADLA",
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
@@ -228,6 +244,10 @@ local talentData = {
 				[3] = {
 					label = "Rik Reverb",
 					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmx2MAAAAAAMLwyMAAAAAA022MzMMzgZmZZ2mZmxAjZmZGzsZZMDwmZZgBsAWGmADLA",
+				},
+				[4] = {
+					label = "Stix Bunkjunker",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMMmZ2mBAAAAAgZBWmBAAAAAgsNzMYmBzMzysNzMjBGzMzMmZzyYGGsZWGYALglhJwwCA",
 				},
 			},
 			[260] = {
@@ -267,7 +287,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMGjZYmZmhxsNMzYbbmZMzMjBjlZbAAAAYGMAGzmhBGYWYhWsBD",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMGjZYmZmhxsNMzYbbmZMzMDYsMbDAAAAzgBwY2MMwAzCL0iNMD",
 				},
 			},
 		},
@@ -293,7 +313,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mxMmZMGzMMzmZZmZmZGzAAAAAAAAAAAzilZbYbmZwswYGMGjlNmpZELDAzsgNCjZZAGbYBA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2MPwMzMzMmZmhZ2YbmZmZGAAAAAAAAAAAzysMbDmZGjZhxMYMYhtZaMxyAwMLYjwY2GgxGWAA",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2MPwMzMzMGzMMz2YZmZmZGAAAAAAAAAAAzysMbDmZGjZhhBjhZZjZaMxyAwMbYjwYWGgxGWAA",
 				},
 			},
 			[257] = {
@@ -315,7 +339,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAwYMmtZmZMDjHYGmZbmxMAAAAwsYZ2G2mZGMLMLzAGjlNYmRNLAAzsZZYWMAkxgNMz2A",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAGjxsNzMjZY8AzwMbzMmBAAAAmFLz2w2MzgZhxMMjBLLPAmxUzCAwMbWGmFDAZMYDzsN",
 				},
 			},
 			[258] = {
@@ -338,6 +362,10 @@ local talentData = {
 				[4] = {
 					label = "Stix Bunkjunker",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAgBzYAAAAAAAAAAAAMMLegxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMMbGAyYsAA",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbGmZmFbzMzMGzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mtNwsxCA",
 				},
 			},
 		},
@@ -363,7 +391,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghZGzMjZMjZsMMzMTzwwMjZMAAAAAYmZmZmZGzmZmxAAAgZmZGAAAADMwMGNWWAsNgNAzMYD",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghZGzMjZMzYsMjZmZaGGmZMjBAAAAAzMzMzMzY2MzMGAAAMzMzAAAAYgBmxoxyGgtBsBwMYD",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxYmZMjZGjlZMzMTzMGmZYMAAAAAYmZmZmZmZ2MzMGAAAMzMzAAAAYgBmxoxyCglBsBwMYD",
 				},
 			},
 			[251] = {
@@ -373,7 +405,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Vexie",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxYYGzMzMzMGmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY2YohNMzMjZGA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxMDDzMzMzwYmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY2YohNMzMjZGA",
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
@@ -381,7 +413,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzYMzMGDzYmZmZmxMmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY2YohNMzMjZGA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxMDDzMzMzwYmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY2YohNMzMjZGA",
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
@@ -407,7 +439,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYsMjZMz0wMzMjZMAAAAAAAAAGmZMjxYGAgNzwsMjZmZGzMDYzsYYgBmNGasAgZGA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZGzYMmBAMbmhZZGzMzMmZGDMwMGNW2AsNYDAmBA",
 				},
 			},
 		},
@@ -433,7 +465,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJwsAAmtpZAbGzMNMzMzGWmZmZY2GmlxMzMzwMLA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJwsAAsNNzAbmZmphZmZ2YWmxMDjhZZMzMzMMzGA",
 				},
 			},
 			[263] = {
@@ -457,6 +489,10 @@ local talentData = {
 					label = "Stix Bunkjunker",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGYmZmZmZbmxyYAAAAAAAAAAgFYDmxiGbDgZAbAwy0MzglFzMzMMmZ2GWmZmADzyMDAwA",
 				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzMWGAAAAAAAAAAgFYDmxiGbDgZAbAwykZGjlNzMzMMjZ2GWmZmgthxMDAwA",
+				},
 			},
 			[264] = {
 				[0] = {
@@ -469,7 +505,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjZZZWGLGWYBWgZspxyAYGYjxMLWmZbmZmJz2iZmpxMYglZGzwYYWGDAAG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjZZZWGLGWYBWgZspxyAYGYjxMLWGbzMzMZ2WMzMNmhZ2wyMmBjhZZMAAYA",
 				},
 				[3] = {
 					label = "Rik Reverb",
@@ -477,7 +513,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZM2mlxihFWgFYGbasMAmB2YmxiFWmZmZystYmZaMDzALzMzgxwsMGAAMA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZM2mlxihFWgFYGbasMAmB2YmxiF2mZmZystYmZaMDmFsMzMDGDzyYAAwA",
 				},
 			},
 		},
@@ -539,6 +575,10 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsYgZGmGzMmBAAAAAgBAMzMtMLLzAAsZMDGzMmZMLmlxMmZYmtZYmFMAAAAAAA",
+				},
+				[5] = {
+					label = "Lockenstock",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxDMmFDjZGmGzMmBAAAAAgBAMzMtMLLzAAsZMDGzMmZMLmlxMmZYmtZYmFMAAAAAAA",
 				},
 			},
@@ -583,7 +623,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MwsZmZYWGAAAAAAAAAAzAGzYYBGYZYhGWYmxMz2YmNzMzMjxMzgxMzYwMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWGAAAAAAAAAAzAGzYYBGYZYhGWYmxMz2YmNzMzMjxMzgxMzYwMAAA",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMEzmBmNzMjZ2GAAAAAAAAAAzAGzYYBGYZYjGWYMzMz2YmFzMzMjxMzgxMzgxMAAA",
 				},
 			},
 			[267] = {
@@ -615,7 +659,7 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLYEzMwMM2Yw2MzMMbjZGbzyDMtt8Abz2MzwsAAAbAAAAz2s0MzMLMDLA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLYEzMwMM2A2mZmhZbMzYbWmptlHYb2mZGmFAAYDAAAY2mlmZmZhZYB",
 				},
 				[1] = {
 					label = "Vexie",
@@ -623,7 +667,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLYEzMwMM2Yw2MzMMbjZGbzyDMtt8Abz2MzwsAAAbAAAAz2s0MzMLMDLA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLYEzMwMM2Yw2MzMMbjZGbWmptlHYb2mZGmFAAYDAAAY2mlmZmZhZYB",
 				},
 				[3] = {
 					label = "Rik Reverb",
@@ -645,7 +689,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAALjZGmZMbzAAYZZWWmtZmJAAAA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAALjZGmhZbGAALLzyysNzMBAAYA",
 				},
 				[3] = {
 					label = "Rik Reverb",
@@ -653,7 +697,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYxMjtZmZY2GmBLzEAALjZGMMbzAAYZZWWmtZmJAAgZA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGzMYMDzyMzYmZAAAAAAAAAAAwyywImZYMDDLmhtZMDz2YmhZ5BmAAYZMzghZbGAALLzyysNzMBAAMD",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYmBjZYWmZGzMAAAAAAAAAAAwyywImZgZYYZMsNjZY2GzMMLzEAALjZGmZMbzAAYZZWWmlZmJAAAA",
 				},
 			},
 			[270] = {
@@ -675,7 +723,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZhZgN2mxMzyDwmtZbmhtZZbbmZZhZ0MzMwMMDGsNzMDz2YMYxEAAAAAAwilZZZ2mZmAAgFA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZhZgN2mxMzC2sNbzMb2mlttZmlFmRzMzAzwMYw2MzMMbMmhFTAAAAAAALWmllZbmZCAA2A",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYmlxsY2mxMzC2sNbzMY2W2mZWWYGNzMDMDzgBLzMzwsNGDWMBAAAAAAsYZW2mtZmJAAYD",
 				},
 			},
 		},
@@ -701,7 +753,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZwwMbmlZWmZWYmZGzyMGzYG2wCAGgttxCmmZWGAAAAsZmxMgNjZM",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUs1MGzMwDYWYZmZAmZzsMzyMzCzMzYWmxYGzwGWYAGgttxCmmZWGAAAAsZmxMgtlhxA",
 				},
 			},
 			[103] = {
@@ -719,7 +771,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMz8AzMAAAAAAbBDDjZG1MmlxyMGjZYAAAAAAgBGAAAAAgZbmlmtZW2gZGAWMDG",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMz8AzMAAAAAAbBzGMmZUzYWYZmZMmxAAAAAAAADAAAAAwsNzSz2MLbwMzAYxMYA",
 				},
 			},
 			[104] = {
@@ -739,6 +791,10 @@ local talentData = {
 					label = "Rik Reverb",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMjZWmZMzMjZGghZxyAzmhRTkZmlZ2mZGjZAAAAAAADMgltZ2wYWGATAAAAbGzAwmxwA",
 				},
+				[4] = {
+					label = "Stix Bunkjunker",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMzy8AjhZYGLmhZmFLDMgRTmmZmlZ2mZGjZYAAAAAAYMzAAAAANz2sMzsMAAWgBgFzgB",
+				},
 			},
 			[105] = {
 				[0] = {
@@ -747,7 +803,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Vexie",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmZAmlZWmZGGmBAAAAAMAAGwyyYBTzMLDAAAgFGzMgZ2woB",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjtNzyyYGAAAAAAAAAAAAbGaWYMNzAMLzsMzMMMDAAAAAYAAMgllxCmmZWGAAAALMmZAzshRD",
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
@@ -759,7 +815,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNoZjx0MDMmlZ2mZGGDDAAAAAAAMGwyyYBTzMLDAAAgFmZmBYgRD",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNoZjx0MD8AmlZWmZGGmBAAAAAMAAGwyyYBTzMLDAAAgFGzMgZ2woB",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDzYsZssYbGAAAAAAAAAAAAbGaWGjpZGgZZsMzMMMDAAAAAYAAMgllxCmmZWGAAAALMmZGYGY0A",
 				},
 			},
 		},
@@ -785,7 +845,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjZmJMzAAAAAAAmNjZbmxYmtZmZzysMGmZGGLbz2MYYstxEGmZGwC",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMzMzMxMzAAAAAAAmNzMbzAzsNzMbWmlxwMzwYZb2mBDjtNmwwMzAWA",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzYMzMjZmJmZGAAAAAAwsZmZbGYmtZmZDLzgZmxMW2mtZwwYZjJMMzMDsA",
 				},
 			},
 			[581] = {
@@ -804,6 +868,10 @@ local talentData = {
 				[3] = {
 					label = "Rik Reverb",
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMmZkZmBDjZbmBjtZMzDMjZGmZWmZmNzMbzMYAAAAAWmFzYY2YagZGYD",
+				},
+				[4] = {
+					label = "Stix Bunkjunker",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjZmZMMjMzMMDzMbzMMsNjZmhZYY2mZmNzMbzMYAAAAA2mNzYYWYagZGGbA",
 				},
 			},
 		},
@@ -843,7 +911,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMYADGz0MmZysNzyMmZmZGzsMDYGzsNmZ2GzADMGsALjRjtBwMAshB",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDYww0MmZysNzyMzMzYGzsMDYGzsNmZWmZGYgxgFYZMasNAmBgNMA",
+				},
+				[5] = {
+					label = "Lockenstock",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMzYmFzgBmBjZaGzMZ2GLjZmZYMzyMgZMz2YmZZMDMwMmB2ALgZYCsAWGG",
 				},
 			},
 			[1468] = {
@@ -857,7 +929,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmHYWwMbjZGAAwMDjBGzIMDAAAwMzMxsNzMzyMzAgZMDsAWAzwEYD2MMA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmHYWwMbjZGAAgZMjhxYGhZAAAAmZmJzsNzYWmZGAMjZgFwCYGmAbwmhB",
 				},
 				[3] = {
 					label = "Rik Reverb",
