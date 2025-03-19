@@ -5,7 +5,7 @@
 ## IconTexture: Interface\AddOns\PeaversTalentsData\src\Media\Icon.tga
 
 ## Author: Peavers
-## Version: 0.0.136
+## Version: 0.0.137
 ## X-Curse-Project-ID: 1198986
 
 src/Data/ArchonMythicDB.lua
