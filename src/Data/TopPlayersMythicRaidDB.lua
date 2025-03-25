@@ -817,6 +817,10 @@ local talentData = {
 					label = "Lockenstock",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLYEzMwMM2Yw2MzMMLjZGb2mptlHYb2mZGmFAAYDAAAY2mlmZmZhZYB",
 				},
+				[6] = {
+					label = "One-Armed Bandit",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAWmx2MzMDAAAAAAALLYEzMwMM2gx2MzMMLjZGbWmpttHYx2MzYmFAAYDAAAY2mlmZmZhZYB",
+				},
 			},
 			[269] = {
 				[0] = {
