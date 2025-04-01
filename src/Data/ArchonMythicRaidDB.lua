@@ -745,7 +745,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "One-Armed Bandit",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjx2sMWMsMWgFYGbasMAmB2YMzilx2MzMTmtFzMTjZYmNsMzYwYYWGDAAG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtZmZM2mtxihFWgFYGbasMAmB2YMzilx2MzMTmtFzMTjZwsglZmZwYYWGDAAG",
 				},
 				[7] = {
 					label = "MugZee",
@@ -1191,7 +1191,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgNDNbMmmZAmlZWmZGGmBAAAAAMAgxAWWGLYamZZAAAAswMzYAzGoB",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZDPAjttZWWsNDAAAAAAAAAAAgFDNbMmmZAmlZWmZGGmBAAAAAMAgxAWWGLYamZZAAAAswYGDY2woB",
 				},
 			},
 		},
