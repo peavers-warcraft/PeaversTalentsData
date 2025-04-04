@@ -595,7 +595,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxYGjZMzYsMjZmZaGmZmZMDAAAAAYmZmZmZmZ2MzMGAAAMzMzAAAAYgBmxoxyGglBsBwMYD",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxYGjZMzYYGzMz0MjZMzYGDAAAAAmZmZmZmZmNzMjBAAAzMzMAAAAGYgZMassBYbAbAMD2A",
 				},
 			},
 			[251] = {
@@ -626,6 +626,10 @@ local talentData = {
 				[6] = {
 					label = "One-Armed Bandit",
 					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxYYGzMzMzwMmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY2YohNMzMjZGA",
+				},
+				[7] = {
+					label = "MugZee",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMMjZGDzYmZmZmxYmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgNzihBGY2YohNMzMjZGA",
 				},
 			},
 			[252] = {
@@ -1401,7 +1405,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "One-Armed Bandit",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmHYWwMbjZGAAwMjZMMGzIMDAAAwMzMxsNzY2mZGAMjZgFwCYGmAbwmhB",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2mt5BwwMzMLYmNmZMAAgxMGGjZEmBAAAYmZmMz2MjZbmZAwMmB2ALgZYCsBbGG",
 				},
 				[7] = {
 					label = "MugZee",
