@@ -1,6 +1,6 @@
 local addonName, addon = ...
 
--- Initialize ConfigUI namespace
+-- Initialize ConfigUI.lua namespace
 local ConfigUI = {}
 addon.ConfigUI = ConfigUI
 
