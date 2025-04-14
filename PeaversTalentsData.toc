@@ -1,12 +1,14 @@
-## Interface: 110100, 110105
+## Interface: 110105
 
-## Title: PeaversTalentsData
+## Title: |cff3abdf7Peavers|rTalentsData
 ## Notes: Datasource for PeaversTalents and others
 ## IconTexture: Interface\AddOns\PeaversTalentsData\src\Media\Icon.tga
 
 ## Author: Peavers
 ## Version: 0.0.243
 ## X-Curse-Project-ID: 1198986
+
+## Category-enUS: Peavers
 
 src/Data/ArchonMythicDB.lua
 src/Data/ArchonHeroicRaidDB.lua
