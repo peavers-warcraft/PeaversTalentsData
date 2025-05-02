@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2025-05-02 19:26:45",
+	updated = "2025-05-02 19:46:26",
 
 	[1] = {
 		specs = {
@@ -1525,7 +1525,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "One-Armed Bandit",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMDjBmZGhZAAAAmZmJmtZmZ2mZGAMjZgFwCYGmAbwmhB",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMxsNz8Az2MzAgZMDsAWAzwEYD2MMA",
 				},
 				[7] = {
 					label = "MugZee",
@@ -1533,7 +1533,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAmZYMwYGhZAAAAmZmJmtZmZWmZGAMjZgFwCYGmAbwmhB",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAwMz2sNDGmZmZBzsxMDAAYmhx8AGjZEmBAAAYmZEzyMzMbzMPAAmxMwCYBMDTgNYzwA",
 				},
 			},
 		},
