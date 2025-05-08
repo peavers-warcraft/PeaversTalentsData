@@ -2,18 +2,18 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-03-05 22:02:28",
+	updated = "2025-05-08 19:17:30",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
-					label = "Spiky AoE Mythic | Colossus",
+					label = "Main Mythic | Colossus",
 					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZGzYGjZb2WWGzAAAAwgphZmlxMMWGzMjNzMDzghBAAAAAAgZMbjxAslZAbmxwCMwMajGwC",
 				},
 				[1] = {
-					label = "Juggernaut Mythic | Slayer",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZmZGzYMLWWWmZGAAAAGMNMzsMmhxywMjFzMDzwDMMAAAAAAAYMLzMzAsFGbbDsBGwMMhMwG",
+					label = "Alternate Mythic | Slayer",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZmZGzYMLz2yyMzAAAAwgphZmlxMMWGzMjFzMDzghBAAAAAAgZMLjxAsFGbbDsBGwMMhMwG",
 				},
 			},
 			[72] = {
@@ -23,7 +23,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Alternate Mythic | Slayer",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMbmZYGjZmZhZmZmZwwMbbzMmZmNMjZmZMzYZYwMzAAAAxYbZgNwEMDTgBbA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YYMbmZYGjZmZhZmZmZwwMbbzMmZmNMzMjZMzYZ4BwMzAAAAxYbZgNwEMDTgBbA",
 				},
 			},
 			[73] = {
@@ -43,7 +43,7 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Mythic - Avenging Wrath | Heraldbest",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbMDzMmZWMjZZmhlZgZbbm2aMjZMzMMwslBAMAYDYjZZmZmZZ2mZmlGAAQALAmhNDYMD",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMAbjZmZmxMzCjZxMjlZAbbz0WMjZMzMMwslBAMAMbAbMLzMmZZ2mZmtGAAQALAzMsYADD",
 				},
 			},
 			[66] = {
@@ -65,15 +65,19 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Mythic | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRzMGDjhZZYmlZw2MGbjlZzMzYGegZmZGzMzixglB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRzMGDjhZZYmlZw2MzYbmlZbbGjZwMzYMzMLGDWG",
 				},
 				[1] = {
 					label = "Mythic | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZjtAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbjZsNWmNzYmZGmZmZMzMLGDWG",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZhlAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbzwsZWmNzYmxsMzMMmZmltxglB",
 				},
 			},
 			[255] = {
 				[0] = {
+					label = "Pack Leader M | Pack Leader",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWIbwMM0glZmZZmZmZMjxMmZMGjZGzCAAAAAAA0MmxMmZGmBDjhZGGzYmlZwGAAAAAwAA",
+				},
+				[1] = {
 					label = "Sentinel M | Sentinel",
 					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMGzYmZmxYMmZMLAAAAAAAQzwYGzMzYGMMGmZYMjZWmBbAAAAAADA",
 				},
@@ -85,13 +89,13 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "Mythic | Deathstalker",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMzMzMzwMAAAAAAAzixsNDAAAAAAttNzMYmxYmZWmlxYwMzYGMzMbbLjZA2MLDMglglhJwwyA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWMmlZAAAAAAotlZmBzMGzMzysMYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
 				},
 			},
 			[261] = {
 				[0] = {
 					label = "Mythic Build Play this | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZhxy0YGzMmxYMDzMzMMmthZmZbbmZMzMjBjlZZAAAAYGMAGzmhBGYW0CtYDG",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZhxy0YGzMmxYMDzMzMMmtZxYmttZmxMzMGMWmlBAAAgZwAYMbGGYgZRL0iNYA",
 				},
 				[1] = {
 					label = "Mythic Build | Deathstalker",
@@ -104,14 +108,22 @@ local talentData = {
 		specs = {
 			[256] = {
 				[0] = {
-					label = "Mythic | Voidweaver",
+					label = "Oracle Mythic | Oracle",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADw2MmxYMGzgZ2MbzMzMzMzAAAAAAAAAAAWmlZbwMzgZhxMGjBLmNTjJWMAmZBLUMmlBYshFAA",
+				},
+				[1] = {
+					label = "VW Mythic | Voidweaver",
 					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
 				},
 			},
 			[257] = {
 				[0] = {
-					label = "Mythic | Archon",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGzyYmxMMzDMDjlZmZGAAAAgZZ2G2mZGMLMLzYwYswGmZqZBAYmFLTmNDAZMYDjlB",
+					label = "Oracle Mythic | Oracle",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGjxMMjZGzMzYbmZGAAAAglZZ2GMzMYWYWmxgBLsxMzUzCAmZBLEGzyAasALGjlB",
+				},
+				[1] = {
+					label = "Archon Mythic | Archon",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGjxMMjZGzMzYZmZGAAAAAzysNsNzMYWYWmxgxYhNMzUzCAwMLWmMbGAyYwmxYZA",
 				},
 			},
 			[258] = {
@@ -121,7 +133,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mythic | Voidweaver",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsYbmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMzMDAEgZb22CmNWAA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsYbmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMzMDAEgZb2WCmNWAA",
 				},
 			},
 		},
@@ -155,7 +167,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "M/Delves - No Apoc | Sanlayn",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyGgtJ2AgZA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtJ2AgZA",
 				},
 				[2] = {
 					label = "Rider M Setup | Rider of the Apocalypse",
@@ -185,17 +197,41 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "Mythic | Stormbringer",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYbWWmZmZGz2sMGMMDDAAAAAYzMG2gFYGN0YDAMbTzgxGjZaYmZGzYZGzYxsMWsYmZmxwMbDA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb2WmZmZGz2sMGMMDDAAAAAYzMG2gFYGN0YDAMbTzgxGjZaYmZGzYZGzYxsMWsYmZmxwMbDA",
 				},
 			},
 			[263] = {
 				[0] = {
-					label = "Mythic/AoE | Mythic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbkFYGGawCAmlJzALLmZmZYGzsNsMzMZhlhxMDAwYA",
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYbmxysNAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
 				},
 				[1] = {
-					label = "Mythic/AoEbest | Mythic",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmxMzMbmxyYGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAwMA",
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzMDzMzMYZmxysMAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
+				},
+				[2] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbkFYGGawCAmlJzALLmZmZYGzsNsMzMZhlhxMDAwYA",
+				},
+				[3] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbkNYGGawCAmlJDYZxMzMDzYmthlZmJLsMWGzMAAjB",
+				},
+				[4] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGGDzMzMzMbzMWGAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAgBA",
+				},
+				[5] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmxywAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
+				},
+				[6] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmZmHYmZbmxyYGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAgB",
+				},
+				[7] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwAzMzMzMmZsMmBAAAAAAAAAALwGMjFN2GAzEsBgZZyMwyiZmZGmxMbDLzMTwyYZMzAAMDA",
 				},
 			},
 			[264] = {
@@ -235,7 +271,7 @@ local talentData = {
 			[63] = {
 				[0] = {
 					label = "Mythic | Sunfury",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjhZzCmZMzsMPAMzMmGjxMDAAAAAgBCYmZaZWWmBAYzMzYmhZMzMWMmZYeAbzMbzYxsAAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjhZzCmZMzsMPAMzMmGjxMDAAAAAgBCYmZaZW2mBAYzMzYmhZMzMWMmZYeAbzMbzYxsAAAAAAAA",
 				},
 				[1] = {
 					label = "Mythic Frostfire | Frostfire",
@@ -251,17 +287,25 @@ local talentData = {
 					label = "Mythic | Hellcaller / Soul Harvester",
 					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMjx2MzMLmxMDAYGLwAziRjZAZWALzAAAAAAAAgZYB",
 				},
+				[1] = {
+					label = "Mythic | Hellcaller / Soul Harvester",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMzDM2MzMLMzMDAYmxyyADYCmhtADbzAAAAAAAAgZGLA",
+				},
 			},
 			[266] = {
 				[0] = {
 					label = "Mythic | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswYMzsNmZzMzMzYMjhZmxMYmZAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMjZmtxMbmZmZGjZmBjZmBjZAAA",
+				},
+				[1] = {
+					label = "Mythic | Diabolist / Soul Harvester",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMjZmtxMbmZmZGjZmBjZmxgZAAA",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "Mythic AoE | Hellcaller",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNDmZmFzGLLzMDAAAAMMz2yMzyMWgBmFjZMDgZL2wAAAAAAAYGDzCgB",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MMmNzMDzysZMmxsY2MbLzMDAAAAMMz2yMzy8AWgBmFjZMDgZL2wAAAAAAAYGjZAA",
 				},
 			},
 		},
@@ -271,11 +315,21 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Mythic - Standard | Master of Harmony",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWm5B2mZmZMAAAAAAALLgYmBmhBzgtZmZYWGmxysMTbbPwitxMMLAAwysMtMbzsNAAgAwwG",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWm5B2mZmZAAAAAAAYZBmYmBmhBzgtZmZYWGmxysMTbbPwitxMMLAAwysMtMbzsNAAgAwwG",
 				},
 				[1] = {
 					label = "Mythic - Advanced | Shado-Pan",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWmx2MzMjBAAAAAAYZBEzMwMMYGsNzMDzywM2mlZab7B2sNzMMLAAwGCAAgZbWamZmFMsB",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWmx2MzMDAAAAAAALLwEzMwMMYGsNzMDzywM2mlZab7B2sNzMMLAAwGCAAgZbWamZmFMsB",
+				},
+			},
+			[269] = {
+				[0] = {
+					label = "Conduit of the Celestials Mythic | Conduit of the Celestials",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAwyYmhZY2mBAwyyssMbzMTQAwA",
+				},
+				[1] = {
+					label = "Shado-pan Mythic | Shado-pan",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMAmxMmZGzMDAAAAAAAAAAAWWGGxMDjZYYhZsNzMDzGzMYZmAAYZmZYmBbzAAYDAaWmlmZmZBwM",
 				},
 			},
 			[270] = {
@@ -302,16 +356,10 @@ local talentData = {
 					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtGGzMAzCLzMWYYYmlZWmZWGzMzMzixYYmxGWYAGgttxCmmZWGBAAAYzMzMAbGzYA",
 				},
 			},
-			[103] = {
-				[0] = {
-					label = "Mythic | Druid of the Claw",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzYAAAAAAAAAAAAamlZZmZbABWgZGAWYGG",
-				},
-			},
 			[104] = {
 				[0] = {
 					label = "EC Mythic | Elunes Chosen",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLDYzwoJamZWMbzMzyYGDAAAAAAGGDYZbmNMmlBwUAAAgNjZAYzAD",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZgZMzYxMzwsYZAbGGNRmZWmZbmZWGzYAAAAAAwwYALbzshxsMAmCAAAsZMDALGYA",
 				},
 			},
 			[105] = {
@@ -330,20 +378,20 @@ local talentData = {
 		specs = {
 			[577] = {
 				[0] = {
-					label = "Mythic/Cleave Inertia | Aldrachi Reaver",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmxMzYMzMjxMZmZGAAAAAAwsYMmhZmZjZ2sNLzMYmhxy2sMDGGbbMJz4BmZYssA",
+					label = "Mythic/Cleave Low Mover | Aldrachi Reaver",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZGjZmZMmJzMzAAAAAAAmFjxMMzMbjZ2wyMDGDjltZZGMM22YSmxMzwYZB",
 				},
 				[1] = {
-					label = "Mythic/Cleave Low Mover | Aldrachi Reaver",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZGjZmZMmJzMzAAAAAAAmFjxMMzMbjZ2wyMDmZYssNLzghx2GTyMegZGGLL",
+					label = "Mythic/Cleave Exergy | Aldrachi Reaver",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmxMzYMzMjxMZmZGAAAAAAwsYMmhZmZjZ2sMLzMYmhxy2sMDGGbbMJz4BmZYssA",
 				},
 				[2] = {
-					label = "Mythic/Cleave Inertia | Fel-Scarred",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmxMzgZmZMmJzMzAAAAAAAmlhxMMzMbjZ2sNLzMYmhxyGsMbmxwsopxwMjhtN",
+					label = "Mythic/Cleave Low Mover | Fel-Scarred",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZGMzMjxMZmZGAAAAAAwsMMmhZmZbMzGWmZwYYssBLzmZMMLaaMmZGDbb",
 				},
 				[3] = {
-					label = "Mythic/Cleave Low Mover | Fel-Scarred",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZGMzMjxMZmZGAAAAAAwsMMmhZmZbMzGWmZwMDjlNYZ2MjhZRTjxDMzYYbD",
+					label = "Mythic/Cleave Inertia | Fel-Scarred",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmxMzgZmZMmJzMzAAAAAAAmlhxMMzMbjZ2sNLzMYmhxyGsMbmxwsopxwMjhtN",
 				},
 			},
 			[581] = {
@@ -357,7 +405,33 @@ local talentData = {
 				},
 				[2] = {
 					label = "Mythic Cheat | Fel-Scarred",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZkZmBDDbzMMjtZGmZmZMMz2MzsZmZbmhZAAAAAWmFzYYW00AzMD22A",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAGjxMjhZkZmBDzYbMMjtZMzMzMjBz2MzsZmZbmhZAAAAAWmFzYYW00AzMD22A",
+				},
+			},
+		},
+	},
+	[13] = {
+		specs = {
+			[1473] = {
+				[0] = {
+					label = "Mythic General Scale | Scalecommander",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZZmtZmZGmBzsMjZmxMbAAAAAAAAYmBzwYoGmZGAAAAMzMz2YmZZMzAzYGDWglxwYbAMTEbYMA",
+				},
+			},
+			[1467] = {
+				[0] = {
+					label = "Mythic | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDmZmxw0wMTmtZWmxMzMzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
+				},
+				[1] = {
+					label = "Mythic Flameshaper | Flameshaper",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmpZ2GLDGGjZWmBMzM2GzMmZGMDYMDsAWAzwEYJYZYG",
+				},
+			},
+			[1468] = {
+				[0] = {
+					label = "Echowarden Mythic | Chronowarden",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2mtBGzMjZZGzYADAAmZMjZmxYGxYAAAAmZmJjtZGjxMAAMmNLsADMjGawYBG",
 				},
 			},
 		},
