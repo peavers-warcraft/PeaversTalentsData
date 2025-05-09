@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-05-09 13:16:07",
+	updated = "2025-05-09 14:36:56",
 
 	[1] = {
 		specs = {
@@ -135,7 +135,7 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "Delves Build | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZjxy0YGzMmxYMDzMzMMmtZxYmttZmxMzMGMWmlBAAAgZwAYMbGGYgZRL0iNYA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZjxy0YGzMmZGjZYmZMMmtZxYmttZmxMzMGMWmlBAAAgZwAYMbGGYgZRL0iNYA",
 				},
 			},
 		},
@@ -236,12 +236,6 @@ local talentData = {
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxYWmlZGMGzMDAAAAwmZWgBMgZhJkZBAMLTzMmBmZmwMzMmxyMmxy2YwiZmxgZmNA",
 				},
 			},
-			[264] = {
-				[0] = {
-					label = "Delve | Totemic",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAZGYjZGLWMbzMzIz2CzMNmZYglZMDmlhZZMAAYA",
-				},
-			},
 		},
 	},
 	[8] = {
@@ -299,7 +293,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Single Target | Diabolist",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFzwMzsY2MWMzAAAAAzMDLzMLzAGzYYhMw2wCNWwAAAAAAAYMzMDAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMjZmtxMbmZmZGjZmBjZmxgZAAA",
 				},
 				[1] = {
 					label = "Cleave build | DiabolistHellcaller",
