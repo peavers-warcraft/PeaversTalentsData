@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-05-08 19:17:30",
+	updated = "2025-05-09 13:16:07",
 
 	[1] = {
 		specs = {
@@ -43,7 +43,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Delves | Lightsmith",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAMDAYGAAgBYZMDzMmZWMjZZmZsNDYbbm2aMDjxMMwslBAMAMbAbMLzMGAEAwMzy2SLzMsBMwCwMmB",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAMDAYGAAgBYZMDzMmZWMjZZmZsMDYbbm2aMDjxMMwslBAMAMbAbMLzMGAEAwMzyySLzMsBMwCwMmB",
 				},
 			},
 			[66] = {
@@ -97,7 +97,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "Pack Leader Single Target | Pack Leader",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZhlAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbzMmNWmNzYmxsMzMMmZmllxglB",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0glZmZZGzMjZmxAjhZmZmZ2GAAAAAAA0MmxMmZGmhZYMMzMGDzYmhNAAAAAAA",
 				},
 				[1] = {
 					label = "Sentinel Single Target | Sentinel",
@@ -135,7 +135,7 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "Delves Build | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmMsMGzMjxMMzMmZGz2YMjltZmxMzMGMWmlBAAAgZwAYMbGGYgZTL0iNYA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZjxy0YGzMmxYMDzMzMMmtZxYmttZmxMzMGMWmlBAAAgZwAYMbGGYgZRL0iNYA",
 				},
 			},
 		},
@@ -299,7 +299,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Single Target | Diabolist",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMjZmtxMbmZmZGjZmBjZmxgZAAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFzwMzsY2MWMzAAAAAzMDLzMLzAGzYYhMw2wCNWwAAAAAAAYMzMDAA",
 				},
 				[1] = {
 					label = "Cleave build | DiabolistHellcaller",
@@ -338,6 +338,12 @@ local talentData = {
 				[0] = {
 					label = "Delve Team | Keeper of the Grove",
 					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmxCDDzsMz2MzCzMzMzyMmZYM2wCDwAstNWw0Mz2IAAAAbMzMAbGzYA",
+				},
+			},
+			[103] = {
+				[0] = {
+					label = "Delves | Druid of the Claw",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzYAAAAAAAAAAAAamlZZmZbABWgZGAWYGG",
 				},
 			},
 			[104] = {
