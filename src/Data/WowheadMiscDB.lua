@@ -97,7 +97,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "Pack Leader Single Target | Pack Leader",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0glZmZZGzMjZmxAjhZmZmZ2GAAAAAAA0MmxMmZGmhZYMMzMGDzYmhNAAAAAAA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZhlAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbzMmNWmNzYmxsMzMMmZmllxglB",
 				},
 				[1] = {
 					label = "Sentinel Single Target | Sentinel",
@@ -112,30 +112,10 @@ local talentData = {
 	},
 	[4] = {
 		specs = {
-			[259] = {
-				[0] = {
-					label = "Delves | Deathstalker",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWMmlZAAAAAAotlZmBzMGzMzysMYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
-				},
-			},
-			[260] = {
-				[0] = {
-					label = "Keep it Rolling Single Target | Fatebound",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZMzMzYYGGjZMMzMz0yMmtZAAAAAAY22mZGMzMWglZbAAAAYmBYgNYGjGzGgtJsYA",
-				},
-				[1] = {
-					label = "Keep it Rolling Cleave | Trickster",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZGzMzYYGGMjhZmZmWmxsNDAAAAAAz22MzgZmxCsMbDAAAAzMDAGzmhhMwswCtwmB",
-				},
-				[2] = {
-					label = "Delves/Leveling/World Content | Fatebound",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMwMzYGzwMGmhhZGzMjZmptZMLzAAAAAAgttZmhHYmhFmZZWGAAAAmZGwAbwMGNmNAbTYxMA",
-				},
-			},
 			[261] = {
 				[0] = {
 					label = "Delves Build | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZjxy0YGzMmZGjZYmZMMmtZxYmttZmxMzMGMWmlBAAAgZwAYMbGGYgZRL0iNYA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsYbmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMzMDAEgZb2WCmNWAA",
 				},
 			},
 		},
@@ -236,6 +216,12 @@ local talentData = {
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjxYWmlZGMGzMDAAAAwmZWgBMgZhJkZBAMLTzMmBmZmwMzMmxyMmxy2YwiZmxgZmNA",
 				},
 			},
+			[264] = {
+				[0] = {
+					label = "Delve | Totemic",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAZGYjZGLWMbzMzIz2CzMNmZYglZMDmlhZZMAAYA",
+				},
+			},
 		},
 	},
 	[8] = {
@@ -283,7 +269,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "Delves / Open World | Diabolist / Soul Harvester",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMjZmtxMbmZmZGjZmBjZmBjZAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswMjZmtxMbmZmZGjZmBjZmxgZAAA",
 				},
 				[1] = {
 					label = "Delves / Open World | Diabolist / Soul Harvester",
@@ -375,7 +361,7 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "Echoshaper Recommended | Flameshaper",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMbzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGzyMzAgZMDsAWAzwEyGsZYA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNzyMzMzYGzsNDYmZswMz2YGYAGsALjRjtBkZQwGmB",
 				},
 				[1] = {
 					label = "Echowarden | Chronowarden",
