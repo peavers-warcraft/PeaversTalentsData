@@ -97,7 +97,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "Pack Leader Single Target | Pack Leader",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZhlAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbzMmNWmNzYmxsMzMMmZmllxglB",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0glZmZZGzMjZmxYYMMzMzY2GAAAAAAA0MmxMmZGmhZYMMzwYYGzMsBAAAAAMA",
 				},
 				[1] = {
 					label = "Sentinel Single Target | Sentinel",
@@ -135,7 +135,7 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "Delves Build | Trickster",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMwMzYGzwMGmhhZGzMjZmptZMLzAAAAAAgttZmhHYmhFmZZWGAAAAmZGwAbwMGNmNAbTYxMA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZjxy0YGzMmZGjZYmZMMmtZxYstNzMmZmxgxysMAAAAmZwAYMbGGYgZRL0iNYA",
 				},
 			},
 		},
