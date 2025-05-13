@@ -299,7 +299,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Single Target | Diabolist",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFzwMzsY2MWMzAAAAAzMDLzMLzAGzYYhMw2wCNWwAAAAAAAYMzMDAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMjZmtxMbmZmZGjZmBjZmxgZAAA",
 				},
 				[1] = {
 					label = "Cleave build | DiabolistHellcaller",
@@ -376,24 +376,6 @@ local talentData = {
 				[0] = {
 					label = "Delves | Scalecommander",
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNzyMzMzYGzsNDYmZswMz2YGYAGsALjRjtBkZQwGmB",
-				},
-			},
-			[1468] = {
-				[0] = {
-					label = "Echoshaper Recommended | Flameshaper",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMbzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGzyMzAgZMDsAWAzwEyGsZYA",
-				},
-				[1] = {
-					label = "Echowarden | Chronowarden",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMz2sNwYmZMLYmNmZAAAzMmxwYMjwMAAAAzMzkZMzYWmZGAMwY2swCMwMaoBsAD",
-				},
-				[2] = {
-					label = "Big Blossoms | Chronowarden",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2GzDMzMmBzCmZzMzYAAwMjZMMGzImZAAAAmZmJzYmxsNzAADMmNLsADMjGaALwA",
-				},
-				[3] = {
-					label = "Delves | Chronowarden",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2mtBGzMjZbGzYADAAYghZGzMxMDAAAwMzMNjFzMjZmBAgxsZhFYgZ0QDGLwM",
 				},
 			},
 		},
