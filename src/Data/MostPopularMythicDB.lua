@@ -162,26 +162,30 @@ local talentData = {
 			},
 			[252] = {
 				[0] = {
+					label = "M/Delves - Apoc | Sanlayn",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZYGjZmZAgZzMMLzYmZmZMGDMwMGNWWAsNxGAMDA",
+				},
+				[1] = {
 					label = "M/Delves - No Apoc | Sanlayn",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtJ2AgZA",
 				},
-				[1] = {
+				[2] = {
 					label = "Rider M Setup | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAMMzYGzMzMDAYDMLGzMzMMzA2MbGGyAzGDNWwAMDA",
 				},
-				[2] = {
+				[3] = {
 					label = "Rider M No Apoc | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGDzMzMDAMbmhZBzMz8AzMzA2MbGGyAzGDNWAgZA",
 				},
-				[3] = {
+				[4] = {
 					label = "Rider M No Setup | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGjZMzMDAMbmhZBzMz8AzMzA2MbGGyAzGDNWAgZA",
 				},
-				[4] = {
+				[5] = {
 					label = "Rider M All Burst | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZmxYYmZmZmphhZGzYAAAAAAAAAMMzYMjZmZAAAzixMzMzMzMgNzmhhMwsxQjFMAzAA",
 				},
-				[5] = {
+				[6] = {
 					label = "Rider M Hybrid | Rider of the Apocalypse",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGzYMzMDAYzMMLGzMzMjZGwmZzwQGY2YoxCAMDA",
 				},
