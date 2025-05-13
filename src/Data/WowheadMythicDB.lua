@@ -400,12 +400,6 @@ local talentData = {
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmpZ2GLDGGjZWmBMzM2GzMmZGMDYMDsAWAzwEYJYZYG",
 				},
 			},
-			[1468] = {
-				[0] = {
-					label = "Echowarden Mythic | Chronowarden",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2mtBGzMjZZGzYADAAmZMjZmxYGxYAAAAmZmJjtZGjxMAAMmNLsADMjGawYBG",
-				},
-			},
 		},
 	},
 }
