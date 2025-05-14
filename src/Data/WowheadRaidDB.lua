@@ -241,7 +241,7 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "Raid Single Target | Farseer",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMzy0YGzMmBzMDzMzMMmtZxYstNzMmZmxAWmlBAAAgZwwiZZgBsAWGmQmFYA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGzysMGMYmBAAAAwmZ2gBMgZjJkZBAMbTzYY2YMTMzMzYYbmZGMbDWmZmZmZYmNA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Farseer",
@@ -276,6 +276,14 @@ local talentData = {
 				[5] = {
 					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwYYmZmZmZbmxywAAAAAAAAAAgFYDmxiGbDgZC2AglpZmBLLmZmZYMzsNsMzMBGmlZGAADA",
+				},
+				[6] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwMYmZmHYmZbmxyYGAAAAAAAAAAsAbwMW0YbAMTwGAmlJzALLmZmZYGzsNsMzMZhlhxMDAgB",
+				},
+				[7] = {
+					label = "StormbringerBuildImport CodeLinkSingle TargetbestCopy RaidBuildRaid CleaveCopy CleaveBuildRaid CouncilCopy CouncilBuildMythic/AoEbestCopy MythicBuildDelvesCopy DelvesBuild | Build",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZwAzMzMzMmZsMmBAAAAAAAAAALwGMjFN2GAzEsBgZZyMwyiZmZGmxMbDLzMTwyYZMzAAMDA",
 				},
 			},
 			[264] = {
@@ -317,7 +325,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Raid Single Target | Spellslinger",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMGzYmZmxYMmZMLAAAAAAAQzYGzYmZYGmhxwMzYMMjZG2AAAAAAAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAgFGmZWmlxMjZmZMzMzMjhxYA",
 				},
 				[1] = {
 					label = "Raid Cleave | Spellslinger",
@@ -349,7 +357,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Raid Single Target | Hellcaller / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzAz2MzMMbDAAAYmxMLmZGLzMzsZGzMAgZsADMLGNmBkZBsMDAAAAAAAAMmNA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAZGYjZGLWMbzMzIz2CzMNmZYglZMDmlhZZMAAYA",
 				},
 				[1] = {
 					label = "Raid Single Target | Hellcaller / Soul Harvester",
@@ -397,7 +405,7 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Raid Default - Standard/Defensive | Master of Harmony",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzMmZW8AwMz0YMGzMzwwM4BmZmZmZmZmZGzMzYmZZmmZWmFAAA0CAAAAAAmFAAAAAAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzwMWmx2MzMDAAAAAAALLgwMwMMzCjx2MzMMLjxYbWmpltZx2YGmFAAYZ2mWmtZWGAAQAYYD",
 				},
 				[1] = {
 					label = "Raid Default - Advanced/Offensive | Shado-Pan",
@@ -429,7 +437,7 @@ local talentData = {
 			[270] = {
 				[0] = {
 					label = "Raid Default Build | Conduit of the Celestials",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzwMWmx2MmZMAAAAAAAbLgYmBzgxiZwyMzMmxwMzysYaZzmtZmxMbAAwGCAAgZb2amZmFmhNA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmhxGmxMzywG2mZ2sNLbbzMLLMjmZmBmhZYgtZmZY2GjBLmAAAAAgAsYZWWmtZmJAAYD",
 				},
 				[1] = {
 					label = "Raid Single-Target Sheiluns Gift Build | Conduit of the Celestials",
@@ -443,7 +451,7 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Raid Single Target | Keeper of the Grove",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzMzMbzGjtZmZmHYmBAAAAAYJY2MGzgaGzyYZmZWGzYAAAAAAAAAAAAamlZZmZbABWgZGAWYGG",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmlMGzMwDYWGLzMDwMGLzsNjFmZmZmlZMzYmZshFGgBYbbsgpZmlRAAAA2MzMDwmBG",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Keeper of the Grove",
@@ -453,7 +461,7 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "Raid Single Target | Wildstalker",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMWmhZMjZGLMMzsYZALmxoJamZWmZbmZWGzAAAAAAAGGzALbzshxsMAmCAAAsBDALmBD",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMjZmBAAAAAYJY2MwMjaGzyYZmZWGzYAAAAAAAgBAAAQAwsNzSz2MLbwMDALMDD",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Wildstalker",
@@ -467,7 +475,7 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "Ripweaving Raid Single Target | Druid of the Claw",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYMzMzyMMmZwYxMMzsYZAgRTmmZmlZ2mZGjZYAAAAAAYMzAAAAgamtZZmZZAAswYAYxMYA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYjZmZGmtZmHAzyywitZAAAAAAAAAAAAsNoZDzkxMMmFzyMzsYMzAAAAAAAAYAAIAAgZbmtmtZWsBzAGziBN",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Druid of the Claw",
@@ -527,7 +535,7 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Raid Single Target | Scalecommander",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmxCDDzsMz2MzCzMzMzyMmZYM2wCDwAstNWw0Mz2IAAAAbMzMAbGzYA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmhBzMmZGzYmNAAAAAAAAMzADjxUDzMDAAAAmxMbjZmlxMDMjZMYBWGDjtBwMRshZG",
 				},
 				[1] = {
 					label = "Raid Single Target | Chronowarden",
