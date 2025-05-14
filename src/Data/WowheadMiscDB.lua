@@ -97,7 +97,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "Pack Leader Single Target | Pack Leader",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZhlAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbzMmNWmNzYmxsMzMMmZmllxglB",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0glZmZZGzMjZmxYYMMzMzY2GAAAAAAA0MmxMmZGmhZYMMzwYYGzMsBAAAAAMA",
 				},
 				[1] = {
 					label = "Sentinel Single Target | Sentinel",
@@ -299,7 +299,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Single Target | Diabolist",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMjZmtxMbmZmZGjZmBjZmxgZAAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFzwMzsY2MWMzAAAAAzMDLzMLzAGzYYhMw2wCNWwAAAAAAAYMzMDAA",
 				},
 				[1] = {
 					label = "Cleave build | DiabolistHellcaller",
@@ -381,7 +381,7 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "Echoshaper Recommended | Flameshaper",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNzyMzMzYGzsNDYmZswMz2YGYAGsALjRjtBkZQwGmB",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMbzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGzyMzAgZMDsAWAzwEyGsZYA",
 				},
 				[1] = {
 					label = "Echowarden | Chronowarden",
