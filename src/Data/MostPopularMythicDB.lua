@@ -207,7 +207,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Farseer Chain Heal M | Farseer",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmZbmlZmZMMLjFzYxmZWgBMBzCTgxCzM2sMz2MzMystwMTjZGGYZGzgZZYWGDAAG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmZbmtZmZMMbjFzYxmZWgBMBzCTgxCzM2sMz2MzMystwMTjZGGYZGzgZZYWGDAAG",
 				},
 			},
 		},
@@ -386,8 +386,12 @@ local talentData = {
 		specs = {
 			[1473] = {
 				[0] = {
-					label = "Mythic General Scale | Scalecommander",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZZmtZmZGmBzsMjZmxMbAAAAAAAAYmBzwYoGmZGAAAAMzMz2YmZZMzAzYGDWglxwYbAMTEbYMA",
+					label = "Mythic | Scalecommander",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwAzsMjxMmZDAAAAAAAAzMYGGD1wMzAAAAgZmZ2GzMLjZGDzwYwCsMGGbDgZiYDzMA",
+				},
+				[1] = {
+					label = "Mythic | Chronowarden",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwAzsMDzMmZDAAAAAAAAzMYGGD1wMzAAAAgZmZ2GzMLjZGDzsZgxsZhFYgZYoRsAzA",
 				},
 			},
 			[1467] = {
@@ -398,6 +402,12 @@ local talentData = {
 				[1] = {
 					label = "Mythic Flameshaper | Flameshaper",
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmpZ2GLDGGjZWmBMzM2GzMmZGMDYMDsAWAzwEYJYZYG",
+				},
+			},
+			[1468] = {
+				[0] = {
+					label = "Echowarden Mythic | Chronowarden",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2mtBGzMjZZGzYADAAmZMjZmxYGxYAAAAmZmJjtZGjxMAAMmNLsADMjGawYBG",
 				},
 			},
 		},
