@@ -43,7 +43,7 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Mythic - Avenging Wrath | Heraldbest",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMAbjZmZmxMzCjZxMjlZAbbz0WMjZMzMMwslBAMAMbAbMLzMmZZ2mZmtGAAQALAzMsYADD",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALjZmZmxMzCjZxMjlZAbbz0WMjZMzMMwslBAMAMbAbMLzMmZZ2mZmtGAAQALAzMsYADD",
 				},
 			},
 			[66] = {
@@ -142,12 +142,12 @@ local talentData = {
 		specs = {
 			[250] = {
 				[0] = {
-					label = "Mythic no Gorefiends Grasp | Deathbringer",
+					label = "Mythic Deathbringer | Deathbringer",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxMzYMzMmZYGzMz0MMMzYGDAAAAAmZmZmZmZmNzMjBAAAzMzMAAAAjttBGwSwywEYYBgZwG",
 				},
 				[1] = {
-					label = "Mythic Gorefiends Grasp | Deathbringer",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghZmZGjZmxMDzYmZmmhhZGzYAAAAAwMzMzMzMmNzMjBAAAzMzMAAAAjttBGwSwywEYYBgZwG",
+					label = "Mythic Sanlayn | Sanlayn",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxMzYMzMmZYGzMz0MMMzYGDAAAAAmZmZmZmZmNzMjBAAAzMzMAAAAGYgZMassAyyA2AYGsB",
 				},
 			},
 			[251] = {
@@ -296,16 +296,6 @@ local talentData = {
 				[1] = {
 					label = "Shado-pan Mythic | Shado-pan",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMAmxMmZGzMDAAAAAAAAAAAWWGGxMDjZYYhZsNzMDzGzMYZmAAYZmZYmBbzAAYDAaWmlmZmZBwM",
-				},
-			},
-			[270] = {
-				[0] = {
-					label = "Mythic Beginner Build | Master of Harmony",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjJmZgZYGGYbmZGmNmZYWegJAAAAAz20ysNzysBACAA2A",
-				},
-				[1] = {
-					label = "Mythic Advanced Build | Master of Harmony",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjJmZgZYGGYbmZGmNmZYWegJAAAAAz202sNzysBACAA2A",
 				},
 			},
 		},
