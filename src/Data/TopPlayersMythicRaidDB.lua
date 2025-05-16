@@ -467,7 +467,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMGGjZ8AzMzMjxsNMzMbbzMjZmZAjlZbAAAAYGMAGzmhBGYWYhWsBD",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxwYMDzMzMjxsNMzMbbzMjZmZAjlZbAAAAYGMAGzmhBGYWYhWsBD",
 				},
 				[8] = {
 					label = "Gallywix",
