@@ -117,7 +117,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoZGAAAAmZmxMzMYWmZZmZmtNGjZaYZMDzsMmZGWmZGMYYAAAAAAAjBAsYDAYxMG2gBmhFaMWA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoZGAAAAmZmxMzMYWmZZmZmtNGjZaYZMDjlxMzwyMzwMYYAAAAAAAjBAsYDAYxMG2gBmhFaMWA",
 				},
 			},
 		},
@@ -143,7 +143,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALzMDmxMDmZWmZmHYZGw2mJxMmhZGGY2yAAGAsBsxsMzMzsMbzMzWDAAAwCGGYxMGGDA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZmxMmZwMziZmHYZGw2mJxMmxMzwAzWGAwAGsBsxsMmZmlZbmZ2aAAAAWwwALGGYGA",
 				},
 				[5] = {
 					label = "Lockenstock",
@@ -151,7 +151,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "One-Armed Bandit",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbmZwMmZYmZWmZmHYZGw2mJxMbzYmZYgZJDAYAwGwGzyMMzysNzMbNAAAALYYgNDDjZA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALzMDmxMDmZWmZmHYZGw2mJxMmhZGGY2yAAGAsBsxsMzMzsMbzMzWDAAAwCGGYxMGGDA",
 				},
 				[7] = {
 					label = "MugZee",
@@ -349,7 +349,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawyMzsMjZmxMzYMMGmZmZMbDAAAAAAAaGzYmZmZYGMMGmZghZWmZYBAAAAAYAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawyMzsMjZmxMzYMMGmZmZMbDAAAAAAAaGzYGzMDzwMMGmZYMjZMD2AAAAAAGA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -379,7 +379,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxM2mBAAAAAgZBWmBAAAAAg22mZmhZGMzMLz2MzMmBDzMzYmNLjZA2MLDMgFwywEYYB",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxM2mBAAAAAgZZwyMAAAAAA022MzgZGMzMLz2MzMmBDzMzYmNLjZA2MLDMgFwywEYYB",
 				},
 				[5] = {
 					label = "Lockenstock",
@@ -421,7 +421,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Lockenstock",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZMzMzYYGGjZMMzMz0yMmtZAAAAAAw22MzgZmxCsMbDAAAAzMADsBzY0Y2AsNwiZA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mxMjZMzMzYYGGjZMMzMz0yMmtZAAAAAAgtZmZYmZsALz2AAAAwMDwAbwMGNmNAbDsYG",
 				},
 				[6] = {
 					label = "One-Armed Bandit",
@@ -467,7 +467,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMGGjZ8AzMzMjxsNMzMbbzMjZmZAjlZbAAAAYGMAGzmhBGYWYhWsBD",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxwYMDzMzMjxsNMzMbbzMjZmZAjlZbAAAAYGMAGzmhBGYWYhWsBD",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -493,11 +493,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAAWwMmZMGzMMjx2MzMzMzMAAAAAAAAAAwsMLz2gZmBzCDDGDzyyYmGilZAMzCWIMmtBYshFAA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2wMmZMGzMMzGbzMzMzMzAAAAAAAAAAAzysMbDmZGMLMMMjhZZhZaMxyMAmZBLEGz2AM2wCA",
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAAWGmxMj5BGzMMMz2MzMzMmBAAAAAAAAAAmlZZ2GMzMYWYYwYYW2Gz0QsMDgZWwChxsNAjNsAA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2wMmZMGzMMDz2MzMzMzMAAAAAAAAAAwsMLzGjZmBzCDDzYYWWGmGilZAMzCWIMmtBYshFAA",
 				},
 				[5] = {
 					label = "Lockenstock",
@@ -509,7 +509,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2wMmZMGzMMzmZbmZmZmZGAAAAAAAAAAYWmlZbwMzgZhxMMjBLsNTjJWGAmZBLEGz2AM2wCA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA24BmxMjxYmhZ2YbmZmZmZGAAAAAAAAAAYWmlZbwMzgZhhBjhZZZMTDxyAwMLYhwY2GgxGWAA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -699,7 +699,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "One-Armed Bandit",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYYGzMzMNjZmZGzYAAAAAAAAAgZGzYMmBAMbmhZZGzMzMmZGDMwMGNWWAsNYDAmBA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzgZMGjlZMzMz0MzMzYMjBAAAAAAAAAmZMjxYGAwsZGmlZMzMzYmZMwAzY0YZBw2gNAYGA",
 				},
 				[7] = {
 					label = "MugZee",
@@ -733,7 +733,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZMzYWmlxghZMDAAAAAYzMG2gFYGGasBAmlpZAbMmphZmZWGWmZmxmZZYWGzMzYYmtBA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZMzYWmlxghZMDAAAAAYzMG2gFYGGasBAmtpZAbLmZmGGzMbzMLzMzgxglxMzMGmZbA",
 				},
 				[5] = {
 					label = "Lockenstock",
@@ -813,7 +813,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Lockenstock",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjxysNWMsMWgFYGbasNAmB2YMzilx2MzMTmtFmZaMDzsglZMzwYYWGDAAG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAjZmZZmtxMjxysNWMsMWgFYGbasNAmB2YMzilxyMzMTmlFzMTjZYmNsMzYwYYWGDAAG",
 				},
 				[6] = {
 					label = "One-Armed Bandit",
@@ -885,7 +885,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Rik Reverb",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAAAmZ2WWWmZiFAAAAAAAwyYYmZZWGGmZmhZmZmZGzYM",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxs4BYMzwYaegxMAAAAAAMAgZmplZbZGAAbAAAAAAAglxgZWml5BmZMzMDzMzMjhxYA",
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
@@ -901,7 +901,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAAMbzyMmxDMmFDzMzwYaegxAAAAAAgBAMzMtMbLzAAYDAAAAAAAsMGMzysMPwMjZmZYmZmZMMGD",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAAMbzyMmxMmFYmZGGTzMGAAAAAAMAgZmplZbZGAAbAAAAAAAglxgZWml5BmZMzMDzMzMjhxYA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -1015,11 +1015,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "One-Armed Bandit",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWGAAAAAAAAAAzAGzYYBGYZYhGWYMzMz2YmNzMzMjxMzgxMzgxMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZY2GAAAAAAAAAAzAGzYYBGYZYhGWYMzMz2YmFzMzMjxMzgxMzgxMAAA",
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZY2GAAAAAAAAAAzAGzYYBGYZYhGWYMzMz2YmFzMzMjxMzgxMzgxMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWGAAAAAAAAAAzAGzYYBGYZYhGWYMzMz2YmFzMzMjxMzgxMzgxMAAA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -1103,7 +1103,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLYmYmBmhxGD2mZmhZbMzYbWMtt9Abz2MzwsAAAbAAAAz2s0MzMLMDbA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjxYGGWmx2MzMDAAAAAAALLYEzMwMM2A2mZmhZbMzYbWmpttHYb2mZGmFAAYDAAAY2mlmZmZhZYB",
 				},
 			},
 			[269] = {
@@ -1193,7 +1193,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Vexie",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmlMGzMwDYWYZmZAzMmZZmtZswMzMzsMjxYmZshFGgBYbbsgpZmlBAAAAbMzMAbGDD",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmlMGzMwDYWYZmZAmxMLzsNjFmZmZmlZMGzMjNswAMAbbjFMNzsMAAAAYzMzMAbGDD",
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
@@ -1209,7 +1209,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Lockenstock",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmlMGzMwDYWYZmZAzMGLzsNjFmZmZmlZMzYmZshFGgBYbbsgpZmlBAAAAbmZmBYzAD",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMwDYWYZmZAmxYZmtZswMzMzsMjZGzMjNswAMAbbjFMNzsMAAAAYzMzMAbGDD",
 				},
 				[6] = {
 					label = "One-Armed Bandit",
@@ -1495,7 +1495,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGMAGjZaYmJjxyMzMzwYmtZAzYmtZmZ2mZGMDMjZgNwCYGmALglhB",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGzMgHwY8ATDzMZMWmZmZGGzsNDYGzsNmZWmZGMDMjZgNwCYGmALglhB",
 				},
 			},
 			[1468] = {
