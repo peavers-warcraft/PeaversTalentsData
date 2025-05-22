@@ -9,7 +9,7 @@ local talentData = {
 			[71] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZGzYGzMbz2yyYGAAAAGMNMzsMmhxyYmZsYmZYGMMAAAAAAAMjZbwAsFDYzMGWgBmhNaAL",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAGmZGzYGzMLz2yyYGAAAAGMNMzsMmhxyYmZsYmZYGMMAAAAAAAMjZbwAsFDYzMGWgBmhNaAL",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -181,11 +181,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZGzsNGGAAgBAAAAAAg2yMzihZwYG2aDAGDMAGYbAAAmZabWmtZAA2YwgBGMDjB",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZGzsNGGAAgBAAAAAAg2amZWMMDGzwWbAwYgBwAbDAAwMTbzysNDAwGDGAGMDjB",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZGzsNGGAAgBAAAAAAg2amZWMMzwYG2aDAGDMAAbDAAwMTbzysNDAwGDGAGMDjB",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZGzsNGGAAgBAAAAAAg2yMzihZGGzwWbAwYgBAYbAAAmZabWmtZAA2YwgBGMDjB",
 				},
 				[6] = {
 					label = "The MOTHERLODE",
@@ -269,7 +269,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmtZegxMzAzMmhFzMmZMmZMZGzYmxMGzMmhxYGDjZYWmBbAAAAAAAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmtZegxMzAzMmhFzMmZMmZMZGzYGzMYmxMMGzMDzyMYZGsBAAAAAAA",
 				},
 				[7] = {
 					label = "The Rookery",
@@ -277,7 +277,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Theater of Pain",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmtZegxMzAzMmhFzMmZMmZMZGzYmZmxYmxMMGzYYMDWmBbAAAAAAAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmtZegxMzAzMmhFzMmZMmZMZGzYGzMGzMmhxYGDzyMYZGsBAAAAAAA",
 				},
 			},
 			[254] = {
@@ -287,11 +287,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAAAAAAAAYGzYGmZGzIzYMmxwsMMzyMYbmZsNzystNjxMYmZMmZmFjBLD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAAAAAAAAYGzYGzMDzoZGjhxwsMMzyMYZmZsNzystNjxMYmZMmZmFjBLD",
 				},
 				[2] = {
 					label = "Darkflame Cleft",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAAAAAAAAYGzYGzMDzoZGjhxwsMMzyMYbmZsNzystNjxMYmZMmZmFjBLD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGAzG2AAAAAAAAAAAAAAYGzYGzMDzoZGjhxwsMMzyMYZmZsNzystNjxMYmZMmZmFjBLD",
 				},
 				[3] = {
 					label = "Operation Floodgate",
@@ -345,7 +345,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2AbzMWmZmZGjZMzMzYMGzMmFAAAAAAAoZMjZmZmhZwwYYmhxwMLzgNAAAAAgBA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2AbzMWmZmZGjZMzMzYMGzMmFAAAAAAAoZYMjZmZMDzwYYmhxwMLzgNAAAAAgBA",
 				},
 				[7] = {
 					label = "The Rookery",
@@ -405,11 +405,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzYYGegxMzMMzMz0yMmtZAAAAAAY2WmZGMzMWglZbAAAAYmZAwY2MMwAzCL0CbGA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMz2MYMzYmZGDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzMWglZbAAAAYmZAwY2MMwAzCL0CbGA",
 				},
 				[2] = {
 					label = "Darkflame Cleft",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzYYGegxMzMMzMz0yMmtZAAAAAAY2WmZGMzMWglZbAAAAYmZAwY2MMwAzCL0CbGA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzYYGegxMzMMzMz0yMmtZAAAAAAw2yYGMzMzCsMbDAAAgZmZAwY2MMwAzCL0CbGA",
 				},
 				[3] = {
 					label = "Operation Floodgate",
@@ -463,7 +463,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMzYMDzMjhxsNLGzstMzMmZmBMWmlBAAAgZwAYMbGGYgZhFaxGM",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMzYMDzMjhxsNLGjtlZmZmZmBMWmlBAAAgZwAYMbGGYgZhFaxGM",
 				},
 				[7] = {
 					label = "The Rookery",
@@ -489,7 +489,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Darkflame Cleft",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mxMGjxYGMz2MbzMzYmZGAAAAAAAAAAwysMbMmZGMLMmxYMYxsNTjJWMAmZBLEGzyAM2wCA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mxMGjxYGMz2MbzMzYmZGAAAAAAAAAAwysMbMmZGMLMmxMjBLegtZaMxiBwMLYhwYWGgxGWAA",
 				},
 				[3] = {
 					label = "Operation Floodgate",
@@ -501,7 +501,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mxMGjxYGMz2MbzMzYmZGAAAAAAAAAAwysMbPgxMzgZhxMGjBLegtZaMxiBwMLYhwYWGgxGWAA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mxMGjxYGMz2MbzMzYmZGAAAAAAAAAAwysMbMmZGMLMmxYMYxsNTjJWMAmZBLEGzyAM2wCA",
 				},
 				[6] = {
 					label = "The MOTHERLODE",
@@ -539,7 +539,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGzyYmxMMzDMDjlZmZGAAAAgZZ2G2mZGMLMLzYwYswGmZqZBAYmFLDzmBgMGshxyA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGjxMMjZGzMzYbmZGAAAAglZZ2GMzMYWYWmxgBLsxMzUzCAmZBLEGzyAMWgFjxyA",
 				},
 				[6] = {
 					label = "The MOTHERLODE",
@@ -569,7 +569,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Operation Floodgate",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMY8AAAAAAAAAAAAAMMLmxMzsNbjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGmNDAZMWAA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGmNDAZMWAA",
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
@@ -637,7 +637,7 @@ local talentData = {
 			[251] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDjZMzMzwMzMNzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAYssNwAWALDTgxCmZmxMA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMzYYGzYmZGmxMNzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAYssNwAWALDTgxCmZmxMA",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -669,13 +669,13 @@ local talentData = {
 				},
 				[8] = {
 					label = "Theater of Pain",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMmZYYmZmZGmxMNzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAYssNwAWALDTgxCmZmxMA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMzYYGzYmZGmxMNzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAYssNwAWALDTgxCmZmxMA",
 				},
 			},
 			[252] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtBbAwMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMmZsMjZMz0wMmZMjBAAAAAAAAAmhZmxMzMAwsZGmlhZmZegZGjBGYGjGLLA2GsBAzAA",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -687,11 +687,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Operation Floodgate",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtBbAwMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYsMjZMz0wMmZMjBAAAAAAAAAmhZmxMzMAwsZGmlhZmZegZGjBGYGjGLLA2GsBAzAA",
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMmZYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtBbAwMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMjZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtBbAwMA",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
@@ -699,11 +699,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMjZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtBbAwMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMmZsMjZMz0wMmZMjBAAAAAAAAAmhZmxMzMAwsZGmlhZmZegZGjBGYGjGLLA2GsBAzAA",
 				},
 				[7] = {
 					label = "The Rookery",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtBbAwMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzYmZmpZMjZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtBbAwMA",
 				},
 				[8] = {
 					label = "Theater of Pain",
@@ -745,11 +745,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Rookery",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb2WmZmZGz2sMGMMDDAAAAAYzMG2gFYGGasBAmlpZAbLMmGMzMbDLzMzYxsMDLzMzMjhZWGA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb2WmZmZGz2sMGMMDDAAAAAYzMG2gFYGGasBAmtpZAbYmphZmZ2GWmxM2MLjFLzMzMjhZWGA",
 				},
 				[8] = {
 					label = "Theater of Pain",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb2WmZmZGz2sMGMMDDAAAAAYzMG2gFYGGasBAmtpZAbLMmGMzMbzYZGzYzsMWsMzMzMGmZbA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb2WmZmZGz2sMGMMDDAAAAAYzMG2gFYGGasBAmlpZAbLMmGMzMbDLzMzYxsMWsMzMzMGmZbA",
 				},
 			},
 			[263] = {
@@ -809,7 +809,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAMDsxMjFLmtZGjMbLMz0YmhBWMmBzyYZWmZAAwA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAMDsxMjFLmtZmZkZbhZmGzMMwyMmBzywsMGAAMA",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
@@ -843,7 +843,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Darkflame Cleft",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsNLYGmZWAmZ0YMzsMjZYYG8AzMzMzMzMzMjZmZMzsMTzMLzCAAAsAAAAAAgZDAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGPwMziHAmZ0YMzYmZGGmBPwMzMzMzMzMzYmZGzMLz0MzysAAAALAAAAAAY2AAAAAAAAA",
 				},
 				[3] = {
 					label = "Operation Floodgate",
@@ -855,7 +855,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmtZBzYmZWAmZ0YMzYGzwwM4BmZmZmZmZmZGzMzYmZZmmZWmFAAAYBAAAAAAzGAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzwMzCwMjGjZmlZmZYYG8AzMzMzMzMzMjZmZMzsMTzMLzCAAAsAAAAAAgZDAAAAAAAA",
 				},
 				[6] = {
 					label = "The MOTHERLODE",
@@ -877,7 +877,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzgZbWwMMzsAjZGGTzMmBAAAAAgBAAAmZ2WWWmZiFAAAAAA2AYZMMzsMLDDzMzwMzMzMjZMG",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzgZbWwMMzs4BYMzMGTjxMAAAAAAMAAAwMz2yyyMTsAAAAAAwGALjhZmlZZYYmZGmZmZmZMjxA",
 				},
 				[2] = {
 					label = "Darkflame Cleft",
@@ -889,7 +889,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxMzsAMzwYamZZGAAAAAAGAAAYmZbZZZmJWAAAAAAYDglxwMzysMMMzMDzMzMzMmxYA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzCmhZmFYMzwYamZZGAAAAAAGAAAYmZbZZZmJWAAAAAAYDglxwMzysMMMzMDzMzMzMmxYA",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
@@ -905,7 +905,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Theater of Pain",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjZxsNLYmxMzCwMzYMNPwYGAAAAAAGAAAYmZbZZZmJWAAAAAAYDglxwMzysMMMzMDzMzMzMmxYA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzgZzCmhZmFYMzMGTjZZmBAAAAAwAAAAzMbLLLzMxCAAAAAAbAsMGmZWmlhhZmZYmZmZmxMGD",
 				},
 			},
 			[63] = {
@@ -939,7 +939,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Rookery",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzgZzCmhZmFgZmx0YmZZmBAAAAAwAAmZmWmltZAA2MzMmZYGzMjFjZGmHw2Mz2M2MLAAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjhZzCmhZmFYMzMmGzDMmZAAAAAAMAgZmplZZbGAgNzMjZGmxMzYxYmh5BsNzsNjNzCAAAAAAAA",
 				},
 				[8] = {
 					label = "Theater of Pain",
@@ -969,19 +969,19 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEzmhxsNzDMDzyAAAAmZMzyMjxyMzMLmxMDAYeALwAziRjZAMLglZAAAAAAAAwMsA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEzmhxsNjZYWGAAAwMjZWmZMWmZmZxMmZAAzYBGYWMaMDgZBsMDAAAAAAAAmhFA",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEzmhxsNzDMDzyAAAAmZMzyMjxyMzMLmxMDAYeALwAziRjZAMLglZAAAAAAAAwMsA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEDDjZzMzwsMAAAgZGzsMzYsMzMziZMzAAmxCMwsY0YGAzCYZGAAAAAAAAMDLA",
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEzmhZmtZMDzyAAAAmZMzyMjxyMzMLmxMDAYeALwAziRjZAMLglZAAAAAAAAwMsA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEzmhZmtZegZYWGAAAwMjZWmZMWmZmZxMmZAADLwAziRjZAMLglZAAAAAAAAwMsA",
 				},
 				[7] = {
 					label = "The Rookery",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEzmhxsZmZYWGAAAwMjZWmZMWmZmZxMmZAAzDYBGYWMaMDgZBsMDAAAAAAAAmhFA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAMMzMmZmZEzmhxsNjZYWGAAAwMjZWmZMWmZmZxMmZAAzYBGYWMaMDgZBsMDAAAAAAAAmhFA",
 				},
 				[8] = {
 					label = "Theater of Pain",
@@ -1023,13 +1023,13 @@ local talentData = {
 				},
 				[8] = {
 					label = "Theater of Pain",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjGzmhxsZmZYWGAAAAAAAAAADwYGDLwALDL0wCzMmZ2GzsZmZmZMmZGMmZGDmBAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MMmNzMDz2AAAAAAAAAAYeAwYGDLwALDL0wCzMmZ2GzsZmZmZMmZGMmZGDmBAAA",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNDmZmFzGLLmZAAAAAzMz2yMzyMWgBmFjGzAY2wGGAAAAAAAzMzYAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MMmNzMDzysZwMzsY2YZxMDAAAAYmZ2WmZWmHwCMwsY0YGAzG2wAAAAAAAYmZGDAA",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -1057,11 +1057,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Rookery",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNDmZmFzGLLmZAAAAAzMz2yMzyMWgBmFjGzAY2wGGAAAAAAAzMzYAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MMmNzMDzysZwMzsY2YZxMDAAAAYmZ2WmZWmHwCMwsY0YGAzG2wAAAAAAAYmZGDAA",
 				},
 				[8] = {
 					label = "Theater of Pain",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAghZmZmZEzmhxsZmZYWmNDmZmFzGLLmZAAAAAzMz2yMzyMWgBmFjGzAY2wGGAAAAAAAzMzYAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWmNDmZmFzGLLmZAAAAAzMz2yMzyMWgBmFjGzAY2wGGAAAAAAAzMzYAA",
 				},
 			},
 		},
@@ -1071,7 +1071,7 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMjBAAAAAAYZBEzMwMM2A2mZmxMLMzYbWmpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMjBAAAAAAYZBEzMwMM2A2mZmxMbMzYbWmpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -1087,7 +1087,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMDAAAAAAALLgYmBmhxGM2mZmhZZMzYbWmpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMDAAAAAAALbgYmBmhxGM2mZmxMbMzYbWmpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
@@ -1095,7 +1095,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMjBAAAAAAYZBmYmBmhxGw2MzMMLMzYbWmpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMDAAAAAAALLgYmBmhxGD2mZmxMLMzYb2mpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
 				},
 				[7] = {
 					label = "The Rookery",
@@ -1103,7 +1103,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Theater of Pain",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMDAAAAAAALLgYmBmhxGM2mZmhZZMzYbWmpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAjZGzAzyM2GzMjBAAAAAAYZBEzMwMM2A2mZmxMbMzYbWmpttZz2MzwsAAAbAAAAz2s0MzMLMDbA",
 				},
 			},
 			[269] = {
@@ -1117,7 +1117,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Darkflame Cleft",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMamZGGzAWYYbmZGmNmZwyMBAwyYmhZY2mBAwyyssMbzMTAAYA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMamZGGzA2YYbmZGmNmZwyMBAwyYmhZY2mBAwyyssMbzMTAAYA",
 				},
 				[3] = {
 					label = "Operation Floodgate",
@@ -1129,11 +1129,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTzMzAzAWYYbmZGmNmZwyMBAwyYmhZY2mBAwyyssMbzMTAAYA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTMzwYGGWYYbmZGmNmZwyMBAwyYmhZY2mBAwyyssMbzMTAAYA",
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTzMzAzAWYYbmZGmNmZwyMBAwyYmhZY2mBAwyyssMbzMTAAYA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMamZGGzA2YYbmZGmNmZwyMBAwyYmhZY2mBAwyyssMbzMTAAYA",
 				},
 				[7] = {
 					label = "The Rookery",
@@ -1163,7 +1163,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjJmZgZYGGYbmZGmNmZYWegJAAAAAz202sNzysBAAAAbA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCDNzMDMDzAYbmZGmNmZYWegJAAAAAz202sNzysBAAAAbA",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
@@ -1189,7 +1189,7 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBeAzCLzMDwMLmlZWmZ2mZmZmZWMLjhBbYBAjltZ2wY2GATAAAAWMzYA2MmxA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYmFzyMLzMbzMzMzMLmlxwgNsAgxy2MbYMbDgJAAAALMjBYzYGD",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -1205,7 +1205,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBeAzyYZmxCYmFzyMLzMbzMzMzMLmlxwgNsAgxy2MbYMbDgJAAAALmZMAbGGD",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWGLzMWYYmFzyMLzMbzMzMzMLmlxwgNsAgxy2MbYMbDgJAAAALmZMAbGGD",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
@@ -1213,11 +1213,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYmFzyMLzMbzMzMzMLmlxwgNsAgxy2MbYMbDgJAAAALmZMAbGGD",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYmFzyMLzMbzMzMzMLmlxwgNsAgxy2MbYMbDgJAAAALMjBYzYGD",
 				},
 				[7] = {
 					label = "The Rookery",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWGLzMzCDzsYWmZZmZbmZmZmZxsMGGshFAMW2mZDjZbAMBAAAYhZMAbGGD",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYmFzyMLzMbzMzMzMLmlxwgNsAgxy2MbYMbDgJAAAALmZMAbGGD",
 				},
 				[8] = {
 					label = "Theater of Pain",
@@ -1265,7 +1265,7 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLDYzwoJyMzyMbzMzyYGDAAAAAAGGDYZbmNMmlBwEAAAwGmBgFjhB",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLDYzwoJyMziZbmZWGzYAAAAAAwwYALbzshxsMAmAAAA2MmBgFjhB",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -1273,7 +1273,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Darkflame Cleft",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLDYzwoJyMzyMbzMzyYGDAAAAAAGGDYZbmNMmlBwEAAAwGmBgFjhB",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmhZWmZMjZMzYhZGmFLDYzwoJyMziZbmZWGzYAAAAAAwwYALbzshxsMAmAAAA2MmBgFjhB",
 				},
 				[3] = {
 					label = "Operation Floodgate",
@@ -1383,7 +1383,7 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMmZMMjMzMMDzMbjxMsNDzMmZMY2mZmNzMmZYGAAAAmtZwwYZhJMYmZwC",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMmZMMjMzMMDzMbjxMsNDzMmZMY2mZmNzMmZYGAAAAmtZwwYZhJMYmhxC",
 				},
 				[1] = {
 					label = "Cinderbrew Meadery",
@@ -1403,11 +1403,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMMjhZkZmhZYmZbMmhtZYmxMjBz2MzsZmZbmBDAAAAz2MYYsswEGMzMGLA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMmZMMjMzMMDzMbjxMsNDzMmZMY2mZmNzMmZYGAAAAmtZwwYZhJMYmhxC",
 				},
 				[6] = {
 					label = "The MOTHERLODE",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMmZMMjMzMMDzMbjxMsNDzMmZMY2mZmNzMmZYGAAAAmtZwwYZhJMYmZwC",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMmZMMjMzMMDzMbjxMsNDzMmZMY2mZmNzMmZYGAAAAmtZwwYZhJMYmhxC",
 				},
 				[7] = {
 					label = "The Rookery",
@@ -1479,7 +1479,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Mechagon - Workshop",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmpZ2GLDGGjZWmBYmZ2GzMLjZwMwMmBWAbgZYCsAWGG",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmpZ2GLDGGjZWmBYMz2YmZZMDmBmxMwCYDMDTgFwywM",
 				},
 				[5] = {
 					label = "Priory of the Sacred Flame",
