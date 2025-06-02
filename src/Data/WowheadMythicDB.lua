@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2025-05-11 17:38:41",
+	updated = "2025-06-02 23:12:49",
 
 	[1] = {
 		specs = {
@@ -42,7 +42,7 @@ local talentData = {
 		specs = {
 			[65] = {
 				[0] = {
-					label = "Mythic - Avenging Wrath | Heraldbest",
+					label = "Mythic | Heraldbest",
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALjZmZmxMzCjZxMjlZAbbz0WMjZMzMMwslBAMAMbAbMLzMmZZ2mZmtGAAQALAzMsYADD",
 				},
 			},
@@ -65,7 +65,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Mythic | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRzMGDjhZZYmlZw2MzYbmlZbbGjZwMzYMzMLGDWG",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRzMGDjhZZYmlZw2MzYbmlZzMGzgZmZGzMzixglB",
 				},
 				[1] = {
 					label = "Mythic | Dark Ranger",
@@ -231,7 +231,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Mythic | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjZxsNLYmxMzCwMzYMNPwYGAAAAAAGAAEwMz2yyyMTsAAAAAAwGALjhZmlZZYYmZGmZmZmZMjxA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjZxsNLYmxMzCwMzYMNPwYGAAAAAAGAAEwMz2yyyMTsAAAAAAwGALjhZmlZZYMmZGmZmZmZMjxA",
 				},
 			},
 			[63] = {
@@ -241,7 +241,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mythic Frostfire | Frostfire",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZMzs5BgZmx0YmxMAAAAAAMzyMNzsMLQAAALmZGzMjxMzMWMmZMDbzMbzYhFAAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZMzs5BgZmx0YmxMAAAAAAMzyMNzsNLQAAALmZGzMjxMzMWMmZMDbzMbzYhFAAAAAAAA",
 				},
 			},
 		},
@@ -288,14 +288,14 @@ local talentData = {
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzYGYWmx2MzMDAAAAAAALLwEzMwMMYGsNzMDzywM2mlZab7B2sNzMMLAAwGCAAgZbWamZmFMsB",
 				},
 			},
-			[269] = {
+			[270] = {
 				[0] = {
-					label = "Conduit of the Celestials Mythic | Conduit of the Celestials",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAYGjBzMjZMzMmZGAAAAAAAAAAAssMMTMzwYGwCzYbmZGmthZwyMBAwyYmhZY2mBAwyyssMbzMTQAwA",
+					label = "Mythic Beginner Build | Master of Harmony",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjJmZgZYGGYbmZGmNmZYWegJAAAAAz20ysNzysBACAA2A",
 				},
 				[1] = {
-					label = "Shado-pan Mythic | Shado-pan",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMAmxMmZGzMDAAAAAAAAAAAWWGGxMDjZYYhZsNzMDzGzMYZmAAYZmZYmBbzAAYDAaWmlmZmZBwM",
+					label = "Mythic Advanced Build | Master of Harmony",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjJmZgZYGGYbmZGmNmZYWegJAAAAAz202sNzysBACAA2A",
 				},
 			},
 		},
@@ -327,7 +327,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "Mythic - Lifebloom Recommended | Wildstalker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYzMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbQ2gJDzMjZxsMzYZGzMDAAAAAAAMAAQAAAz2MbNbzsYjxMwwsAaA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsxMzYxMzMzsY2GDGLLjtFbzAAAAAAAAAAAAYbQ2gJDzMjZxsMzYZGzMDAAAAAAAMAAQAAAz2MbNbzsYjxMwwsAaA",
 				},
 				[1] = {
 					label = "Mythic - Rejuv | Wildstalker",
