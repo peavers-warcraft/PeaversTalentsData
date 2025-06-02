@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2025-05-11 17:38:41",
+	updated = "2025-06-02 23:12:49",
 
 	[1] = {
 		specs = {
@@ -35,11 +35,11 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Lightsmith | Raid Build",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYZmZmxMbzMYmZxMjlZAbbm2iZMjZmhBmtMAgBgZDYjZZGzAgAAmZW2WaZmhNMMADDjZA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALzMzMmxMDzMziZYbA22mptYGzYmZYgZLDAYAwGwGzyMzMAIAgZmltlWmZYDDgFYYMzA",
 				},
 				[1] = {
 					label = "Lightsmith | Mythic Build",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMAbjZmZmxMzCjZxMjlZAbbz0WMjZMzMMwslBAMAMbAbMLzMGAEAwMzy2SLzMsBMzwiBMMA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALjZmZmxMziZMLmZsNAbbz0WMjZMzMMwslBAMAMbAbMLzMGAEAwMzy2SLzMsBMzwiBMMA",
 				},
 				[2] = {
 					label = "Delves | Lightsmith",
@@ -259,17 +259,17 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Delves | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjxYbWwMjZmFDMmxYamxMAAAAAAMAAIgZmtlllZmYBAAAAAgNAWGDzMLzywwMzMMzMzMzYGjB",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjxYbWwMjZmFDMmxYamxMAAAAAAMAAIgZmtlllZmYBAAAAAgNAWGDzMLzywYMzMMzMzMzYGjB",
 				},
 				[1] = {
 					label = "Open World | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjxYbWwMjZmFDMmxYamxMAAAAAAMAAIgZmtlllZmYBAAAAAgNAWGDzMLzywwMzMMzMzMzYGjB",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjxYbWwMjZmFDMmxYamxMAAAAAAMAAIgZmtlllZmYBAAAAAgNAWGDzMLzywYMzMMzMzMzYGjB",
 				},
 			},
 			[63] = {
 				[0] = {
 					label = "Delves | Frostfire",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjZbsZBzMmZ28AwMzYaMGzMAAAAAAmZZmmZWmFIAAgFjZwMzMzMzYxsNGzwmZ2mxmZBDAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjZbsZBzMmZ28AwMzYaMGzMAAAAAAmZZmmZ2mFIAAgFjZwMzMzMzYxsNGzwmZ2mxmZBDAAAAAAA",
 				},
 			},
 		},
@@ -369,7 +369,7 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Delves | Scalecommander",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZZmtZmZGmBzsMjZmxMbAAAAAAAAYmBzwYoGmZGAAAAMzMz2YmZZMzAzYGDWglxwYbAMTEbYMA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwAzsMjxMmZDAAAAAAAAzMYGGD1wMzAAAAgZmZ2GzMLjZGYGzYwCsMGGbDgZiYDzMA",
 				},
 			},
 			[1467] = {
