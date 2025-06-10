@@ -125,7 +125,7 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "Raid Single Target | Deathstalker",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxM2mBAAAAAgZDWmBAAAAAg22mZGMzYMzMLz2MzMzMYYMzYmNbjZA2MLDMglglhJwwCA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsYbmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMzMDAEgZb2WCmNWAA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Deathstalker",
@@ -269,7 +269,7 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "Raid Single Target | Frostfire",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMmZGmhZmZmZGzMzMzYmBzMLz0MzysAAAgWAAAAAAwAAAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjZbsZBzMmZ28AwMzYaMGzMAAAAAAmZZmmZ2mFIAAgFjZwMzMzMzYxsNGzwmZ2mxmZBDAAAAAAA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Frostfire",
@@ -341,7 +341,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "Raid Single Target | Diabolist / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMzDM2MzMLMzMDAYmxyyADYCmhtADbzAAAAAAAAgZGLA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYZ0CNswYmZmtxMLmZmZGjZmBjZmBjZAAA",
 				},
 				[1] = {
 					label = "Raid Single Target | Diabolist / Soul Harvester",
