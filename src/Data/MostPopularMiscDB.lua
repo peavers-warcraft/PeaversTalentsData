@@ -73,7 +73,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Pack Leader CD-less AoE | Pack Leader",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzohG2AAAAAAwwMmZmlZGDmZMzYxYMzYMjZyMmxMjZMmZMDjxMGGzwsMD2AAAAAAAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzohG2AAAAAAwwMmZmlZGDmZmZYxYMzYMjZyMmxMjZMmZMDjxMGGzwsMD2AAAAAAAA",
 				},
 				[2] = {
 					label = "Pack Leader CD AoE | Pack Leader",
