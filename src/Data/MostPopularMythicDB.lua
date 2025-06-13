@@ -62,6 +62,16 @@ local talentData = {
 	},
 	[3] = {
 		specs = {
+			[254] = {
+				[0] = {
+					label = "Mythic | Sentinel",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRzMGDjhZZYmlZw2MzYbmlZzMGzgZmZGzMzixglB",
+				},
+				[1] = {
+					label = "Mythic | Dark Ranger",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZhlAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbzwsZWmNzYmxsMzMMmZmltxglB",
+				},
+			},
 			[255] = {
 				[0] = {
 					label = "Pack Leader M | Pack Leader",
