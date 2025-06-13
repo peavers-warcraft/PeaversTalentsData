@@ -62,16 +62,6 @@ local talentData = {
 	},
 	[3] = {
 		specs = {
-			[254] = {
-				[0] = {
-					label = "Mythic | Sentinel",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwADsMGNWGQmNsBAAAAAAAAAAAAAwMmxMmZGmRzMGDjhZZYmlZw2MzYbmlZzMGzgZmZGzMzixglB",
-				},
-				[1] = {
-					label = "Mythic | Dark Ranger",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstMwAmgZhlAzCAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZWmBbzwsZWmNzYmxsMzMMmZmltxglB",
-				},
-			},
 			[255] = {
 				[0] = {
 					label = "Pack Leader M | Pack Leader",
@@ -106,6 +96,16 @@ local talentData = {
 	},
 	[5] = {
 		specs = {
+			[256] = {
+				[0] = {
+					label = "Oracle Mythic | Oracle",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADw2MmxYMGzgZ2MbzMzMzMzAAAAAAAAAAAWmlZbwMzgZhxMGjBLmNTjJWMAmZBLUMmlBYshFAA",
+				},
+				[1] = {
+					label = "VW Mythic | Voidweaver",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
+				},
+			},
 			[257] = {
 				[0] = {
 					label = "Oracle Mythic | Oracle",
