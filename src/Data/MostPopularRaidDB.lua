@@ -29,7 +29,7 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Raid Single Target | Mountain Thane",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0YgZZmZYsMmZmFmZmxMYYmttZGzM2GzMPwYGmhFbzwMjBAAACDsBLLGNmBkZBGLA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoxAAAAwMzMmZmBzyMLzMzstZGjZaMLjZYsMww2MzwYGDDAAAAAAMDAgltNAGYDWWMaMDgZLMbA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Colossus",
@@ -125,7 +125,7 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "Raid Single Target | Deathstalker",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsYbmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMzMDAEgZb2WCmNWAA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxM2mBAAAAAgZDWmBAAAAAg22mZGMzYMzMLz2MzMzMYYMzYmNbjZA2MLDMglglhJwwCA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Deathstalker",
@@ -303,7 +303,7 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "Raid Single Target | Frostfire",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMjZbsZBzMmZ28AwMzYaMGzMAAAAAAmZZmmZ2mFIAAgFjZwMzMzMzYxsNGzwmZ2mxmZBDAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNLYGGzihZmZ0YMGzMmZGmhZmZmZGzMzMzYmBzMLz0MzysAAAgWAAAAAAwAAAAAAAAA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Frostfire",
@@ -325,7 +325,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Raid Single Target | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAgFGmZWmlxMmZmZMzMzMjhxYA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMGzYmZmxYMmZMLAAAAAAAQzYGzYmZYGmhxwMzYMMjZG2AAAAAAAA",
 				},
 				[1] = {
 					label = "Raid Cleave | Spellslinger",
@@ -357,7 +357,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Raid Single Target | Hellcaller / Soul Harvester",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAZGYjZGLWMbzMzIz2CzMNmZYglZMDmlhZZMAAYA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzAz2MzMMbDAAAYmxMLmZGLzMzsZGzMAgZsADMLGNmBkZBsMDAAAAAAAAMmNA",
 				},
 				[1] = {
 					label = "Raid Single Target | Hellcaller / Soul Harvester",
@@ -437,7 +437,7 @@ local talentData = {
 			[270] = {
 				[0] = {
 					label = "Raid Default Build | Conduit of the Celestials",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMGzwMWmx2MmZMAAAAAAAbLgYmBzgxiZwyMzMmxwMzysYaZzmtZmxMbAAwGCAAgZb2amZmFmhNA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmhxGmxMzywG2mZ2sNLbbzMLLMjmZmBmhZYgtZmZY2GjBLmAAAAAgAsYZWWmtZmJAAYD",
 				},
 				[1] = {
 					label = "Raid Single-Target Sheiluns Gift Build | Conduit of the Celestials",
