@@ -353,7 +353,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawyMzsMjZmxMzYGMGmZmZMbDAAAAAAAaGzYGzMDzwMMGmZGjhZMzwGAAAAAAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawyMzsMjZmxMzYGMGmZmZMbDAAAAAAAaGzYmZmZYGMMGmZghZWmZYDAAAAAYAA",
 				},
 			},
 		},
