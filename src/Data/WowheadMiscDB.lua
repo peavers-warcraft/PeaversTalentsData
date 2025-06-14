@@ -46,16 +46,6 @@ local talentData = {
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAMDAYGAAgBYZMDzMmZWMjZZmZsMDYbbm2aMDjxMMwslBAMAMbAbMLzMGAEAwMzyySLzMsBMwCwMmB",
 				},
 			},
-			[66] = {
-				[0] = {
-					label = "100 Spell Block | Templar",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZMLbzMzMzsNmxAAAMAAAAAAA0WzMzihZGGzwWbAwYgBwAbDAAwMTbzysNDQgNGAAYGGD]",
-				},
-				[1] = {
-					label = "Delves Open World | Templar",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNmZYWGLMzMzMLbzMzYGMjBAAYAAAAAAAotmZGGMDjZmZrNAYMwAYgtBAAYmptZZ2mBIwmZAMADDjB",
-				},
-			},
 			[70] = {
 				[0] = {
 					label = "Delves/Open World | Templar",
@@ -135,7 +125,7 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "Delves Build | Trickster",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMwMzYGzwMGmhhZGzMjZmptZMLzAAAAAAgttZmhHYmhFmZZWGAAAAmZGwAbwMGNmNAbTYxMA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZjxy0YGzMmZGjZYmZMMmtZxYstNzMmZmxgxysMAAAAmZwAYMbGGYgZRL0iNYA",
 				},
 			},
 		},
@@ -150,12 +140,6 @@ local talentData = {
 				[1] = {
 					label = "Delves/Questing | Voidweaver",
 					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
-				},
-			},
-			[257] = {
-				[0] = {
-					label = "Delves/Questing | Archon",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGzyYmxMMzDMDjlZmZGAAAAALz2w2MzgZhZZGDGjlNbYmpmFAgZWsMZ2MAkxgNMWG",
 				},
 			},
 			[258] = {
