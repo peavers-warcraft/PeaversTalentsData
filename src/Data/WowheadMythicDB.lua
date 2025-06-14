@@ -92,16 +92,6 @@ local talentData = {
 					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysMYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
 				},
 			},
-			[261] = {
-				[0] = {
-					label = "Mythic Build Play this | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZhxy0YGzMmxYMDzMzMMmtZxYmttZmxMzMGMWmlBAAAgZwAYMbGGYgZRL0iNYA",
-				},
-				[1] = {
-					label = "Mythic Build | Deathstalker",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMzy0YGzMmBzMDzMzMMmtZxYstNzMmZmxAWmlBAAAgZwwiZZgBsAWGmQmFYA",
-				},
-			},
 		},
 	},
 	[5] = {
@@ -251,7 +241,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Mythic | Hellcaller / Soul Harvester",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMjx2MzMLmxMDAYGLwAziRjZAZWALzAAAAAAAAgZYB",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMjxyMzMLmxMDAYGLwAziRjZAZWALzAAAAAAAAgZYB",
 				},
 				[1] = {
 					label = "Mythic | Hellcaller / Soul Harvester",
