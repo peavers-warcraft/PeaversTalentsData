@@ -146,24 +146,6 @@ local talentData = {
 					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mZmZMjZYGDzwgZMzMmZmWmxsMDAAAAAAz22MzgZmxCsMbDAAAAzMDAGzmhhMwswCtwmB",
 				},
 			},
-			[261] = {
-				[0] = {
-					label = "Raid Build Single Target Play this | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMGGjZ8AzMzMjxsNMzYbbmZMzMjBjlZbAAAAYGMAGzmhBGYW0CtYDG",
-				},
-				[1] = {
-					label = "Raid Build Single Target | Deathstalker",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMGGjZ8AzMzMjxsNMzYbbmZMzMjBjlZbAAAAYGMsYWGYALglhJkZBG",
-				},
-				[2] = {
-					label = "Raid Build Cleave | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMGjZYmZmhxsNMzYbbmZMzMjBjlZbAAAAYGMAGzmhBGYW0CtYDG",
-				},
-				[3] = {
-					label = "Raid Build Council | Trickster",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMGjZYmZmhxsNMzYbbmZMzMjBjlZbAAAAYGMAGzmhBGYW0CtYDG",
-				},
-			},
 		},
 	},
 	[5] = {
@@ -325,7 +307,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Raid Single Target | Spellslinger",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMGzYmZmxYMmZMLAAAAAAAQzYGzYmZYGmhxwMzYMMjZG2AAAAAAAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAgFGmZWmlxMmZmZMzMzMjhxYA",
 				},
 				[1] = {
 					label = "Raid Cleave | Spellslinger",
@@ -339,7 +321,7 @@ local talentData = {
 			[63] = {
 				[0] = {
 					label = "Raid | Sunfury",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmZmxsYgZGmGzMmBAAAAAgBCYmZaZWWmBAYzYGMmZMzYWMLjZMzwMbzwMLYAAAAAAAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjxYbWwMjZmFDMmxYamxMAAAAAAMAAIgZmtlllZmYBAAAAAgNAWGDzMLzywYMzMMzMzMzYGjB",
 				},
 				[1] = {
 					label = "Raid Frostfire | Frostfire",
