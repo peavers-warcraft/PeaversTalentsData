@@ -75,7 +75,7 @@ local talentData = {
 			[70] = {
 				[0] = {
 					label = "Raid Single Target | Templar",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAMDAYGAAgBYZMDzMmZWMjZZmZsMDYbbm2aMDjxMMwslBAMAMbAbMLzMGAEAwMzyySLzMsBMwCwMmB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzYbGMbDzysNDDDmhZsswGAAAZmptZZ2mBAsBMAYMmhZA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Templar",
@@ -169,11 +169,7 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "Oracle Raid | Oracle",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAwYMzsMzMjZMYmZGbzwMAAAAwsYZ2G2mZGMLMLzYMGssAzQNLAYmFsQYMLDoxCswiZbA",
-				},
-				[1] = {
-					label = "Archon Raid | Archon",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbwYWmZmxMmZMzMjtZGzAAAAAWsMbDbzMDmFmtZYGDW2gZM1sAAMzmlJziBgMGshxC",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
 				},
 			},
 			[258] = {
@@ -201,7 +197,7 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Raid Single Target | Sanlayn",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAIGAAAAmZmxMzMYWmZZmZmtFGjZaMLjZYsMmZGWmZGzADDAAAAAAMzAAsstBAsZGDLkBmhFawC",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxMzYMzMmZYGzMz0MMMzYGDAAAAAmZmZmZmZmNzMjBAAAzMzMAAAAGYgZMassAyyA2AYGsB",
 				},
 				[1] = {
 					label = "Raid Cleave | Sanlayn",
@@ -215,7 +211,7 @@ local talentData = {
 			[251] = {
 				[0] = {
 					label = "Raid Single Target | Rider of the Apocalypse",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxMzYMzMmZYGzMz0MMMzYGDAAAAAmZmZmZmZmNzMjBAAAzMzMAAAAjttBGwSwywEYYBgZwG",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAAzMjZmxMDDzMzMzwYmJzYYwgZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY20QDbYmZGzMA",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Deathbringer",
@@ -317,7 +313,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Raid Single Target | Spellslinger",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMGzYmZmxYMmZMLAAAAAAAQzYGzYmZYGmhxwMzYMMjZG2AAAAAAAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzCmxMmFPAjZGGTzMmBAAAAAgBAABMzstssMzELAAAAAAAgFGmZWmlxMmZmZMzMzMjhxYA",
 				},
 				[1] = {
 					label = "Raid Cleave | Spellslinger",
@@ -349,7 +345,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Raid Single Target | Hellcaller / Soul Harvester",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAzMzMLzsMzMjhZZsYGLsALwMW0YbAZGYjZGLWMbzMzIz2CzMNmZYglZMDmlhZZMAAYA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzAz2MzMMbDAAAYmxMLmZGLzMzsZGzMAgZsADMLGNmBkZBsMDAAAAAAAAMmNA",
 				},
 				[1] = {
 					label = "Raid Single Target | Hellcaller / Soul Harvester",
