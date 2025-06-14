@@ -46,12 +46,6 @@ local talentData = {
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALjZmZmxMzCjZxMjlZAbbz0WMjZMzMMwslBAMAMbAbMLzMmZZ2mZmtGAAQALAzMsYADD",
 				},
 			},
-			[66] = {
-				[0] = {
-					label = "Mythic Templar | Templar",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNj5BYWGLjZMzMLbzMzYGjZMAAADAAAAAAAt1MzsYYmhxMs1GAMGYAMw2AAAMz02sMbzAEYzMAAwMMG]",
-				},
-			},
 			[70] = {
 				[0] = {
 					label = "Mythic | Templar",
@@ -90,6 +84,16 @@ local talentData = {
 				[0] = {
 					label = "Mythic | Deathstalker",
 					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysMYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
+				},
+			},
+			[261] = {
+				[0] = {
+					label = "Mythic Build Play this | Trickster",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZhxy0YGzMmxYMDzMzMMmtZxYmttZmxMzMGMWmlBAAAgZwAYMbGGYgZRL0iNYA",
+				},
+				[1] = {
+					label = "Mythic Build | Deathstalker",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMzy0YGzMmBzMDzMzMMmtZxYstNzMmZmxAWmlBAAAgZwwiZZgBsAWGmQmFYA",
 				},
 			},
 		},
