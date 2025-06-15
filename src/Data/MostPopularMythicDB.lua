@@ -86,12 +86,6 @@ local talentData = {
 	},
 	[4] = {
 		specs = {
-			[259] = {
-				[0] = {
-					label = "Mythic | Deathstalker",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysMYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
-				},
-			},
 			[261] = {
 				[0] = {
 					label = "Mythic Build Play this | Trickster",
