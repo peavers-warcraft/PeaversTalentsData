@@ -69,7 +69,15 @@ local talentData = {
 			[66] = {
 				[0] = {
 					label = "Raid Single Target | Lightsmith",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAMDAYGAAgBYZMDzMmZWMjZZmZsMDYbbm2aMDjxMMwslBAMAMbAbMLzMGAEAwMzyySLzMsBMwCwMmB",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsMmZYWGLjZmZmZZbmZGzghBAAYAAAAAAAIZmZxwMYMzMbtBAjBMAGsNAAAIAzMbbLtNzYxADDYmhhxA]",
+				},
+				[1] = {
+					label = "Raid Single Target with Cleave | Templar",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNmZYWGLjZmZmZZbmZGzghBAAYAAAAAAAIZmZxwMYMjZrNAYMgBwgtBAAYmptZZ2mBIwmZwwAmZYYM",
+				},
+				[2] = {
+					label = "Raid Council | Templar",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNMDzyYZMzMzMLbzMzYGMMAAADAAAAAAAJzMLGmBjZmZrNAYMgBwgtBAAYmptZZ2mBIwmZAGwMDDjB",
 				},
 			},
 			[70] = {
@@ -169,7 +177,11 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "Oracle Raid | Oracle",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAwYMzsMzMjZMYmZGbzwMAAAAwsYZ2G2mZGMLMLzYMGssAzQNLAYmFsQYMLDoxCswiZbA",
+				},
+				[1] = {
+					label = "Archon Raid | Archon",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbwYWmZmxMmZMzMjtZGzAAAAAWsMbDbzMDmFmtZYGDW2gZM1sAAMzmlJziBgMGshxC",
 				},
 			},
 			[258] = {
