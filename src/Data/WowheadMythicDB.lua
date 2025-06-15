@@ -46,6 +46,12 @@ local talentData = {
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMALjZmZmxMzCjZxMjlZAbbz0WMjZMzMMwslBAMAMbAbMLzMmZZ2mZmtGAAQALAzMsYADD",
 				},
 			},
+			[66] = {
+				[0] = {
+					label = "Mythic Templar | Templar",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNj5BYWGLjZMzMLbzMzYGjZMAAADAAAAAAAt1MzsYYmhxMs1GAMGYAMw2AAAMz02sMbzAEYzMAAwMMG]",
+				},
+			},
 			[70] = {
 				[0] = {
 					label = "Mythic | Templar",
@@ -108,6 +114,16 @@ local talentData = {
 				[1] = {
 					label = "VW Mythic | Voidweaver",
 					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
+				},
+			},
+			[257] = {
+				[0] = {
+					label = "Oracle Mythic | Oracle",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGjxMMjZGzMzYbmZGAAAAglZZ2GMzMYWYWmxgBLsxMzUzCAmZBLEGzyAasALGjlB",
+				},
+				[1] = {
+					label = "Archon Mythic | Archon",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGjxMMjZGzMzYZmZGAAAAAzysNsNzMYWYWmxgxYhNMzUzCAwMLWmMbGAyYwmxYZA",
 				},
 			},
 			[258] = {
