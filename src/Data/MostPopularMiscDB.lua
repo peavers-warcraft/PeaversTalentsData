@@ -112,12 +112,6 @@ local talentData = {
 	},
 	[4] = {
 		specs = {
-			[259] = {
-				[0] = {
-					label = "Delves | Deathstalker",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysMYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
-				},
-			},
 			[260] = {
 				[0] = {
 					label = "Keep it Rolling Single Target | Fatebound",
@@ -299,7 +293,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Single Target | Diabolist",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAMzMzMjYWMMmtZmZYWGAAAAAAAAAAzMW2GYADYG2CZsxMjZmtxMbmZmZGjZmBjZmxgZAAA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFzwMzsY2MWMzAAAAAzMDLzMLzAGzYYhMw2wCNWwAAAAAAAYMzMDAA",
 				},
 				[1] = {
 					label = "Cleave build | DiabolistHellcaller",
