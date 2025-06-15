@@ -112,6 +112,12 @@ local talentData = {
 	},
 	[4] = {
 		specs = {
+			[259] = {
+				[0] = {
+					label = "Delves | Deathstalker",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysMYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
+				},
+			},
 			[260] = {
 				[0] = {
 					label = "Keep it Rolling Single Target | Fatebound",
