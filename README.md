@@ -37,3 +37,5 @@ For developers:
 ## Support & Feedback
 
 If you encounter any issues or have suggestions for improvements, please submit them via [GitHub Issues](https://github.com/peavers/PeaversTalentsData). Your contributions help improve the quality and accuracy of talent data available to the World of Warcraft community.
+
+<!-- Workflow triggered: 2025-06-16T10:46:04.790995 -->
