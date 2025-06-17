@@ -168,6 +168,12 @@ local talentData = {
 	},
 	[5] = {
 		specs = {
+			[256] = {
+				[0] = {
+					label = "Raid Mindbender | Voidweaver",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2MPwMmZmxMzMjZ2YbmZmZGAAAAAAAAAAAzysMbDmZGjZhxMYMYhtZaMxyAmZAQBY2mtNwYzGA",
+				},
+			},
 			[257] = {
 				[0] = {
 					label = "Oracle Raid | Oracle",
@@ -203,7 +209,7 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Raid Single Target | Sanlayn",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAIGAAAAmZmxMzMYWmZZmZmtFGjZaMLjZYsMmZGWmZGzADDAAAAAAMzAAsstBAsZGDLkBmhFawC",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAghxMzYMzMmZYGzMz0MMMzYGDAAAAAmZmZmZmZmNzMjBAAAzMzMAAAAGYgZMassAyyA2AYGsB",
 				},
 				[1] = {
 					label = "Raid Cleave | Sanlayn",
@@ -529,7 +535,7 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Raid Single Target | Scalecommander",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmxCDDzsMz2MzCzMzMzyMmZYM2wCDwAstNWw0Mz2IAAAAbMzMAbGzYA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmhBzMmZGzYmNAAAAAAAAMzADjxUDzMDAAAAmxMbjZmlxMDMjZMYBWGDjtBwMRshZG",
 				},
 				[1] = {
 					label = "Raid Single Target | Chronowarden",
