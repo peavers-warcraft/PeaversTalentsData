@@ -177,11 +177,7 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "Oracle Raid | Oracle",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAwYMzsMzMjZMYmZGbzwMAAAAwsYZ2G2mZGMLMLzYMGssAzQNLAYmFsQYMLDoxCswiZbA",
-				},
-				[1] = {
-					label = "Archon Raid | Archon",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbwYWmZmxMmZMzMjtZGzAAAAAWsMbDbzMDmFmtZYGDW2gZM1sAAMzmlJziBgMGshxC",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
 				},
 			},
 			[258] = {
@@ -461,7 +457,7 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "Raid Single Target | Wildstalker",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMWmhZMjZGLMMzsYZALmxoJamZWmZbmZWGzAAAAAAAGGzALbzshxsMAmCAAAsBDALmBD",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMjZmBAAAAAYJY2MwMjaGzyYZmZWGzYAAAAAAAgBAAAQAwsNzSz2MLbwMDALMDD",
 				},
 				[1] = {
 					label = "Raid Single Target with Cleave | Wildstalker",
