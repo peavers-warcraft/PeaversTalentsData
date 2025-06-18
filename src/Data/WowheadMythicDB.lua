@@ -116,16 +116,6 @@ local talentData = {
 					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAA2mZmxYMGzMjZ2MbzMzMzAAAAAAAAAAAwilZbwMzgZhxMGjxYhtZamJWGwMDAKAzystBGb2AA",
 				},
 			},
-			[257] = {
-				[0] = {
-					label = "Oracle Mythic | Oracle",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGjxMMjZGzMzYbmZGAAAAglZZ2GMzMYWYWmxgBLsxMzUzCAmZBLEGzyAasALGjlB",
-				},
-				[1] = {
-					label = "Archon Mythic | Archon",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMbGGjxMMjZGzMzYZmZGAAAAAzysNsNzMYWYWmxgxYhNMzUzCAwMLWmMbGAyYwmxYZA",
-				},
-			},
 			[258] = {
 				[0] = {
 					label = "Mythic | Archon",
