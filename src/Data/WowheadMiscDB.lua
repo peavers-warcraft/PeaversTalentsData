@@ -199,7 +199,7 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "Single Target | Rider of the Apocalypse",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAMzMzwYwMAgZzMMbzYmZmxMDwiZxwQGY2YoxCAMDA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGzMjxMDjxMzMzMGzMZGYghZGzMMzMzMzMLzMAAAAAAAAAAAAgFzihBGY20QDbYmZGzMA",
 				},
 				[1] = {
 					label = "ST with Cleave | Rider of the Apocalypse",
