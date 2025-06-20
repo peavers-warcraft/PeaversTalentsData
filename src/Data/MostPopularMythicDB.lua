@@ -160,36 +160,6 @@ local talentData = {
 					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMmZYMzMzMzwwMNzYYYGMzYmhZmZmZmZZmBAAAAAAAAAAAAsYWMMwAzmGaYDzMGzMA",
 				},
 			},
-			[252] = {
-				[0] = {
-					label = "M/Delves - Apoc | Sanlayn",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZYGjZmZAgZzMMLzYmZmZMGDMwMGNWWAsNxGAMDA",
-				},
-				[1] = {
-					label = "M/Delves - No Apoc | Sanlayn",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtJ2AgZA",
-				},
-				[2] = {
-					label = "Rider M Setup | Rider of the Apocalypse",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAMMzYGzMzMDAYDMLGzMzMMzA2MbGGyAzGDNWwAMDA",
-				},
-				[3] = {
-					label = "Rider M No Apoc | Rider of the Apocalypse",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGDzMzMDAMbmhZBzMz8AzMzA2MbGGyAzGDNWAgZA",
-				},
-				[4] = {
-					label = "Rider M No Setup | Rider of the Apocalypse",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGjZMzMDAMbmhZBzMz8AzMzA2MbGGyAzGDNWAgZA",
-				},
-				[5] = {
-					label = "Rider M All Burst | Rider of the Apocalypse",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZmxYYmZmZmphhZGzYAAAAAAAAAMMzYMjZmZAAAzixMzMzMzMgNzmhhMwsxQjFMAzAA",
-				},
-				[6] = {
-					label = "Rider M Hybrid | Rider of the Apocalypse",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGjZMGDzMzMzMNMmZGzYAAAAAAAAAgZGzYMzMDAYzMMLGzMzMjZGwmZzwQGY2YoxCAMDA",
-				},
-			},
 		},
 	},
 	[7] = {
@@ -226,6 +196,12 @@ local talentData = {
 				[2] = {
 					label = "Mythic with Deaths Chill | Frostfire",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzMmZW8AwMz0YMGzMzwwM4BmZmZmZmZmZGzMzYmZZmmZWmFAAA0CAAAAAAmFAAAAAAAA",
+				},
+			},
+			[62] = {
+				[0] = {
+					label = "Mythic | Spellslinger",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjZxsNLYmxMzCwMzYMNPwYGAAAAAAGAAEwMz2yyyMTsAAAAAAwGALjhZmlZZYMmZGmZmZmZMjxA",
 				},
 			},
 			[63] = {
@@ -386,6 +362,16 @@ local talentData = {
 				[1] = {
 					label = "Mythic | Chronowarden",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwAzsMDzMmZDAAAAAAAAzMYGGD1wMzAAAAgZmZ2GzMLjZGDzsZgxsZhFYgZYoRsAzA",
+				},
+			},
+			[1467] = {
+				[0] = {
+					label = "Mythic | Scalecommander",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDmZmxw0wMTmtZWmxMzMzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
+				},
+				[1] = {
+					label = "Mythic Flameshaper | Flameshaper",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmpZ2GLDGGjZWmBMzM2GzMmZGMDYMDsAWAzwEYJYZYG",
 				},
 			},
 			[1468] = {
