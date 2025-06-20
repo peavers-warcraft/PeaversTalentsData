@@ -228,12 +228,6 @@ local talentData = {
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZBzMmZW8AwMz0YMGzMzwwM4BmZmZmZmZmZGzMzYmZZmmZWmFAAA0CAAAAAAmFAAAAAAAA",
 				},
 			},
-			[62] = {
-				[0] = {
-					label = "Mythic | Spellslinger",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMjZxsNLYmxMzCwMzYMNPwYGAAAAAAGAAEwMz2yyyMTsAAAAAAwGALjhZmlZZYMmZGmZmZmZMjxA",
-				},
-			},
 			[63] = {
 				[0] = {
 					label = "Mythic | Sunfury",
@@ -392,16 +386,6 @@ local talentData = {
 				[1] = {
 					label = "Mythic | Chronowarden",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMLzsNzMzwAzsMDzMmZDAAAAAAAAzMYGGD1wMzAAAAgZmZ2GzMLjZGDzsZgxsZhFYgZYoRsAzA",
-				},
-			},
-			[1467] = {
-				[0] = {
-					label = "Mythic | Scalecommander",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDmZmxw0wMTmtZWmxMzMzYmlZAzYsNmZMmBGgBLwyY0YZAZGEshZA",
-				},
-				[1] = {
-					label = "Mythic Flameshaper | Flameshaper",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmpZ2GLDGGjZWmBMzM2GzMmZGMDYMDsAWAzwEYJYZYG",
 				},
 			},
 			[1468] = {
