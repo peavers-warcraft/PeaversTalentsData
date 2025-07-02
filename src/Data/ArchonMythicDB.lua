@@ -193,7 +193,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Rookery",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZGzsNmxAAAMAAAAAAA0WmZWMMzwYwWbAwYgBwAbDAAwMTbzysNDAwGDGAGMDjB",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZbmZGzsNGGAAgBAAAAAAg2amZYYmhxws1GAMGYAYw2AAAMz02sMbzAAsxgBAGzwYA",
 				},
 				[8] = {
 					label = "Theater of Pain",
