@@ -165,7 +165,7 @@ local talentData = {
 			[66] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMjZWGLjZmZmx2MzMMYYAAAGAAAAAAASmZWMMzwYY2CAMGAgZw2AAAMz02sMbzAAsZGMAMDzwYA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsMmZMzyMLMzMzM2mZmhhZYAAAGAAAAAAASmZ2MMDGzMzWAgxAAMD2GAAgZm2mlZbGAgNDMAMzwwYA",
 				},
 				[1] = {
 					label = "Vexie",
@@ -703,7 +703,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYYGzMzMNjZmZGzYAAAAAAAAAgZGzYMmBAMbmhZZGzMzMmZGDMwMGNWWAsNYDAmBA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZGzYMmBAMbmhZZGzMzMmZGDMwMGNW2AsNYDAmBA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -1243,7 +1243,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMz8AzMAAAAAAbBzCMmZUzYWGLzMjxMzAAAAAAAADAAAAAwsNzSz2MLbgZAYxMYA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZb2MzCzYmZb2YsNzMz8AzMAAAAAAbBDDjZG1MmlxyMGjZYAAAAAAgBGAAAAAgZbmlmtZW2gZGAWMDG",
 				},
 				[5] = {
 					label = "Lockenstock",
