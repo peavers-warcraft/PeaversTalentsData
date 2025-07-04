@@ -105,7 +105,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Lockenstock",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoZGAAAAmZmxMzMYWmZbmZmtNGjZaYZmZYsMmZGWmZGMYYAAAAAAgZAAsZDAYzMG2gBmhFaMWA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAoZGAAAAmZmxMzMYWmZbmZmtNGjRjZZMDjlxMzwyMzwMYYAAAAAAgZAAsZDAYzMG2gBmhFaMWA",
 				},
 				[6] = {
 					label = "One-Armed Bandit",
@@ -181,7 +181,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMjZWGLjZmZmx2MzMMYYAAAGAAAAAAASmZWMMDGDzWAgxAAMD2GAAgZm2mlZbGAgNzgBgZGzwYA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMjZWGLjZmZmx2MzMMYYAAAAAAAAAAQyMzihZmxYY2CAMGAgZw2AAAMz02sMbzAAsZGMAMDzwYA",
 				},
 				[5] = {
 					label = "Lockenstock",
@@ -273,7 +273,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmlxDMLzMDmZMzwCzYmxYmxkZMjZmZGjZGzYGDjBmBLzMsBAAAAAAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAAAAAYMmlxDMLzMDMjZmxCzYmxYmxkZMjZmZGjZGzYGDjBmBLzMsBAAAAAAA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -315,7 +315,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAAAAAAAAgZMjZmZmhZ0MjxwMDzywMmZwYMbmlZzMmZMLzMDjZmZZbALD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYstNwAGwswWgZBAAAAAAAAAAAAAgZMjZmZmZMjMjxwMDMMzyMDGjZzsMbmxMjZZmZYMzMLbjBLD",
 				},
 			},
 			[255] = {
@@ -379,7 +379,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxM2mBAAAAAgZBWmBAAAAAg22mZmhZGMzMLz2MzMmBDzMzYmNLjZA2MLDMgFwywEYYB",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxM2mBAAAAAgZZwyMAAAAAA022MzgZGMzMLz2MzMmBDzMzYmNLjZA2MLDMgFwywEYYB",
 				},
 				[5] = {
 					label = "Lockenstock",
@@ -581,7 +581,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "One-Armed Bandit",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAgBzYAAAAAAAAAAAAMMLeAmZmtZbMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWwMAmZzywsZAIjxCAA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAgBzYAAAAAAAAAAAAMMLegxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMMbGAyYsAA",
 				},
 				[7] = {
 					label = "MugZee",
@@ -703,7 +703,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYYGzMzMNjZmZGzYAAAAAAAAAgZGzYMmBAMbmhZZGzMzMmZGDMwMGNWWAsNYDAmBA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAAzMjZMGDzYmZmphZmZGzYAAAAAAAAAgZGzYMmBAMbmhZZGzMzMmZGDMwMGNW2AsNYDAmBA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -863,7 +863,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbsZxDYGGziBzMjGjZGzMGmZmhZmZmZGzMzMzYmBzMLz0MzysAAAALAAAAAAYAAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbsZxDYGGzih5BmZ0YMPwYmxwMzMMzMzMzYmZmZGzMYmZZmmZWmFAAAYBAAAAAADAAAAAAAA",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -901,7 +901,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "MugZee",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzCmhxsY4BmZGGTzMmBAAAAAgBAMzMtMbLzAAYDAAAAAAAsMGMzysMPwMjZmZYmZmZMMGD",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzCmxMmFPAjZGGTzMmBAAAAAgBAMzMtMbLzAAYDAAAAAAAsMGMzysMPwMjZmZYmZmZMMGD",
 				},
 				[8] = {
 					label = "Gallywix",
@@ -1457,7 +1457,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmxyAzsMjxMmZDAAAAAAAAmBMGjpGmZGAAAAMjZ2GzMLjZGYGzYwCsMGGbDgZQshZG",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMmZbmZmxyAzsMjxMmZDAAAAAAAAzMwMGjpGmZGAAAAMjZ2YmxYmBmxMGsALjhx2AYGEbYmB",
 				},
 			},
 			[1467] = {
@@ -1533,7 +1533,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Gallywix",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAmZYMwYGhZAAAAmZmJmtZmZWmZGAMjZgFwCYGmAbwmhB",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGz2MzAgZMDsAWAzwEYD2MMA",
 				},
 			},
 		},
