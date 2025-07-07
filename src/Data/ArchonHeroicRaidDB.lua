@@ -969,7 +969,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Stix Bunkjunker",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MwsNzMDz2AAAAmZMzyMjxmZmZhZmZAAzMWWGYADYG2CMsNDAAAAAAAAmZmNA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MwsNzMDz2AAAAmZMziZmxyMzMLGmZAAzYBGYWMaMDgZBsMDAAAAAAAAmxsB",
 				},
 				[5] = {
 					label = "Lockenstock",
@@ -1505,11 +1505,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Vexie",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGz2MzAgZMDsAWAzwEYD2MMA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGzyMzAgZMDsAWAzwEYD2MMA",
 				},
 				[2] = {
 					label = "Cauldron of Carnage",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGz2MzAgZMDsAWAzwEYD2MMA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGzyMzAgZMDsAWAzwEYD2MMA",
 				},
 				[3] = {
 					label = "Rik Reverb",
@@ -1521,7 +1521,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Lockenstock",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGzyMzAgZMDsAWAzwEYD2MMA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZmZWwMbMzAAAMjZMMGzIMDAAAwMzMZmtZGz2MzAgZMDsAWAzwEYD2MMA",
 				},
 				[6] = {
 					label = "One-Armed Bandit",
