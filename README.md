@@ -1,16 +1,24 @@
 # PeaversTalentsData
 
+## ⚠️ IMPORTANT NOTICE - PROVIDER SUPPORT CHANGE
+
+**As of this update, PeaversTalentsData now exclusively supports Archon as the data provider.** Support for Wowhead, Icy Veins, and U.GG has been discontinued to focus development efforts and ensure the highest quality data from our primary source.
+
+**Community Contributions Welcome**: If you would like to see support restored for other providers (Wowhead, Icy Veins, U.GG), we encourage you to open a pull request! The foundation is there, and community contributions are always appreciated.
+
+---
+
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/peavers/PeaversTalentsData)](https://github.com/peavers/PeaversTalentsData/commits/master) [![Last commit](https://img.shields.io/github/last-commit/peavers/PeaversTalentsData)](https://github.com/peavers/PeaversTalentsData/master) [![CurseForge](https://img.shields.io/curseforge/dt/1198986?label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/PeaversTalentsData)
 
-**A comprehensive data library for World of Warcraft addons that provides daily updated talent export codes from authoritative sources.**
+**A comprehensive data library for World of Warcraft addons that provides daily updated talent export codes from Archon.**
 
 ## Overview
 
-PeaversTalentsData serves as a foundation library for other addons, offering reliable and up-to-date talent data. This library aggregates information from multiple trusted platforms to ensure players have access to the most current and effective talent builds.
+PeaversTalentsData serves as a foundation library for other addons, offering reliable and up-to-date talent data. This library focuses on providing high-quality talent information from Archon to ensure players have access to the most current and effective talent builds.
 
 ## Features
 
-- **Multiple Data Sources**: Aggregates talent information from Archon, Wowhead, Icy Veins, and U.GG
+- **Archon Data Integration**: High-quality talent information sourced from Archon
 - **Daily Updates**: Talent export codes are refreshed daily to ensure accuracy and relevance
 - **API Documentation**: Comprehensive documentation for developers implementing the library
 - **Optimized Performance**: Structured for efficient integration with minimal performance impact
