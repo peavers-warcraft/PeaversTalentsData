@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2025-08-29 21:54:57",
+	updated = "2025-09-04 14:34:29",
 
 	[1] = {
 		specs = {
@@ -66,7 +66,7 @@ local talentData = {
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhZmNzMMjBzswMzMmhZYmttxYmZWwMmZmxMzsMM8AmZAAAQM22GYBMgZYCMYDA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhZsZmhZMYmFmZmxMMDzstNzYmZWwMmZmxMjlhHgHYmZAAAQM22GYBMgZYCMDbA",
 				},
 			},
@@ -100,7 +100,7 @@ local talentData = {
 					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAAwMzYmZmZYmNjZZYGjZaYZMDjlBG2mZGMmHYYAAAAAAglxAAzYDwAbwyiRjZAMbYmNMzA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAAwMzMmZmhZmNjZZwYMTDLzMDDDmhtZmBDzwAAAAAAALjBAmxGgB2glFjGzAY2wMbYmB",
 				},
 			},
@@ -138,7 +138,7 @@ local talentData = {
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbmZmxMmZwMzyMDLzgZ22MtFzYGzMDDMbZAADYwGwGzyMmZWmtZmZrBAAAYBAsZYYMDA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAAYbmZmxMmZwMzyMDLzgZ22MJmxMmZGGY2yAAGwgNgNmlZMzsMbzMzWDAAAwCAYjxwYmB",
 				},
 			},
@@ -172,7 +172,7 @@ local talentData = {
 					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMYWmHYZmZmZmx2MzMmBDDAAwAAAAAAAQyYYwMMGzsFAgBMAzgtBAAAAMzsst02MjFDMAjZGzwYA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYZmZmZmx2MzMzMYYAAAGAAAAAAASmZWMMDGDzWbAwYgBwMYbAAAAAzMLbLtNzYxADAzwMMG",
 				},
 			},
@@ -206,7 +206,7 @@ local talentData = {
 					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzYbGMbDzysNDDDmhhlF2AAAgZm2mlZbGAwGwAgxYGmB",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzMbzgZbYWmtZYYwghlF2AAAgZm2mlZbGAwGwAAzYGmB",
 				},
 			},
@@ -274,7 +274,7 @@ local talentData = {
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYMbDMgBMbsFYWAAAAAAAAAAAAAgZMjZmZmhZ0MjxwMDMMLLzglxMDstZmZGziZGmZmZW2MmlBzA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYMbDMgBMbsFYWAAAAAAAAAAAAAgZYMzMzMjZ0MjxYmZgZMLmZwYmBbbbmZmxsYmhZmZsshZZYM",
 				},
 			},
@@ -402,7 +402,7 @@ local talentData = {
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzsMGzYMMMzMzwY2mlZMjtZmZmZmBMWmtBAAAgZwAYMbGGYgZhFaxGM",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzsMGzYMMMzMzwY2mlZMjlZmZmZmBMWmtBAAAgZwAYMbGGYgZhFaxGM",
 				},
 			},
@@ -470,7 +470,7 @@ local talentData = {
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAgxYmZbmZGzYwMzM2mhZAAAAwsYZ2G2mZGMLMmxMjBLLwMmaWAYmFsQYMLDwYBWYxsMAA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAgxYmZbmZGzYwMzM2mhZAAAAwsMLz2gZmBzCDDzYYWWgZM1sMAmZBLEGzyAMWgFWMLDA",
 				},
 			},
@@ -504,7 +504,7 @@ local talentData = {
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2GA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2GA",
 				},
 			},
@@ -572,7 +572,7 @@ local talentData = {
 					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDgZGzYMzYZYmZmZmxMzIGzMzwMwwMYmZmZGAAAAAAAAAAAMW2GYALglhJwYBzMzYmBmxA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDgZGzMjxwwMzMzMjZmRmxMjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCMWwMzMmZghB",
 				},
 			},
@@ -640,7 +640,7 @@ local talentData = {
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZWgBMgZjJwsAAsNNzMMbLmZmGzYmZBLzMGMGmlxMjZGzMbA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZWgBMgZjJwsAAsMNzMYbjZmGGzMLDLzMzgxwsMzMjZGzMbA",
 				},
 			},
@@ -704,7 +704,7 @@ local talentData = {
 					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMmZZMY22mtZWmhFbmZBGwAmFmAjFz8AmNmZbmZmJz2CzMNmhZ2wyMmBjhZZMAAwA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYMzMmZZMYW2mtZWmB2MzCMgBMLMBGLmZMbMz2MzMTmtFmZaMDzshlZMDGDzyYAAgB",
 				},
 			},
@@ -772,7 +772,7 @@ local talentData = {
 					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzgZ8AjZxwYmhx0MjZAAAAAAYAAzMTLz2yMAA2AAAAAAAAYwMLzyMzMjxMmZmZmxMsMG",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzgZMjZxDwYmhx0MjZAAAAAAYAAzMTLz2yMAA2AAAAAAAAGDmZZWmxMjxMMzMzMmxsMG",
 				},
 			},
@@ -840,7 +840,7 @@ local talentData = {
 					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZmZmZmhY2MwsNzMDzyAAAAmZMzCzMPwmZmZhZmZAAzM22GYADYG2CMsNDAAAAAAAAmZmNA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZmZmZmhY2MwsNzMDzyAAAAmZMziZmx2MzMLGmZAAzYBGYWMaMDgZDsMDAAAAAAAAmxsB",
 				},
 			},
@@ -904,7 +904,7 @@ local talentData = {
 					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmBmtZmZYWmFDzMzsMzYsYmBAAAAmZGLLzMLzAGzYYBGYbYhGLYAAAAAAAMMmBA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMEzmBmtZmZYWmFDzMzsMzY2WMzAAAAAzMDLzMLzAGzYYBGYbYhGLYAAAAAAAMMmBA",
 				},
 			},
@@ -942,7 +942,7 @@ local talentData = {
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgxGmxMmlZsNmZGAAAAAAAWWwImZgZYsxgtZmZYWGzM2sMTMbz2MzwsBAALz20ysNzyAAAAwMsB",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgx2wMmxsMjtxMzAAAAAAAwyCGxMjFmhxGD2mZmhZZMzYbWMxsNbzgZ2AAglZbaZ2mZZAAAAYG2A",
 				},
 			},
@@ -976,7 +976,7 @@ local talentData = {
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMAmZMLzMmZGAAAAAAAAAAAssMMiZGYGGWYGbzMzwsxMDzyMBAwyMzgZG2mBAwGAYWmlmZmZBwM",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMzYWmZMzMDAAAAAAAAAAALLDjYmBmhhFmx2MzMMbMzwsMTAAsMmZYmhtZAAsBAmlZpZmZWAMD",
 				},
 			},
@@ -1010,7 +1010,7 @@ local talentData = {
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxswMwGmxMzyDwmtZZmZz2sstMzsswMamZGYGmBD2mZmhZbMGsYCAAAAAAYxyssMbzMTAAwCA",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxswMwGmxMzyDwmtZZmZz2sstNzsswQzMzAzwMYw2MzMMbjxwsYCAAAAAAYxyssMbzMTAAwCA",
 				},
 			},
@@ -1048,7 +1048,7 @@ local talentData = {
 					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMwDYWGLzMDwMGLzsNjlxMjZmFjZGzMjNswAMAbbjNMNzsMAAAAYjZmxAbGDD",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMwDYWGLzMDwMGLzsNjlxMjZmlZMzYmZshFGgBYbbshpZmlBAAAAbmZmBYzAD",
 				},
 			},
@@ -1082,7 +1082,7 @@ local talentData = {
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMbMmFzMmZ2mtHwYbmZGPwMDAAAAAwWwsBMzomxsMWmZGjZmZAAAAAAgBAAAAoZWmlZmtBAsAmZAswgB",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMbMmFzMmZ2mtHwYbmZGPwMDAAAAAwWwsBjZG1MmlxyMzYMjBAAAAAAMAAAAANzysMzsNAgFYmBgFGM",
 				},
 			},
@@ -1116,7 +1116,7 @@ local talentData = {
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzYmxMzy8AjhZYGLmhZmFLDMgRTmmZmFzyMzYMDDAAAAAAjZGAAAAoZ2mlZmlBAwCMAsYmhB",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMmZWmHYMMDzYxDMMzsYZAgRTmmZmlZWmZGjZYAAAAAAYYGAAAAoZ2mlZmlBAwCjBgFzMM",
 				},
 			},
@@ -1150,7 +1150,7 @@ local talentData = {
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZb4BYstNz2itZAAAAAAAAAAAAsZoZjx0MDwsMzyMzwwMAAAAAgBAMAAAAAgZbmtmlZ2sxYmBY2woB",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZb4BYstNz2itZAAAAAAAAAAAAsNoZzMmmZMwsMzyMzwwMDAAAAAAAMAAAAAgZbmlmlZ2sxMzAYAaA",
 				},
 			},
@@ -1188,7 +1188,7 @@ local talentData = {
 					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzgZmZMmJmZGAAAAAAwsMmxMMGLjZ2wyMmxMjhlNYZ2MjhZjpxYmZmBb",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzMjZmZMzMxMzAAAAAAAmNzMmBmZbmZ2sMLjhZmhxy2sNDGGLbMhhZmhhF",
 				},
 			},
@@ -1222,7 +1222,7 @@ local talentData = {
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMjZMMjMzMGDjZZmhZsNjZegZMzwYMzMbmZ2mZwAAAAAsMLmxwsx0AzMD2A",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAmZMzMjhZkZmBziZmlxYG2mhZGzMGMLzMzmZGzMYAAAAY2mBDjlFmwgZmBLA",
 				},
 			},
@@ -1260,7 +1260,7 @@ local talentData = {
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxYbmZmxyAzsMzMzMmZDAAAAAAAAzMgHwYM1wMzAAAAgZMz2YmZbMzAzsNjBLwyYYsNAmBxGGD",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxMbzMzgZ8AzMLzMzMMDAAAAAAAAMzAeAjxUDzMDAAAAmxMbjZmlxMDMz2MGsALjhx2AYGEbYMA",
 				},
 			},
@@ -1294,8 +1294,12 @@ local talentData = {
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGMgBjZaGzMZMWGzMzw8AzsNDYGzsNmZWmZGMDMjZgNwCYGmALglhB",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGzMgxYYaYmJjxyMzMzwYmlZAzYmtxMz2MzgZgZMDsBWAzwEYBsMMA",
+				},
+				[8] = {
+					label = "Dimensius",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGzMgxYYaYmJjxyMzMzwYmlZAzYmtxMzyMzgZgZMDsAWAzwEYBsMMA",
 				},
 			},
 			[1468] = {
@@ -1328,7 +1332,7 @@ local talentData = {
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMbzghZGzixMbjZGAAgZMjhxYGhZAAAAmZmJzsNzYWmZGAMjZgFwCYGmAbwmhB",
 				},
 				[7] = {
-					label = "Nexus-King Salhadaar",
+					label = "Nexus King Salhadaar",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZMLzghZGzixMbjZGAAwMjZMwYGhZAAAAmZmJmtZmHYWmZGAMjZgFwCYGmAbwmhB",
 				},
 			},
