@@ -1,13 +1,5 @@
 # PeaversTalentsData
 
-## ⚠️ IMPORTANT NOTICE - PROVIDER SUPPORT CHANGE
-
-**As of this update, PeaversTalentsData now exclusively supports Archon as the data provider.** Support for Wowhead, Icy Veins, and U.GG has been discontinued to focus development efforts and ensure the highest quality data from our primary source.
-
-**Community Contributions Welcome**: If you would like to see support restored for other providers (Wowhead, Icy Veins, U.GG), we encourage you to open a pull request! The foundation is there, and community contributions are always appreciated.
-
----
-
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/peavers/PeaversTalentsData)](https://github.com/peavers/PeaversTalentsData/commits/master) [![Last commit](https://img.shields.io/github/last-commit/peavers/PeaversTalentsData)](https://github.com/peavers/PeaversTalentsData/master) [![CurseForge](https://img.shields.io/curseforge/dt/1198986?label=CurseForge&color=F16436)](https://www.curseforge.com/wow/addons/PeaversTalentsData)
 
 **A comprehensive data library for World of Warcraft addons that provides daily updated talent export codes from Archon.**
