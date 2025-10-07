@@ -5,7 +5,7 @@
 ## IconTexture: Interface\AddOns\PeaversTalentsData\src\Media\Icon.tga
 
 ## Author: Peavers
-## Version: 0.0.944
+## Version: 0.0.945
 ## X-Curse-Project-ID: 1198986
 
 ## Category-enUS: Peavers
