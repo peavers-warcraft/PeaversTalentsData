@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicDB = addonTable.ArchonMythicDB or {}
 
 local talentData = {
-	updated = "2025-10-10 02:02:14",
+	updated = "2025-10-11 02:02:09",
 
 	[1] = {
 		specs = {
@@ -41,7 +41,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAghZmxMmxMz2stsMmBAAAYw0wMzyYGGLMzMWMzMmZwwAAAAAAAwMmtBDYLGwmZMsBDMDb0AWA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAghZmxMmxMz2stsMmBAAAYw0wYWGzwYZMzM2MzMmZwwAAAAAAAwMmtBDYLGwmZMsBDMDb0AWA",
 				},
 			},
 			[72] = {
@@ -139,7 +139,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls Of Atonement",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMAbjZYmxMjlZMLzMsMDmZbz0WMjZMzMMwslBAMwAbAbMLmxMLz2Mzs0AAAAsAYwmZghhB",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAzAAAMAbjZYmxMjlZMLzMsMDmZbz0WMjZMzMMwslBAMwAbAbMLzMmZZ2mZmlGAAAgFAD2MDMMA",
 				},
 				[4] = {
 					label = "Operation Floodgate",
@@ -177,7 +177,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls Of Atonement",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMzMzMLbzMzYmtxwAAAMAAAAAAA0WzMzihZGGzwWbAADMAAbDAAAAYmZbbptZGLMYAYwMMG",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMzMzMLbzMzYmtxwAAAMAAAAAAA0WzMzihZGGD2aDAYgBwAbDAAAAYmZbbptZGLMYAYwMMG",
 				},
 				[4] = {
 					label = "Operation Floodgate",
@@ -189,7 +189,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMzMzMLbzMzYmtxwAAAMAAAAAAA0WzMzihZGGzwWbAADMAAbDAAAAYmZbbptZGLMYAYwMMG",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMzMzMLbzMzYmtxwAAAMAAAAAAA0WzMzihZGGD2aDAYgBwAbDAAAAYmZbbptZGLMYAYwMMG",
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
@@ -231,7 +231,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAgRmltZmtltZGbGz2mZbAAAAAAY2aaGGmZsNDmthxsNzy2YGMDDLLsBAAAzMtNLz2MAgNgBAMMMA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAgRmltZmtltZGLGz2mZbAAAAAAY2aaGGmZsNDmthxsNzy2YGMDDLLsBAAAzMtNLz2MAgNgBAMMMA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -417,11 +417,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Floodgate",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzYWglZbAAAAYmZAwY2MMwAzCL0CbGA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMz2MYMzYmZmZYGegxMzMMzMz0yMmtZAAAAAAw2yMzgZGWglZbAAAAYmZAwY2MMwAzCL0CbGA",
 				},
 				[5] = {
 					label = "Priory Of The Sacred Flame",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzYWglZbAAAAYmZAwY2MMwAzCL0CbGA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzwCsMbDAAAAzMDAGzmhBGYWYhWYzMA",
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
@@ -433,7 +433,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzYWglZbAAAAYmZAwY2MMwAzCL0CbGA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAAMz2MYMzYmZmZYGegxMzMMzMz0yMmtZAAAAAAw2yYGMzYWglZbAAAAYmZAwY2MMwAzCL0CbGA",
 				},
 			},
 			[261] = {
@@ -443,7 +443,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara City Of Echoes",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMzYMDzMjhxsNLGzstMzMmZmBMWmlBAAAgZwAYMbGGYgZhFaxGM",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMzYMDzMjhxsNLGzstMzMmZmBMWmtBAAAgZwAYMbGGYgZhFaxGM",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -463,7 +463,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYmxMzYMDzMjhxsNLGjtlZmZYmBjZWmtBAAAgZwAYMbGGYgZhFaxGM",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAAMz2MAAAAAAMLjxy0YGzMmZGjZYmZMMmtZxYstMmBzMYMzysNAAAAMDzAYMbGGYgZhFaxGM",
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
@@ -531,7 +531,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls Of Atonement",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAzmxDMGjZYGzMmZmx2MzMAAAAglZZ2GMzMYWYWmxgBLsxMzUzCAzsgFCjZZAGLwCGLDA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAzMjZZMzYGGmhx2MzMDAAAAYWmtBzMDmFGzYmxYssBzMTNLAMzCWIMmlBYsALsNWGA",
 				},
 				[4] = {
 					label = "Operation Floodgate",
@@ -543,7 +543,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAzMjZZMzYGGmhx2MzMDAAAAYWmtBzMDmFGzYmxYssBzMTNLAMzCWIMmlBYsALsNWGA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAzmxDMGjZYGzMmZmx2MzMAAAAglZZ2GMzMYWYWmxgBLsxMzUzCAzsgFCjZZAGLwCGLDA",
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
@@ -611,7 +611,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls Of Atonement",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYGzMzYGzMzwMzYmpZYMjZmBAAAAYYmZmZGz2MzMGAAwMzMjBAAAM22GYALgthJwwCAzgNA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYGzMDDzMzwYGzMNDzMzMzMGAAAAYYmZmZY2mZmxAAAmZmZMAAAgxy2ADYBsNMBGWAYGjNA",
 				},
 				[4] = {
 					label = "Operation Floodgate",
@@ -627,7 +627,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYGzMDzYmZGmxYmpZGDzMzMGAAAAYYmZmZY2mZmxAAAmZmZMAAAgxy2ADYBsNMBGWAYGjNA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYGzMDzYmZGGzYmpZGDzMzMGAAAAYYmZmZY2mZmxAAAmZmZMAAAgxy2ADYBsNMBGWAYGjNA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -725,7 +725,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzwQjNAwsMNDYDmphZmZMsMjZmFzyYZWmZMYYmtBA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzwQjNAwsMNDYDzMNMzMjhlZMjFzyYZWmZMYYmtBA",
 				},
 				[3] = {
 					label = "Halls Of Atonement",
@@ -733,7 +733,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Floodgate",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzwQjNAwsMNDYDmphZmZ2GWmxMziZZYWmZMYYmtBA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzwQjNAwsMNDYDzMNMzMjhlZMzsYWGLWmZMYYmtBA",
 				},
 				[5] = {
 					label = "Priory Of The Sacred Flame",
@@ -745,7 +745,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzwQjNAwsMNDYDzMNMzMjhlZMjFzyYZWmZMYYmtBA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzwQjNAwsMNDYDzMNMzMjhlZMzsYWGLWmZMYYmtBA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -759,7 +759,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara City Of Echoes",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMjtZmZegZmlZGYAAAAAAAAAAWAsZGDbwCMDDNYBAzykZMmFMzYMzYGzYZmZaWYZYMGAgxA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMjtZmZegZmlZGYAAAAAAAAAAWAsZGDbwCMDDNYBAz2kZwsswYMGjZ2mxyMmmFWGLjZGAgxA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -771,7 +771,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Floodgate",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbwCMDDNYBAz2kBmFzwgxMzsNsMzMNLsMzyYmBAYMA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbwCMDDNYBAzykBzssYGjxYMzGWmZmmFWGLjZGAgxA",
 				},
 				[5] = {
 					label = "Priory Of The Sacred Flame",
@@ -779,11 +779,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMjtZmZegZmlZGYAAAAAAAAAA2AsZGDbwCMDDNYBAzykZglFmZGMjZ2mxyMzkFWGLjZGAgxA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMjtZmZegZmlZGYAAAAAAAAAA2AsZGDbwCMDDNYBAzykZMmFMzYMzYGzYZmZaWYZYMGAgxA",
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMYZAAAAAAAAAA2AsZGDbwCMDDNYBAzykZgFmZmZYGzsNsMjpZjlxyYmBAYMA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMjtZmZegZmlZGYAAAAAAAAAAWAsZGDbwCMDDNYBAz2kBmFmxgxMzsNjlZmpZhlxyYmBAYMA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -843,11 +843,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMjZmFgZmpxYegxMzMMMDegZmZmZmZmZmxMzMmZWmpZmlZBAAAWAAAAAAwsBAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMMzsAjZGNGzDMmZmhhZwDMzMzMzMzMzMmZmxMzyMNzsMLAAAwCAAAAAAmNAAAAAAAA",
 				},
 				[3] = {
 					label = "Halls Of Atonement",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMjZmFPAMzMNGjxMzMMMDegZmZmZmZmZmxMzMmZWmpZmlZBAAAWAAAAAAwsAAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhZmNDMzoxYmxMzMMMDegZmZmZmZmZmxMzMmZWmpZmtZBAAAWAAAAAAwsAAAAAAAAA",
 				},
 				[4] = {
 					label = "Operation Floodgate",
@@ -867,7 +867,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMMzsYgZmpxYMmZmhhZwDMzMzMzMzMzMmZmxMzyMNzsMLAAAwCAAAAAAmNAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMjZmFPAMzMNGjxMzMMMDegZmZmZmZmZmxMzMmZWmpZmlZBAAAWAAAAAAwsAAAAAAAAA",
 				},
 			},
 			[62] = {
@@ -915,7 +915,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara City Of Echoes",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMDzMLeAGzMMNmZMzAAAAAAYAAzMTLzyyMAAbmZGMmZMzYWMLjhZmNzsNjtZgBAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMDzMLGeAzMMNmZMzAAAAAAYAAzMTLzyyMAAbmZGMmZMzYWMLjhZmNzsNjtZgBAAAAAAA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -935,11 +935,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMjHYmZxAzMMNmZMzAAAAAAYAAzMTLzyyMAAbmZGMmZMzYWMLjhZmNzsNjtZgBAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMDzMLGeAzMMNmZMzAAAAAAYAAzMTLzyyMAAbmZGMmZMzYWMLjhZmNzsNjtZgBAAAAAAA",
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzgZzgZYmZzDAzMMNmZWmZAAAAAAMAgZmplZZZGAgNzMDGzMmZMLmlxwMzmZ2mx2MwAAAAAAAA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzAbGMDzMLeAeAzMjpxMjZGAAAAAADAYmZaZWWmBAYzMzgxMjZGziZZMMzsZmtZsNDMAAAAAAA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -957,7 +957,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara City Of Echoes",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMjxyMzMLmxMDAYGLwAziRjZAMbglZAAAAAAAAwMsA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzihxsZmZYWGAAAwMjZWmZegxyMzMLmxMDAYGLwAziRjZAMbglZAAAAAAAAwMsA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -977,7 +977,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDz2AAAAmZMzyMjxyMzMLmxMDAYGLwAziRjZAMbglZAAAAAAAAwMsA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MMmNzMDzyAAAAmZMzyMjxyMzMLmxMDAYGLwAziRjZAMbglZAAAAAAAAwMsA",
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
@@ -1003,7 +1003,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls Of Atonement",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZY2GAAAAAAAAAAzAGzYYBGYZYhGWYmxM2GzsNjZmZMmxwMzMzMwMAAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjY2MMmtZmZY2GAAAAAAAAAADwYGDLwALDL0wCzMmx2YmtZMzMjxMGmZmZmBmBAAA",
 				},
 				[4] = {
 					label = "Operation Floodgate",
@@ -1103,7 +1103,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgxGmxMmlZsNmZGDAAAAAAwyCGxMDMzmxGw2MzMMbDzYzyMxsNbzMDzGAAsBAAAMbzSzMzswMsB",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgxGmxMmlZsNmZGAAAAAAAWWgJmZgZYsBsNzMjZ2Ymx2sMTMbz2MzwsBAAbAAAAz2s0MzMLMDbA",
 				},
 			},
 			[269] = {
@@ -1141,7 +1141,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMzM2mZMzMDAAAAAAAAAAALLDjYmhxMMswM2mZmhZjZGsMTAAsMmhZmhtZAAsBAmlZpZmZWAMD",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzgBzMjx2MzYmZAAAAAAAAAAAYZZYEzMMmhhFG2mZmhZjZGmlZCAglxMDwsNDAgNAwsMLNzMzCMMD",
 				},
 			},
 			[270] = {
@@ -1193,7 +1193,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara City Of Echoes",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYmFzyMLzMbzMzMzMLmlxwgNsAgxy2MbYMbDgJAAAALmZMAbGGD",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYsYWmZZmZbmZmZmZxsMGGshFGgxy2MbYMbDgJAAAALmZMAbGGD",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -1319,7 +1319,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Operation Floodgate",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsBzstsMzMzMLmtxgxyCbL2mBAAAAAAAAAAAwygsZYywMGziZZmxyMGzAAAAAAAADAAAAAY2mZrZZmNbMzMwYmFQD",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsBzstsMzMzMLmtxgxyCbL2mBAAAAAAAAAAAwygmNDTGmxDYWMLzMWmxMzAAAAAAAADAAAAAY2mZrZZmNbMmBGzsAaA",
 				},
 				[5] = {
 					label = "Priory Of The Sacred Flame",
@@ -1327,11 +1327,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "Tazavesh Soleahs Gambit",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsBzstsMzMzMLmtxgxyCbL2mBAAAAAAAAAAAwygmNDTzwMYWMLzMWmxYGAAAAAAAYAAAAAAz2MbNLzsZjZmBGzsAaA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsBzstsMzMzMLmtxgxyCbL2mBAAAAAAAAAAAw2gmNDTzwMYWMLzMWmxMzAAAAAAAADAAAAAY2mZrZZmNbMmBGzsAaA",
 				},
 				[7] = {
 					label = "Tazavesh Streets Of Wonder",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsBzstsMzMzMLmtxgxyCbL2mBAAAAAAAAAAAw2gmNDTzwMGziZZmxyMGAAAAAAAADAAAAAY2mZrZZmNbMzMwYmFQD",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsBzstsMzMzMLmtxgxyCbL2mBAAAAAAAAAAAwygsZYaGmxDYWMLzMWmxYGAAAAAAAYAAAAAAz2MbNLzsZjZmBGzsAaA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -1509,11 +1509,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2GDwMzYWMzMbDAAAmZYMjxwMxYGAAAYbmZmmxyMzMGzAAwY2swCMwMM0gxCMA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2GDwMzYWMzMbDAAAmZMjZMGmJGzAAAAbzMz0M2mZMGzAAwY2swCMwMM0gxCMD",
 				},
 				[3] = {
 					label = "Halls Of Atonement",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2GDwMzYWMzMbDAAAmZYMjxwMxYGAAAYbmZmmxyMzMGzAAwY2swCMwMM0gxCMA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2GDwMzYWMzMbDAAAmZMjZMGmJGzAAAAbzMz0MWmZMGzAAwY2swCMwMM0gxCMD",
 				},
 				[4] = {
 					label = "Operation Floodgate",
@@ -1533,7 +1533,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2GDwMzYWMzMbDAAAmZYMjxwMxYGAAAYbmZmmx2MzMGzAAwY2swCMwMM0gxCMA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2GDwMzYWMzMbDAAAmZMjZmxwMxYGAAAYbmZmM2mZMGzAAwY2swCMwMM0gxCMD",
 				},
 			},
 		},
