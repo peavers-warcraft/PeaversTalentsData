@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2025-11-16 02:03:33",
+	updated = "2025-11-17 02:03:21",
 
 	[1] = {
 		specs = {
@@ -113,7 +113,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King Salhadaar",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAAwMzYmZmZYmNjZZYGjZaYZMDjlBG2mZGMmHYYAAAAAAglBAYGbAGYDWWMaMDgZDzsxMzA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAAwMzYmZmZYmNjZZwYMTDLjZYsMYG2mZGMMDDAAAAAAsMAAzYDwAbwyiRjZAMbYmNmZG",
 				},
 				[8] = {
 					label = "Dimensius",
@@ -193,7 +193,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King Salhadaar",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMPgZWGLjZmZmx2MzMMYYAAAGAAAAAAASzMzihZGGjxWbAwYAAmBbDAAAAYmZZbptZGLGYAYMmxwA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMPgZWGLjZmZmx2MzMMGDDAAwAAAAAAAQyMzihZGGjZ2aDAYAAmBbDAAAAYmZZbptZGLGYAYGmhxA",
 				},
 				[8] = {
 					label = "Dimensius",
@@ -485,7 +485,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAgtZmZMGjxMzYmNz2MzMzMAAAAAAAAAAAWmlZbwMzgZhhxYMMLbPgZaMxyAzMAQAmtZbDM2sBAA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAgNzMDGjxMDzsx2MzMzMzMAAAAAAAAAAYWmlZbwMzgZhxMMjBLsNTjJWmBYmFsQYMLDwYDLAAA",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -493,7 +493,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Soulbinder Naazindhri",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAgNzMDGjxMDzsx2MzMzMzMAAAAAAAAAAYWmlZbwMzgZhxMMjBLsNTjJWmBYmFsQYMLDwYDLAAA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAgtZmZMGjxMzYmNz2MzMzMAAAAAAAAAAAWmlZbwMzgZhhxYMMLbPgZaMxyAzMAQAmtZbDM2sBAA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
@@ -847,7 +847,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Soulbinder Naazindhri",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhxsYYmZGNGjxMjhZmZYmZmZmxMzMzMzMDMzyMNzsNLAAAwCAAAAAAGAAAAAAAAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhxsYYmZGNGjxMzMMMDegZmZmZmZmZmxMzMmZWmpZmtZBAAAWAAAAAAwAAAAAAAAA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
@@ -953,7 +953,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MwsNzMDz2AAAAmZMziZmxyMzMLGmZAAzYBGYWMaMDgZDsMDAAAAAAAAmxsB",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjY2MwsNzMDz2AAAAmZMziZmxyMzMLGmZAAzYBGYWMaMDgZBsMDAAAAAAAAmxsB",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
@@ -1457,7 +1457,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxMbzMzgBzMLzMzMjZ2AAAAAAAAwMD4BMGTNMzMAAAAYGzsNmZWGzMwMbzYwCsMGGbDgZQshxA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxMbzMzgBzMLzMzMjZ2AAAAAAAAwMD4BMGTNMzMAAAAYGzsNmZ2GzMwMbzYwCsMGGbDgZQshxA",
 				},
 			},
 			[1467] = {
