@@ -2,24 +2,26 @@
 
 ## Title: |cff3abdf7Peavers|rTalentsData
 ## Notes: Datasource for PeaversTalents and others
-## IconTexture: Interface\AddOns\PeaversTalentsData\src\Media\Icon.tga
-
 ## Author: Peavers
 ## Version: 0.0.1170
-## X-Curse-Project-ID: 1198986
 
+## IconTexture: Interface\AddOns\PeaversTalentsData\src\Media\Icon.tga
 ## Category-enUS: Peavers
 
-src/Data/TopPlayersMythicDB.lua
-src/Data/TopPlayersHeroicRaidDB.lua
-src/Data/TopPlayersMythicRaidDB.lua
-src/Data/CommunityMiscDB.lua
-src/Data/CommunityMythicDB.lua
-src/Data/CommunityRaidDB.lua
-src/Data/WorldwideMythicDB.lua
-src/Data/WorldwideRaidDB.lua
-src/Data/MostPopularMiscDB.lua
-src/Data/MostPopularMythicDB.lua
-src/Data/MostPopularRaidDB.lua
+## X-Website: https://peavers.io
+## X-Source-Code: https://github.com/peavers-warcraft/PeaversTalentsData
+## X-Curse-Project-ID: 1198986
 
-src/Api/Api.lua
+src\Data\TopPlayersMythicDB.lua
+src\Data\TopPlayersHeroicRaidDB.lua
+src\Data\TopPlayersMythicRaidDB.lua
+src\Data\CommunityMiscDB.lua
+src\Data\CommunityMythicDB.lua
+src\Data\CommunityRaidDB.lua
+src\Data\WorldwideMythicDB.lua
+src\Data\WorldwideRaidDB.lua
+src\Data\MostPopularMiscDB.lua
+src\Data\MostPopularMythicDB.lua
+src\Data\MostPopularRaidDB.lua
+
+src\Api\Api.lua
