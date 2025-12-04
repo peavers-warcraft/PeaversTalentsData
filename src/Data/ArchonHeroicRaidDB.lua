@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2025-12-01 19:47:09",
+	updated = "2025-12-04 02:03:30",
 
 	[1] = {
 		specs = {
@@ -387,7 +387,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxMYAAAAAAY2glZAAAAAAottZmxMzMGzMzysNzMjZwwMzMmZz2YGADsAzY0Y2AsNgNA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxMYAAAAAAYWGsMDAAAAAAttNzMmZmBzMzysNzMjZwwMzMmZz2YGADsAzY0Y2AsNgNA",
 				},
 				[7] = {
 					label = "Nexus King Salhadaar",
@@ -1331,11 +1331,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King Salhadaar",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAYmZmxy2YmZsY2GeAGbbzssYbGAAAAAAAAAAAAbGa2YMNzAMLzsMzMMMDAAAAAYAADAAAAAY2mZrZZmNbMmZAmNMaA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZb4BYstNzyitZAAAAAAAAAAAAsZoZzMmmZAmlxyMzwwAAAAAAMAgBAAAAAMbzs1sMzmNmZmZADMaA",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAYmZmxy2YmZsY2GeAGbbzssYbGAAAAAAAAAAAAbGa2YMNzAMLzsMzMMMDAAAAAYAADAAAAAY2mZrZZmNbMmZAmNMaA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAsNmZGLbjZmxiZb4BYstNzyitZAAAAAAAAAAAAsZoZzMmmZAmlxyMzwwAAAAAAMAgBAAAAAMbzs1sMzmNmZmZADMaA",
 				},
 			},
 		},
@@ -1457,7 +1457,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxMbzMzgBzMLzMzMjZ2AAAAAAAAwMD4BMGTNMzMAAAAYGzsNmZWGzMwMbzYwCsMGGbDgZQshxA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgxMbzMzgBzMLzMzMjZ2AAAAAAAAwMD4BMGTNMzMAAAAYGzsNmZ2GzMwMbzYwCsMGGbDgZQshxA",
 				},
 			},
 			[1467] = {
@@ -1495,7 +1495,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGmBMYMTzYmJjxyMzMzwYmtZAzYmNmZ2mZGMDMjZgNwCYGmALglhB",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGMgBjZaGzMZMWmZmZGGzsNDYGzsNmZ2mZGMDMjZgNwCYGmALglhB",
 				},
 			},
 			[1468] = {
