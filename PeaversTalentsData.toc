@@ -3,7 +3,7 @@
 ## Title: |cff3abdf7Peavers|rTalentsData
 ## Notes: Datasource for PeaversTalents and others
 ## Author: Peavers
-## Version: 0.0.1208
+## Version: 0.0.1209
 
 ## IconTexture: Interface\AddOns\PeaversTalentsData\src\Media\Icon.tga
 ## Category-enUS: Peavers
