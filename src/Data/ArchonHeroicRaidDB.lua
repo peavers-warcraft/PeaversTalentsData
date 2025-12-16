@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2025-12-15 02:03:25",
+	updated = "2025-12-16 02:03:26",
 
 	[1] = {
 		specs = {
@@ -341,7 +341,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawyMzsMjZmxMzYMMGmZmZMbDAAAAAAoZMjZMzMMDzwYYmhxwstMD2AAAAAgBAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2AbzMWmZmZmZYMzMzYMGzMmFAAAAAAgmxMmxMzwMMDjhZGGDzyyMYDAAAAAGAA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -371,7 +371,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxMYAAAAAAYWGsMDAAAAAAttNzMmZmBzMzysNzMjZwwMzMmZz2YGADsAzY0Y2AsNgNA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxMYAAAAAAY2glZAAAAAAottZmxMzMGzMzysNzMjZwwMzMmZz2YGADsAzY0Y2AsNgNA",
 				},
 				[3] = {
 					label = "Soulbinder Naazindhri",
@@ -485,7 +485,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAgNzMDGjxMDzsx2MzMzMzMAAAAAAAAAAYWmlZbwMzgZhxMMjBLsNTjJWmBYmFsQYMLDwYDLAAA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAAgtZmZMGjxMzYmNz2MzMzMAAAAAAAAAAAWmlZbwMzgZhhxYMMLbPgZaMxyAzMAQAmtZbDM2sBAA",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -665,7 +665,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King Salhadaar",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDgZGzMjxwwMzMzMjZmRmxMjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCMWwMzMmZghB",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDgZGzYMGLDzMzMzMmZGxYmxwMDwMzMzMzMzAAAAAAAAAAAgxy2ADYBsMMBGLYmZmZmBGG",
 				},
 				[8] = {
 					label = "Dimensius",
