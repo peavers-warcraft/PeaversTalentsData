@@ -5,84 +5,9 @@ on:
   schedule:
     - cron: '0 2 * * *'
 
-permissions:
-  contents: write
-
 jobs:
   cleanup-releases:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Delete old releases
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: |
-          set +e  # Don't exit on error, we'll handle errors manually
-
-          echo "Fetching all releases..."
-
-          # Get all releases sorted by creation date (newest first)
-          RELEASES=$(gh api repos/${{ github.repository }}/releases --paginate --jq 'sort_by(.created_at) | reverse | .[].id')
-
-          # Convert to array
-          RELEASE_ARRAY=($RELEASES)
-
-          # Count total releases
-          TOTAL_RELEASES=${#RELEASE_ARRAY[@]}
-          echo "Found $TOTAL_RELEASES release(s)"
-
-          if [ $TOTAL_RELEASES -le 1 ]; then
-            echo "Only one or no releases found. Nothing to delete."
-            exit 0
-          fi
-
-          # Keep the first one (most recent), delete the rest
-          echo "Keeping the most recent release (ID: ${RELEASE_ARRAY[0]})"
-          echo "Will delete $((TOTAL_RELEASES - 1)) releases..."
-
-          DELETED=0
-          FAILED=0
-
-          for ((i=1; i<$TOTAL_RELEASES; i++)); do
-            RELEASE_ID=${RELEASE_ARRAY[$i]}
-
-            # Show progress every 100 deletions
-            if [ $((i % 100)) -eq 0 ]; then
-              echo "Progress: Deleted $DELETED of $((TOTAL_RELEASES - 1)) releases..."
-            fi
-
-            # Attempt to delete with full error output for first few
-            ERROR_OUTPUT=$(gh api -X DELETE repos/${{ github.repository }}/releases/$RELEASE_ID 2>&1)
-            EXIT_CODE=$?
-
-            if [ $EXIT_CODE -eq 0 ]; then
-              ((DELETED++))
-            else
-              # Show detailed error for first 5 failures
-              if [ $FAILED -lt 5 ]; then
-                echo "Failed to delete release ID: $RELEASE_ID"
-                echo "Error: $ERROR_OUTPUT"
-              fi
-              ((FAILED++))
-            fi
-
-            # Small delay to avoid rate limiting (every 10 deletions)
-            if [ $((i % 10)) -eq 0 ]; then
-              sleep 0.1
-            fi
-          done
-
-          echo "============================================="
-          echo "Cleanup completed!"
-          echo "Kept: 1 release"
-          echo "Deleted: $DELETED releases"
-          echo "Failed: $FAILED releases"
-          echo "============================================="
-
-          # Exit with error if too many failures
-          if [ $FAILED -gt 100 ]; then
-            echo "Too many failures, exiting with error"
-            exit 1
-          fi
+    uses: peavers/workflow-templates/.github/workflows/cleanup-releases.yml@master
+    with:
+      use_self_hosted: false
+    secrets: inherit

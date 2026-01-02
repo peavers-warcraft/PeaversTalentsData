@@ -2,52 +2,14 @@ name: Auto-merge Talent Updates
 
 on:
   pull_request:
-    types: [ opened, synchronize ]
+    types: [opened, synchronize]
     branches:
       - master
 
-permissions:
-  contents: write
-  pull-requests: write
-
 jobs:
   auto-merge:
-    runs-on: ubuntu-latest
-    if: github.event.pull_request.user.login == 'peavers'
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Random delay
-        run: |
-          # Random delay between 10-60 seconds to help avoid race conditions
-          sleep $(( RANDOM % 50 + 10 ))
-
-      - name: Enable auto-merge with retries
-        run: |
-          gh auth status
-          
-          # Function to attempt merge with retries
-          attempt_merge() {
-            for i in {1..5}; do
-              echo "Attempt $i to merge PR #${{ github.event.pull_request.number }}"
-          
-              if gh pr merge "${{ github.event.pull_request.number }}" --rebase --auto; then
-                echo "Merge successful!"
-                exit 0
-              else
-                if [ $i -lt 5 ]; then
-                  echo "Merge failed. Waiting before retry..."
-                  sleep $(( 20 * i )) # Exponential backoff
-                fi
-              fi
-            done
-          
-            echo "All merge attempts failed"
-            exit 1
-          }
-          
-          attempt_merge
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+    uses: peavers/workflow-templates/.github/workflows/auto-merge-pr.yml@master
+    with:
+      allowed_user: peavers
+      use_self_hosted: false
+    secrets: inherit
