@@ -2,9 +2,13 @@ name: Auto-merge Talent Updates
 
 on:
   pull_request:
-    types: [opened, synchronize]
+    types: [opened, synchronize, reopened]
     branches:
       - master
+
+concurrency:
+  group: auto-merge-${{ github.repository }}
+  cancel-in-progress: false
 
 jobs:
   auto-merge:
