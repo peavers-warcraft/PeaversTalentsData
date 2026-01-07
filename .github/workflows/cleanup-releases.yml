@@ -7,7 +7,7 @@ on:
 
 jobs:
   cleanup-releases:
-    uses: peavers/workflow-templates/.github/workflows/cleanup-releases.yml@master
+    uses: peavers-warcraft/workflow-templates/.github/workflows/cleanup-releases.yml@master
     with:
       use_self_hosted: false
     secrets: inherit
