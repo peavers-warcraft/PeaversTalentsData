@@ -12,7 +12,7 @@ concurrency:
 
 jobs:
   auto-merge:
-    uses: peavers-warcraft/workflow-templates/.github/workflows/auto-merge-pr.yml@master
+    uses: peavers-warcraft/workflow-templates/.github/workflows/auto-merge-pr.yml@main
     with:
       allowed_user: peavers
       use_self_hosted: false

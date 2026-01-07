@@ -7,7 +7,7 @@ on:
 
 jobs:
   package-and-release:
-    uses: peavers-warcraft/workflow-templates/.github/workflows/packaging.yml@master
+    uses: peavers-warcraft/workflow-templates/.github/workflows/packaging.yml@main
     with:
       use_self_hosted: false
     secrets: inherit

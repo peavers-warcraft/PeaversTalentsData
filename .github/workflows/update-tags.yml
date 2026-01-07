@@ -21,7 +21,7 @@ on:
 
 jobs:
   update-version-and-tag:
-    uses: peavers-warcraft/workflow-templates/.github/workflows/release-on-schedule.yml@master
+    uses: peavers-warcraft/workflow-templates/.github/workflows/release-on-schedule.yml@main
     with:
       toc_file: PeaversTalentsData.toc
       addon_name: PeaversTalentsData
