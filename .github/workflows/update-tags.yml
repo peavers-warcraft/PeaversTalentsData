@@ -19,6 +19,10 @@ on:
         required: false
         type: string
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   update-version-and-tag:
     uses: peavers-warcraft/workflow-templates/.github/workflows/release-on-schedule.yml@main
