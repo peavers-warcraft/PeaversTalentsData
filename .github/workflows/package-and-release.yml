@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '0 2 * * *'
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   package-and-release:
     uses: peavers-warcraft/workflow-templates/.github/workflows/packaging.yml@main
