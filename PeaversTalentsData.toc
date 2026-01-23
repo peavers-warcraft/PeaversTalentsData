@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120000, 120001
 
 ## Title: |cff3abdf7Peavers|rTalentsData
 ## Notes: Datasource for PeaversTalents and others
