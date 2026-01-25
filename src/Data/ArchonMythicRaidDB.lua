@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-01-24 02:03:24",
+	updated = "2026-01-25 02:03:25",
 
 	[1] = {
 		specs = {
@@ -89,15 +89,15 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMjZmZmxMzmZmlhxYEzYYZmZmZYYmBAAAALDAzAAwMG2AwMgGmFGzYmBz2AAMzAAGA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMmZ2MzsMMGjYGDLzMzMDDzMAAAAYZAYGDwAglF0YGADY2YMjZGMbDAmZAAYA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMjZmZmxMzmZmlhxYEzYYZmZmZYYmBAAAALDAzAAwMG2AwMgGmFGzYmBz2AAMzAAGA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMmZ2MzsMMGjYGDLzMzMDDzMAAAAYZAYGDwAglF0YGADY2YMjZGMbDAmZAAYA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMjZmZmxMzmZmlhxYEzYYZmZmZYYmBAAAALDAzAAwMG2AwMgGmFGzYmBz2AAMzAAGA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMmZ2MzsMMGjYGDLzMzMDDzMAAAAYZAYGDwAglF0YGADY2YMjZGMbDAmZAAYA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
@@ -395,7 +395,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAA4BmZMLGMAAAAAwsNYZGAAAAAQ2GzMzMzYMzMzsNz2MzMMzMzMzwMjxAYgNYY0AALDYzAgZGA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMLzgBAAAAAmtBLzAAAAAAy2YmZmZGjZmZmtZ2mZmBjZmZGzMGGADsBDjGAYZAbGAMzA",
 				},
 			},
 			[260] = {
@@ -417,7 +417,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgBMGzYmZbmZmx4BMb8AzMzy0ygtZAAAAAA22GzMzMzMzMmZmtBAAAgxAgxwwADYhFCbMAzMYA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgBMGzYmZbmZmx4BMb8AzMzy0ygtZAAAAAA22GzMzMzMzMmZmlBAAAgxAgxwwADYhFCbMAzMYA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
