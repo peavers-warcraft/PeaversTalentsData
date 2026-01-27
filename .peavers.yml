@@ -1,0 +1,13 @@
+# .peavers.yml - Addon metadata for peavers.io website
+
+# Icon to display on website
+iconType: DataRuneIcon
+
+# CurseForge project ID for download statistics
+curseForgeProjectId: 1198986
+
+# Tags for filtering and categorization
+tags:
+  - talents
+  - data
+  - library
