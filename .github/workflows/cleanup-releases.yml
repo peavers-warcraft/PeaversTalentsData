@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '0 2 * * *'
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   cleanup-releases:
     uses: peavers-warcraft/workflow-templates/.github/workflows/cleanup-releases.yml@main
