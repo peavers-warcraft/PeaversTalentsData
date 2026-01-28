@@ -12,66 +12,7 @@ concurrency:
 
 jobs:
   process-backlog:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Process open PRs
-        run: |
-          ALLOWED_USER="peavers"
-
-          echo "Fetching open PRs from $ALLOWED_USER..."
-
-          # Get all open PRs from the allowed user, sorted by oldest first
-          PRS=$(gh pr list --author "$ALLOWED_USER" --state open --json number,headRefName --jq '.[].number' | sort -n)
-
-          if [ -z "$PRS" ]; then
-            echo "No open PRs to process"
-            exit 0
-          fi
-
-          echo "Found PRs: $PRS"
-
-          for PR_NUMBER in $PRS; do
-            echo ""
-            echo "========================================="
-            echo "Processing PR #$PR_NUMBER"
-            echo "========================================="
-
-            # Check merge state
-            PR_DATA=$(gh pr view "$PR_NUMBER" --json mergeable,mergeStateStatus,statusCheckRollup)
-            MERGE_STATE=$(echo "$PR_DATA" | jq -r '.mergeStateStatus')
-            MERGEABLE=$(echo "$PR_DATA" | jq -r '.mergeable')
-
-            echo "Merge state: $MERGE_STATE, Mergeable: $MERGEABLE"
-
-            # Update branch if behind
-            if [ "$MERGE_STATE" = "BEHIND" ]; then
-              echo "PR is behind, updating branch..."
-              gh pr update-branch "$PR_NUMBER" --rebase || true
-              sleep 5
-              # Re-check status after update
-              PR_DATA=$(gh pr view "$PR_NUMBER" --json mergeable,mergeStateStatus)
-              MERGEABLE=$(echo "$PR_DATA" | jq -r '.mergeable')
-            fi
-
-            # Attempt merge if mergeable
-            if [ "$MERGEABLE" = "MERGEABLE" ]; then
-              echo "Attempting to merge PR #$PR_NUMBER..."
-              if gh pr merge "$PR_NUMBER" --rebase; then
-                echo "Successfully merged PR #$PR_NUMBER"
-                # Wait a bit for GitHub to process before next PR
-                sleep 10
-              else
-                echo "Failed to merge PR #$PR_NUMBER, will retry on next run"
-              fi
-            else
-              echo "PR #$PR_NUMBER is not mergeable (state: $MERGEABLE), skipping"
-            fi
-          done
-
-          echo ""
-          echo "Backlog processing complete"
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+    uses: peavers-warcraft/workflow-templates/.github/workflows/process-pr-backlog.yml@master
+    with:
+      allowed_user: peavers
+    secrets: inherit
