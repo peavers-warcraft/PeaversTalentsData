@@ -1,0 +1,21 @@
+name: Release
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  release:
+    uses: peavers-warcraft/workflow-templates/.github/workflows/release.yml@master
+    with:
+      toc_file: PeaversTalentsData.toc
+      addon_name: PeaversTalentsData
+      git_user_name: Chris Turner
+      git_user_email: peavers@gmail.com
+      use_self_hosted: false
+    secrets: inherit
