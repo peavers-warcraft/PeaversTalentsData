@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-01-28 02:01:58",
+	updated = "2026-01-29 02:03:44",
 
 	[1] = {
 		specs = {
@@ -421,7 +421,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAghHYMGzYmZbmZmx4BMb8AzMzy0ygtZAAAAAA22GzMmZmZmxMzsNAAAAMGAMGGGYALsQYjBYmBA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAghHYMmZGmxMzMjZegZ24BmZGTLD2mBAAAAAYbbMzYmZmZGzMzyAAAAwYAwYYYgBswChNGgZGA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1226,30 +1226,38 @@ local talentData = {
 			},
 			[103] = {
 				[0] = {
-					label = "Plexus Sentinel",
+					label = "All Bosses",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
 				},
 				[1] = {
-					label = "Soulbinder",
+					label = "Plexus Sentinel",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
 				},
 				[2] = {
-					label = "Forgeweaver Araz",
+					label = "Loomithar",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
 				},
 				[3] = {
-					label = "The Soul Hunters",
+					label = "Soulbinder",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
 				},
 				[4] = {
-					label = "Fractillus",
+					label = "Forgeweaver Araz",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
 				},
 				[5] = {
-					label = "Nexus King",
+					label = "The Soul Hunters",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
 				},
 				[6] = {
+					label = "Fractillus",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
+				},
+				[7] = {
+					label = "Nexus King",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
+				},
+				[8] = {
 					label = "Dimensius",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhxMzMzMmtNWmZbGzYmZAAAAYJYWMGmZUzYWYmZGjZYAAAAAAMwAAAAIjZbMzAAWAzMALMYAAAMzG",
 				},
@@ -1452,6 +1460,12 @@ local talentData = {
 	},
 	[13] = {
 		specs = {
+			[1467] = {
+				[0] = {
+					label = "The Soul Hunters",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZwMDGMgBjZaGzMZMWmZmZGmZmZGwMmZGzMLjZwMwwMAwCYGmAbglhBgZA",
+				},
+			},
 			[1468] = {
 				[0] = {
 					label = "All Bosses",
