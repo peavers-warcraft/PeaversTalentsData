@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-02 02:03:38",
+	updated = "2026-02-03 02:03:33",
 
 	[1] = {
 		specs = {
@@ -345,11 +345,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMjZwYMjZwYaGAAAAAAwYZbmZWMzMDzMDAYADjxM2A",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMzMDGjZMwYyAAAAAAAGLbzMziZmZMzMDAYADjxM2A",
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMjZwYMjZwYaGAAAAAAwYZbmZWMzMDzMDAYADjxM2A",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMzMDGjZMwYyAAAAAAAGLbzMziZmZMzMDAYADjxM2A",
 				},
 				[8] = {
 					label = "Dimensius",
@@ -1033,7 +1033,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZGzoZjhZmxsYhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYmZMGAAAmZmZAAYG",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYMjxAAAwMzMDAAzA",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -1057,7 +1057,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZGzoZjhZmxsYhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYmZMGAAAmZmZAAYG",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYMjxAAAwMzMDAAzA",
 				},
 				[8] = {
 					label = "Dimensius",
