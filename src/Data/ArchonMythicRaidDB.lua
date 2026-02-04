@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-03 02:03:02",
+	updated = "2026-02-04 02:04:07",
 
 	[1] = {
 		specs = {
@@ -1129,7 +1129,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGmlZmZDAAAAAAAAAAAglhZCzYZYADDzMzMMbDzwsYCAYzMLjxwMzAAYDAYWamZmFMAYGAwyAYA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
 				},
 				[6] = {
 					label = "Fractillus",
