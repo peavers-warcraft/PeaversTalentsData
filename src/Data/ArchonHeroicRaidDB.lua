@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-11 02:03:27",
+	updated = "2026-02-12 02:03:42",
 
 	[1] = {
 		specs = {
@@ -721,11 +721,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAbmZDGwAmNmAzCAMLzMzYstYCzMGLzMzMGWsYsgZmZWAAGAAGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMmZmZZbZwMMDAAAAgZ2gBMgZjJwsAAzyMzMGbLmwMjxyMzMjhFLGLmZMzsBAMAAjhB",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMBmFAYWmZmxYbxEmZMWmZmZMsYxYBzMzsAAMAAjhB",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMmZmZZbZwMMDAAAAgZ2gBMgZjJwsAAzyMzMGbLmwMjxyMzMjhFLGLmZMzsBAMAAjhB",
 				},
 				[3] = {
 					label = "Soulbinder",
