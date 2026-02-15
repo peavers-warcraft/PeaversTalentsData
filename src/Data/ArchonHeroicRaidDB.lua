@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-14 02:04:17",
+	updated = "2026-02-15 02:03:49",
 
 	[1] = {
 		specs = {
@@ -185,7 +185,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMYWmZZMjZmxywMMLWmxAAMAAAAAAINzwMmZYMzWbAYgBA2GAAAAMmttl2YsYgBAjZYMAYmBAzMA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZGzwyMLmZmZGWGMzML2mxAAAAAAAAApZGmxMDjZ2CAGwAgtBAAAAzMLWyMsAmBAjZYMAYmBAzMA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1049,7 +1049,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYMjxAAAwMzMDAAzA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbM2MzYWmNDzsMzYZxMAAAz2MzsAMgFjGGAzG2YAAgZMMDAAzMYMjZGAAAmZmBAAzA",
 				},
 				[6] = {
 					label = "Fractillus",
