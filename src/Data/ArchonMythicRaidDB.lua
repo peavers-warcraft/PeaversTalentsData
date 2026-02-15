@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-14 02:03:12",
+	updated = "2026-02-15 02:03:10",
 
 	[1] = {
 		specs = {
@@ -581,7 +581,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMY2mZGzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMz2MDzw2MzYYmByMsMTDwMzMAQAmtZDY2YAGjBjZmZMbjZADmB",
 				},
 				[7] = {
 					label = "Nexus King",
@@ -919,15 +919,15 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZjhZmxsMAAAzMLz2MzsMzAAjllBGwAmhtADbDAAAGAAAYmZMzYGYGzMzMDmZmBAYA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZjhZmxsMAAAzMLz2MzsMzAAjllBGwAmhtADbDAAAGAAAYmZMzYGYGzMzMDmZmBAYA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZjhZmxsMAAAzMLz2MzsMzAAjllBGwAmhtADbDAAAGAAAYmZMzYGYGzMzMDmZmBAYA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
@@ -957,7 +957,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlBAAAAAAAMmBAgthNaYxMzMWmlZmZYAgZGzMzMzAMmxMDAAwYmZGDDmxAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMzsNAAAAAAADLDMgBYYJwYzMjx2sMzMjZAAzYmZGAzwMGDAAwYmZGDDLzYA",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -973,7 +973,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlBAAAAAAAMmBAgthNaYxYmxyYGzMGAYmZGmZmBYMjZGAAgxMzMGD2mZGA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAghZGNbmx2MzY2GAAAAAAAWWADYAzgAjNjZmZZ2mxYmBAmZmxYAmZGzYmBAAYMzMjxYYmBA",
 				},
 				[6] = {
 					label = "Fractillus",
