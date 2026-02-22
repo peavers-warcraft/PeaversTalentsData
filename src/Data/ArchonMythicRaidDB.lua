@@ -2,42 +2,42 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-20 02:03:23",
+	updated = "2026-02-22 02:03:03",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGGWmZmZGMmZAAAAAMzyMDIjhtBWADAmAzgNwMDmtxwyMLDwMDADD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGGWmZmZGMmZAAAAAMzyMDIjhtBWADAmAzgNwMDmtxwyMLDwMDADD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGGWmZmZGMmZAAAAAMzyMDIjhtBWADAmAzgNwMDmtxwyMLDwMDADD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGGWmZmZGMmZAAAAAMzyMDIjhtBWADAmAzgNwMDmtxwyMLDwMDADD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGGWmZmZGMmZAAAAAMzyMDIjhtBWADAmAzgNwMDmtxwyMLDwMDADD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMWmxMzYGmZAAAAAM2MDIDAzYYBAzAaMYBYGMbDmtZ2GMzAAGzA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGGWmZmZGMmZAAAAAMzyMDIjhtBWADAmAzgNwMDmtxwyMLDwMDADD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGGWmZmZGMmZAAAAAMzyMDIjhtBWADAmAzgNwMDmtxwyMLDwMDADD",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzDMzgxMDAAAAgZWmZAZwy2ALAgZQgZwGwwmZbMsMzyAMzAwMGA",
 				},
 				[8] = {
 					label = "Dimensius",
@@ -51,11 +51,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDmZ2MzMzMDjZmZGzMzsMjZmZmZxYmBAAihtBWADAmAzwGwMDDDAAmZYMGGG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzwMsMz8AzMDjZmZGzMzsMzMGzMLDzMAAQMWWGYBMgZYCMDbAGbMbDAAghxMzwA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDmZ2MzMzMDjZmZGzMzsMjZmZmZxYmBAAihtBWADAmAzwGwMDDDAAmZYMGGG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzwMsMz8AzMDjZmZGzMzsMzMGzMLDzMAAQMWWGYBMgZYCMDbAGbMbDAAghxMzwA",
 				},
 				[3] = {
 					label = "Soulbinder",
@@ -63,15 +63,15 @@ local talentData = {
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDmZ2MzMzMDjZmZGzYmlZMzMzMLmZmBAAihtBWADAmAzwGwMDDDAAmZYMGGG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzwMsMz8AzMDjZmZGzMzsMzMGzMLDzMAAQMWWGYBMgZYCMDbAGbMbDAAghxMzwA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMzmZMzYmZMzYGzYmlZmxYmZZMzMAAQYgNAjGGAzCGWAMDzYAwMDghZmBG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZGzYmZMzYGzYmlZmxYmZZMzMAAQYAwyiRDDgBmxCgBmtBAzMAGmZmBD",
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDmZ2MzMzMDjZmZGzMzsMjZmZmZxYmBAAihtBWADAmAzwGwMDDDAAmZYMGGG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzwMsMz8AzMDjZmZGzMzsMzMGzMLDzMAAQMWWGYBMgZYCMDbAGbMbDAAghxMzwA",
 				},
 				[7] = {
 					label = "Nexus King",
@@ -97,11 +97,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMmZ2MzsMMGjYGDLzMzMDDzMAAAAYZAYGDwAglF0YGADY2YMjZGMbDAmZAAYA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMzMzmxsMMGz0YGDLjxMDzYmBAAAALDAzYAGAssgGzAYgZ2YMjZgZbAwMDAADA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMmZ2MzsMMGjYGDLzMzMDDzMAAAAYZAYGDwAglF0YGADY2YMjZGMbDAmZAAYA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMzMzmxsMMGz0YGDLjxMDzYmBAAAALDAzYAGAssgGzAYgZ2YMjZgZbAwMDAADA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
@@ -113,11 +113,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMmZ2MzsMMGjYGDLzMzMDDzMAAAAYZAYGDwAglF0YGADY2YMjZGMbDAmZAAYA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMzMzmxsMMGz0YGDLjxMDzYmBAAAALDAzYAGAssgGzAYgZ2YMjZgZbAwMDAADA",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMmZ2MzsMMGjYGDLzMzMDDzMAAAAYZAYGDwAglF0YGADY2YMjZGMbDAmZAAYA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMzMzmxsMMGz0YGDLjxMDzYmBAAAALDAzYAGAssgGzAYgZ2YMjZgZbAwMDAADA",
 				},
 			},
 		},
@@ -203,23 +203,23 @@ local talentData = {
 			[70] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMmhZGbDjhZ2mxYMzwwCbDDAAMj2GjZAAbAGAMmhZwMGzGWmBDjhB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYhtBAAwMabMmBAsBYAwYGGYGjZDbzghxMG",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMmhZGbDjhZ2mxYMzwwCbDDAAMj2GjZAAbAGAMmhZwMGzGWmBDjhB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYhtBAAwMabMmBAsBYAwYGGYGjZDbzghxMG",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMmhZGbDjhZ2mxYMzwwCbDDAAMj2GjZAAbAGAMmhZwMGzGWmBDjhB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYhtBAAwMabMmBAsBYAwYGGYGjZDbzghxMG",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMmhZGbDjhZ2mxYMzwwCbDDAAMj2GjZAAbAGAMmhZwMGzGWmBDjhB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYhtBAAwMabMmBAsBYAwYGGYGjZDbzghxMG",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMmhZGbDjhZ2mxYMzwwCbDDAAMj2GjZAAbAGAMmhZwMGzGWmBDjhB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYhtBAAwMabMmBAsBYAwYGGYGjZDbzghxMG",
 				},
 				[5] = {
 					label = "The Soul Hunters",
@@ -231,11 +231,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMmhZGbDjhZ2mxYMzwwCbDDAAMj2GjZAAbAGAMmhZwMGzGWmBDjhB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYhtBAAwMabMmBAsBYAwYGGYGjZDbzghxMG",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMmhZGbDjhZ2mxYMzwwCbDDAAMj2GjZAAbAGAMmhZwMGzGWmBDjhB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYhtBAAwMabMmBAsBYAwYGGYGjZDbzghxMG",
 				},
 			},
 		},
@@ -245,23 +245,23 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 				[5] = {
 					label = "The Soul Hunters",
@@ -269,15 +269,15 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDzMjZMDGaGAAAAAwMAAAMmZGMzAEwsA2A",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzYgBAYYDYsAAgZYbMzyMDzYmhhZGjZGzMjZMDGjZMzwYaGAAAAAwMAAAMzYgZGgAmFwG",
 				},
 			},
 			[254] = {
@@ -291,7 +291,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzYGmxMzYGMmmxYGz22mZmZYmZYmZZwsMYGAAAzMGAMjNGGgtB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzYGmxMzYGMmmxYmZ222MzMDzMYmZZwsMYGAAgHYMGAMjNGGgtB",
 				},
 				[3] = {
 					label = "Soulbinder",
@@ -303,7 +303,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzYGmxMzYGMmmxYGz22mZmZYmZYmZZwsMYGAAAzMGAMjNGGgtB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzYGmxMzYGMmmxYmZ222MzMDzMYmZZwsMYGAAgHYMGAMjNGGgtB",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -311,7 +311,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzYGmxMzYGMmmxYGz22mZmZYmZYmZZwsMYGAAAzMGAMjNGGgtB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzYGmxMzYGMmmxYmZ222MzMDzMYmZZwsMYGAAgHYMGAMjNGGgtB",
 				},
 				[8] = {
 					label = "Dimensius",
@@ -341,7 +341,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMjZsNjhxMsMmmBAAAAMAAW2mZsNjZGMGDAGAGDzsB",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmxMz2MAAAAAAMjZMjtZMMmhlx0MAAAAgBAwy2MjtZMzgxYAwAwYYmN",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -349,11 +349,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMjZwYMjZwYaGAAAAAAwYZbmZWMzMDzMDAYADjxM2A",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMjZwYMjZwYaGAAAAAAwYZbmZWMzMDzYMAYADjxM2A",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMjZwYMjZwYaGAAAAAAwYZbmZWMzMDzMDAYADjxM2A",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgNjZmxMzyAAAAAAgZMjZwYMjZwYaGAAAAAAwYZbmZWMzMDzYMAYADjxM2A",
 				},
 			},
 		},
@@ -451,15 +451,15 @@ local talentData = {
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbbjxMMDegZmZGjZbmZG2GzMzMzYAzsNAAAAMYMMLDMAADTgZBzwMDwMA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMMDegZmZGjZbmZGbbzMz4BmZMgZ2GAAAAGMGmlBGAghJwsgZYmBYG",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbbjxMMDegZmZGjZbmZG2mZmZmZGAzsNAAAAMYMMLDMAADTgZBzwMDwMA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMMDegZmZGjZbmZGbbzMz4BmZMgZ2GAAAAGMGmlBGAghJwsgZYmBYG",
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYG2GzMzMzYAzsNAAAAMYMgxwwADYhFiNMDYmBzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbLjxMMjxDMzMzYMbzYGbbzMz4BmZMgZ2GAAAAGMGwYYYgBswCxGmBMzgZA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -467,11 +467,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbbjxMMDegZmZGjZbmZG2mZmZmZGAzsNAAAAMYMMLDMAADTgZBzwMDwMA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMMDegZmZGjZbmZGbbzMz4BmZMgZ2GAAAAGMGmlBGAghJwsgZYmBYG",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbbjxMMDegZmZGjZbmZG2mZmZmZGAzsNAAAAMYMMLDMAADTgZBzwMDwMA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMMDegZmZGjZbmZGbbzMz4BmZMgZ2GAAAAGMGmlBGAghJwsgZYmBYG",
 				},
 			},
 		},
@@ -481,39 +481,39 @@ local talentData = {
 			[256] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzMmZmZwwMgpZaMAzshhwYAYMYBAAGDzYwMAmZGA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMYGmZbmtZmZmxMDAAAAAAAAAgBLzwMzMDGzMwMNTjBYmNMEGDAjBLAAwYwYwMAmZGA",
 				},
 			},
 			[257] = {
@@ -523,7 +523,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAGjZmlZmZMzMDzMDLzwMAAAAGsMzYmZmhZYGAmaAMzCGCjBgxALMmNAMGjxwMDgZGA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAGjZmlZmZMzMDzMDLzwMAAAAGsMDzMzMMzYGAzUDgZWwQYMAMGYhxsBgxgxwMDgZmB",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -641,19 +641,19 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMGDz2MzMzMLmZEjxYYmBYmZmZmZmZAAAAAAAAAwY2GYALglhJwYBzMzMzADADAYA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDDz2MzMzMMzIzYMGmZAmZmZmZmZGAAAAAAAAAMGDMAglhJwYBzMzMzADADmBYA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAYAmZMjZAz2MzMzMLmZkZwMmZmxYmBMzMzMDAAAAAAAAAAbmNDDAmNGaYDzMzMzAGADAMzA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDDz2MzMzMMzIzYMGmZAmZmZmZmZGAAAAAAAAAMGDMAglhJwYBzMzMzADADmBYA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZxMjMDGDzMAzMzMzMzMDAAAAAAAAAGjBGAwywEYsgZmZmZgBgBzAMDA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDDz2MzMzMMzIzYMGmZAmZmZmZmZGAAAAAAAAAMGDMAglhJwYBzMzMzADADmBYA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMGDz2MzMzMLmZEjxYYmBYmZmZmZmZAAAAAAAAAwY2GYALglhJwYBzMzMzADADAYA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDDz2MzMzMMzIzYMGmZAmZmZmZmZGAAAAAAAAAMGDMAglhJwYBzMzMzADADmBYA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
@@ -661,7 +661,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAYAmZMjZAz2MzMzMLmZkZwMmZmxYmBMzMzMDAAAAAAAAAAbmNDDAmNGaYDzMzMzAGADAMzA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDDz2MzMzMMzIzYMGmZAmZmZmZmZGAAAAAAAAAMGDMAglhJwYBzMzMzADADmBYA",
 				},
 				[7] = {
 					label = "Nexus King",
@@ -755,7 +755,7 @@ local talentData = {
 			[264] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
@@ -763,31 +763,31 @@ local talentData = {
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmxy2MMjxMzMzwgxCMAgZhJwYxYMw2YMTz2yMDzYWYxYmxMMLDAAAMzMAYmhZG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMbbLDzMGzMjZYGLAYG0YbAMgNPwwYGLjBNbLzMMjZhFzMzYGmlBAAGwMzgZGAGD",
 				},
 			},
 		},
@@ -881,11 +881,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGYZmZmFmZIzMGAAAGAwMzklFzAAsZmZmtZMmZAAAAAAbmZmZGAAMjxMmZMzsMAYGgxAMA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZIzMzAAAwMLzYYZAAAAWMzw2YmZmBAAAAAsZmxMDAAGDzMzMzMzGwMDImxYwA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGYZmZmFmZIzMGAAAGAwMzklFzAAsZmZmtZMmZAAAAAAbmZmZGAAMjxMmZMzsMAYGgxAMA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZIzMzAAAwMLzYYZAAAAWMzw2YmZmBAAAAAsZmxMDAAGDzMzMzMzGwMDImxYwA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
@@ -897,7 +897,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGYZmZmFmZIzMGAAAGAwMzklFzAAsZmZmtZMmZAAAAAAbmZmZGAAMjxMmZMzsMAYGgxAMA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZIzMzAAAwMLzYYZAAAAWMzw2YmZmBAAAAAsZmxMDAAGDzMzMzMzGwMDImxYwA",
 				},
 				[7] = {
 					label = "Nexus King",
@@ -905,7 +905,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGYZmZmFmZIzMGAAAGAwMzklFzAAsZmZmtZMmZAAAAAAbmZmZGAAMjxMmZMzsMAYGgxAMA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZIzMzAAAwMLzYYZAAAAWMzw2YmZmBAAAAAsZmxMDAAGDzMzMzMzGwMDImxYwA",
 				},
 			},
 		},
@@ -1065,45 +1065,45 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbLGzYGWmxGmZMAAAAAAALLYEzMwMMAMzMzwsNmZMWGW2stNmxsAAAbAAAAmlmZmZxMsAYGMNGAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mxMDAAAAAAALLYEzMwMMYGjZmZwsgZMzywymltZZYWAAgNAAAgtZpZmZWMDLAGYaMAAA",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMbzMz2MzAAAAAAAAAAAALDzEmhhBMjhZGDmNMDzyMBAsZmtxwYmZAAsBAMLNzMzCwwgZAALzAMA",
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMzMLMGsMzMbAAAAAAAAAAAAsMMTYGLDDYYYmZmhZbYGmFTAAbmZZMGzMzAAYxYhxEAADAwMAsMAmZmN",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmxgZBzwsMTAAbmZbmhxMzAAYDAYWamZmFAMYGAwyYADA",
 				},
 			},
 			[270] = {
@@ -1113,11 +1113,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM2mB2sYGzMbzYDzMDzsstNzYhZ0MmBMYAzyMzMDz2gBLmAAAAAAgFLjFmZAAAAgZAjhxiMmB",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDzG8AYxEAAAAAAsYZswMDAAMAgZADMWkxMA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM2mB2sYGzMbzYDzMDzsstNzYhZ0MmBMYAzyMzMDz2gBLmAAAAAAgFLjFmZAAAAgZAjhxiMmB",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDzG8AYxEAAAAAAsYZswMDAAMAgZADMWkxMA",
 				},
 				[3] = {
 					label = "Soulbinder",
@@ -1171,7 +1171,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZAmlZmZmZhhxMmZZmFzMjlxyMLjxgFMAYsYmBMGATAAAAWYGzMYbZYMGAAmZA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDMjZWmZxMzYZsMzyYMYBDAGLmZAjBwEAAAgFzMzMD2MMGDAAzMA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1269,23 +1269,23 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDDjZZmZmZYYmBAAAAAAwYAbGLYaYZAAAAswYGYmBoZAwMDAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDjZMLzMzMDDmBAAAAAAwYAbGLYaYZAAAAsAzMYmBoZAwMDAA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDDjZZmZmZYYmBAAAAAAwYAbGLYaYZAAAAswYGYmBoZAwMDAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDjZMLzMzMDDmBAAAAAAwYAbGLYaYZAAAAsAzMYmBoZAwMDAA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDDjZZmZmZYYmBAAAAAAwYAbGLYaYZAAAAswYGYmBoZAwMDAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDjZMLzMzMDDmBAAAAAAwYAbGLYaYZAAAAsAzMYmBoZAwMDAA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDDjZZmZmZYYmBAAAAAAwYAbGLYaYZAAAAswYGYmBoZAwMDAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDjZMLzMzMDDmBAAAAAAwYAbGLYaYZAAAAsAzMYmBoZAwMDAA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDDjZZmZmZYYmBAAAAAAwYAbGLYaYZAAAAswYGYmBoZAwMDAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDjZMLzMzMDDmBAAAAAAwYAbGLYaYZAAAAsAzMYmBoZAwMDAA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1293,7 +1293,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDDjZZmZmZYYmBAAAAAAwYAbGLYaYZAAAAswYGYmBoZAwMDAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZY2GmxMYswAAAAAAAAAAAbDa2YMNDjZMLzMzMDDmBAAAAAAwYAbGLYaYZAAAAsAzMYmBoZAwMDAA",
 				},
 				[8] = {
 					label = "Dimensius",
@@ -1323,7 +1323,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZ2MmZmxYmMmZAAAAAAAzixsNYmxyMzYb2mZmZZMDWGwsYGY2QDzMG2AAAAAAAAYmBDAAAA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZ2MmZmxMzkxMDAAAAAAYWMGGmZsMzM2mtZmZWGzglBMLmBmN0wMjhNAAAAAAAAmZwAAAAA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
@@ -1331,11 +1331,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZ2MmZmxYmMmZAAAAAAAzixsNYmxyMzYb2mZmZZMDWGwsYGY2QDzMG2AAAAAAAAYmBDAAAA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZ2MmZmxMzkxMDAAAAAAYWMGGmZsMzM2mtZmZWGzglBMLmBmN0wMjhNAAAAAAAAmZwAAAAA",
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZ2MmZmxYmMmZAAAAAAAzixsNYmxyMzYb2mZmZZMDWGwsYGY2QDzMG2AAAAAAAAYmBDAAAA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZ2MmZmxMzkxMDAAAAAAYWMGGmZsMzM2mtZmZWGzglBMLmBmN0wMjhNAAAAAAAAmZwAAAAA",
 				},
 				[8] = {
 					label = "Dimensius",
@@ -1457,7 +1457,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAYGzYGMmRmBAAAgZmZyMzMzDMLjZAwAjZAwADGaALwYmBA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAwYGzwMmRmxAAAAMzMTGzMzMLjZAAYMDAGYwQDYBGzMAA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1469,7 +1469,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAwYGzwMmRmxAAAAMzMTGzMzMbjZAAYMDAGYwQDYBGzMAA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAwYGzwMmRmxAAAAMzMTGzMzMLjZAAYMDAGYwQDYBGzMAA",
 				},
 			},
 		},
