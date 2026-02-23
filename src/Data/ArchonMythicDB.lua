@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicDB = addonTable.ArchonMythicDB or {}
 
 local talentData = {
-	updated = "2026-02-22 02:02:22",
+	updated = "2026-02-23 02:02:37",
 
 	[1] = {
 		specs = {
@@ -25,11 +25,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMWmxMzYGmZAAAAAM2MDIDAzYYBAzAaMYBYGMbDmtZ2GMzAAGzA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMPwMjZGzMAAAAAGbmB2iBwMGWAwMgGDWAGM2GMbmtBzMAAmB",
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwwyMmZGzwMDAAAAgxmZAZAYGDLAYGQjBLgZGMbDmtZ2GMzAAGzA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMPwMjZGzMAAAAAGbmB2iBwMGWAwMgGDWAGMWGMbmtBzMAAmB",
 				},
 				[6] = {
 					label = "Gambit",
@@ -75,7 +75,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMzmZmZGjZMzYGzYmlZmxYmZZMzMAAQYgNAjGGAzCGWAMDzYAwMDghZmBG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMzmZMzYmZMzYGzYmlZmxYmZZMzMAAQYgNAjGGAzCGWAMDzYAwMDghZmBG",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -89,7 +89,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAjZMzMzMzY2MmlBGjGzYmFzMzMDjZmBAAAALjBYGDwAALGNmBwAmNYmZmhxyAgZGAAAA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLDjxoxMGLMzMzwwMDAAAAWGDwMGgBALLoxMAGYmNMzMzMYMAYmBAgBA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -117,7 +117,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmtZmZZYMGxMGWmZmZGGmZAAAAwyYAmxAMAYZBNmBwAmNMmZmBz2AgZGAAGA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAjZMzMzMzY2MmlBGz0YGzsYMzMDjZmBAAAALjBYGDwAALGNmBwAmNYmZmhxyAgZGAAAA",
 				},
 			},
 		},
@@ -135,7 +135,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAGsMmZmZGzMwgxsMYmFz0EDDzMMMbZAYAYDsxyMzMLz2MmtAAAAsw2AsYgZMDDAAjhZMGA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYDAMDAwglxMYmlZmBDGzywMziRTMMmZGGmtMAMAsB2MLzMjlZbmZ0AAAAswyAsBMjZYGAAjBjxA",
 				},
 				[3] = {
 					label = "Halls",
@@ -169,23 +169,23 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLzYAAGAAAAAA00MzyMjZGGs1GAGYADsBAAAAjZZbpFGLmBDgBzsZMAYmBAGA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLzYAAGAAAAAA00MzyMjZGGs1GAGYAgNAAAAYMLbLtwYxMYAMYGGDAmZAwMDA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLDDAwAAAAAAgmmZWmZMzMGoNAMwAAbAAAAwYW2WahxiZYGADmhxAgZGAMzA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLDDAwAAAAAAgmmZWMjZGGmt2AwADAsBAAAAjZZbpFGLmBDgBzwYAwMDAmZA",
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLDDAwAAAAAAgmmZWmZMzwwDs1GAGYAgNAAAAYMLbLtwYxMYAMYGGDAmZAwMDA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLzYAAGAAAAAA00MzyMjZGGs1GAGYAgNAAAAYMLbLtwYxMYAMYGGDAmZAwMDA",
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLzYAAGAAAAAA00MzyMjZGGs1GAGYAgNAAAAYMLbLtwYxMYAMYGGDAmZAwMDA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLDDAwAAAAAAgmmZWMjZwws1GAGYAGsBAAAAjZZbpFGLmBDgBzwYAwMDAmZA",
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLzYAAGAAAAAA00MzyMjZGGs1GAGYAgNAAAAYMLbLtwYxMYAMYGGDAmZAwMDA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZbMzwsMLDDAwAAAAAAgmmZWmZMzMGs1GAGYAgNAAAAYMLbLtwYxMYAMYGGDAmZAwMDA",
 				},
 				[6] = {
 					label = "Gambit",
@@ -235,7 +235,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMaW2mZmlxYmBAAAAAwMlhhZGbDz2wMbzMjxYYGLsBAAwMabMmBAsBYAAzwAzYmZDLzghxwA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQzy2MzsMGzMAAAAAAmpMMMzYbY2GmZbmZMGDzYhNAAAmRbjxMAgNADAGzwAzYmZDLzghxwA",
 				},
 			},
 		},
@@ -273,7 +273,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMGG2gNYGQDbAAYGzyMzwMMzMzMmZYmZMDzMmxM2mZGGzwyQzAAAAAAAAAAmZMgZAAzCYD",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMGG2gNYGQDbAAYGzyMzwMMzMzMmZYmZMDzMmxM2mZGGzwyDQzAAAAAAAAAAzYMgZAAzCYD",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -303,7 +303,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzMzYbGzYMDGTzYMzYZbzMzMMzMMzsMGzywMDAAgxYAwwGYA2G",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwwohBwMYDAAAAAAAAYGzYGbzYGjZY5BMNjxMjltNzMzwMzwMzyYMLDzMAAAGjBADbwMAbD",
 				},
 				[6] = {
 					label = "Gambit",
@@ -321,19 +321,19 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMjZsNjhxMsMmmBAAAAMAAW2mZsNjZGMGDAGAGDzsB",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMzMjtZMMmBjpZAAAAADAgltZGbzYmBjxAgBgxwMbA",
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMjZsNjhxMsMmmBAAAAMAAW2mZsNjZGMGDAGAGDzsB",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMzMjtZMMmBjpZAAAAADAgltZGbzYmBjxAgBgxwMbA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmxMz2MAAAAAAMjZmZsNjxMGYMZAAAAADAgltZGbzYmxYmBAMAMGmZD",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmxMz2MAAAAAAMjZMjtZMMmhlx0MAAAAgBAwy2MjtZMzgxYAwAwYYmN",
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMzMjtZMmxAjJDAAAAYAAssNzYbGzMGzMAgBgxwMbA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmxMz2MAAAAAAMjZmZYGjZMDGaGAAAAwAAYZbmx2MmZMGzAADAjhZ2A",
 				},
 				[4] = {
 					label = "Floodgate",
@@ -349,11 +349,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMzMjtZMMmBjpZAAAAADAgltZGbzYmBjxAgBgxwMLA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmxMz2MAAAAAAMjZmZsNjxMGYMZAAAAADAgltZGbzYmxYmBAMAMGmZD",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMjZsNjhxMsMmmBAAAAMAAW2mZsNjZGMGDAGAGDzsB",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxohBwMgtZmZmZmZ2mHAAAAAAgZMzMjtZMMmBjpZAAAAADAgltZGbzYmBjxAgBgxwMbA",
 				},
 			},
 		},
@@ -379,7 +379,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAA4BmZmZxAAAAAAwsMYbGAAAAAQ2mZmxDMzYMzMzsNz2MjxDMzMzMGmZMGADsBDjGAYZAbGAMzYG",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAA4BmZmZxAAAAAAwsNYbGAAAAAQ2mZmxDMzYMzMzsNz2MjxDMzMzMGmZMGADsBDjGAYZAbGAMzYG",
 				},
 				[5] = {
 					label = "Priory",
@@ -401,7 +401,7 @@ local talentData = {
 			[260] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAghHYMmZGmxMzMjZegZ24BmZGTLD2mBAAAAAYbbMzYmZmZGzMzyAAAAwYAwYYYgBswChNGgZGA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgBMmZGmxMzMjZegZ24BmZGTLD2mBAAAAAYbbmZGPwMzMzYmZWGAAAAmZAwYYYgBswChNGgZGMA",
 				},
 				[1] = {
 					label = "Ara Kara",
@@ -409,11 +409,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAghHYMmZGmxMzMjZegZ24BmZGTLD2mBAAAAAYbbMzYmZmZGzMzyAAAAwYAwYYYgBswChNGgZGA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgBMmZGmxMzMjZegZ24BmZGTLD2mBAAAAAYbbmZGPwMzMzYmZWGAAAAmZAwYYYgBswChNGgZGMA",
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAghHYMmZGmxMzMjZegZ24BmZGTLD2mBAAAAAYbZMzYmZmZGzMz2AAAAwYAwYYYgBswChNAMzgB",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgBMmZGmxMzMjZegZ24BmZGTLD2mBAAAAAYbbmZGPwMzMzYmZ2GAAAAGDAGDDDMgFWIsxAMzgZA",
 				},
 				[4] = {
 					label = "Floodgate",
@@ -439,11 +439,11 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYG2GzMzMzYAzsNAAAAMYMgxwwADYhFiNMDYmBzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbLjxMMjxDMzMzYMbzYGbbzMz4BmZMgZ2GAAAAGMGwYYYgBswCxGmBMzgZA",
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYG2mZmZmZGAzsNAAAAMYMgxwwADYhFiNMDYmBzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYGbLzMz4BmZMgZ2GAAAAGMGwYYYgBswCxGmBMzgZA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -451,23 +451,23 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYG2GzMzMzYAzsNAAAAMYMgxwwADYhFiNMDYmBzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbLjxMMjxDMzMzYMbzYGbbzMz4BmZMgZ2GAAAAGMGwYYYgBswCxGmBMzgZA",
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYG2GzMzMzYAzsNAAAAMYMMLDMAglBBmFMDzMAzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbLjxMMjxDMzMzYMbzYGbbzMz4BmZMgZ2GAAAAGMGwYYYgBswCxGmBMzgZA",
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYG2mZmZmZGAzsNAAAAMYMMLDMAglBBmFMDzMAzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMjZMegZmZGjZbGGWGzMzMzYwYmtBAAAgBjhZZgBAsMIwsgZYmBwA",
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYGWGzMzMzYAzsNAAAAMYMgxwwADYhFiNMDYmBzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbLjxMMjxDMzMzYMbzYGbbzMz4BmZMgZ2GAAAAGMGwYYYgBswCxGmBMzgZA",
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYG2GzMzMzYAzsNAAAAMYMgxwwADYhFiNMDYmBzA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGbTMbLjxMMjxDMzMzYMbzYGWGzMzMzYAzsNAAAAMYMgxwwADYhFiNMDYmBzA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -493,7 +493,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMmZGmZbmtZmZmhZAAAAAAAAAAMYZmxMzMDGjBMNTMAzshhwYAYMYBAAGzYGDmBwMzA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMmZGmZbmtZmZmhZAAAAAAAAAAMYZmxMzMDGjBMNTMAzshhwYAYMYBAAGz8AzYwMAmZA",
 				},
 				[4] = {
 					label = "Floodgate",
@@ -505,7 +505,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMmZGmZbmtZmZmhZAAAAAAAAAAMYZmxMzMDGjBMNTMAzshhwYAYMYBAAGzYGDmBwMzA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMGWmZMmZGmZbmtZmZmhZAAAAAAAAAAMYZGmZmZwYmxgpZiBYmNMEGDAjBLAAwYGGDmBwMzA",
 				},
 				[7] = {
 					label = "Streets",
@@ -523,7 +523,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwY2GMmZmZMzMzsMzMAAAAYmxyMYGzwMmZAMTBAGMDDDAMGsZM2A0MGMzwMz2yAMDA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMzMzMjZmZsMzMAAAAYYWmhZmZGmxMDgZKAwgZYYAgxgNjxGgmxMMGMz2yAMA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -531,11 +531,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMmxYMDzMzwMzwyMzMDAAAgBLzMmZmZwYmBwMFAmFMEGDAjBWMzYDgZMDjBzAMzMDA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMzMzMjZmZsMzMAAAAYYWmhZmZGmxMDgZKAwgZYYAgxgNjxGgmxgxgZ2WGgZA",
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMzMzMjZmZsMzMAAAAYYWmZMzMzwMmZAYKAwgZYYAgxgNjxGgmxMMGMz2yAMA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMzMzMjZmZsMzMAAAAYwyMMzMzYzYmhFYmCAMYGGGAYMYzYsBoZMYMYmtlBYGA",
 				},
 				[5] = {
 					label = "Priory",
@@ -543,15 +543,15 @@ local talentData = {
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMzMzMjZmZsNzMAAAAYYWmZMzMzwMmZAYKAwgZYYAgxgNjxGgmxMMGMz2yAMA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMzMzMjZmZsMzMAAAAYwyMMzMzYzYmBwMFAYwMMMAwYwmxYDQzYGGDmZbZAmB",
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMmxYMDzMzwMzwyMzMDAAAghZZmxMzMDGzMAmpAwsghwYAYMwiZGbAMjZYMYGgZmBA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMmxYMDzMzwMzwyMzMDAAAgBLzwMzMDzYmBwMFAmFMEGDAjBWMzYDgZMDjBzAMzMDA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAMbGPwYWGMzMzMjZmZsNzMAAAAYYWmBzMzgZMDgZqBAGMDDDAMGsZM2A0MGMzgZ2WGgZA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZDGzygxMzMjZmZmlZYGAAAADzihZmZGmxMDgZqBAGMDDDAMGsZMzGgmxMMGMz2yAMA",
 				},
 			},
 			[258] = {
@@ -585,7 +585,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMzyMDzw2MGzMzAyMYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMzyMDzw2MzYmZGQGYmGgZmZAgAMbzGwsxAMGDGzMzY2GzAGMDA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -603,7 +603,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMzMmhZbmZmmZx4BMzMGAAAAAmZmZmZMzMjBAjZmZGAAAMbDMAglBBGWAMMDAAzMAA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmxgZZMz0MLmZMzMAAAAAzMzMzYmZYGjBAjZmZGAAAMbDMAglBBGWAMjZAAYmBAA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -631,7 +631,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZGmxMzMMLzMz0MMGjZMAAAAgZmZmZmZGmZGAwYmZmBAAAz2ADAYZQghFAzwMAAmZAA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZGmxMzMMbzMz0MMGjZMAAAAgZmZmZmZGmZGAwYmZmBAAAz2ADAYZQghFAzYGAAmZAA",
 				},
 			},
 			[251] = {
@@ -657,7 +657,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAYAzMMjZAzmZmZmZxMjmZwwMjx4BmxMzMzMzMDAAAAAAAAAAbmNDDMwsxQDbYmZmZGAADAYGA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMPgxYYWGzMzMLGz0MjxYYmBYmZmZmZmZAAAAAAAAAwYMwAAWGmAjFMzMzMDMAMYGAA",
 				},
 				[6] = {
 					label = "Gambit",
@@ -675,7 +675,7 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTDjxMzYGAAAAAAAAzMYGAsMMzsNzMmxMGYghFNAw2gNMgZAYMzMMYmBYG",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmBjxYY2mZmZaYmxMzYGAAAAAAAAzMYGAsMMzsNzMmxMGYghFNAw2gNMgZAYMzMMYmBYG",
 				},
 				[1] = {
 					label = "Ara Kara",
@@ -683,11 +683,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmBjxYY2mZmZaYmxMzYGAAAAAAAAzMYGAsMMzsNzMmxMGYghFNAw2gNMgZAYMzMMYmBYG",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTDzMmZGDAAAAAAAAzMYGAsMMzsNzMmxMGYghFNAw2gNMgZAYMzMMYmBYG",
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDzyMzMTzmxYmZMAAAAAAAAMzgZAwywMz2MzYGzYgBGW0AAbD2wAmBgxMzwgZGgZA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTDjxMzYGAAAAAAAAzMYGAsMMzsNzMmxMGYghFNAw2gNMgZAYMzMMYmBYG",
 				},
 				[4] = {
 					label = "Floodgate",
@@ -699,7 +699,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDzyMzMTzmxYmZMAAAAAAAAMzgZAwywMz2MzYGzYgBGW0AAbD2wAmBgxMzwgZGgZA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmBjxYY2mZmZaYmxMzYGAAAAAAAAzMYGAsMMzsNzMmxMGYghFNAw2gNMgZAYMzMMYmBYG",
 				},
 				[7] = {
 					label = "Streets",
@@ -717,11 +717,11 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZMmhBAAAAgZ2gBMgZjJwsAAzyMzMGbMtxMjxyMmZMsMLzYZmZMzsAAMAAjhB",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZMmhBAAAAgZ2gBMgZjJwsAAzyMzMGbLm2YmxYZmHYmxwiFjlZmxMzCAwAAMGG",
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZMmhBAAAAgZ2gBMgZjJwsAAzyMzMGbLmwMjxyMzMjhFLGLzMjZmFAgBAYMMA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZMmhBAAAAgZ2gBMgZjJwsAAz2MzMGbLm2YmxYZmHYmxwiFjlZmxMzCAwAAMGG",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -759,7 +759,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBgZMsBgZANYBgZZGzYssMDMzglZmZmxAzAAMDjZGGBmZwgB",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALAYG0YbAMAbAMLzYGjlFDMzsxyMmZGYMDAAwYMzEzMADG",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -775,7 +775,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALAYG0YbAMAbAMLzYGjlFjNmZ2YZGzMDMmBAAYMmRMzAMYA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzYGzAAAAAAAAAALAYG0YbAMAbAMLzYGjlFDMzsxyMmZGYMDAAwYMzEzMADG",
 				},
 				[6] = {
 					label = "Gambit",
@@ -809,7 +809,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMW2mhZmZmZmxwgxCMAgZhJwYBzMY2mZMa2WmZYGzCLGzMGMLDAAGgZmBAzMMzA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZMW2mhZmZmZmxMGMWgBAMLMBGLYmBz2MjRz2yMDzYWYxYmxwysMAAYAGzAgZGmB",
 				},
 				[5] = {
 					label = "Priory",
@@ -839,23 +839,23 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLGzsgZEzMzMzMzMziZmZmxYGmMzysAAAALAAwGAAAwCAbLjZmZGmNjZmZsAAAAmZwAGAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZGPwsgZmYmZmZmZmZWMzMzMGzwkZWmFAAAYBAA2AAAAWAYbZMjZwsZMzMjFAAAwMDGMGAA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzYmFMjYmZmZmZmZWMzMzMGzwkZWmFAAAYBAA2AAAAWAYbZMjZGmNjZmZsAAAAmZwAGAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzYmFmZmYGmZmZmZ2MzMzMMDAAAMzglZm2AAAAAAALAstNmZmBzmxYmxGAAAzsBMDjBAA",
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzYmFmZmYGmZmZmZWMzMzMGzsMTzMLzCAAAsAAAbAAAALAstNmZmBzmxMzM2AAAAADYAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZmYGGzMzMziZmZmxYGmMzysAAAALAAwGAAAwCAbbjZmZwsZMzMjNAAAwMDGwAA",
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZmYmxYmZmZWMzMzMGzwkZWmFAAAYBAA2AAAAWAYbZMzMzDwsZMzMjFAAAwMDGwAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAwwYZmZmlhZmYmxMzMzMziZmZmxYGmMzysAAAALAAwGAAAwCAbbMzMDmNjZmZsAAAAmZwgxAA",
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZmYmxYmZmZWMzMzMGzwkZWmFAAAYBAA2AAAAWAYbZMzMzDwsZMzMjFAAAwMDGwAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGYZmZmFmHYmYmZmZmZmZWMzMzMGzwkZWmFAAAYBAA2AAAAWAYbhZMDmNjZmZsAAAAmZwgxAA",
 				},
 				[6] = {
 					label = "Gambit",
@@ -863,11 +863,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYZsMjZWwMiZGjZmZmZxMzMzYMDTmZZWAAAgFAAYDAAAYBgtlxMmZY2MmZmxCAAAYmBDYAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZmYGGzMzMziZmZmxYGmMzysAAAALAAwGAAAwCAbbjZmZwsZMzMjFAAAwMDGwAA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZEzMmZmZmZWMzMzMGzwkZWmFAAAYBAA2AAAAWAYbZMjZGmNjZmZsAAAAmZwAGAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLz4BmFMzEzMzMzMzMziZmZmxYGmMzysAAAALAAwGAAAwCAbLjZMzwsZMzMjFAAAwMDGMAA",
 				},
 			},
 			[62] = {
@@ -881,7 +881,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAAAMzklNzAAYDAgNMzMDbWmZmZZwYmZmZGLMjZegZAAGAAgBYmBMDAG",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZGamxAAAwAAMzklNzAAYDAgNMzMDbWmZmZZwYmZmZGLMjZegZAAGAAgBYmBMDAG",
 				},
 				[3] = {
 					label = "Halls",
@@ -915,7 +915,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzshZIzMGAAAGAwMzklNzAAsZmhtZmZm5B2AAAAAgNzMzMDAAmZYmZmZmZ2AgZAGjBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzMzCAAAAAsZmZm5BAAwMDzMmZmZWAgZAGjBA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -927,23 +927,23 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzYWAAAAAgNzMzMPAAAmZYmZmZmZWAgZAGjBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzMzCAAAAAsZmZm5BAAwMDzMmZmZWAgZAGjBA",
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzMzCAAAAAsZmZm5BAAwMDzMmZmZ2AgZAGjBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzgZZGzsgZGZmZmBAAwAAmZmssZGAgNzMeglhxMzGAAAAAsZmxMAAwYGzYmZmZ2GAMDwYMwA",
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzYWAAAAAgNzMzMPAAAmZYmZmZmZWAgZAGjBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzMzCAAAAAsZmZm5BAAwMDzMmZmZWAgZAGjBA",
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzYWAAAAAgNzMzMPAAAmZYmZmZmZWAgZAGjBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzYWAAAAAgNzMzMPAAAmZYmZmZmZ2AgZAGjBA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzYWAAAAAgNzMzMPAAAmZYmZmZmZWAgZAGjBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGZmxAAAwAAmZmssZGAgNzMsMzMzMzCAAAAAsZmZm5BAAwMDzMmZmZ2AgZAGjBA",
 				},
 			},
 		},
@@ -957,7 +957,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAghZGNbmx2MzYWGAAwMzsMbzMz2YAgxyyADYAzwWghtBAAADAAAMmhZ2mZMDmZmZMMzMDAwA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAghZGNbmx2MzYWGAAwMzsMbzMz2YAAW2GYADYGEYYbAAAwAAAwMjZYmtZGzgZmZGDzMzAAMA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -985,7 +985,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzM2mZGzyAAAmZmlZbmZ2GDAwyyADYAzgADbDAAAGAAAmZMDzYmxMYmZmxwMzMAADA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAghZGNbmx2MzYWGAAwMzsMbzMz2YAAWWGYADYGEYYbAAAwAAAwMjZYmtZGzgZmZGDzMzAAMA",
 				},
 			},
 			[266] = {
@@ -1015,7 +1015,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlBAAAAAAAMmBAgthNaYxYmxyYGzMGAYmZGmZmBYMjZGAAgxMzMGD2mZGA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAghZGNbmx2MzMjBAAAAAAAMmBAglhNaYxYmxyYGjZGAYmZmxMzMAjZYmNAAwYmZGjBbzMDA",
 				},
 				[7] = {
 					label = "Streets",
@@ -1045,7 +1045,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYMMzoZzM2mZGzysZMzsYmZZxMAAYMjZmZxCMwwohBwshNGAAYYYAAgZwYGMbAAAmZmBAAzA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmhZGNbM2mZGzysZMzsYmZZxMAAYMjZmZxCMwwohBwshNGAAYYYAAgZwYGmBAAgZmZAAwM",
 				},
 				[5] = {
 					label = "Priory",
@@ -1057,7 +1057,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAghZGNLmxmZGzysZMzsYmZZxMAAYMjZmZzCMwwohBwshNGAAYYYAAgZwYmZmBAAgZmZAAwM",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYMMzoZzM2mZGzysZMzsYmZZxMAAYMjZmZzCMwwohBwshNGAAYYYAAgZwYGmBAAgZmZAAwM",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -1071,11 +1071,11 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzYWM2wMjBAAAAAAYZBEzMwMM2AmZmZMzGmxMLDLbPwy2sNjZBAA2AAAA2mlmZmZjhNADMNGAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWmxGmZMAAAAAAALLYEmBmhxmZwMzMY2wMmZZYZbW2mthZBAA2AAAA2mlmZmZjhNADMNGAAA",
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDPwYWM2wMDAAAAAAALLYEzMwMM2MwMzMDzGmxMLDLbzy2sNjZBAA2AAAA2mlmZmZjhNADMNGAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWmxGmZMAAAAAAALLYEmBmhxmZwMzMY2wMmZZYZbW2mthZBAA2AAAA2mlmZmZjhNADMNGAAA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -1083,19 +1083,19 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbLGzYGzyM2wMjBAAAAAAYZBjYmBmBAjZmZGmFmZMzywymttZbGDAAYDAAAYbWamZmNG2AMw0YAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDzYWmxGmZAAAAAAAYZBEzMwMM2MwMzMDz2wMmZZYZzy2sNjZBAA2AAAA2mlmZmZjhNADMNGAAA",
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbxYGGzyM2YmZMAAAAAAALLgYmBmhxGwMzMjZ2YmxMLPALbzy2sNMLAAwGAAAw2s0MzADbAmZYaMAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDzwixGzMjBAAAAAAYZBjwMwMM2MDmZmZY2GMmZ5BYZb22mthZBAA2AAAAYpZmZ2YYDwMDTjBAAA",
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZZzYGzwyM2MmZMAAAAAAALLwEzMwMMwgZmZGmFMjZWG22ssNbzYWAAgNAAAgtZpZmZ2YYBwATjBAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzYWmxGmZAAAAAAAYZBzEzMwMM2AmZmZY2YmxMLPALbW2mtZMLAAwGAAAw2s0MzMbMsBYgpxAAAA",
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzYWM2wMjBAAAAAAYZBEzMwMM2AmZmZMzGmxMLDLbPwy2sNjZBAA2AAAA2mlmZmZjhNADMNGAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzwyM2wMjBAAAAAAYZBjYmBmhxmBmZmZY2gxMLDLbPwy2sNjZBAA2AAAA2mlmZmZjhNADMNGAAA",
 				},
 				[7] = {
 					label = "Streets",
@@ -1103,13 +1103,13 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzYWM2wMjBAAAAAAYZBEzMwMM2AmZmZMzGmxMLDLbPwy2sNjZBAA2AAAA2mlmZmZjhNADMNGAAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbLGzYGzyM2wMDAAAAAAALLYEzMwMwGMmZmZMzCmxMLDLb22mtZMAAgNAAAgtZpZmZ2YYDwATjBAAA",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMbzMz2MzAAAAAAAAAAAALDzEmhhBMjhZGDmNMDzyMBAsZmtxwYmZAAsBAMLNzMzCwwgZAALzAMA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMbzMz2MzAAAAAAAAAAAALDjmxMWGGwwwMjBzCmhZZmAA2Mz2YYMzMAA2AAmlmZmZBYYwMAglBwA",
 				},
 				[1] = {
 					label = "Ara Kara",
@@ -1129,7 +1129,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Priory",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMbzMz2MzAAAAAAAAAAAALDzEmhhBMjhZGDmNMDzyMBAsZmtxwYmZAAsBAMLNzMzCwwgZAALzAMA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMbzMz2MzAAAAAAAAAAAALDjmxMWGGwwwMjBzCmhZZmAA2Mz2YYMzMAA2AAmlmZmZBYYwMAglBwA",
 				},
 				[6] = {
 					label = "Gambit",
@@ -1137,7 +1137,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMbzMz2MzAAAAAAAAAAAALDzEmhhBMjhZGDmNMDzyMBAsZmtxwYmZAAsBAMLNzMzCwwgZAALzAMA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMbzMz2MzAAAAAAAAAAAALDjmxMWGGwwwMjBzCmhZZmAA2Mz2YYMzMAA2AAmlmZmZBYYwMAglBwA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -1151,7 +1151,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMWGLDLWMmZsZsssNDPwmZ22WmZswMaGzAGMgZZmZmhZDGmFTAAAAAAwilxCzMAAAAwMgxALyYGA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2YZgFzMzYbYz2MmhZWWWmZswMaGzAGgBbzMzgZbMDsZCAAAAAAWsMWmtxAAADGAzAGDsMBD",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -1159,11 +1159,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLDL2mxMjNsZbGzwMbLLzMWYoZMDYwAmlZmZGmNYYWMBAAAAAALWGLMzAAADAYGwYgFZMD",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMWGLDLWMmZsZsssNDPwmZ22WmZswQzYGwgBMLzMzMMbYGmFTAAAAAAwitxCzMAAAAwMgxALyYGA",
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMMDsZxMmZ2mxGmZGmZZbZmxCDNjZADGgl5BmZwsNYYWegJAAAAAAYxyMLMGAAYAAzAGDjFZMD",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZYxixMjNjlltZ4B2Mz22yMjFmRzYGwgBjxMzMDzGMMLzEAAAAAAsYbswMDAAAAMDYAWkxMA",
 				},
 				[5] = {
 					label = "Priory",
@@ -1189,7 +1189,7 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDMjZWmZxMzYZsMzyYMYBDAGLmZAjBwEAAAgFzMzMD2MMGDAAzMA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwswMzMLMwMmZZmFzMjtxyMLjxgFMMAjFzMgxAYCAAAwCzMzMYzwYMAAMzA",
 				},
 				[1] = {
 					label = "Ara Kara",
@@ -1205,7 +1205,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwswMzMLMwMmZZmFzMjtxyMLjxgFMMAjFzMgxAYCAAAwCzMzMYzwYMAAMzA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDYWmZZmFmZsNWmZZMzMsghBYsYmBMGATAAAAWMzMzMYDGjBAgZGA",
 				},
 				[5] = {
 					label = "Priory",
@@ -1231,11 +1231,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZ2MzMzMGzmx2YbmZm5BmZAAAAYJYWMGmZUzYWYmZmlxMAAAAAAwADAAAgMmtZmZAALgZGgFGMAAAMbA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZ2MzMzMGzmx2YbmZm5BmZAAAAYJY2MGmZUzYWYmZmlxMAAAAAAwADAAAgMmtZmZAALgZGgFGMAAAMbA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZ2MzMzMGzmx2YbmZm5BmZAAAAYJYWMGmZUzYWYmZmlxMAAAAAAwADAAAgMmtZmZAALgZGgFGMAAAMbA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZ2MzMzMmZ2M2GbzMzMPwMDAAAALBzixwMjaGzCzMzsMmBAAAAAAGAAAAgMmtZmZAALgZGgFGMAAAMbA",
 				},
 				[3] = {
 					label = "Halls",
@@ -1255,7 +1255,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZ2MzMzMGzmx2YbmZm5BmZAAAAYJYWMGmZUzYWYmZmlxMAAAAAAwADAAAgMmtZmZAALgZGgFGMAAAMbA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZ2MzMzMmZ2M2GbzMzMPwMDAAAALBzmBmZmaGzCzMzsMmhBAAAAAAAAAAgMmtZmZAALgZGgFGMAAAMbA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -1265,7 +1265,7 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlZmZMWMLeg5BmZZZAbGGNRzMzyYmZmlxMAAAAAAMmNDYxMDYMAmAAAA2wMAWMDGMYZDwMDA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlZmZMWMLeg5BmZZZAbGGNRzMzCzMzsMmxAAAAAAMmNDYxMDYMAmAAAA2MmBwiBGMYZDwMDA",
 				},
 				[1] = {
 					label = "Ara Kara",
@@ -1281,7 +1281,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlZmZMWMLeg5BmZZZAbGGNRzMzCzMzsMmxAAAAAAMmNDYxMDYMAmAAAA2MmBwiBGMYZDwMDA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlZmZMWMLeg5BmZZZAbGGNRzMzCzMzsMmxAAAAAAMmNDYxMDYMAmAAAA2wMAWMDGMYZDwMDA",
 				},
 				[5] = {
 					label = "Priory",
@@ -1297,7 +1297,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlZmZMWMLeg5BmZZZAbGGNRzMzyYmZmlxMAAAAAAMmNDYxMDYMAmAAAA2wMAWMDGMYZDwMDA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWMLegxMLLgZzMzoJyMzCzMzsYmBAAAAAgxsZALbzMYMLDgJAAAgNMzDAsYgBjFbAAA",
 				},
 			},
 			[105] = {
@@ -1307,11 +1307,11 @@ local talentData = {
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZDmmhZ8AmFzMzMLzwDMDAAAAAAgxAAAAAgZbs1sYYjxMwYWANDAwMDA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZDmmhhxsYmZmZZGegZAAAAAAAMGAAAAAMbjtmFDbMmBGzCoZAAmZAA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZDmmhhxsYmZmZZGegZAAAAAAAMGAAAAAMbjtmFDbMmBGzCoZAAmZAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZDmmZYMmFzMzMLzAAAAAAAAMGAAAAAMbjtmFDbMmZwYWANDAwMDA",
 				},
 				[3] = {
 					label = "Halls",
@@ -1331,11 +1331,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZDmmhhxsYmZmZZGegZAAAAAAAMGAAAAAMbjtmFDbMmBGzCoZAAmZAA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZzw0MMMmFmZmZZGegZAAAAAAAMGAAAAAMbjtmFDbMmBGzCoZAAmZAA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZDmmhZ8AmFzMzMLzwDMDAAAAAAgxAAAAAgZbs1sYYjxMwYWANDAwMDA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxsNjZmxsN8AMzswsYbGAAAAAAAAAAsNoZzw0MMMmFzMzMLzwDMAAAAAAAMGAAAAAMbjtmFDbMmBGzCoZAAmZAA",
 				},
 			},
 		},
@@ -1357,7 +1357,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmxYmMmZAAAAAAAzixYwMzYMjtZzMDjBWGwsZGYWQjZmxM2AAAAGAAAAzMYAAAAA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmxYmMmZAAAAAAAzixwwMDjZsNbmZGjBWGwsZGYWQjZmxM2AAAAGAAAAzMYAAAAA",
 				},
 				[4] = {
 					label = "Floodgate",
@@ -1373,7 +1373,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Streets",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmxYmMmZAAAAAAAzixYwMzYMjtZzMDjBWGwsZGYWQjZmxM2AAAAGAAAAzMYAAAAA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmxYmMmZAAAAAAAzixwwMDjZsNbmZGjBWGwsZGYWQjZmxM2AAAAGAAAAzMYAAAAA",
 				},
 				[8] = {
 					label = "The Dawnbreaker",
@@ -1421,7 +1421,7 @@ local talentData = {
 			[1480] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZGzMGmBAAAAAAgxYwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAMGwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
 				},
 				[1] = {
 					label = "Ara Kara",
@@ -1437,7 +1437,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Floodgate",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZGzMGmBAAAAAAgxYwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAMGwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
 				},
 				[5] = {
 					label = "Priory",
@@ -1445,7 +1445,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZGzMGmBAAAAAAgxYwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAMGwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
 				},
 				[7] = {
 					label = "Streets",
@@ -1453,7 +1453,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZGzMGmBAAAAAAgxYwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAMGwMAAAAAAAAMjZYmZmZmZmZmxMLmxYRLbMzYGtNzYAMMAAYMYM",
 				},
 			},
 		},
@@ -1463,11 +1463,11 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmhBmZZGjhZ2AAAAAAAAwMwMYoGzMzAAAAgZmZMmZMmZgZ2MgFwYYYAMDiNMzMYmBG",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmhBmZZGjhZ2AAAAAAAAwMwMY8A1YmZGAAAAMzMjxMjxMDMzmBsAGDDDgZQshZmBzMA",
 				},
 				[1] = {
 					label = "Ara Kara",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmhBmZZGjhZ2AAAAAAAAwMwMYoGzMzAAAAgZmZMmZMmZgZ2MgFwYYYAMDiNMzMYmBG",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmhBmZZGjhZ2AAAAAAAAwMwMY8A1YmZGAAAAMzMjxMjxMDMzmBsAGDDDgZQshZmBzMA",
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
@@ -1475,7 +1475,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Halls",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmhBmZZGjhZ2AAAAAAAAwMwMYoGzMzAAAAgZmZMmZMmZgZ2MgFwYYYAMDiNMzMYmBG",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmhBmZZGjhZ2AAAAAAAAwMwMY8A1YmZGAAAAMzMjxMjxMDMzmBsAGDDDgZQshZmBzMA",
 				},
 				[4] = {
 					label = "Floodgate",
@@ -1495,7 +1495,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Dawnbreaker",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBzwYoGzMzAAAAgZmZMmZWGzMwMbGwCYMMMAmBxGmZgZGA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMYmBjpGz8AzAAAAAzMjxMjxMDMzmBsAGDDDgZQshZmBzMA",
 				},
 			},
 			[1467] = {
@@ -1509,7 +1509,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Eco Dome Aldani",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmHYMzMzMzwMwwYYaYmJjx2gZGGzMzAmZmZGzMbjZwMwwMAwCYGmAbglhBgZG",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAz8AjZmZmZGmBMYMTGzMZM2GMzwYmZGAzMzYmZZMDmBGmBAWAzwEYDsMMDgZG",
 				},
 				[3] = {
 					label = "Halls",
@@ -1525,7 +1525,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Gambit",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmHYMzMzMzwMwwYYaYmJjx2gZGGzMzAmZmZGzMLjZwMwwMAwCYGmAbglhBgZG",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmHYMzMzMzwMwwYYaYmJjx2gZGGzMzAmZmZGzMbjZwMwwMAwCYGmAbglhBgZG",
 				},
 				[7] = {
 					label = "Streets",
