@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersHeroicRaidDB = addonTable.TopPlayersHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-23 02:04:05",
+	updated = "2026-02-24 02:03:34",
 
 	[1] = {
 		specs = {
@@ -717,7 +717,7 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMmZmZZbZwMMDAAAAgZ2gBMgZjJwsAAzyMzMGbLmwMjxyMzMjhFLGLmZMzsBAMAAjhB",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMBmFAYWmZmxYbxEmZMWmZmZMsYxYBzMzsAAMAAjhB",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
@@ -737,11 +737,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMmZmZZbZwMMDAAAAgZ2gBMgZjJwsAAzyMzMGbLmwMjxyMzMjhFLGLmZMzsBAMAAjhB",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMBmFAYWmZmxYbxEmZMWmZmZMsYxYBzMzsAAMAAjhB",
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMmZmZZbZwMMDAAAAgZ2gBMgZjJwsAAzyMzMGbLmwMjxyMzMjhFLGLmZMzsBAMAAjhB",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMBmFAYWmZmxYbxEmZMWmZmZMsYxYBzMzsAAMAAjhB",
 				},
 				[7] = {
 					label = "Nexus King",
@@ -893,7 +893,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAAAmZmswMAA2AAYDzMzwmlZmZWGMmZmZmxCzYmHYGAgBAAYAmZAzAgB",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -953,23 +953,23 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAAzMLz2MzsYGAYssMwAGwMsFYYbAAAYGAAAgZmZGzAzYmZmZwMzMDAYA",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAAzMLz2MzsYGAYssMwAGwMsFYYbAAAYGAAAgZmZGzAzYmZmZwMzMDAYA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAAzMLz2MzsYGAYssMwAGwMsFYYbAAAYGAAAgZmZGzAzYmZmZwMzMDAYA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAAzMLz2MzsYGAYssMwAGwMsFYYbAAAYGAAAgZmZGzAzYmZmZwMzMDAYA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAAzMLz2MzsYGAYssMwAGwMsFYYbAAAYGAAAgZmZGzAzYmZmZwMzMDAYA",
 				},
 				[5] = {
 					label = "The Soul Hunters",
@@ -985,7 +985,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAgZmZxmZmNzAAjllBGwAmhtADbDAAAzAAAAMzMzYAzMzMzMDmZmZAAzA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAAzMLz2MzsYGAYssMwAGwMsFYYbAAAYGAAAgZmZGzAzYmZmZwMzMDAYA",
 				},
 			},
 			[266] = {
@@ -995,7 +995,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlBAAAAAAAMmBAgthNaYxMzMWmlZmZYAgZGzMzMzAMmxMDAAwYmZGDDmxAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMmlBAAAAAAYYZgBMADLBGbmZM2mlZmZMDAYGzMzAYGmZGDAAwYmZGDDLzYA",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -1003,7 +1003,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlBAAAAAAAMmBAgthNaYxMzMWmlZmZYAgZGzMzMzAMmxMDAAwYmZGDDmxAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMmlBAAAAAAYYZgBMADLBGbmZM2mlZmZMDAYGzMzAYGmZGDAAwYmZGDDLzYA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
