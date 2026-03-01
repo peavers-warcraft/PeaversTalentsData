@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersMythicRaidDB = addonTable.TopPlayersMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-02-28 02:03:22",
+	updated = "2026-03-01 02:03:12",
 
 	[1] = {
 		specs = {
@@ -963,7 +963,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMzsNAAAAAAADLDMgBYYJwYzMjx2sMzMjZAAzYmZGAzwMGDAAwYmZGDDLzYA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMmlBAAAAAAYYZgBMADLBGbmZM2mlZmZMDAYGzMzAYGmZGDAAwYmZGDDLzYA",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -1005,7 +1005,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYMjxAAAwMzMDAAzA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMegZGNLMMzMmtZhxMLzYsYGAAMmxMzsYBGYY0wAY2wGDAAMAzsBAYGMmxMDAAAzMzAAwMD",
 				},
 				[3] = {
 					label = "Soulbinder",
@@ -1025,7 +1025,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Nexus King",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZhxMLzYsYGAAMmxMzsYBGYY0wAY2wGDAAMAzsBAYGYmZYAAAYmZmBAwMD",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMegZGNLMMzMmtZhxMLzYsYGAAMmxMzsYBGYY0wAY2wGDAAMAzsBAYGMmxMDAAAzMzAAwMD",
 				},
 				[8] = {
 					label = "Dimensius",
