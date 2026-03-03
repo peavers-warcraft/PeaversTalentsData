@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersHeroicRaidDB = addonTable.TopPlayersHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-02 02:03:28",
+	updated = "2026-03-03 02:04:12",
 
 	[1] = {
 		specs = {
@@ -383,7 +383,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAA4BmZmZxAAAAAAwsNYbGAAAAAQ2mZmxDMzYMzMzsNz2MjxDMzMzMGmZMGADsBDjGAYZAbGAMzYG",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAA4BmZMLGAAAAAAmtBLzAAAAAAy2MzMegZGjZmZmtZ2mZmhZmZmZGmZMGADsBDjGAYZAbGAMzMG",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -749,7 +749,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMmZmZZbZwMMDAAAAgZ2gBMgZjJwsAAzyMzMGbLmwMjxyMzMjhFLGLmZMzsBAMAAjhB",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAMzGMgBMbMBmFAYWmZmxYbxEmZMWmZmZMsYxYBzMzsAAMAAjhB",
 				},
 			},
 			[263] = {
@@ -873,7 +873,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
@@ -1011,7 +1011,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlBAAAAAAAMmBAgthNaYxYmxyYGzMGAYmZGmZmBYMjZGAAgxMzMGD2mZGA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlBAAAAAAAMmBAgthNaYxMzMWmlZmZYAgZGzMzMzAMmxMDAAwYmZGDDmxAA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1033,7 +1033,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYMjxAAAwMzMDAAzA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZBzMLGjFzAAgZmxMzsAGzAAw2wCNWYAAgxAjNAMzAMzMGDAAAzMzAAwMD",
 				},
 				[2] = {
 					label = "Loomithar",
