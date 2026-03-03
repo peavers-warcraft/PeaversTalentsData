@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-02 02:03:18",
+	updated = "2026-03-03 02:03:21",
 
 	[1] = {
 		specs = {
@@ -159,7 +159,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAGsMzMzYGzMwgxsMYmlZ0EDjZmhhZLDADAbgNWmZmZZ2mxsFAAAgF2GgFYMjZYAAYMMjxA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglZmZGzYmZ2YwYWGbzMLzoJmFjZmhhZLDADAbgNWmxMLz2MmtAAAAsAAbwYGzAAAGDzYMA",
 				},
 			},
 			[66] = {
@@ -841,19 +841,19 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
 				},
 				[3] = {
 					label = "Soulbinder",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
 				},
 				[4] = {
 					label = "Forgeweaver Araz",
@@ -865,7 +865,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
 				},
 				[7] = {
 					label = "Nexus King",
@@ -873,7 +873,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
 				},
 			},
 			[63] = {
@@ -941,7 +941,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAYMmZGNbMMzMmlBAAMzMLz2MzsMGAYstNwAGwMsFYYbAAAwAAAAMjZGzMmBzMzMGmZmBAYA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMGzoZjx2MzMzyAAAmZmlZbmZWGDAwyyADYAzgADbDAAAGAAAmZYYmtZGzgZmZGDzMzAAMA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1005,7 +1005,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Loomithar",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMegZGNLMMzMmtZhxMLzYsYGAAMmxMzsYBGYY0wAY2wGDAAMAzsBAYGMmxMDAAAzMzAAwMD",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZhZmZZmZsYGAAMmxMzsAGzAAw2wCNWYAAgBYGAYmBYMjxAAAwMzMDAAzA",
 				},
 				[3] = {
 					label = "Soulbinder",
@@ -1071,7 +1071,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Dimensius",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzM2mxGmZAAAAAAAYZBzEzMwMM2MDmZmBzCmxMLYZz22YGzCAAsMbTLz2AAAAgZYBmZATjBMAA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mxMDAAAAAAALLYEzMwMMYGjZmZwsgZMzywymltZZYWAAgNAAAgtZpZmZWMDLAGYaMAAA",
 				},
 			},
 			[269] = {
@@ -1431,7 +1431,7 @@ local talentData = {
 			[1467] = {
 				[0] = {
 					label = "The Soul Hunters",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZwMDGMgBjZaGzMZMWmZmZGmZmZGwMmZGzMbjZwMwwMAwCYGmAbglhBgZA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZwMDGMgBjZaGzMZMWmZmZGmZmZGwMmZGzMLjZwMwwMAwCYGmAbglhBgZA",
 				},
 			},
 			[1468] = {
