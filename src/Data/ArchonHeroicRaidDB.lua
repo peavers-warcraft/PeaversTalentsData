@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-03 02:04:12",
+	updated = "2026-03-04 02:03:57",
 
 	[1] = {
 		specs = {
@@ -873,11 +873,11 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMzQzMGAAAGAAAYmBLzMxCAAbjZmZMbLWmZmxMjxYmZmxCzYGzAAMAAAmZBAMDAA",
 				},
 				[1] = {
 					label = "Plexus Sentinel",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmBLzMxCAAGzMzY2WsMzMjZGjxMzMjFmxMmBAYAAAMzCAYGAA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzALzMzsgZGamxAAAwAAAAzMYZmJWAAYbMzMjZbxyMzMmZMGzMzM2YGzYGAgBAAwMLAwMDAA",
 				},
 				[2] = {
 					label = "Loomithar",
@@ -973,7 +973,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Soul Hunters",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMGzoZjx2MzMzyAAAmZmlZbmZWGDAwyyADYAzgADbDAAAGAAAmZYYmtZGzgZmZGDzMzAAMA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZMzoZjhZmxsMAAAzMLz2MzsYGAYssMwAGwMsFYYbAAAYGAAAgZmZGzAzYmZmZwMzMDAYA",
 				},
 				[6] = {
 					label = "Fractillus",
@@ -1053,7 +1053,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Fractillus",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMMzMmlZBzMLGjFzAAgZmxMzsAGzAAw2wCNWYAAgxAjNAMzAMzMGDAAAzMzAAwMD",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZMzoZxM2MzYWmFMzsYMLLmBAAzMDzMLgxMwCA2GQjFGAAYMwYDAzMAjZGzAAAwMzMAAMzA",
 				},
 				[7] = {
 					label = "Nexus King",
