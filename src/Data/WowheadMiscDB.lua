@@ -2,18 +2,18 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-03-14 22:37:09",
+	updated = "2026-03-15 04:00:50",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "Slayer | Delving",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFz8AzYGAAAghphxwMWmZmZGzMmZAAAAAMWMDskxYbbgFwAmhJkZwGwMY2GjZbmtBYmBgZmhPA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGLmBEzYZZgFwAmhJkZwGwMYMY2mZbAmZAYmZYA",
 				},
 				[1] = {
 					label = "Colossus | Delving Best",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMWmZmZGzMmZAAAAAM2MDskZAbmxwCMwMajGDWAmBz2gZzsNYmBAMzM8BA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzoNaMYBYGMGMbmtBzMAgZmhB",
 				},
 			},
 			[72] = {
