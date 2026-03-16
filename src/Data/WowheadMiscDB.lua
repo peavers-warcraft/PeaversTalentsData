@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-03-15 04:00:50",
+	updated = "2026-03-16 04:00:56",
 
 	[1] = {
 		specs = {
@@ -19,11 +19,11 @@ local talentData = {
 			[72] = {
 				[0] = {
 					label = "Slayer | Delving",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZsMzMzMzMjZGzYGzsMzMGzMbjZmBAAixyyALgJYGmAzwGgZwsNAAYmxwMzMDDG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMjZWmZGjZmtxMzAAAxYZZgFwEMDTgZYDwMYMAAYmxwMzMDDG",
 				},
 				[1] = {
 					label = "Mountain Thane | Delving Best",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZmZGzMjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBkZBzYBwMY2GAMzAYYmZGMYA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAysgZsAYGMGAMzAYYmZGMYA",
 				},
 			},
 			[73] = {
@@ -33,7 +33,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Mountain Thane | Delves",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZYMmpxMGWGzMzwMmZAAAAwyYAmxAMwGssY0YGAzWMzGMzMzgZbAwMDAADwA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzMzMzMmxsZmZZGjxMNmxwyYmZYmxMDAAAAWGAmxAMwGssY0YGAzWMzGMzMzgZZAwMDAADwA",
 				},
 			},
 		},
@@ -317,11 +317,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Totemic | Council Best",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYmFDLLzMAAYGjZmZxCMwsY0YGAzWsxAAAjZAAAmZwYmxMbAAAmZmZAAYGG",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzWsxAAAjZYAAwMDGzMmZDAAwMzMDAAzwA",
 				},
 				[5] = {
 					label = "Totemic | Delves",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYmFDLLzMAAYGjZmZxCMwsY0YGAzWsxAAAjZAAAmZwYmxMbAAAmZmZAAYGG",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzWsxAAAjZYAAwMDGzMmZDAAwMzMDAAzwA",
 				},
 			},
 		},
@@ -385,7 +385,7 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "Druid Of The Claw | Delves",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjxiZZMPwMLLDMbGGNRzMzyMzMzsMmhBAAAAAMsMDAAAA1MLzyMzMAAWwMPAwiZwgBLbDAmZD+A",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwMjxiZZMPwMLLDMbGGNRzMzyMzMzsMmhBAAAAAMsMDAAAA1MLzyMzMAAWwMPAwiZwgBLbDAmZDG",
 				},
 				[1] = {
 					label = "Elunes Chosen | Delves Best",
@@ -409,7 +409,7 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Fel Scarred | Delves Best",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmZMmBbzMDzMMWGYb2MjhZRTjZmxM2AAAAAAAAYmBDAAAAD",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmh5BmBbzMzYMwyAbzmZMMLaaMzMmxGAAAwAAAAYmBDAAAAD",
 				},
 				[1] = {
 					label = "Aldrachi Reaver | Delves",
@@ -449,7 +449,7 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Chronowarden | Delves",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMzyYmBmZzAjZswCMwMM0IWwMzMzAAD",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxMmBAAAAAAAAzMwMY8A1YmZGAAAAMzMzMmZWGzMwMbGYMjFWgBmhhGxCGzMzAAD",
 				},
 				[1] = {
 					label = "Scalecommander | Delves Best",
