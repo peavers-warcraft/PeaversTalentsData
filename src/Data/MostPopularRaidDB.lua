@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-15 04:00:50",
+	updated = "2026-03-16 04:00:56",
 
 	[1] = {
 		specs = {
@@ -21,7 +21,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Colossus | MT Raid",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzYGAAAghphZYmxyMzMzgxMDAAAAgxmZgtMDYzMG2gBmRb0YwCwM2MbDGzsNYmBAMjhB",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzYGAAAghphZYmxyMzMzgxMDAAAAgxmZglYAbmxwGMwMajGDWAmxmZbwYmtBzMAgZmhB",
 				},
 			},
 			[72] = {
@@ -45,11 +45,11 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Colossus | Raid",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMzMzmxsMMGz0wMDLjZmZYGzMAAAAYZAYGDwAbwyiRjZAMbxMbMmxMDmtBAzMAAMAD",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzMzmxsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZLmZDmxMDmtBAzMAAMAD",
 				},
 				[1] = {
 					label = "Mountain Thane | Raid Best",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA02AAAzMDzMzMzMzmxsMMGz0wMDLjZmZYGzMAAAAYZAYGDwAbwyiRjZAMbxMbMmxMDmtBAzMAAMAD",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzMzmxsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZLmZDmxMDmtBAzMAAMAD",
 				},
 			},
 		},
@@ -69,7 +69,7 @@ local talentData = {
 			[66] = {
 				[0] = {
 					label = "Templar | Raid Best",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZmZGzyYZmZMzwyYMmZhZMAADAAAAAASzMLmxMzYMzWbAYADYwGAAYmptZmlZAA2AzYAMmhxAAsMDwMDyA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmxAYMDjBAYZGgZGkB",
 				},
 				[1] = {
 					label = "Lightsmith | Raid",
@@ -103,7 +103,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Raid Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGzMzMbbbmZmhZGMzsNGzygZAAAjZmZAYmptNYA2wA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmtxYWGMDAAYMzMDAzMttBDw2wA",
 				},
 				[1] = {
 					label = "Dark Ranger | Raid",
@@ -154,8 +154,8 @@ local talentData = {
 			},
 			[261] = {
 				[0] = {
-					label = "Deathstalker | Raid",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMmNzyADYDsMMhMLYGmZAmxA",
+					label = "Deathstalker | Raid Best",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDDmZmZGjZbMzYbbmZmZmZMYMz2AAAAwgxsYWGYALglhJkZBzwMDwMGA",
 				},
 				[1] = {
 					label = "Trickster | Raid Best",
@@ -247,7 +247,7 @@ local talentData = {
 			[264] = {
 				[0] = {
 					label = "Farseer | Raid Best",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbYmZGzMz8AzYmFzsADYCmFmAjFzwALjxMNbLzMMjZhFzMzYGmlBAAAmZGAMzADG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYATwswEYsYGmBLjxMNbLzMMjZhFzMzYGmlBAAAmZGAMzADG",
 				},
 				[1] = {
 					label = "Totemic | Raid",
@@ -407,11 +407,11 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "Druid Of The Claw | Raid Best",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzYM2MLzMPgZZZgZDGNRzMzyMzMzYMjZAAAAAADLzAAAAQNzysMzMDAgFMzAsYGMYwy2AgZWgPA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYM2MLzMPgZZZgZDGNRzMzyMzMzYMjZAAAAAADLzAAAAQNzysMzMDAgFMzAsYGMYwy2AgZWgB",
 				},
 				[1] = {
 					label = "Elunes Chosen | Raid",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzYM2MLzMPgZZZgZDGNRzMzyMzMzYMjZAAAAAADLzA22mZwY2GATBAAA2wMDwiZwgBLbDwMDgPA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxs4BGjxmZZmZMLLDMbwoJamZWmZmZGjZMDAAAAAYYZGw22MDGz2AYKAAAwGmZAWMDGMYZbAmZAM",
 				},
 			},
 			[105] = {
@@ -431,11 +431,11 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Fel Scarred | Raid Best",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGYmZ2MmZmxMzkxMDAAAAAAYWegxsNDzMWmZGbz2MzMLzMwyAbziZMMbaaYmxwGAAAAAAAAzMYAAAAYA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzmmGzMjhNAAAAAAAAmZwAAAAwA",
 				},
 				[1] = {
 					label = "Aldrachi Reaver | Raid",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGLz28AzYZMMWmZbGMMW2YSGzMGWAAAAAAAAzMADAAAAD",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGLz2YGLjZMWmZbGMMW2YSGzMGWAAAAAAAAzMADAAAAD",
 				},
 			},
 			[581] = {
@@ -454,18 +454,18 @@ local talentData = {
 		specs = {
 			[1473] = {
 				[0] = {
-					label = "Chronowarden | Raid",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMbjZGYmNDMmxCLwAzwQjYBzMmZAgB",
+					label = "Chronowarden | Raid Best",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMmZbmZmxyAzsMjZmxMbAAAAAwAAgZmBGMmaMzMDAAAAmxMzYmZbMzAzsZgxMWYBGYGGaELYMmZAgB",
 				},
 				[1] = {
-					label = "Scalecommander | Raid Best",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMbjZGYmNjBLwyYYsNAmJiNMzAzMAG",
+					label = "Scalecommander | Raid",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMmxMbAAAAAwAAgZmBGMmaMzMDAAAAmxMzYmZbMzAzsZMYBWGDjtBwMRshxAzMAG",
 				},
 			},
 			[1467] = {
 				[0] = {
 					label = "Scalecommander | Raid Best",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTjZmpZMWmxMzMz8AzMzAmxMzYmZbmZgBGDWglxox2AyMIYDDMzghB",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZbmZgBGDWglxox2AyMIYDDMzghB",
 				},
 				[1] = {
 					label = "Flameshaper | Raid",
