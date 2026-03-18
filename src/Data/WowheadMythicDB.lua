@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-03-17 04:00:56",
+	updated = "2026-03-18 04:01:01",
 
 	[1] = {
 		specs = {
@@ -63,11 +63,11 @@ local talentData = {
 			[70] = {
 				[0] = {
 					label = "Templar | Mythic Best",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxMzMDAAAAAwMlhhZGbDz2wMbzYMGDzYjNMAAkZm2mZ2mBAsBYAwYGGYGzYDLzghxMGM",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxMzMAAAAAAmpMMMzYbY2GmZbGjxMDzYjNMAAkZm2mZ2mBAsBYAwYGGYGjZDLzghxMGM",
 				},
 				[1] = {
 					label = "Herald Of The Sun | Mythic",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxMzMDAAAAAwMlhhZGbDz2wMbzYMGDzYhNMgZZ2mZmtGEAAwCgBAjZYgZMjNgZmhxMGM",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxMzMAAAAAAmpMMMzYbY2GmZbGjxYYGLshBMLz2Mzs1gAAAWAMAYMDDMjZmNgZmhxMGM",
 				},
 			},
 		},
@@ -87,7 +87,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Mythic Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMbjxsMMzAAAYMGAmZahhBYDD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsNGzywMDAAgxYAYmpFGGgNM",
 				},
 				[1] = {
 					label = "Dark Ranger | Mythic",
@@ -325,7 +325,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Conduit Of The Celestials | Mythic",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmx2wAGGmZmZY2GmhZZmAA2Mz2YYMzMAAWMzysNmgAAGGAzAM2GImZmND",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgFzsMbjJIAghBwMAjtBiZmZzA",
 				},
 			},
 			[270] = {
@@ -413,11 +413,11 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Chronowarden | Mythic",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxMmBAAAAAAAAzMwMY8A1YmZGAAAAMzMzMmZWGzMwMbGYMjFWgBmhhGxCGzMzAAD",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMzyYmBmZzAjZswCMwMM0IWwMzMzAAD",
 				},
 				[1] = {
 					label = "Scalecommander | Mythic Best",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZmxyMYmlZMzMmBAAAAAAAAzMwMY8A1YmZGAAAAMzMzMmZWGzMwMbGDWglxwYbAMTEbYMDmZAM",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMzyYmBmZzYwCsMGGbDgZiYDzMDmZAM",
 				},
 			},
 			[1467] = {
