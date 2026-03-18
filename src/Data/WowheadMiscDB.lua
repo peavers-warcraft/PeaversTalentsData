@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-03-17 04:00:56",
+	updated = "2026-03-18 04:01:01",
 
 	[1] = {
 		specs = {
@@ -87,7 +87,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Delves Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMW22MzMDzMDzMbjxsMMzAAAYMGAmRLMMAbDD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsNGzywMDAAgxYAYmpFGGgNM",
 				},
 				[1] = {
 					label = "Dark Ranger | Delves",
@@ -313,7 +313,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Hellcaller | Cleave",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZjxMLGz2iZAAwMzwMzCYMjhFyAbDb0YhBAAGDM2AwMDgZGjBAAgZmZGAAzMM",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjxMLGz2CDAAmZGzMzCYMjhFyAbDb0YhBAAGDM2AwMDwMzYMbAAAmZmBAgZGG",
 				},
 				[4] = {
 					label = "Hellcaller | Council Best",
@@ -345,7 +345,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Conduit Of The Celestials | Delves",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmx2wAGGmZmZY2GmhZZmAA2Mz2YYMzMAAWMzysNmgAAGGAzAM2GImZmND",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgFzsMbjJIAghBwMAjtBiZmZzA",
 				},
 			},
 			[270] = {
@@ -449,7 +449,7 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Chronowarden | Delves",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxMmBAAAAAAAAzMwMY8A1YmZGAAAAMzMzMmZWGzMwMbGYMjFWgBmhhGxCGzMzAAD",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMzyYmBmZzAjZswCMwMM0IWwMzMzAAD",
 				},
 				[1] = {
 					label = "Scalecommander | Delves Best",
