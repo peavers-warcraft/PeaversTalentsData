@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-18 04:01:01",
+	updated = "2026-03-19 04:00:51",
 
 	[1] = {
 		specs = {
@@ -103,7 +103,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Raid Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmtxYWGMDAAYMzMDAzMttBDw2wA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzMDAzMttBDw2wA",
 				},
 				[1] = {
 					label = "Dark Ranger | Raid",
@@ -189,7 +189,7 @@ local talentData = {
 			[258] = {
 				[0] = {
 					label = "Archon | Raid",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMY2mZGzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzAZMzMjZbMz2yAMTMA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMY2mZGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAZMzMjZbMz2yAMTMA",
 				},
 				[1] = {
 					label = "Voidweaver | Raid",
