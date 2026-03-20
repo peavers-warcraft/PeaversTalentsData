@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-19 04:00:51",
+	updated = "2026-03-20 04:00:51",
 
 	[1] = {
 		specs = {
@@ -355,19 +355,19 @@ local talentData = {
 			[269] = {
 				[0] = {
 					label = "Shado Pan | Raid - Single Target Best",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzwwAmxwMzMDzywMMLzEAwmZ2mZYMzMAA2AgZZWamZmFAMwMDAjlxQMgB",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wwsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDxAG",
 				},
 				[1] = {
 					label = "Shado Pan | Raid - Cleave Best",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgBLzMz2MGAAAAAAAAAAAYZYEmhhBMjhZmZGmlhZYWmJAgNzsNzwYmZAAsBAzys0MzMLADDMzAwYZMEDYA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMEDYA",
 				},
 				[2] = {
 					label = "Conduit Of The Celestials | Raid - Single Target",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYM2GGsMzMbzAAAAAAAAAAAAsMMCzwwAmxwMzMDzywMMLzEAwmZ2GDzMzMAAWMzysNmgAAwAYGgxyYImZmFD",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYM2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbjhZmZGAALmZZ2GTQAAYAMDALjhYmZWM",
 				},
 				[3] = {
 					label = "Conduit Of The Celestials | Raid - Cleave",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgBLzMz2MGAAAAAAAAAAAYZYEmhhBMjhZmZGmlhZYWmJAgNzsNGzYmZAAsYmlZZMBBAMMAmBYsMGiZmZxA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgBLzMz2MGAAAAAAAAAAAYZYEmx2wAmxwMzMDzywMMLzEAwmZ2GjZMzMAAWMzysMmgAAGGAzAwyYImZmFD",
 				},
 			},
 			[270] = {
@@ -479,7 +479,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Chronowarden | Raid Best",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAMzYGDmxMyMzAAAAMzMTmxMjZbmZAwAjZswCMwMaoBsAjZGgxA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAMzYGDmxMyMzAAAAMzMTmxMjZbmZAwAjZsxCMwMaoBsAjZGgxA",
 				},
 			},
 		},
