@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-20 04:00:51",
+	updated = "2026-03-22 04:00:48",
 
 	[1] = {
 		specs = {
@@ -116,7 +116,7 @@ local talentData = {
 					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0gFjZmZmxyAAAAAAgZMzMDzYYMDGTzAAAAAAAGLLzMziZmZmZGjBMzGgZxYMjNG",
 				},
 				[1] = {
-					label = "Sentinel | Raid Best",
+					label = "Sentinel | Raid",
 					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYmgNjZmxMPwy8AAAAAAAMjZmZYGDjZwYaGAAAAwAAYZbmZWMzMzYmZMAMDbMMGzYjB",
 				},
 			},
@@ -251,7 +251,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Totemic | Raid",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbYmZGzMz8AzYGLwGMjFN2GQmB2MDDsMGz0stMzwMmFWMzMjZYWGAAAYmZwMDAMYA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMzYGLwCMjNN2GQmB2MDDsMGz0stMzwMmFWMzMjZYWGAAAYmZwMDAMYA",
 				},
 			},
 		},
@@ -281,7 +281,7 @@ local talentData = {
 			[63] = {
 				[0] = {
 					label = "Sunfury | Raid",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2wYmBAAAAAsYmZmZAAwYGzYmZMz2AwMDZMGDmhB",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZIjxYwMMA",
 				},
 				[1] = {
 					label = "Frostfire | Raid",
@@ -387,7 +387,7 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Keeper Of The Grove | Raid Best",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZbYmZGbsMzyMjhZBDAGgltxGmmZWGBAAAYzMzMzgNjhxMAmZAgB",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZbYGzYjlZMzMjZ2wAgBYZbshpZmlRAAAA2MzMzMYzYYMDgZGAYA",
 				},
 				[1] = {
 					label = "Elunes Chosen | Raid",
