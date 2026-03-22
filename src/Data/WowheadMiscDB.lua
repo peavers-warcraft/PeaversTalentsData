@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-03-20 04:00:51",
+	updated = "2026-03-22 04:00:48",
 
 	[1] = {
 		specs = {
@@ -77,7 +77,7 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Pack Leader | Delves Best",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwGsAzwQDbAAYGzyMzwMMzMzMmZGjZMDzMzMmhZmhxMDjpZAAAAAAAAAwYMDwMLIYZmFwmB",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwGsAzwQDbAAYGzyMzsYGmZmZGzMMmxMMzMzYGmZGGzMMmmBAAAAAAAAAjxMAzsgglZWAbGA",
 				},
 				[1] = {
 					label = "Dark Ranger | Delves",
@@ -97,7 +97,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "Pack Leader | Delves",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0gFzMzMzwyAAAAAAgZMzMjtZMMmZYMNDAAAAYAAssMzMbmZmZMjxAmZDAGjZmNG",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0gFzMzMzwyAAAAAAgZMzMjtZMMmZYMNDAAAAYAAssMzMbmZmZMjxAmZDAzYMzgB",
 				},
 				[1] = {
 					label = "Sentinel | Delves Best",
@@ -135,7 +135,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Trickster | Delves Best",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMMDegZmZGjZbmZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAziWoFbYGwMDmxA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbzYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAziWoFbYGwMDmxA",
 				},
 			},
 		},
