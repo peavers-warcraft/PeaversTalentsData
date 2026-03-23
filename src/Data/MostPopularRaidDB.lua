@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-22 04:00:48",
+	updated = "2026-03-23 04:00:55",
 
 	[1] = {
 		specs = {
@@ -93,11 +93,11 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Pack Leader | Raid Best",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPw2YmtZGmxMDDzMGzMMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzshwwsA2MA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzshwwsA2MA",
 				},
 				[1] = {
 					label = "Dark Ranger | Raid",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZMbjZWegZYGzMmhZGDzwMjZMDzMjZMDGaGAAAAAwMAAAMzMzgZGgwwsA2MA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZMbjZWMDzYmxMMzYYGzMjZMDzMjZMDGaGAAAAAwMAAAMzMzgZGgwwsA2MA",
 				},
 			},
 			[254] = {
@@ -251,7 +251,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Totemic | Raid",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMzYGLwCMjNN2GQmB2MDDsMGz0stMzwMmFWMzMjZYWGAAAYmZwMDAMYA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYBWgZspx2AyMwGjhZsMGz0stMzwMmFWMzMjZYWGAAYAzMDmZAgBD",
 				},
 			},
 		},
@@ -441,7 +441,7 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "Aldrachi Reaver | Raid",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMzwMmZsxMGDAAAAYMDGGwEGmZGLAAAAYwAQAmZAGAAAA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMzwMmZsNmZbMAAAAgZbGMMW2YCDzMjFAAAAMYAIAzMADAAAgB",
 				},
 				[1] = {
 					label = "Annihilator | Raid Best",
