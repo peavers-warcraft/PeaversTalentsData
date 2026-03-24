@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-23 04:00:55",
+	updated = "2026-03-24 04:00:47",
 
 	[1] = {
 		specs = {
@@ -97,7 +97,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Dark Ranger | Raid",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZMbjZWMDzYmxMMzYYGzMjZMDzMjZMDGaGAAAAAwMAAAMzMzgZGgwwsA2MA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZYbmZWMDzYmhZMzMDzYmZMjZYmZMjZwQzAAAAAAmBAAgZGzgZGgsZYWAbGA",
 				},
 			},
 			[254] = {
