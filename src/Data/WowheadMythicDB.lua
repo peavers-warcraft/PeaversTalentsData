@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-03-23 04:00:55",
+	updated = "2026-03-24 04:00:47",
 
 	[1] = {
 		specs = {
@@ -76,18 +76,18 @@ local talentData = {
 		specs = {
 			[253] = {
 				[0] = {
-					label = "Pack Leader | Mythic Best",
+					label = "Pack Leader | Mythic",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYGzyMzsYGmZmZGzMMmxMMzYmZGbzMDjZYZoZAAAAAAAAAw8AjZGwMbIgZBsZA",
 				},
 				[1] = {
-					label = "Dark Ranger | Mythic",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZGLzMziZYmZmhZMzYYGmZMzMjtZmhxMsM0MAAAAAgZAAAYegxMDzMABMLgND",
+					label = "Dark Ranger | Mythic Best",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZGLzMDzwMzMYGzMzwMmZGzMzYbmZYMDLDNDAAAAAYGAAAmHYMzwMDQAzCYzA",
 				},
 			},
 			[254] = {
 				[0] = {
 					label = "Sentinel | Mythic Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmpFGGgNM",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmpNGGgNM",
 				},
 				[1] = {
 					label = "Dark Ranger | Mythic",
@@ -253,7 +253,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Spellslinger | Mythic Best",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzswMzQzMGAAAGAAEwMzMLLzMxCAAbzYmZMbmlZmZMzYMmZmZswMzMGAADAAgZWAADAMM",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAgAmZmZZZmJWAAYbGzMjZzsMzMjZGjxMzMjFmZmxAAYAAAMzCAYGAMM",
 				},
 				[1] = {
 					label = "Sunfury | Mythic",
@@ -423,7 +423,7 @@ local talentData = {
 			[1467] = {
 				[0] = {
 					label = "Scalecommander | Mythic Best",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZ8AzgBGGjZaMzMNjx2MmZmZGzMzAmZmxYmZZmZgBGDWglxox2AyMIYDzgZGMMA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GQmBBbYGMzghB",
 				},
 				[1] = {
 					label = "Flameshaper | Mythic",
