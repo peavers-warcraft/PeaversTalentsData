@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-24 04:00:47",
+	updated = "2026-03-25 04:00:47",
 
 	[1] = {
 		specs = {
@@ -213,7 +213,7 @@ local talentData = {
 			[251] = {
 				[0] = {
 					label = "Deathbringer | Raid Best",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxMDzw4BMzgZmZmZAAAAAAAAAwY2GYALglhJkxCmZMzMwMAGmZAmBM",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMmZYGGPgZGMzMzMDAAAAAAAAAGz2ADYBsMMhMWwMjZmBmBwwMDwMDM",
 				},
 				[1] = {
 					label = "Rider Of The Apocalypse | Raid",
@@ -416,10 +416,14 @@ local talentData = {
 			},
 			[105] = {
 				[0] = {
-					label = "Keeper Of The Grove | Raid Best",
+					label = "Keeper Of The Grove | Raid Apex Best",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstM2w0MzyAAAEwCjZGMzA0MAYmBAMA",
 				},
 				[1] = {
+					label = "Keeper Of The Grove | Raid Best",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywMzM2MWGzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAMgtlxGmmZWGAAgAWYMzAzA0MAYmBAA",
+				},
+				[2] = {
 					label = "Wildstalker | Raid",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAAgAAAmtZ2aWmZxGjZGMzA0MAAzMAMA",
 				},
