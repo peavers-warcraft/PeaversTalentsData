@@ -13,6 +13,7 @@
 ## X-Curse-Project-ID: 1198986
 
 src\Data\TopPlayersMythicDB.lua
+src\Data\TopPlayersNormalRaidDB.lua
 src\Data\TopPlayersHeroicRaidDB.lua
 src\Data\TopPlayersMythicRaidDB.lua
 src\Data\CommunityMiscDB.lua
