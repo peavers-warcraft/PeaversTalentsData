@@ -33,6 +33,7 @@ local PROVIDERS = {
     wowcompare.io = {
         databases = {
             mythic = { db = "TopPlayersMythicDB", category = "mythic" },
+            normal_raid = { db = "TopPlayersNormalRaidDB", category = "normal_raid" },
             heroic_raid = { db = "TopPlayersHeroicRaidDB", category = "heroic_raid" },
             mythic_raid = { db = "TopPlayersMythicRaidDB", category = "mythic_raid" }
         }
