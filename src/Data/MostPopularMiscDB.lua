@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-03-24 04:00:47",
+	updated = "2026-03-25 04:00:47",
 
 	[1] = {
 		specs = {
@@ -394,10 +394,6 @@ local talentData = {
 			},
 			[105] = {
 				[0] = {
-					label = "Keeper Of The Grove | Delves",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxYGzMjZbmZYYhZx2MAAAAAAAAAAYbQzmhpZYGjZxMzMzyMwAAAAAAAYMgFjFMNsNAAABsAz8AYGLgmBAzMAAA",
-				},
-				[1] = {
 					label = "Wildstalker | Delves Best",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxYGzMjZbmZYYhZx2MAAAAAAAAAAYbQzmhpZMzYMLmZmZWmhxAAAAAAAYMAAEAAwws1sMWsBz8AYGLgmBAYmBgB",
 				},
