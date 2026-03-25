@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersHeroicRaidDB = addonTable.TopPlayersHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-24 02:02:30",
+	updated = "2026-03-25 02:02:17",
 
 	[1] = {
 		specs = {
@@ -33,7 +33,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYmxyMzMzgxMDAAAAgZWmZAZMWWGYBMgZYCMD2AmxmZbMYGDwMDAzYYA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzMWmZmZGMmZAAAAAMzyMDslxYZZgFwAmhJwMYDYGbmtxgZ2GgZGAmxwA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -43,7 +43,7 @@ local talentData = {
 			[72] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjxMsMzMzMDjZmZGzYmlZmxYmZbMzMAAQMWWGYBMgZYCMDbAzMbMbDAAmZMMmZGGM",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZmZGzMjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBwsgZsAYGMbDAmZAMMzMDGM",
 				},
 				[1] = {
 					label = "Imperator",
@@ -59,7 +59,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzsxsNAYmBwwMzMYwA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZmZGzMjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBwsgZsAYGMbDAmZAMMzMDGM",
 				},
 				[5] = {
 					label = "Vanguard",
@@ -67,7 +67,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmhlZmZmZYMzYGzMzsMzMGzMbjZmBAAixyyALgBMDTgZYDYmBz2AAgZGDjZmhBD",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -101,7 +101,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzMzmxsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZDzsBzYmBz2AgZGAAGgB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAmZGzMzMzMmNjZZGjxohZGbLzMzMDGzMAAAAYZMAzYAGYDWWMaMDgZDzsBzYmBjBAzMAAMDYA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -173,7 +173,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZmBzyYZmZMzMbbjxYmFbDDAwAAAAAAg0MziZMzMGzs1GAGAYGsBAAmZabmZZGAgNwMAGjZYMAALzAMzAG",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -279,7 +279,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDzYmZMDGTzYMzMbbbmZmhZGMzsMGzywMDAAYMzYAYmxGDDwGG",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -313,7 +313,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAAAAssMzMLmZmZmZMGwMbAmFjxMzGD",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMMjxMmBjpZAAAAAAAssMzMLmZmZmZmBwMbAmFjxMzCD",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -381,11 +381,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmFGmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzMz8AzswDwMmWGsNDAAAAAY22mZmhZmZmxMzsNAAAAMAGYDmxoxsBYbgFGAMzMwA",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGjZmZmtZmZmZmHYmFeAmZbaZw2MAAAAAAbbzMzwMzMzYmZ2GAAAAGADsBzY0Y2AsNwCDAmZmBD",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGjZmZmtZmZmZmHYmFeAmZbaZw2MAAAAAA2mZmhZmZmxMzsNAAAAmBwAbwMGNmNAbDswAgZmZwA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -597,7 +597,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZmxYY2mZmZmZbmZkZMGDzwgZmZmZmZmZAAAAAAAAAwY2GYALglhJwYBzMmZGYAYYmBYAG",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxMDzw4BMzgZmZmZAAAAAAAAAwY2GYALglhJwYBzMmZGYGADzMAzAG",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -623,11 +623,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZwMDAWmxMz2MzYGDwmZxwADMbM0YBDYGAGzMjZAmZmxMG",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzYMjBAAAAAAAgZwMDAWmxMz2MzYGDwmZxwADMbM0YBDYGAGzMjZAmZmxMG",
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZmZMDDz2MzMTzmZGjZMAAAAAAAAMzDwMDAWmxMz2MzYYA2MLGGYgZjhGLYAzAwYmZMDwMjxMG",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZwMDAWmxMz2MzYGDwmZxwADMbM0YBDYGAGzMjZAmZmxMG",
 				},
 				[6] = {
 					label = "Crown",
@@ -669,7 +669,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYmtFTYGGLzMzMGWmlhFzMMzCAYGGYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYCzMbjlZmZGDLzyMWMzwMLAADgZGYYYA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -729,15 +729,15 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYADYWYCMWMDzglxYmmtlZGmxswiZmZMDzyAAAAzMDAmZgBD",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMzYGLwCMjFN2GAzAbmhBWGjZa2WmZYGzCLmZmxMMLDAAAMzMYmBAGM",
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYADYWYCMWMDzglxYmmtlZGmxswiZmZMDzyAAAAzMDAmZgBD",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMzYGLwCMjFN2GAzAbmhBWGjZa2WmZYGzCLmZmxMMLDAAAMzMYmBAGM",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLLDzMGzMzMzYGLwCMjFN2GAzAbmBDzyYmZa2WmZYGDWmZMjBzyAAAAzMDmZAgBD",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYADYWYCMWMDzglxYmmtlZGmxswiZmZMDzyAAAAzMDAmZgBD",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -809,7 +809,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -891,7 +891,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmZMzoZjhZmxsMAAAAAAAjtlBGwAmhtAjNjxYZWmZmxMAgZmZmZAmZmZGzMAAAjZmZmxglZAMA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAAAAAAjtlBGwAmhtAjNjxYZWmZmxMAgZmZmZAmZGzYmBAAYMzMzMGsMDgB",
 				},
 				[1] = {
 					label = "Imperator",
@@ -987,7 +987,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyM2YmZMAAAAAAALLYEzMwMMzmZwMzMDzGzMGLDLbz22sNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzY2mxGmZAAAAAAAYZBjYmBmhBzYMzMzYmlhZMWG22stNmxsAAALzy0ysNzyAAAAMDbgZGw0YADAYA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1021,7 +1021,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1093,7 +1093,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlZmZmBYGzyMLjlZMjNWmZZMzwsghBYAW2GbYamZZAAAAwGzMzMYzwYMDgZGAYA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlZmZmhhZYWmZZsMjZsxyMLjZGmFMAYAW2GbYamZZAAAAwGzMzMYzAjZAMzAADA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1127,7 +1127,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtlxyMbzYGzMDAAAAbBzmhxMjaGzyMzMzYMjBAAAAAgBGAAAAAgZbmlmtZW2Az8AALmBDAgZGAMA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtlxyMbzYGzMDAAAALBzihxMjaGzCzMzYMjZAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1157,7 +1157,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZWMLDMWGY2gRT0MzsMzMzMGzYGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYM2MLzMPgZZZgZDGNRzMzyMzMzYMjZAAAAAADLzAAAAgmZZWmZmBAwCmZAWMDGMYZbAwMLwA",
 				},
 				[6] = {
 					label = "Crown",
@@ -1195,7 +1195,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgNDNbzMmmZAmtxMzMMMDAAAAADAAgtlxGmmZWGAAAALMzMDmZ2ANDAmZAAD",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstM2w0MzyAAAAYhxMDmZAaGAMzAAGA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1259,7 +1259,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2YGjBAAAAAAAAMzM2AAAAwgxMzMzSbzMzAgZAAAAMA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmtZGbjZMGzAAAAAAAAwMzYDAAAADMzMzMLtNzMDAmBAAAwA",
 				},
 				[5] = {
 					label = "Vanguard",
