@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersHeroicRaidDB = addonTable.TopPlayersHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-25 02:02:17",
+	updated = "2026-03-25 15:17:46",
 
 	[1] = {
 		specs = {
@@ -873,7 +873,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAgZmZZWmZmlxAAjtlBGwAmhtADbDAAAzAAAYmxMjZGMDzYmZGDmZmZAAzAD",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAsZmxMjmNzYbmZMbDAAYmZWmtZmZZMAwYbZgBMgZYLww2AAAgBAAwMzYGjZhhxYmZGzwMzYAAzAD",
 				},
 				[5] = {
 					label = "Vanguard",
