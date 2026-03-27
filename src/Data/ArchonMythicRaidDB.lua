@@ -2,22 +2,22 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-26 02:02:45",
+	updated = "2026-03-27 02:02:14",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZmxMbLzMzMMzYmBAAAAwYzMwWMgFzYYBGYG2oxgFgZwYwsZ2GMzAAGzwA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZmxMbLzMzMMzYmBAAAAwYzMwWMgFzYYBGYG2oxgFgZwYwsZ2GMzAAGzwA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMz8AzMDAAAghphZGzMWmZmZGMmZAAAAAMzyMDslxYZZgFwAmhJwMYDYGMbjBzYAmZAYGDD",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -51,7 +51,7 @@ local talentData = {
 			[72] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
 				},
 				[1] = {
 					label = "Imperator",
@@ -59,11 +59,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzYMz2yMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZmZGzMjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBwsgZsAYGMbDAmZAMMzMDGM",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzYmZsMzMzMDjZGzYGzsMzMGzMLjZmBAACDsBLbGNmBwsAjFAzwMbDAmZAMMzMGGM",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -79,7 +79,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMzyyMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
 				},
 				[8] = {
 					label = "Beloren",
@@ -93,11 +93,11 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAmZGmZmZmxsYmZZGjxoxMGWmZmZGMmZAAAAwyYAmxAMwGssY0YGAzGmZDmxMDmtBAzMAAMDYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzMzmxsMjxY0wMjtlZmZmBjZGAAAAsMAMjBYgNYZxoxMAmNMzGMjZGMGAMzAAwMgB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAmZGmZmZmxsYmZZGjxohZGWmZmZGMmZAAAAwyYAmxAMwGssY0YGAzGmZDmxMDmtBAzMAAMDYA",
 				},
 				[2] = {
 					label = "Vorasius",
@@ -105,7 +105,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzY2MmlZMGjGmZYZmZmZwYmBAAAALjBYGDwAbwyiRjZAMbYmNYGzMY2GAMzAAwMgB",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -121,7 +121,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAmZGzMzMzMmFjZZGjxohZGbLzMzMDGzMAAAAYZMAzYAGYDWWMaMDgZDzsBzYmBjBAzMAAMDYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -139,7 +139,7 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -147,11 +147,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -167,7 +167,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYbmZxMNxYGzMDDzWGAGwwGYjlZMzysNzMbNAAAALAM2gxMmBAAMzwMGDD",
 				},
 				[8] = {
 					label = "Beloren",
@@ -181,19 +181,19 @@ local talentData = {
 			[66] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmtWAwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmtWAwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZmZYWmZZmZMzwyYMmZhhBAYAAAAAAQaMbzMmZYMzWAwAGYGsBAAmZabmZZGAgNwMgBjZYMAALzAMzAG",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGbzMjZmZZZMGzsYZYAAGAAAAAAkGz2MjZmxYmt2AwAGYGsBAAmZabmZZGAgNGMgBjZYMAALzAMzAG",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -223,7 +223,7 @@ local talentData = {
 			[70] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -231,11 +231,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZYGbsMMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMLzwMsNMbDzsNjxYmhZsw2wAAAzMtNzsNDAYDwAgxMMDmxY2wyMYYMjBD",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -251,7 +251,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZmZAAAAAAmpMmhZGbDz2wMbzYMGDzYjNAAAmZabmZbGAwGgBAjZMzgZMjNsMDGGDDG",
 				},
 				[8] = {
 					label = "Beloren",
@@ -269,15 +269,15 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPw2YmtZGmxMDDzMGzMMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -311,11 +311,11 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
 				},
 				[2] = {
 					label = "Vorasius",
@@ -323,7 +323,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAmZGDAzM2YYA2wA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -339,7 +339,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjxYAYmxGzyMAbYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -353,15 +353,15 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawixMzMzYZAAAAAAwMmxMMjxMmZYMNDAAAAAAYssMzMLmZmZGjZGwMbgNMjxM2YA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -399,15 +399,15 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbzgBAAAAAmlBbzAAAAAAabbmZmZmZMmZmZ2mZZmZGMmZmZMzYYAMwCMjRjZBwyA2MAYmZwA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbzgBAAAAAmlBbzAAAAAAabbmZmZmZMmZmZ2mZZmZGMmZmZMzYYAMwCMjRjZBwyA2MAYmZwA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYMjZbGMAAAAAwsMYbGAAAAAQ2mZmZmZGjZmZmtZWmZGYGzMzYmZmxAYgFYGjGzCglBsZsBYmZGG",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -427,7 +427,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbzMMAAAAAwsMYbGAAAAAQ2mZmZmZGjZmZmtZWmZGYGzMzYmZmxAYgFYGjGzGglBsZAwMzgB",
 				},
 				[8] = {
 					label = "Beloren",
@@ -441,15 +441,15 @@ local talentData = {
 			[260] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzMz8AzswDwMmWGsNDAAAAAw22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmZwA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMjZmtZmZmZmHYmFeAPwMmWGsNDAAAAAY22mZmhZmZmxMzsNAAAAMAGYDmxoxsBYbgFGAMzMwA",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzMz8AzswDwMmWGsNDAAAAAw22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmZwA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMjZmtZmZmZ8AmFegZmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmBG",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -483,7 +483,7 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -491,11 +491,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDDmZmZGjZbMzYbbmZmZmZMYMz2AAAAwgxsYWGYALglhJwsgZYmBYGD",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -511,7 +511,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -529,19 +529,19 @@ local talentData = {
 			[256] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTzMAzsghwYWGgxgFAAYMmZMYGgZmhZYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDGmBmpZamBYmFMEGzyAMGsAAAjxMjhZGgZmhZYA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTzMAzsghwYWGgxgFAAYMmZMYGgZmhZYA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYY2YMDzMjZbsNzMzMMDAAAAAAAAAgZYZGMzMDGzMgpZiBYmFMEGz2AMGsAAAjZmZMMzAMzMjZYA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTzMAzsghwYWGgxgFAAYMmZMYGgZmhZYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTMAzsghwYWGgxgFAAYMzMjBzAMzMjZYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -557,7 +557,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTMAzsghwYWGgxgFAAYMzMjhZGgZmhZYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -571,19 +571,19 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzgZMDgZqBAmZxMMLGAYMYzYmFANDzYMMzstMAzAD",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzwMMDgZqBAmZxMMbGAYMYzYmFANjZGjhZmtlBYAD",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzgZMDgZqBAmZxMMLGAYMYzYmFANDzYMMzstMAzAD",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzgZMDgZqBAmZxMMLGAYMYzYmFANDzYMMzstMAzAD",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzgZMDgZqBAmZxMMLGAYMYzYmFANDzYMMzstMAzAD",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -599,7 +599,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzwMMjBMTBAmZxMMLGAYMYzYmFANjZGjhZmtlBYAD",
 				},
 				[8] = {
 					label = "Beloren",
@@ -613,7 +613,7 @@ local talentData = {
 			[258] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
 				},
 				[1] = {
 					label = "Imperator",
@@ -621,11 +621,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzAMmZmxsNmZbZAmBD",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -641,7 +641,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
 				},
 				[8] = {
 					label = "Beloren",
@@ -659,19 +659,19 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLGzMzMGAAAAYmZmZmZmZYGjBAjZmZGAAAGYgZspxyGgtBsBYGGAAwMDAD",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZxYmxMmBAAAAzMzMzMzMDzYMAgZmZGAAAGYgZspxyGgtBsBYGmBAAmZgBD",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAmZmZmZmZYGDAYmZmZGAAAjZbgBsAWGmADLAmxMAAMzAMwA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLGzMzMGAAAAYmZmZmZmZYGjBAjZmZGAAAGYgZspxyGgtBsBYGGAAwMDAD",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyYGmxMjhZbmZmmZxMzMmxMAAAAwMmZmZmZYmZAAjZmZGAAAjZbgBsAWGmADLAmxMAAMzAYwA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -687,7 +687,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZMMbzMz0MLmZmxMGAAAAwMmZmZmZYGjBAjZmZGAAAjZbgBsAWGmADLAmxMAAMzAYwA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -701,11 +701,11 @@ local talentData = {
 			[251] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAGz2ADYBsMMBGLYmxMzADADzMAzAG",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAGz2ADYBsMMBGLYmxMzADADzMAzAG",
 				},
 				[2] = {
 					label = "Vorasius",
@@ -743,19 +743,19 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGwmZxwADMbM0YBAzAAzMjZAmZmxMG",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZYY2mZmZa2MzYMjBAAAAAAAgZwMDAWmxMz2MzYGDwmZxwADMbM0YBDYGAGzMjZAmZmxMG",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDY2mZmZaWmZGjZMAAAAAAAAMzDwMDAWmxMz2MzYGDwmZxwADMbM0YBAzAwYmZMDwMzMzMG",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZGjZMDAAAAAAAgZeAmZAwyMmZ2mZGDDwmZxwADMbM0YBDYGAGzMjZAmZmxMG",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGwmZxwADMbM0YBAzAAzMjZAmZmxMG",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZaWMzYMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGwmZxwADMbM0YBAzAAzMjZAmZmxMG",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -771,7 +771,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMDz2MzMTDzMmZGDAAAAAAAAz8AMzAglZMzsNzMmxAsYWMMwAzGDNWwAmBAmZGzAMzMMjB",
 				},
 				[8] = {
 					label = "Beloren",
@@ -789,7 +789,7 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstMTLMjtxyMzMjZwyMWMzwMLAADgZGYYYA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -797,11 +797,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMmZmZZbbgxMDAAAAAsZGDbwCMDDN2AgZZmZGjtFTYmZZsMzMzYYZWmxiZmxMLAADgZGYYYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzMjtFTLMzsNWm5BmZMsMLDLmZYmFAgBwMDMMMA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -817,7 +817,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYahZGjlZmZGDLzixiZMmZBAYYgZGYYYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -831,19 +831,19 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLzAzMbsMzMz8AGGzAAYgxYmJmZAgxA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLzAzMbsMzMz8AGGzAAYgxYmJmZAgxA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmxYZZGLMzsMWmZmZYYMDAgBYMjYmBAGD",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -859,7 +859,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmxMLLGLmZGmlZmZGwYGAADwYmJmZAgxA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -873,19 +873,19 @@ local talentData = {
 			[264] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMwyYmZa2WmZYGzCLzMzMGMLDAAAMzMYmBAGM",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYADYWYCMWMDzglxYmmtlZmFzYWYxMzMmhZZAAAgxMAYmBGM",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMwyYmZa2WmZYGzCLzMzMGMLDAAAMzMYmBAGM",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZspx2AYGYzMMY2mZmZa2WmZYGzCLz8AmxgZZAAAgZmBzMAwgB",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMw2MzMa2WmZYGzCLzMzMGMLDAAAMzMYmBAGM",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMzYGLwCMjNN2GAzAbmhBzyMzMa2WmZYGzCLzYmxgZZAAAgZmBzMAwgB",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -901,7 +901,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMzYGLwCMjNN2GAzAbmhBWGjZa2WmZWMjZhFzDMzYGmlBAAAmZGMzAADG",
 				},
 				[8] = {
 					label = "Beloren",
@@ -919,19 +919,19 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAwGAAAwGAbLjZmZwsNMmhFAAAmZDYGGDYGMA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmxMzMzMziZmZMjZAAAgZmZWWmZaDAAWAAAA2AYbZMjZwsNMmhFAAAmZDYGGDYGMA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAwGAAAwGAbLjZMDmthxMsAAAwMbAzADYGMA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -947,7 +947,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZGmlxMzEzMzMzMzMziZmZMjZAAAgZmZWWmZaDAA2AAAA2AYbZMzMDmthxMsAAAwMbAzwYAzgB",
 				},
 				[8] = {
 					label = "Beloren",
@@ -961,7 +961,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzstMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1003,11 +1003,11 @@ local talentData = {
 			[63] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
 				},
 				[2] = {
 					label = "Vorasius",
@@ -1049,15 +1049,15 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjx2MzMzyAAAMzsMLzMzyMDAMWWGYADYG2CMsNAAAMDAAgZGmxYghZMzMjBzMzMAgZgB",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAgZAAAMzMzMMz2MjZwMzMjhZmZGAwAG",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjx2MzMzyAAAMzsMLzMzyMDAMWWGYADYG2CMsNAAAMDAAgZGmxYghZMzMjBzMzMAgZgB",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -1091,7 +1091,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAAAAAAgxMGWgB2G2ohFDmZZ2mZmxMAwMMzMzMDwYGzMAAAzMzMzMMmlZMgB",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1099,7 +1099,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbmx2MzYWGAAAAAAgx2yADYAzwWgxmxYsMLzMzYGAwMzMzMAzMMDzsAAAGzMzMjBLzAYA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -1119,7 +1119,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmxDMzoZjx2MzYWGAAAAAAgx22ADYAzwWgxmxYsMLzMzYGAwMzMzMAzMzMzYGAAgxMzMGD2mBwA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1133,11 +1133,11 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZjhZmxsMLjxMLGz2iHYAAwMGzMziFYgZxoxMAmNsxAAAjBGbAAzMYmZmxAAAwMzMDAgZGG",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZmZ2mlxYmFzMbLMAAYGjZmZxCMwsY0YGAzG2YAAgxghNAgZGMmxYWAAAMzMDAAzMM",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjxMLmZ2WYAAwMGzMziFYgZxoxMAmNsxAAAjBDbAAzMYMjZmFAAAzMzAAwMDD",
 				},
 				[2] = {
 					label = "Vorasius",
@@ -1145,7 +1145,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZjhZmZmlZZMmZxMz2iHYAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBmZMzAAAwMzMAAMzwA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1161,7 +1161,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzysMGzsYmZbhBAAzYMzMLWgBmFjGzAY2wGDAAMGYsBAMzgxMmZ2AAAMzMDAAzMM",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1179,19 +1179,19 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzY2mxGmZAAAAAAAYZBjYmBmhBzYMzMzYmlhZMWG22stNmxsAAALzy0ysNzyAAAAMDbgZGw0YADAYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzwyM2wMjBAAAAAAYZBjYmBmhBzgZmZGmtxMjZWGW2egttZbGzCAAsMLTLz2MLDAAAghNwMDYaMAAgB",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzY2mxGmZAAAAAAAYZBjYmBmhBzYMzMzYmlhZMWG22stNmxsAAALzy0ysNzyAAAAMDbgZGw0YADAYA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzY2mxGmZAAAAAAAYZBjYmBmhBzYMzMzYmlhZMWG22stNmxsAAALzy0ysNzyAAAAMDbgZGw0YADAYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzY2mxGmZAAAAAAAYZBjYmBmhBzYMzMzYmlhZMWG22stNmxsAAALzy0ysNzyAAAAMDbgZGw0YADAYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1207,7 +1207,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWmxGmZAAAAAAAYZBEzMwMM2MjxMzMjZ2GmxMLDLbPw22sNjZBAAWmlplZbmlBAAAwwGYmBMNGAAwA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1221,7 +1221,7 @@ local talentData = {
 			[269] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1229,11 +1229,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1249,7 +1249,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1263,19 +1263,19 @@ local talentData = {
 			[270] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDwyMzMDz2gBLzEAAAAAAsYZmlZbmBAAGwAMDYMMWkxMA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2A2sYmZmZbGbYmZYmlttZGLMjmxMgBDwyMzMDz2gBLzEAAAAAAsYZmlZbmBAAGwAMDYMMWkxMA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1291,7 +1291,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MM2sYGzMLDbYmZYmlttZGLMmmxMgBDDWmHYmZY2GMMLPwEAAAAAAsYZmlZbmBAAGwAMDYMMWkxMA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1309,19 +1309,19 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYYWmZZsMjZsxyMLjZGmFMMADwy2YDTzMLDAAAA2MzMzMYzwYMDgZGAYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZbYmZGbsMzyMjhZBDAGgltxGmmZWGAAAAsZmZmZwmxwYGAzMAwA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlZmZmhBDzyMLjlZMjNWmZZMzwsgBADwy2YDTzMLDAAAA2MzMzMYzYYMDgZGAYA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZgxsMzMzMADzyMbDzYmZjlZMzYMzGGAMALbjNMNzsMAAAAYzMzMzgNjZMmBwMDAMA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlZmZmhBDzyMbDzYmZjlZMzYMzGGAMALbjNMNzsMAAAAYzMzMzgNjhxMAmZAgB",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbZMmZgHwsMzMzMYYGzyMLjtZMzsxyMLjZGsghBYAW2GbYamZZAAAAwGzMzMYzwYMDgZGAYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1337,7 +1337,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYYWGLjlZMjNWmZZmZGmFMMADwy2YDTzMLDAAAA2MzMzMYzwYMDgZGAYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1351,19 +1351,19 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2gxMjaGziZmZGjZMDAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJYYYMzomxsMmZmxYGDAAAAAADMAAAAAAz2MLNbzssBzMDwiZwAAYmBAD",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2gxMjaGziZmZGjZMDAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2MMmZUzYWMzMzYMjBAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLYYYMzomxsYmZmZZMjBAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1393,19 +1393,19 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2gRT0MzsMzMzMGzYGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMzmZZgZZZgZzMGNRzMzyMzMzsMmhBAAAAAMjlZAAAAQzsMLzMzAAYBzAYxMYALW2GAMzGM",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2gRT0MzsMzMzMGzYGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwMjxmZZeg5BMLLDMbwoJamZWmZmZGjZMDAAAAAYGbzAAAAgmZZWmZmBAwCmZAWMDGALbDAmZBG",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2gRT0MzsMzMzMGzYGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjlZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1421,7 +1421,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwMjZWMLjxMWGY2MjRT0MzsMzMzMLjZYAAAAAAzYbGAAAA0MLzyMzMAAWwMAWMDGwiFDAmZDG",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1435,11 +1435,11 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wMzM2M2GzAAAAAAAAAAglBNbmx0MMmxsMzMzMMMDAAAAAAAMgttxGmmZWGAAAALMmZgZAaGAMzAAA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstN2w0MzyAAAAYhxMDmZAaGAMzAAGA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstM2w0MzyAAAAYhxMDmZAaGAMzAAGA",
 				},
 				[2] = {
 					label = "Vorasius",
@@ -1447,7 +1447,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wMzM2MWGzAAAAAAAAAAglBNbmx0MjhHwsYmZmxMMzAAAAAYAAMgttxGmmZWGAAAALMmBMzCoZAwMDAA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1463,7 +1463,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wMzM2MWGzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstN2w0MzyAAAAYhxMDmZAaGAMzAAA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1481,19 +1481,19 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMzMzEmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMzMzEmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMwysYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1509,7 +1509,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMwysYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1523,15 +1523,15 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMmZkZmBziZMDmZMzYGzMzYYmlZGLmZ2GDAAAAAAAAYmZsBAAAgBzMzMzs02MzMAwAAAAYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMmZkZmBziZMDmZMzYGzMzYYmlZGLmZ2GDAAAAAAAAYmZsBAAAgBzMzMzs02MzMAwAAAAYA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmtZGbjZMGzAAAAAAAAwMzYDAAAADMzMzMLtNzMDAmBAAAwA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -1565,7 +1565,7 @@ local talentData = {
 			[1480] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmxMzMGzMAAAAAAAegxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1573,11 +1573,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1593,7 +1593,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1611,19 +1611,19 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMbjZGYmNjBLwyYYsNAmBxGmZgZGAD",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAYmBGmxUzYmZAAAAwMmZGzMbjZGYmNjBLwyYYsNAmBxGmZgZGAD",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMbjZGYmNjBLwyYYsNAmBxGmZgZGAD",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMbjZGYmNjBLwyYYsNAmBxGmZgZGAD",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAAAgZmBGMmaMzMDAAAAmxMzYmZbMzAzsZMYBWGDjtBwMI2wMDMzADD",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1639,7 +1639,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjpGzMzAAAAgZMzMmZ2GzMwMbGYMjFWgBmhhGYBzMmZAMM",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1653,19 +1653,19 @@ local talentData = {
 			[1467] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZbmZgBGDWglxox2AYGA2wAzMYYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTjZmpZMWmxMzMz8AzMzAmxMzYmZbmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZbmZgBGDWglxox2AYGA2wAzMYYA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMDMYMTzMzMNjx2MmZmZmHYmZGwMmZGzMbjZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTjZmpZM2mxMzMz8AzMzAmxMzYmZbmZgBGDWglxox2AYGA2wAzMYYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTjZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1681,7 +1681,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMDMYMTzMzMNjx2MmZmZmHYmZGwMmZGzMbjZgBGDWglxox2AYGA2wAzMYYA",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1695,19 +1695,19 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MwMmZegZxYmZmlBAAYmxMmHwYMjwMAAAAzMjMjZmZ2mZGAMwYGbsADMDDNMsAjZGgxA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MwMmZegZxYmZmlBAAYmxMGMjZkZmBAAAYmZmMjZGz2MzAgBGzYhFYgZYohhFYMzAMGA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MwMmZegZxYmZmlBAAYmxMmHwYMjwMAAAAzMjMjZmZ2mZGAMwYGbsADMDDNMsAjZGgxA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAMzYGDmxMyMzAAAAMzMTmxMjZbmZAwAjZsxCMwMM0AWgxMDwYA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAMzYGDmxMyMzAAAAMzMTmxMjZbmZAwAjZsxCMwMM0AWgxMDwYA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1723,7 +1723,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MwMmZegZxYmZmlBAAYmxMGMjZkZmBAAAYmZmMjZGzyMzAgBGzYhFYgZYohhFYMzAMGA",
 				},
 				[8] = {
 					label = "Beloren",
