@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonNormalRaidDB = addonTable.ArchonNormalRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-25 15:11:43",
+	updated = "2026-03-27 02:02:19",
 
 	[1] = {
 		specs = {
@@ -39,6 +39,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYmxyMzMzgxMDAAAAgZWmZAZMWWGYBMgZYCMD2AmxmZbMYGDwMDAzYYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[72] = {
 				[0] = {
@@ -73,6 +81,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZmZGzMjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBwsgZsAYGMbDAmZAMMzMDGM",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[73] = {
 				[0] = {
@@ -106,6 +122,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzMzmxsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZDzsBzYmBz2AgZGAAGgB",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -145,6 +169,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[66] = {
 				[0] = {
@@ -179,6 +211,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[70] = {
 				[0] = {
@@ -212,6 +252,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -251,6 +299,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPw2YmtZGmxMDDzMGzMMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[254] = {
 				[0] = {
@@ -285,6 +341,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[255] = {
 				[0] = {
@@ -313,11 +377,19 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGwmxMzYmHYZeAAAAAAAmxMzMMjhxMYMNDAAAAYAAssNzMLmZmZMzMGAmhNGGjZsxA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGwmxMzYmHYZeAAAAAAAmxMzMMjhxMYMNDAAAAYAAssNzMLmZmZMzMGAmhNGGjZsxA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -357,6 +429,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYMjZZGMAAAAAwsMYbGAAAAAQbbzMzMzMjxMzMz2MLzMDMjZmZMzMzYAMwCMjRjZBwyA2M2AMzMYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[260] = {
 				[0] = {
@@ -390,6 +470,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGjZMzsNzMzMjHwswDMzMLTLD2mBAAAAAMbbzMzwMzMzYmZ2GAAAAGADsBzY0Y2AsNwCDAmZGYA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[261] = {
@@ -425,6 +513,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 		},
 	},
@@ -457,11 +553,19 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTzMAzsghwYWGgxgFAAYMmZMYGgZmhZYA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYY2YMDzMjZbsNzMzMMDAAAAAAAAAgZYZGMzMDmxMgpZiBYmFMEGzyAMGsAAAjZmZMMzAMzMjZYA",
 				},
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYY2YMDzMjZbsNzMzMMDAAAAAAAAAgZYZGMzMDmxMgpZiBYmFMEGzyAMGsAAAjZmZMMzAMzMjZYA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[257] = {
@@ -497,6 +601,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzgZMDgZqBAmZxMMLGAYMYzYmFANDzYMMzstMAzAD",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[258] = {
 				[0] = {
@@ -530,6 +642,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -569,6 +689,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZZmZmmZxYmxMmBAAAAzMzMzMzMDzYMAgZmZGAAAGYgZspxyGglBsBYGmBAAmZgBD",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[251] = {
 				[0] = {
@@ -603,6 +731,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAGz2ADYBsMMBGLYmxMzADADzMAzAG",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[252] = {
 				[0] = {
@@ -636,6 +772,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGwmZxwADMbM0YBAzAAzMjZAmZmxMG",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -675,6 +819,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMmZmZZbbgxMDAAAAAsYGDbwCMDDN2AgZZmZGjtFTYmZZsMzMzYYZWmxiZmxMLAADgZGYYYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[263] = {
 				[0] = {
@@ -709,6 +861,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[264] = {
 				[0] = {
@@ -742,6 +902,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYADYWYCMWMDzglxYmmtlZGmxswiZmZMDzyAAAAzMDAmZgBD",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -781,6 +949,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[62] = {
 				[0] = {
@@ -815,11 +991,19 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNmZmxstYZmZGzMGjZmxYhZmZMDAwAAAYmFAwMAYYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[63] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2wYmBAAAAAsYmZmZAAwYGzYmZMz2AwMDMGjBzwA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
 				},
 				[1] = {
 					label = "Imperator",
@@ -843,11 +1027,19 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2wYmBAAAAAsYmZmZAAwYGzYmZMz2AwMDMGjBzwA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
 				},
 				[7] = {
 					label = "Chimaerus",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -887,6 +1079,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAYmZxyMzsMzAAjllBGwAmhtADbDAAAzAAAYmhZmxADzMzMjZwMzMDAYGYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[266] = {
 				[0] = {
@@ -921,6 +1121,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZhZMzMmtBAAAAAAYstMwAGwMsFYsZMGLzyMzMmBAMzMzMDwMzMzYGAAAjZmZMGsMDgB",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[267] = {
 				[0] = {
@@ -954,6 +1162,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZZMmZxY2WMDAAmxYmZWsADMLGNmBwshNGAAYMAbAAzMwMjxAAAwMzMDAgZGG",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -993,6 +1209,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mxMDAAAAAAALLYEmBmhxmZMmZmZMzywMmZZYZzy2sMMLAAwysMtMbzsMAAAAzwGYmBMNGAAwA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[269] = {
 				[0] = {
@@ -1027,6 +1251,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[270] = {
 				[0] = {
@@ -1060,6 +1292,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -1099,6 +1339,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZbYmZGbsMzyMjhZBDAGgltxGmmZWGAAAAsZmZmZwmxwYGAzMAwA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[103] = {
 				[0] = {
@@ -1132,6 +1380,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtlxyMbzYGzMDAAAALBzihxMjaGziZmZGjZYAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[104] = {
@@ -1167,6 +1423,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYM2MLzMPgZZZgZDGNRzMzyMzMzYMjZAAAAAADLzAAAAgmZZWmZmBAwCmZAWMDGMYZbAwMLwA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[105] = {
 				[0] = {
@@ -1200,6 +1464,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstM2w0MzyAAAAYhxMDmZAaGAMzAAGA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -1239,6 +1511,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[581] = {
 				[0] = {
@@ -1273,6 +1553,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2YGjBAAAAAAAAMzM2AAAAwgxMzMzSbzMzAgZAAAAMA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[1480] = {
 				[0] = {
@@ -1306,6 +1594,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmxMzMGzMAAAAAAAegxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -1345,6 +1641,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMLjZGYmNjBLwyYYsNAmBxGmZgZGAD",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[1467] = {
 				[0] = {
@@ -1379,6 +1683,14 @@ local talentData = {
 					label = "Chimaerus",
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZbmZgBGDWglxox2AYGA2wAzMYYA",
 				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
 			},
 			[1468] = {
 				[0] = {
@@ -1412,6 +1724,14 @@ local talentData = {
 				[7] = {
 					label = "Chimaerus",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAMzYGDmxMyMzAAAAMzMTmxMjZZmZAwAjZswCMwMM0AWgxMDwYA",
+				},
+				[8] = {
+					label = "Beloren",
+					talentString = "No data on Archon.gg - Coming soon!",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
