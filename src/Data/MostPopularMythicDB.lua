@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-03-29 04:00:49",
+	updated = "2026-03-30 04:00:44",
 
 	[1] = {
 		specs = {
@@ -297,7 +297,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Diabolist | Mythic",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZzM2MzYWmNMzsMzMLLzMAAgZMzMLgxMGWIDsNsQjFGAAYAzAAmZAGzYmZDAAwMzMAAYGG",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZzM2MzYWmtZGzsYmZZhBAAzMjZmZBMmxwCZgthFaswAAAjBDLAYmBYMjZmNAAAzMzAAwYYA",
 				},
 				[1] = {
 					label = "Hellcaller | Mythic Best",
@@ -413,11 +413,11 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Chronowarden | Mythic",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMzyYmBmZzAjZswCMwMM0IWwMzMzAAD",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMz2YmBmZzAjZswCMwMM0IWwMzMzAAD",
 				},
 				[1] = {
 					label = "Scalecommander | Mythic Best",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMzyYmBmZzYwCsMGGbDgZiYDzMDmZAM",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmBmBjHoGzMzAAAAgZmZmxMz2YmBmZzYwCsMGGbDgZiYDzMDmZAM",
 				},
 			},
 			[1467] = {
