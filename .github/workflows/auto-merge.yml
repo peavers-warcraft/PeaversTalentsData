@@ -11,8 +11,8 @@ permissions:
   pull-requests: write
 
 concurrency:
-  group: auto-merge-${{ github.repository }}
-  cancel-in-progress: false
+  group: auto-merge-pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
 
 jobs:
   auto-merge:
