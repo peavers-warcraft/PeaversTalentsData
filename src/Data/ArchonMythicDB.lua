@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicDB = addonTable.ArchonMythicDB or {}
 
 local talentData = {
-	updated = "2026-03-31 02:01:57",
+	updated = "2026-04-01 02:02:01",
 
 	[1] = {
 		specs = {
@@ -165,7 +165,7 @@ local talentData = {
 			[66] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYZMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsNAAAAYmZZbplZGLmBDAYGGDAmZAwMDYA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsNAAAAYmZZbplZGLmBDAYGGDAmZAwMDYA",
 				},
 				[1] = {
 					label = "Algethar Academy",
@@ -173,7 +173,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZZZMzwsMLzYAAAAAAAAgmmZWMjZGGmtAgBAMYbAAAAwMzy2SLzMWMDzAgxMMGAMzAwMzAG",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsNAAAAYmZZbplZGLmBDAYGGDAmZAwMDYA",
 				},
 				[3] = {
 					label = "Maisara Caverns",
@@ -185,7 +185,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYZMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsNAAAAYmZZbplZGLmBDAYGGDAmZAwMDYA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsNAAAAYmZZbplZGLmBDAYGGDAmZAwMDYA",
 				},
 				[6] = {
 					label = "Seat",
@@ -193,7 +193,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYZMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsNAAAAYmZZbplZGLmBDAYGGDAmZAwMDYA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsNAAAAYmZZbplZGLmBDAYGGDAmZAwMDYA",
 				},
 				[8] = {
 					label = "Windrunner Spire",
@@ -231,7 +231,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZmZAAAAAAmpMMMzYbY2GmZbGjxYYGbshBAAmZabmZbGAwGgBAjZYGMjZshlZwwYGDG",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMaW2mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGADmZDYmZmZDLzghxwgB",
 				},
 				[8] = {
 					label = "Windrunner Spire",
@@ -349,11 +349,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
 				},
 			},
 		},
@@ -405,7 +405,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmNGmx0ygtZAAAAAAz2yYmhZmZmxMzsNAAAAMAGYDmxoxsBYbgFGAMzMDG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmNGmx0ygtZAAAAAAz22MzMMzMzMmZmlBAAAgBwAbwMGNmNAbDswAgZmBG",
 				},
 				[2] = {
 					label = "Magisters",
@@ -417,7 +417,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmNGmx0ygtZAAAAAAz22MzMMzMzMmZmlBAAAgBwAbwMGNmNAbDswAgZmBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmFGmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmBG",
 				},
 				[5] = {
 					label = "Pit Of Saron",
@@ -433,7 +433,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmNGmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmFGmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmBG",
 				},
 			},
 			[261] = {
@@ -675,11 +675,11 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMDz2MzMTDzMmZGDAAAAAAAAzMMzAglhZmtZmxMGgFzihBGY2YoxCGwMAMmZGGgZmhZMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMzYY2mZmZa2MzYmZAAAAAAAAgZwMDAWmxMz2MzYGDwiZxwADMbM0YBDYGAGzMjZAmZmxMG",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMDz2MzMTDzMmZGDAAAAAAAAzMMzAglhZmtZmxMGgFzihBGY2YoxCGwMAMmZGGgZmhZMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTzmZGzMjBAAAAAAAgZwMDAWmxMz2MzYGDwiZxwADMbM0YBDYGAGzMjZAmZmxMG",
 				},
 				[2] = {
 					label = "Magisters",
@@ -729,11 +729,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZmxwysMjFzMjZWAAGGYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmxYbxEmx2YZmZmxMWsMjFzMjZWAAGGYmBGGG",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmxYbxEmZWGLzMzMGWmlZsYmZMzCAwAYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmBbGBjlZWmZmZmZYWmxiZmxMLAADDMzADDD",
 				},
 				[5] = {
 					label = "Pit Of Saron",
@@ -741,15 +741,15 @@ local talentData = {
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmxYbx0GzMGLzMzMGWmFjFzMjZWAAmBYmBGGG",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmxYbx0GzYbsYmZGzYxyMWMzMmZBAYYgZGYYYA",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmxYbx0GzYbsYmZGzYxyMWMzMmZBAYYgZGYYYA",
 				},
 			},
 			[263] = {
@@ -809,7 +809,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbGmZmZmZGzYsYmFYADYWYCMWwMDmlZGjmtlZmNzYWYxYmxMWmlBAADwYGAMzADG",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbGmZmZmZGzYsYmFYADYWYCMWwMDmlZGjmtlZGmxswixMjZsMLDAAGgZmBAzMwgB",
 				},
 				[5] = {
 					label = "Pit Of Saron",
@@ -843,7 +843,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzgZZmZmlhZmYmZmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsMegZmYmxYmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
 				},
 				[3] = {
 					label = "Maisara Caverns",
@@ -851,11 +851,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzgZZmZmlhZmYmZmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsMegZmYmxYmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjFAAAmZDYGGDYGMA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsMegZmYmxYmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
 				},
 				[6] = {
 					label = "Seat",
@@ -867,7 +867,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsMMzEzMzYmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsMegZmYmxYmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
 				},
 			},
 			[62] = {
@@ -897,11 +897,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
 				},
 				[8] = {
 					label = "Windrunner Spire",
@@ -919,11 +919,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZZAYmBYMGMDD",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZZAYmBYMGMDD",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZZAYmBYMGMDD",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
@@ -931,11 +931,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
 				},
 				[7] = {
 					label = "Skyreach",
@@ -991,7 +991,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wiBjlxMzMzMAwMmZMzMDwYGzYDAAMzMzMmZw2MDwA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzYWGAAAAAAAwYGDLwAbDL0wiBjlxMzMzMAwMmZMzMDwYmZGbAAgZmZmxMD2mZAGA",
 				},
 				[1] = {
 					label = "Algethar Academy",
@@ -999,11 +999,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wiBjlxMzMzMAwMmZMzMDwYGzYDAAMzMzMmZw2MDwA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMYsMmZmZmBAmxMjZmZAGzYGbAAgZmZmxMD2mZAGA",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMYsMmZmZmBAmxMjZmZAGzYGbAAgZmZmxMD2mZAGA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wiBjlxMzMzMAwMmZMzMDwYGzYDAAMzMzMmZw2MDwA",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
@@ -1011,11 +1011,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wiBjlxMzMzMAwMmZMzMDwYGzYDAAMzMzMmZw2MDwA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzYWGAAAAAAAwYGDLwAbDL0wiBjlxMzMzMAwMmZMzMDwYmZGbAAgZmZmxMD2mZAGA",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wiBjlxMzMzMAwMmZMzMDwYGzYDAAMzMzMmZw2MDwA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMYsMmZmZmBAmxMjZmZAGzYGbAAgZmZmxMD2mZAGA",
 				},
 				[7] = {
 					label = "Skyreach",
@@ -1033,7 +1033,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
 				},
 				[2] = {
 					label = "Magisters",
@@ -1057,7 +1057,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
 				},
 				[8] = {
 					label = "Windrunner Spire",
@@ -1227,15 +1227,15 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZgZG1MmFzMzMLzMDDAAAAAgBAAAAoZWmtZmZAALwMzAswgBAAwMbYA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDzMzMjZmNjtZ2mZmZegZGAAAAWCmNDPgZG1MmFzMzMLjZGDAAAAAAwAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZgZG1MmFzMzMLzMDDAAAAAgBAAAAoZWmtZmZAALwMzAswgBAAwMbYA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDzMzMjZmNjtZ2mZmZegZGAAAAWCmNDPgZG1MmFzMzMLjZGDAAAAAAwAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZgZG1MmFzMzMLzMDDAAAAAgBAAAAoZWmtZmZAALwMzAswgBAAwMbYA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDzMzMjZmNjtZ2mZmZegZGAAAAWCmNDPgZG1MmFzMzMLjZGDAAAAAAwAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
 				},
 				[3] = {
 					label = "Maisara Caverns",
@@ -1243,7 +1243,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDzMzMjZmNjtZ2mZmZegZGAAAAWCmNDPgZG1MmFzMzMLjZGDAAAAAAwAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
 				},
 				[5] = {
 					label = "Pit Of Saron",
@@ -1421,19 +1421,19 @@ local talentData = {
 			[1480] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWLzMzAYYAAYGDGzA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWLzMzAYYAAYGDGzA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWLzMzAYYAAYGDGzA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWLzMzAYYAAYGDGzA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
@@ -1445,7 +1445,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWLzMzAYYAAYGDGzA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[7] = {
 					label = "Skyreach",
@@ -1509,11 +1509,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMbzMDMwYwCsMGN2GAzAwGmBzMYYA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZ8AzgBGGjZaMzMNjx2MmZmZGzMzAmZmxYmZbmZgBGDWglxox2AYGA2wMYmBDD",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZ8AzgBGGjZaMzMNjx2MmZmZGzMzAmZmxYmZbmZgBGDWglxox2AYGA2wMYmBDD",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZYGMwwYMTjZmpZMzyMmZmZGzMzAmZmxYmZZmZgBGDWglxox2AYGA2wMYmBDD",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
@@ -1525,7 +1525,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZ8AzgBGGjZaMzMNjx2MmZmZGzMzAmZmxYmZbmZgBGDWglxox2AYGA2wMYmBDD",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZ8AzgBGGjZaMzMNjx2MmZmZGzMzAmZmxYmZZmZgBGDWglxox2AYGA2wMYmBDD",
 				},
 				[7] = {
 					label = "Skyreach",
