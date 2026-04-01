@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersNormalRaidDB = addonTable.TopPlayersNormalRaidDB or {}
 
 local talentData = {
-	updated = "2026-03-31 02:02:44",
+	updated = "2026-04-01 17:32:22",
 
 	[1] = {
 		specs = {
@@ -289,7 +289,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYmx2MzsYGmZmZYGzMGmhZGzMzYbmZYMDLDNDAAAAAYGAAAmHYMzAmZDAmFwmB",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZMDzMjZMDGaGAAAAAwMAAAMzYGMzAkNDzCYzA",
 				},
 				[6] = {
 					label = "Crown",
@@ -1011,7 +1011,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2wYmBAAAAAsYmZmZAAwYGzYmZMz2AwMDMGjBzwA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
 				},
 				[3] = {
 					label = "Salhadaar",
