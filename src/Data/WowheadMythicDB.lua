@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-03-30 04:00:44",
+	updated = "2026-04-01 04:00:45",
 
 	[1] = {
 		specs = {
@@ -229,11 +229,11 @@ local talentData = {
 			[264] = {
 				[0] = {
 					label = "Farseer | Mythic Best",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbYmZmZmZGzYmFzsADYCmFmAjFGzgZZmxoZbZmhZMLsYMzYGLzyAAgBYmZAwMDMYA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbYmZGzMGzYmFzsADYCmFmAjFmZGMbzMGNbLzMMjZhFjZGzYZWGAAMAzMDAmZgBD",
 				},
 				[1] = {
 					label = "Totemic | Mythic",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbMzMzMzMGzYGLwGMjNN2GQmB2YMDmlZGjmtlZGmxswiZmZMDzyAAgBYmBmZAgBD",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbmZmZGzMGzYYBWgZspx2AyMwGjZwsNzY0stMzwMmFWMzMjZYWGAAMAzMwMDAmBD",
 				},
 			},
 		},
@@ -286,12 +286,12 @@ local talentData = {
 			},
 			[266] = {
 				[0] = {
-					label = "Diabolist | Mythic",
-					talentString = "CoQAy0jxIDofkwJmoH7WhvESoZmhZGNbmx2MzYWGAAAAAAgxyyMmZGWMMMz2s0GNjFjZGLjZmxMDAMzMzYmZGMzMzMMzGAAYMzMjxgtZGgB",
+					label = "Diabolist | Mythic Best",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAAAAAAwYGDLwAbj2ohFDGLjZmZmZAgZMzYmZGgxMMzGAAYmZmZmZGsNzAMA",
 				},
 				[1] = {
-					label = "Soul Harvester | Mythic Best",
-					talentString = "CoQAy0jxIDofkwJmoH7WhvESoZmhZGNbmx2MzYWGAAAAAAgxyyMmZGWMMMz2s0GNjNjZGLjZmxMDAMzMzYmZGMzMzMMzGAAYMzMjxgtZGgB",
+					label = "Soul Harvester | Mythic",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmhZGNbmx2MzYWGAAAAAAgxyyADYAzwSIjNDGLjZmZmZAgZMzYGgZmZmhZ2AAAzMzMjZGsNzAMA",
 				},
 			},
 			[267] = {
@@ -369,7 +369,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Elunes Chosen | Mythic Best",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlZGjxiZh5BmZZZgZzwoJamZWmZmZmlxMAAAAAAMsMDYZbmBjZZAMFAAAYzYmHAYxMYwgltBYmBwA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlhZMziZZMzMWGY2MMaimZmlZmZmZZMDAAAAAAzYZGwy2MDGzyAYKAAAwmxMPAwiZwAWwAMzAYA",
 				},
 			},
 			[105] = {
