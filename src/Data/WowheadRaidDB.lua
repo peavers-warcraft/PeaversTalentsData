@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-01 04:00:45",
+	updated = "2026-04-02 04:00:45",
 
 	[1] = {
 		specs = {
@@ -112,7 +112,7 @@ local talentData = {
 			},
 			[255] = {
 				[0] = {
-					label = "Pack Leader | Raid",
+					label = "Pack Leader | Raid Best",
 					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0gFjZmZmxyAAAAAAgZMzMDzYYMDGTzAAAAAAAYZZmZWMzMzMzYMgZ2AMLGjZmNG",
 				},
 				[1] = {
@@ -246,11 +246,11 @@ local talentData = {
 			},
 			[264] = {
 				[0] = {
-					label = "Farseer | Raid Best",
+					label = "Farseer | Raid",
 					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMmZGzsYmFYATwswEYsYGmBbjxMNbLzMMjZhFzMzYGmlBAAAmZGAMzADG",
 				},
 				[1] = {
-					label = "Totemic | Raid",
+					label = "Totemic | Raid Best",
 					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYBWgZspx2AyMwGjhZsNGz0stMzwMmFWMzMjZYWGAAYAzMDmZAgBD",
 				},
 			},
