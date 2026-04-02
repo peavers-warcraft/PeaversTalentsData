@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersHeroicRaidDB = addonTable.TopPlayersHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-01 17:32:08",
+	updated = "2026-04-02 02:02:06",
 
 	[1] = {
 		specs = {
@@ -41,7 +41,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYmxyMzMzgxMDAAAAgZWmZAZMWWGYBMgZYCMD2AmxmZbMYGDwMDAzYYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -83,7 +83,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -125,11 +125,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzMzmxsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZDzsBzYmBz2AgZGAAGgB",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAmZmxMzMmxsYmZZGjxoxMzMLmZmZGGmZAAAAwyYAmxAMwGssY0YGAzCmZDmxMDDDAmZAAwAG",
 				},
 			},
 		},
@@ -171,11 +171,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
 				},
 			},
 			[66] = {
@@ -213,7 +213,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -255,11 +255,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZmBAAAAAwoMmhZGbDz2wMbzYMmZYGbsBAAwMTbzMbzAA2AMAGjZYGMjxshlZwYGDDG",
 				},
 			},
 		},
@@ -297,15 +297,15 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYGzMGzMMzYGzwMzYGzghmBAAAAAMDAAAzMmBYmNwmhZBsZA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMsNzMLmhZMzwMmZmhZMzMmxMMzMmxMYoZAAAAAAzAAAwMjZwMDQ2MMLgND",
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzYbmZMjZwQzAAAAAAmBAAgZmZAMzGghZBsZA",
 				},
 			},
 			[254] = {
@@ -343,17 +343,17 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
 				},
 			},
 			[255] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
 				},
 				[1] = {
 					label = "Imperator",
@@ -385,7 +385,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawixMzMzYZAAAAAAwMmZmBjxMmBjpZAAAAADAYssMzMLmZmZMzMGwMbAGGjZsxA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -431,7 +431,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbzgBAAAAAmlBLzAAAAAAabbmZmZmZMmZmZ2mZZmZgZmZmZMzYGDgBWgZMaMLAWGwmBAzMDG",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -473,7 +473,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMjZmtZmZmZ8AmFegZmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmBG",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -515,7 +515,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -561,7 +561,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTzMAzsghwYWGgxgFAAYMmZMYGgZmhZYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -603,7 +603,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzgZMDgZqBAmZxMMLGAYMYzYmFANDzYMMzstMAzAD",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -645,11 +645,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
 				},
 			},
 		},
@@ -683,15 +683,15 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMz2YmxMmZmhZbmZmmhZmZMjBAAAAMDzMzYmxMzYGAMzMzMAAAGz2ADYBsMMBGWAMjZAAYmBwgPA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwY2GzMmxMzMMbzMz0MLGzMmxAAAAAmZmZmZmZYmZAAjZmZGAAAjZbgBsAWGmADLAmxMAAMzAYwA",
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZbmZmmZzYMmxAAAAAmZmZmZmZYGjBAzMzMzAAAYMbDMgFwywEYYBwMMAAMzAYwA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAmZmZmZmZYGjBAjZmZGAAAjZbgBsAWGmADLAmxMAAMzAYwA",
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwY2mZmxMmZmhZbmZmmZxMjxMAAAAAzMzMzMzMDzYMAYMzMzAAAwADMjNNW2AsMgNAzwAAAmZwAD",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -733,7 +733,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZmxYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAGz2ADYBsMMBGLYmxMzADADzMAzAG",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -775,11 +775,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGwmZxwADMbM0YBAzAAzMjZAmZmxMG",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMjBz2MzMTzmZmZMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGwmZxwADMbM0YBAzAAzMjZAmZmxMG",
 				},
 			},
 		},
@@ -821,11 +821,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYCzMLjlZmZGDLzyMWMzwMLAADgZGYYYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYmtlZiZmZjlZMzYwsMjFzMMzCAYGAzMwwwA",
 				},
 			},
 			[263] = {
@@ -863,7 +863,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -905,11 +905,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMwyYMTz2yMziZMLsYmZGzwsMAAAwMzgZGAYwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMzYmZGDzYBWgZsox2AYGYzMMwyYmRz2yMDzYWYZmZmxwysMAAAwMzgZGAYwA",
 				},
 			},
 		},
@@ -951,11 +951,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMPwswMzEzMGzMzMziZmhZMDAAAMzMzyyMTbAAwGAAAwCAbLjZmZwsNMmZsBAAwMbAzwYAzgB",
 				},
 			},
 			[62] = {
@@ -993,7 +993,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZGamZGAAAGAAAYmZmllZmYBAgthZmxstYZmZGzMGjZmZGLMzMjZAAGAAAzsAAzMAYYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1011,11 +1011,11 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2wYmBAAAAAsYmZmZAAwYGzYmZMz2AwMDMGjBzwA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2wYmBAAAAAsYmZmZAAwYGzYmZMz2AwMDMGjBzwA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1035,7 +1035,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzwYmZmZWGAmZgxYMYGG",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1081,7 +1081,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjxmZGzyAAAMzsMbzMzyMDAMWWGYADYG2CMsNAAAYAAAMzMmxMz2MwMmZmZGMzMDAwAG",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1123,11 +1123,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAAAAAAjtlBGwAmhtAjNjxYZWmZmxMAgZmZmZAmZMzYmBAAYMzMzMGsMDgB",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAAAAAAgxMGWgB2G2ohFDmZZWmZmxMAwMMzMzMDgZGzMAAAzMzMzMMmlZMgB",
 				},
 			},
 			[267] = {
@@ -1153,7 +1153,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjxmZGzysMGzsYMLLegBAAzMjZmZxCMwsY0YGAzG2YAAgxAsBAMzAzMmZAAAYmZmBAwMDD",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMLjxMLGzyiZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBzMDzsBAAYmZGAAmZYA",
 				},
 				[6] = {
 					label = "Crown",
@@ -1165,7 +1165,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZZMmZxY2W8ADAAmZGzMziFYgZxoxMAmNsxAAAjBYDAYmBmZMGAAAmZmZAAMzwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1211,11 +1211,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzY2mxGmZAAAAAAAYZBjYmBmhBzYMzMzYmlhZMWG22stNmxsAAALzy0ysNzyAAAAMDbgZGw0YADAYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mZmZAAAAAAAYbBjYmBmhZ2YMmZMjZ2GjxMLDLbW2mlhZBAA2AAAAz2s0MzMLMsAwMDTjBAAMA",
 				},
 			},
 			[269] = {
@@ -1253,11 +1253,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgBLzMz2MGAAAAAAAAAAAYZYEmhhBMjhZmZGmlhZYWmJAgNzsNzwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
 				},
 			},
 			[270] = {
@@ -1287,7 +1287,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1295,11 +1295,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
 				},
 			},
 		},
@@ -1341,11 +1341,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDDzyMLDzYGbsMzyMzMMLYYAGgltxGmmZWGAAAAsZmZmZwmxMGzAYmBAGA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYGzyMLDzYGbsMzyMzMMLYYAGgltxGmmZWGAAAAsxMzMD2MwYGAzMAwA",
 				},
 			},
 			[103] = {
@@ -1355,7 +1355,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtlxyMbzYm5BmZAAAAYJYYYMzomxswMzMGz8AGAAAAAADMAAAAAAz2MLNbzssBmZAWMzwAAYmBAD",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2gxMjaGziZmZGjZMDAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 				[2] = {
 					label = "Vorasius",
@@ -1383,7 +1383,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzmhxMjaGzyYmZGjZYAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1425,7 +1425,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMLLDMbmxoJamZWmZmZGjZYAAAAAAzYZGAAAA0MLzyMzMAAWwMPAwiZwAWsYAwMbwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1459,7 +1459,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstM2w0MzyAAAAYhxMDmZAaGAMzAAGA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wMzM2MWGzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAMgttxGmmZWGAAAALMmZgZAaGAMzAAA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1467,11 +1467,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstM2w0MzyAAAAYhxMDmZAaGAMzAAGA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGzywMzMWMWGzAAAAAAAAAAgFoZbmx0MDwsMzMzMMMDAAAAADAgBstM2w0MzyAAAAYhxMzgZgRzAgZGAAA",
 				},
 			},
 		},
@@ -1513,7 +1513,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1555,7 +1555,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMzwMmZsNzMGDAAAAAAAAYmZsBAAAgBjZmZml2mZmBAGAAAAD",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1597,11 +1597,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmxMzMGzMAAAAAAAegxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmxMzMGzMAAAAAAAegxsNYGAAAAAAAAmxMMmZmZmZmZGzsYGjFtsxMzMzWbzMzAYYAAYGDGzA",
 				},
 			},
 		},
@@ -1623,7 +1623,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMLjZGYmNjBLwyYYsNAmBxGmZgZGAD",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAGAAMzMwgxUjZmZAAAAwMmZGzMbjZGYmNjBLwyYYsNAmBxGmZgZGAD",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1643,11 +1643,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMz2YmBmZzYwCsMGGbDgZQshZGYmBwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMgBjpGzMzAAAAgZMzMmZ2mZmBmZzAjZswCMwMM0ALYmZmZAGM",
 				},
 			},
 			[1467] = {
@@ -1685,7 +1685,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZbmZgBGDWglxox2AYGA2wAzMYYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1727,11 +1727,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYGzMPwsYMzMzyAAAMzYGDmxMyMzAAAAMzMTmxMjZbmZAwAjZsxCMwMM0AWgxMDwYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MeAGmZMLGzMzsMDAAwMmxMGjZkZmBAAAYmZkZMzY2mZGAMwYGbsADMDDNMsAjZGgxA",
 				},
 			},
 		},
