@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-01 04:00:45",
+	updated = "2026-04-02 04:00:45",
 
 	[1] = {
 		specs = {
@@ -233,7 +233,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Totemic | Mythic",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbmZmZGzMGzYYBWgZspx2AyMwGjZwsNzY0stMzwMmFWMzMjZYWGAAMAzMwMDAmBD",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbMzMzYmZGzYGLwCMjNN2GQmB2YMDmtZGjmtlZGmxswiZmZMDzyAAgBYmBmZAgBD",
 				},
 			},
 		},
