@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-02 04:00:45",
+	updated = "2026-04-03 04:00:44",
 
 	[1] = {
 		specs = {
@@ -161,7 +161,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Voidweaver | Delves",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAgBLmxYZmxMzyMDzw2MzYmZGbIzYxMNAzMzAABY2mtFwsxAMzMjMmZmxsxMYmBzED",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAgxYxMGLzMmZWmZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZmhMmZmxsxMYmBzED",
 				},
 			},
 		},
@@ -203,7 +203,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Sanlayn | San AoE",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZYY2mZmZaYmxMzYAAAAAAAAYmhZGAsMMzsNzMmxwADMjFNWWAsMxGGwMAMmZGGMzgZMjB",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZYY2mZmZaYmxMzYAAAAAAAAYmHgZGAsMjZmtZmxwwADMjFNWWAsMxGGwMAMmZGzgZGMjZMA",
 				},
 			},
 		},
@@ -427,11 +427,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Annihilator | Cleave Best",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsNmxYAAAAAAAgAmZGbAAAAYwYmZmZptZmZAwMAAAAG",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsNzMGDAAAAAAAEwMzYDAAAADGzMzMLtNzMDAMAAAAG",
 				},
 				[4] = {
 					label = "Annihilator | Council Best",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsNmxYAAAAAAAgAmZGbAAAAYwYmZmZptZmZAwMAAAAG",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsNzMGDAAAAAAAEwMzYDAAAADGzMzMLtNzMDAMAAAAG",
 				},
 				[5] = {
 					label = "Annihilator | Delves Best",
