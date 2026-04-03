@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-02 04:00:45",
+	updated = "2026-04-03 04:00:44",
 
 	[1] = {
 		specs = {
@@ -179,7 +179,7 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "Archon | Raid Best",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBGzygxMzMjZmZsMzYGAAAADzyMMzMzgZMDgZqBAmZxMZWMAwYwmxMLAaGmxYYmZbZAmBG",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMTmFDAMGsZmZWA0MMjxwMz2yAMDMA",
 				},
 				[1] = {
 					label = "Oracle | Raid",
@@ -417,7 +417,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "Keeper Of The Grove | Raid Apex Best",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstM2w0MzyAAAEwCjZGMzA0MAYmBAMA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGzywDMmxmxCzAAAAAAAAAAgtBNbMmmhxMmlZmZmhhZGAAAAAAAAstMWw0MzyAAAEwCjZGMzA0MAYmBAMA",
 				},
 				[1] = {
 					label = "Keeper Of The Grove | Raid Best",
@@ -445,11 +445,11 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "Aldrachi Reaver | Raid",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMzwMmZsNmZbMAAAAgZbGMMW2YCDzMjFAAAAMYAIAzMADAAAgB",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMzwMmZsNzMGDAAAAY2mBDjlNmwwMzYBAAAADGACwMDwAAAAYA",
 				},
 				[1] = {
 					label = "Annihilator | Raid Best",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2YGjBAAAAAAACYmZsBAAAgBjZmZml2mZmBAzAAAAYA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2MzYMAAAAAAAQAzMjNAAAAMYMzMzs02MzMAwAAAAYA",
 				},
 			},
 		},
