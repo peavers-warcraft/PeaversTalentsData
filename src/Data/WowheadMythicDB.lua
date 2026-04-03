@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-02 04:00:45",
+	updated = "2026-04-03 04:00:44",
 
 	[1] = {
 		specs = {
@@ -169,7 +169,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Voidweaver | Mythic",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAgBLmxYZmxMzyMDzw2MzYmZGbIzYxMNAzMzAABY2mtFwsxAMzMjMmZmxsxMYmBzED",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAgxYxMGLzMmZWmZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZmhMmZmxsxMYmBzED",
 				},
 			},
 		},
@@ -199,7 +199,7 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "Rider Of The Apocalypse | Rider M/Delves Best",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMDz2MzMTDzMmZGDAAAAAAAAzMMzAglhZmtZmxMGgFzmhhMwsxQjFMgZAYMzMMAzMDzYA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMDz2MzMTDzMmZGDAAAAAAAAz8AMzAglZMzsNzMGGgFzmhhMwsxQjFMgZAYMzMmBYmZYGD",
 				},
 			},
 		},
