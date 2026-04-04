@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-03 04:00:44",
+	updated = "2026-04-04 04:00:46",
 
 	[1] = {
 		specs = {
@@ -131,7 +131,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Deathstalker | Raid",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbzgBAAAAAmlBLzAAAAAAabbmZmZmZMmZmZ2mZZmZgZmZmZMzYGDwmZZgBsEsNMBGWMYmBYwA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbGMAAAAAwsMYZGAAAAAQbbzMzMzMjxMzMz2MLzMzgZmZmZMzwYA2MLDMglgthJwwiBzMADG",
 				},
 				[2] = {
 					label = "Fatebound | Raid Single Target Best",
@@ -139,7 +139,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Fatebound | Raid Best",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbzgBAAAAAmlBLzAAAAAAabbmZmZmZMmZmZ2mZZmZgZmZmZMzYGDgBWgZMaMLgsMgNDAmZGMA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMbGMAAAAAwsMYZGAAAAAQbbzMzMzMjxMzMz2MLzMzgZmZmZMzwYAMwCMjRjZBklBsZAwMzgB",
 				},
 			},
 			[260] = {
