@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-04 13:48:01",
+	updated = "2026-04-05 02:02:41",
 
 	[1] = {
 		specs = {
@@ -507,7 +507,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZG2mZmZmZGDGzsNAAAAmBjBMmNDDMwswCtYDzAmZwMGA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1073,7 +1073,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "No data on Archon.gg - Coming soon!",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAMzML2mZmlZGAYstMwAGwMsFYYbAAAYGAAAzMmZmxADzYmZGDmZmBAYGYA",
 				},
 				[7] = {
 					label = "Chimaerus",
