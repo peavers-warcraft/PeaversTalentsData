@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersNormalRaidDB = addonTable.TopPlayersNormalRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-04 13:51:23",
+	updated = "2026-04-05 02:02:16",
 
 	[1] = {
 		specs = {
@@ -361,7 +361,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGwmxMzYmHYZeAAAAAAAmxMzMMjhxMYMNDAAAAYAAssNzMLmZmZMzMGAmhNGGjZsxA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -537,7 +537,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYY2YMDzMjZbsNzMzMMDAAAAAAAAAgZYZGMzMDmxMgpZiBYmFMEGzyAMGsAAAjZmZMMzAMzMjZYA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTzMAzsghwYWGgxgFAAYMmZMYGgZmhZYA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -549,7 +549,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYY2YMDzMjZbsNzMzMMDAAAAAAAAAgZYZGMzMDmxMgpZiBYmFMEGzyAMGsAAAjZmZMMzAMzMjZYA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzGjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMwMNTzMAzsghwYWGgxgFAAYMmZMYGgZmhZYA",
 				},
 				[6] = {
 					label = "Crown",
