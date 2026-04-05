@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-04 04:00:46",
+	updated = "2026-04-05 04:00:46",
 
 	[1] = {
 		specs = {
@@ -156,12 +156,20 @@ local talentData = {
 			},
 			[258] = {
 				[0] = {
-					label = "wowcompare.io | Delves",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMMzyMDzw2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzYIjZmZMbjZ2WGgZiB",
+					label = "wowcompare.io | Single Target",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDmtZmxMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMQGzMzY2GzstMAzED",
 				},
 				[1] = {
+					label = "wowcompare.io | Delves",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYmx2MGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGIjZmZMbjZ2WGgZiB",
+				},
+				[2] = {
+					label = "Voidweaver | Single Target",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMY2mZGzw2MzYmZGbIzYxMNAzMzAABY2mtFwsxAMDkxMzMmtxMYmBzED",
+				},
+				[3] = {
 					label = "Voidweaver | Delves",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAgxYxMGLzMmZWmZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGgZmhMmZmxsxMYmBzED",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGAYkxMzMmtxMYmBzED",
 				},
 			},
 		},
@@ -257,7 +265,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Spellslinger | Delves Best",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAgAmZmZZZmJWAAYbGzMjZzsMzMjZGjxMzMjFmZmxAAYAAAMzCAYGAMM",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAgAmZmZZZmJWAAYbYmZMbLWmZmxMjxYmZmxCzMzYGAgBAAwMLAgZAwwA",
 				},
 				[1] = {
 					label = "Sunfury | Delves",
