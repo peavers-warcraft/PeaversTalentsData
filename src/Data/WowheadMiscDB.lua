@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-07 04:00:51",
+	updated = "2026-04-08 04:00:47",
 
 	[1] = {
 		specs = {
@@ -111,7 +111,7 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "Deathstalker | Delves Best",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZmZzgBAAAAAmlBbzAAAAAAabbmZmZmZMmZmZ2mZZmBPwMzMzYYmxYA2MLDMglgthJwwixmZGAGD",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZmZzgBAAAAAmlBbzAAAAAAabbmZmZmZMmZmZ2mZZmBPwMzMzYYmxYA2MLDMglglhJwwixmZGAGD",
 				},
 				[1] = {
 					label = "Fatebound | Delves",
