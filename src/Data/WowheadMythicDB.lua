@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-14 04:00:46",
+	updated = "2026-04-15 04:00:47",
 
 	[1] = {
 		specs = {
@@ -228,11 +228,11 @@ local talentData = {
 			},
 			[264] = {
 				[0] = {
-					label = "Farseer | Mythic Best",
+					label = "Farseer | Mythic",
 					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbZbYmZGzMGzYmFzsADYCmFmAjFmZGMbzMGNbLzMMjZhFjZGzYZWGAAMAzMDAmZgBD",
 				},
 				[1] = {
-					label = "Totemic | Mythic",
+					label = "Totemic | Mythic Best",
 					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbMzMzYmZGzYGLwCMjNN2GQmB2YMDmtZGjmtlZGmxswixMjZsMLDAAGgZmBzMAwgB",
 				},
 			},
@@ -379,7 +379,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Wildstalker | Mythic Best",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzsMjFbzAAAAAAAAAAglBNbw0MMjxsYmZmZZGegZAAAAAAAwAAQAAAz2MbNbzsYjxMDMzCoZAAmZAYA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzsMjFbzAAAAAAAAAAglBNbGmmhZMmFzMzMLGegZAAAAAAAwAAQAAAz2MbNbzsYjxMDMzCoZAAmZAYA",
 				},
 			},
 		},
