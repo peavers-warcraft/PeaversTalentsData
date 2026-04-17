@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-16 04:00:46",
+	updated = "2026-04-17 04:00:46",
 
 	[1] = {
 		specs = {
@@ -47,7 +47,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Lightsmith | Delves",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxoJGGmZYY2yAwAwGYjlZmBABAMzsstYbmhN2YgNDMjZYAYmBgZMGNA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxoJGGmZYY2yAwAwGYjlZmBABAMzsttYbmhN2YgNDMjZYAYmBgZMGNA",
 				},
 			},
 			[66] = {
