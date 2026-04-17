@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-16 04:00:46",
+	updated = "2026-04-17 04:00:46",
 
 	[1] = {
 		specs = {
@@ -43,11 +43,11 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Herald Of The Sun | Mythic",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglZmZmZGzMzCMGWGbzMLGNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMDbGYGzAAAmZYGjRD",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxoJGGzMDDzWGAGA2AbsMzMzysNzMbNAAAALshZYzAzYGGAAmZYGjRD",
 				},
 				[1] = {
 					label = "Lightsmith | Mythic",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglZmZmZGzMzCMGWGbzMLGNxwYmZYY2yAwAwGYjlZmBABAMzsstYbmhN2wMsZgZMDAYmBgZMGNA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxoJGGzMDDzWGAGA2AbsMzMAIAgZmttFbzMsxGmhNDMjZYAYmBgZMGNA",
 				},
 			},
 			[66] = {

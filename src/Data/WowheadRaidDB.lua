@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-16 04:00:46",
+	updated = "2026-04-17 04:00:46",
 
 	[1] = {
 		specs = {
@@ -62,8 +62,16 @@ local talentData = {
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglZmZGzYmZ2YMGzyYbmZxoJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxY0A",
 				},
 				[1] = {
+					label = "Herald Of The Sun | Raid",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYzMLGNxwYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBDwmhxMmhBAgZGmxY0A",
+				},
+				[2] = {
 					label = "Lightsmith | Raid",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglZmZGzYmZ2YMGzyYbmZxoJGzYmZYY2yAwAG2AbsMjBABAMzsstYbmhNAYzwYGzAAmZAYGjRD",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglZmZGzYmZ2YMGzyYbmZxoJGzYmZYY2yAwAG2AbsMjBABAMzsttYbmhNAYzwYGzAAmZAYGjRD",
+				},
+				[3] = {
+					label = "Lightsmith | Raid",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYzMLGNxwYmZYY2yAwAG2AbsMjBABAMzsttYbmhNMAbGGzYGGAmZAYGjRD",
 				},
 			},
 			[66] = {
