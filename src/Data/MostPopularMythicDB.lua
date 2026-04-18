@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-17 04:00:46",
+	updated = "2026-04-18 04:00:46",
 
 	[1] = {
 		specs = {
@@ -43,11 +43,11 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Herald Of The Sun | Mythic",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxoJGGzMDDzWGAGA2AbsMzMzysNzMbNAAAALshZYzAzYGGAAmZYGjRD",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMDbGYGzAAAmZYGjRD",
 				},
 				[1] = {
 					label = "Lightsmith | Mythic",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxoJGGzMDDzWGAGA2AbsMzMAIAgZmttFbzMsxGmhNDMjZYAYmBgZMGNA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWGMGWGbzMLGNxwYmZYY2yAwAwGYjlZmBABAMzsttYbmhN2wMsZgZMDAYmBgZMGNA",
 				},
 			},
 			[66] = {
