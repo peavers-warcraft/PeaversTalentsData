@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersMythicDB = addonTable.TopPlayersMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-19 05:42:23",
+	updated = "2026-04-19 13:42:26",
 
 	[1] = {
 		specs = {
@@ -535,7 +535,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBPwMzYzYmxssgZKAwMbmhZzAAjBbGjFANjZeAjhZmtlBYAD",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMzyMMzMzwMmZAMTBAmZzMMbGAYMYzYsAoZMzDYMMzstMADYA",
 				},
 				[5] = {
 					label = "Pit Of Saron",
