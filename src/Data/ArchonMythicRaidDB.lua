@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicRaidDB = addonTable.ArchonMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-18 02:02:37",
+	updated = "2026-04-19 02:02:20",
 
 	[1] = {
 		specs = {
@@ -743,7 +743,7 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAwyMmZ2mZGzYA2MLGGYgZjhGLAYGAYmZMDwMzMmxA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzYMjBAAAAAAAgZGmZAwyMmZ2mZGzYA2MLGGYgZjhGLAYGAYmZMDwMzMmxA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -751,7 +751,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAwyMmZ2mZGzYA2MLGGYgZjhGLAYGAYmZMDwMzMmxA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzYMjBAAAAAAAgZGmZAwyMmZ2mZGzYA2MLGGYgZjhGLAYGAYmZMDwMzMmxA",
 				},
 				[3] = {
 					label = "Salhadaar",
