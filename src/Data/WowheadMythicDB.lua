@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-18 04:00:46",
+	updated = "2026-04-19 04:00:47",
 
 	[1] = {
 		specs = {
@@ -47,7 +47,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Lightsmith | Mythic",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWGMGWGbzMLGNxwYmZYY2yAwAwGYjlZmBABAMzsttYbmhN2wMsZgZMDAYmBgZMGNA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWGMGWGbzMLGNxwYmZYY2yAwAwGYjlZmBABAMzstsYbmhN2wMsZgZMDAYmBgZMGNA",
 				},
 			},
 			[66] = {
@@ -253,7 +253,7 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "Spellslinger | Mythic Best",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAgAmZmZZZmJWAAYbYmZMbLWmZmxMjxYmZmxCzMzYGAgBAAwMLAgZAwwA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAgAmZmZZZmJWAAYbGzMjZzsMzMjZGjhZmZswMzMmBAYAAAMzCAYGAMM",
 				},
 				[1] = {
 					label = "Sunfury | Mythic",
