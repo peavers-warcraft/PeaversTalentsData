@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-19 04:00:47",
+	updated = "2026-04-20 04:00:49",
 
 	[1] = {
 		specs = {
@@ -233,7 +233,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Totemic | Mythic Best",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbMzMzYmZGzYGLwCMjNN2GQmB2YMDmtZGjmtlZGmxswixMjZsMLDAAGgZmBzMAwgB",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZZbMzMzYmZGzYYB2gZsox2AyMwGzMDmtZGjmtlZGmxswixMjZsMLDAAGAzMYmBAGM",
 				},
 			},
 		},
@@ -315,7 +315,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Master Of Harmony | Mythic",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZZzYGzwyM2MmZMAAAAAAALLgYmBmhBzgZmZGzsNMjZWGW2ssNbzYWAAglZZaZ2mZZAAgAYYDMzAmGDYAAD",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZZzYGzwyM2MmZAAAAAAAYZBmYmBmhBzgZmZGzsNMjZWGW2ssNbzYWAAglZZaZ2mZZAAgAYYDMzAmGDYAAD",
 				},
 			},
 			[269] = {
