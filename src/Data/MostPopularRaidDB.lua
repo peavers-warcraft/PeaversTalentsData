@@ -2,14 +2,14 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-20 04:00:49",
+	updated = "2026-04-21 04:00:49",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "Slayer | Raid ST Best",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYmxyMzMzgxMDAAAAgZWmZAZMWWGYBMgZYCZGsBMjNz2YwMGgZGAmxwA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYGWmZmZGMmZAAAAAMzyMDIjxyyALgBMDTIzgNwMjNz2YwMGgZGAmxwA",
 				},
 				[1] = {
 					label = "Slayer | Raid MT Best",
@@ -21,7 +21,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Colossus | MT Raid",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmxyMzMzgxMDAAAAgxmZglYAbmxwGMwMajGDWAmxmZbwsZ2GMzAAmZGGA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmxyMzMzgxMDAAAAgxmZgtYAbmxwGMwMajGDWAmxmZbwsZ2GMzAAmZGGA",
 				},
 			},
 			[72] = {
@@ -110,11 +110,11 @@ local talentData = {
 			},
 			[254] = {
 				[0] = {
-					label = "Sentinel | Raid Best",
+					label = "Sentinel | Raid",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzMDAzMttBDw2wA",
 				},
 				[1] = {
-					label = "Dark Ranger | Raid",
+					label = "Dark Ranger | Raid Best",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsNwAmgZYLwsAAAAAAAAAMjZMDzYmZMDGTzYwMbbMzMWmZGjZmNmZWGMDAAYMzMzMzMgJbwAshB",
 				},
 			},
@@ -245,7 +245,7 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "Stormbringer | Raid",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYmZmZmZmhZmZAAAAAAAAAsBYzMG2ILwMM0gFAmlZMzMWWmBmZ2YZmZmhhxMAAzwwMmZCMzAYMA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYmZmZmZmZmZmZGAAAAAAAAgNAbmxwGZBmhhGsAwsMjZmxyyMwMzGLzMzMMMmBAYGGGmZCMzAYcBA",
 				},
 				[1] = {
 					label = "Totemic | Raid Best",
@@ -269,7 +269,7 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "Spellslinger | Raid Best",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmxMjZMziZmZmZMDAAAMzMzyyMTbAAAAAAgNA22GzMzgZZeAjZYBAAgZWAmJjBMDGA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzEzMzMzMzMziZmZMjZAAAgZmZWWmZaDAAAAAAsBw22YmZGMbDjZYDAAgZ2AmJjBMDGA",
 				},
 				[1] = {
 					label = "Frostfire | Raid",

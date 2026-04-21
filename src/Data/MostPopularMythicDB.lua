@@ -2,14 +2,14 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-20 04:00:49",
+	updated = "2026-04-21 04:00:49",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "Slayer | Mythic",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGLmBEzYZZgFwAmhJkZwGwMYMY2mZbAmZAYmZYA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGLmBEzYZbgFwAmhJkZwGwMYMY2mZbAmZAYmZYA",
 				},
 				[1] = {
 					label = "Colossus | Mythic Best",
@@ -86,11 +86,11 @@ local talentData = {
 			},
 			[254] = {
 				[0] = {
-					label = "Sentinel | Mythic Best",
+					label = "Sentinel | Mythic",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmpNGGgNM",
 				},
 				[1] = {
-					label = "Dark Ranger | Mythic",
+					label = "Dark Ranger | Mythic Best",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsNwAmgZYJwsAAAAAAAAAMjZmZsNjZmxMsMmmxgZW22mZmhHYmZsMjFGzywMDAAgxYmZmBMhhBYDD",
 				},
 			},
