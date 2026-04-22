@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-21 04:00:48",
+	updated = "2026-04-22 04:00:45",
 
 	[1] = {
 		specs = {
@@ -29,7 +29,7 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Colossus | Delves Best",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZYMmpxMGWGzMzwMmZAAAAwyAwMGAYzMG2IDMDL0YmFGzMzMY2GAgZGAwAMA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxMNmxwyYmZGmxMDAAAAWGAmxAAbmxwGZgZYhGzsAzMzMY2GAgZGAwAMA",
 				},
 				[1] = {
 					label = "Mountain Thane | Delves",
@@ -77,7 +77,7 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Pack Leader | Delves Best",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwGsAzwQDbAAYGzyMzsYGmZmZGzMMmxMMzMzYGmZGGzMMmmBAAAAAAAAAjxMAzsgglZWAbGA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwGsAzwQDbAAYGzyMzsYGmZmZGzMMmxMMzMzYGmZGGzMMmmBAAAAAAAAMGzAMzCCWmZBsNA",
 				},
 				[1] = {
 					label = "Dark Ranger | Delves",
@@ -87,21 +87,17 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Delves Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGN2GAzgNAAAAAAAAgZMjZYGzMjZGeATzYMmZbZzMzMMzwyMz2YMbDzMAAgZGDAMz0GWmBYDD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjNjHYmxMsMmmxgZbjZmxMzYmZ2YmthZGAAgZMmBwMTbwMAbMzMD",
 				},
 				[1] = {
 					label = "Dark Ranger | Delves",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsNwAmgZYJwsAAAAAAAAAMjZmZsNjZmxMsMmmxgZW22mZmhHYmZsMjNGzywMDAAgxYmZmBMhhBYDD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAmgZYLwsAAAAAAAAAMjZmZsZMzMmhlx0MGMLbMzMLzMzMzMLMzywMDAAwMGzMzMgJgBYjZA",
 				},
 			},
 			[255] = {
 				[0] = {
 					label = "Pack Leader | Delves Best",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0gFzMzMzwyAAAAAAgZMzMjtZMMmZYMNDAAAAYAAssMzMbmZmZMjxAmZDAzYMzgB",
-				},
-				[1] = {
-					label = "Sentinel | Delves",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYmgNzMzMmxyAAAAAAgZmZmZsNjhxMDjpZAAAAADAgltZmZzMzMDjxAwMsBzYMzswA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0gFzMzMzwyAAAAAAgZmZmZYGDjZGGTzAAAAwAAjllZmZxMzM8AjxAmZDAzYMzsZA",
 				},
 			},
 		},
@@ -115,17 +111,17 @@ local talentData = {
 				},
 				[1] = {
 					label = "Fatebound | Delves",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZmZzgBAAAAAmlBbzAAAAAAabbmZmZmZMmZmZ2mZZmBPwMzMzYYmxYAMwCMjRjZDklBsZsBYmhxA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZG8AzMzMjhZGjBwALwMGNmNQ2GwmxGgZGGD",
 				},
 			},
 			[260] = {
 				[0] = {
-					label = "Trickster | Delves",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmNeAmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgxAgxsZYIDMLsQLsxAMzgBG",
+					label = "Trickster | Delves Best",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZMzsNzMzMzMzsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMkBmFWoF2YAmZwAD",
 				},
 				[1] = {
-					label = "Fatebound | Delves Best",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmFGmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbTYhBAzMDM",
+					label = "Fatebound | Delves",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmFGmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbTYhBAzMDMA",
 				},
 			},
 			[261] = {
@@ -135,7 +131,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Trickster | Delves Best",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbzYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAziWoFbYGwMDmxA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbLjxMjZMMzMzYMbzYGbbzMzMzMjBjZ2GAAAAGMGwYWMMwAziWoFbYGwMDmxA",
 				},
 			},
 		},
@@ -179,39 +175,39 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Deathbringer | Delves Best",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZZmZmmZxYmxMGAAAAwMzMzMzMDzYMAYMzMzAAAYMbDMglgthJwwCgZMDAAzMAgB",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZZmZmmZxYmxMGAAAAwMzMzMzMDzYMAYMzMzAAAMmtBGwSwywEYYBghZAAMzAMYA",
 				},
 				[1] = {
 					label = "Sanlayn | Delves",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZZmZmmZxYmxMGAAAAwMmZmZmZGzMjBAjZmZGAAAGYgZspxyGIbDYDwMMAAgZGAGA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZZmZmmZxYMmxAAAAAmxMzMzMDzYMAYMzMzAAAYgBmxiGLLgsMgNAzYmBAAmZwgB",
 				},
 			},
 			[251] = {
 				[0] = {
 					label = "Deathbringer | Delves Best",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGgZmZmZmZmZAAAAAAAAAwY2GYALglhJkxCmZmZmBGAGmZAmBM",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGgZmZmZmZmZAAAAAAAAAYMbDMgFwywEyYBzMzMzADADzMAzAD",
 				},
 				[1] = {
 					label = "Rider Of The Apocalypse | Delves",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAYAzMMjZMDzmZmZmZxMjmZMGmZGGPwMmZmZmZmZAAAAAAAAAAYzsZYgBmNN0wGmZmZmBAwAwMzMgB",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAYAzMMjZMDzmZmZmZxMjmZMGmZGGPwMmZmZmZmZAAAAAAAAAAsZ2MMwAzmGaYDzMzMzAAYAYmZGYA",
 				},
 			},
 			[252] = {
 				[0] = {
 					label = "Rider Of The Apocalypse | Rider ST Best",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGwmZxwQGY2YoxCAmBAmZGzAMzMjZMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDZgZjhGLAYGAGzMjZAmZmxYA",
 				},
 				[1] = {
 					label = "Rider Of The Apocalypse | Open World Best",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMjZY2mZmZa2MzYmZMAAAAAAAAMzwMDAWGmZ2mZGzYAWMLGGyAzCDNWwAmBgxMzwAMzMMjB",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGzYAw2MmZ2mZGjZAbmNDDZgZhhGLYAzAAzMjZAmZmxYA",
 				},
 				[2] = {
 					label = "Sanlayn | San ST",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTziZGzMjBAAAAAAAgZeAmZAwyMmZ2mZGzYGDMwMW0YZDwyEbAYGAYmZMDmZwMmxA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZMwAzYRjlFAbTsBgZAYMzMmBzMYGjB",
 				},
 				[3] = {
 					label = "Sanlayn | San AoE",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZYY2mZmZaYmxMzYAAAAAAAAYmHgZGAsMjZmtZmxwwADMjFNWWAsMxGGwMAMmZGzgZGMjZMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGzYAgZMzsNzMGzYgBmxmGLLAWmYDDYGAGzMjZwMDmxYA",
 				},
 			},
 		},
@@ -289,11 +285,11 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Hellcaller | Delves",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZbmZWGDAYBGYWMaMDIzGYZAAAwAAAzMYMjZmtZGzgZmZGDzMzMAgBMA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzYWGAAwMzsMbzMzyYAALwAziRjZAZ2ALDAAAGAAYmBjZMzsNzYGMzMzYYmZGAgBMA",
 				},
 				[1] = {
 					label = "Soul Harvester | Delves Best",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYCmhtADbDAAAGAAAzMjZMzsNzYGMzMzYYmZmBAMDMA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAYmZZWmZmFzAAjllBGwEMDbBG2GAAAmBAAwMDzMjBzwMmZmxgZmZGAwMwA",
 				},
 			},
 			[266] = {
@@ -309,27 +305,27 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "Diabolist | Cleave Best",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjxMLGz2iZAAwMGzMzCYMjhFyAbDb0YhBAAGDwCAmZAmZGjZDAAwMzMAAMzwA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjZmZxw2iZAAwMGzMzCYMjhFyAbDb0YhBAAGDwCAmZAmZGjZDAAwMzMAAMzwA",
 				},
 				[1] = {
 					label = "Diabolist | Council",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZzM2MzYWmtZGzsYmZZhBAAzMjZmZBMmxwCZgthFaswAAAjBDLAYmBYMjZmNAAAzMzAAwYYA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZzM2MzYWmtZmZmFzYZhBAAzMjZmZBMmxwCZgthFaswAAAjBDLAYmBYMjZmNAAAzMzAAwYYA",
 				},
 				[2] = {
 					label = "Diabolist | Delves Best",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjxMLGz2iZAAwMGzMzCYMjhFyAbDb0YhBAAGDwCAmZAmZGjZDAAwMzMAAMzwA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjZmZxw2iZAAwMGzMzCYMjhFyAbDb0YhBAAGDwCAmZAmZGjZDAAwMzMAAMzwA",
 				},
 				[3] = {
 					label = "Hellcaller | Cleave",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjxMLGz2iZAAwMGzMziNYgZzoxMAmtYjBAAGDwCAwMDmZGjZDAAwMzMAAMzwA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjZmZxw2iZAAwMGzMziNYgZzoxMAmtYjBAAGDwCAwMDmZGjZDAAwMzMAAMzwA",
 				},
 				[4] = {
 					label = "Hellcaller | Council Best",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzWsxAAAjZYAAwMDGzMmZDAAwMzMDAAzwA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzWsxAAAjZYAAwMDGzMmZDAAwMzMDAAzwA",
 				},
 				[5] = {
 					label = "Hellcaller | Delves",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzYsYmZZZmBAAzgZmZxCMwsY0YGAzWsxAAAjZYAAwMDGzMmZDAAwMzMDAAzwA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzWsxAAAjZYAAwMDGzMmZDAAwMzMDAAzwA",
 				},
 			},
 		},
@@ -349,11 +345,11 @@ local talentData = {
 			[269] = {
 				[0] = {
 					label = "Shado Pan | Delves Best",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMEDYA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMEDYA",
 				},
 				[1] = {
 					label = "Conduit Of The Celestials | Delves",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmx2wAGGmZmZY2GmhZZmAA2Mz2YYMzMAAWMzysNmgAAGGAzAM2GImZmND",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmx2wAGGmZmZY2GmhZZmAAWMz2YYMzMAAWMzysNmgAAGGAzAM2GImZmND",
 				},
 			},
 			[270] = {
@@ -393,17 +389,17 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "Druid Of The Claw | Delves",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwMjxiZZMPwMLLDMbGGNRzMzyMzMzsMmhBAAAAAMsMDAAAA1MLzyMzMAAWwMPAwiZwgBLbDAmZDG",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMmZMWMLzDMPwMLLDMbGGNRzMzyMzMzsMmhBAAAAAMsMDAAAA1MLzyMzMAAWwMPAwiZwgBLbDAmZDG",
 				},
 				[1] = {
 					label = "Elunes Chosen | Delves Best",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjxiZZMPgZZZgZzMGNRzMziZmZmlxMAAAAAAMsNDYZbmBjZZAMFAAAYDz8ADYxMYwgltBYmBwA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMmZMWMLzMPgZZZgZzMGNRzMziZmZmlxMAAAAAAMsMDYZbmBjZZAMFAAAYDz8ADYxMYwgltBYmBwA",
 				},
 			},
 			[105] = {
 				[0] = {
 					label = "Wildstalker | Delves Best",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxYGzMjZbmZYYhZx2MAAAAAAAAAAYbQzmhpZMzYMLmZmZWmhxAAAAAAAYMAAEAAwws1sMWsBz8AYGLgmBAYmBgB",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmxYGzMjZbmZYYhZx2MAAAAAAAAAAYbQzmhpZMzYMLmZmZWmhxAAAAAAAYMAAEAAwsMzWzyML2gZeAMjFQzAAMzAwA",
 				},
 			},
 		},
@@ -423,11 +419,11 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "Aldrachi Reaver | Cleave",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsxMGDAAAAYMDGGwEGmZGLAAAAYwAQAmZAGAAAA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsxMGDAAAAYMDGGwEGmZGLAAAAYwAQAmZAGAAAAA",
 				},
 				[1] = {
 					label = "Aldrachi Reaver | Council",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsxMGDAAAAYMDGGwEGmZGLAAAAYwAQAmZAGAAAA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsxMGDAAAAYMDGGwEGmZGLAAAAYwAQAmZAGAAAAA",
 				},
 				[2] = {
 					label = "Aldrachi Reaver | Delves",
