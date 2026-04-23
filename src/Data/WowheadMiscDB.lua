@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-22 04:00:45",
+	updated = "2026-04-23 04:00:46",
 
 	[1] = {
 		specs = {
@@ -81,7 +81,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Dark Ranger | Delves",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZGLzMziZYmZmhZMzYYGmZmZMDzMDjZGGTzAAAAAAmBAAgxYGMzAEsMzCYzA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZGLzMDzwMzMYGzMzwMmZmZGzwMzwYmhx0MAAAAAmBAAgxYGMzAEsMzCYbAA",
 				},
 			},
 			[254] = {
