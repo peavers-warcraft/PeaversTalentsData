@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-22 04:00:45",
+	updated = "2026-04-23 04:00:46",
 
 	[1] = {
 		specs = {
@@ -105,7 +105,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Dark Ranger | Raid",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZGLzMziZYmZmhZMzYYGmZmZMDzMDjZGGTzAAAAAYGAAAGjZwMDQwyMLgtBA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZYZmZMzwMmBzYmZGmxMzMzYGmZGGzMMmmBAAAAwMAAAMGzgZGgglZWAbDA",
 				},
 			},
 			[254] = {
@@ -114,6 +114,10 @@ local talentData = {
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYYmttNzMzyMzMzMzCmlBzAAAmZmZMAmZabjFDwGzA",
 				},
 				[1] = {
+					label = "Sentinel | Raid AoE/Cleave Best",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZMzMzMzsgZZYmBAAMzMzMAMz0GWMAbMzYA",
+				},
+				[2] = {
 					label = "Dark Ranger | Raid Best",
 					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAmgZYLwsAAAAAAAAAMjZMDzYmZMDGTzYmZstxYmlZmZmZmlxMLDGAAgxMzMzMzAkNYA2YGA",
 				},
@@ -162,7 +166,7 @@ local talentData = {
 			},
 			[261] = {
 				[0] = {
-					label = "Deathstalker | Raid Best",
+					label = "Deathstalker | Raid",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDDmZmZGjZbMzYbbmZmZmZMYMz2AAAAwgxsYWGYALglhJkZBzwMDwMGA",
 				},
 				[1] = {
