@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-23 04:00:46",
+	updated = "2026-04-24 04:00:48",
 
 	[1] = {
 		specs = {
@@ -289,7 +289,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Soul Harvester | Delves Best",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAYmZZWmZmFzAAjllBGwEMDbBG2GAAAmBAAwMDzMjBzwMmZmxgZmZGAwMwA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYATwMsFYYbAAAYGAAAzMjZMzsNGzYMzMzYYmZGAgBMA",
 				},
 			},
 			[266] = {
