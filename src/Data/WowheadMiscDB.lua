@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMiscDB = addonTable.WowheadMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-24 04:00:48",
+	updated = "2026-04-25 04:00:47",
 
 	[1] = {
 		specs = {
@@ -207,7 +207,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Sanlayn | San AoE",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGzYAgZMzsNzMGzYgBmxmGLLAWmYDDYGAGzMjZwMDmxYA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGzYAwyMmZ2MzYMjBGYGbassAYZiNMgZAYMzMmBzMYGjB",
 				},
 			},
 		},
