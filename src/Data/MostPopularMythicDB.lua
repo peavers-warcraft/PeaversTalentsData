@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-24 04:00:48",
+	updated = "2026-04-25 04:00:47",
 
 	[1] = {
 		specs = {
@@ -199,7 +199,7 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "Rider Of The Apocalypse | Rider M/Delves Best",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAgZMzsNzMGzA2MbGGyAzGDNWwAmBgxMzYGgZmZMG",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAwyMmZ2MzYMDYzsZYIDMbM0YBDYGAGzMjZAmZmxYA",
 				},
 			},
 		},
