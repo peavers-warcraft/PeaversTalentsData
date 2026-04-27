@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-26 04:00:48",
+	updated = "2026-04-27 04:00:50",
 
 	[1] = {
 		specs = {
@@ -129,7 +129,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Sentinel | Raid",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxIWGAzEsZMzMm5BWGAAAAAAMjZmZYGPgZMDGTzAAAAAAYssNzMLmZmZGzMGAmhNmlZMmxmBA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYmgNjZmxMPwyAAAAAAgZMzMDz4BMjZwYaGAAAAAAjltZmZxMzMzYmxAwMsxsMjxM2MA",
 				},
 			},
 		},
