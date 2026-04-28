@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-04-27 04:00:50",
+	updated = "2026-04-28 04:00:48",
 
 	[1] = {
 		specs = {
@@ -98,6 +98,10 @@ local talentData = {
 				[0] = {
 					label = "Pack Leader | Delves Best",
 					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0gFzMzMzwyAAAAAAgZmZmZYGDjZGGTzAAAAwAAjllZmZxMzM8AjxAmZDAzYMzsZA",
+				},
+				[1] = {
+					label = "Sentinel | Delves",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYmgNzMzMzwyAAAAAAgZmZmZYGDjZGGTzAAAAwAAjllZmZxMzM8AjxAwMsBzYMzsZA",
 				},
 			},
 		},
@@ -221,7 +225,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Stormbringer | Delves",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAAmxwGAmRoxGAMLzMzYmtFTYmxYZmZmxwysYsgZmZWAAmBYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAmZZZmxMzMbLLjxMmZAAAAAgFzYYDWgZ0QjNAYWmZmxMbLmwMjxyMzMjhlZxYBzMzsAAMDwMDMMMA",
 				},
 			},
 			[263] = {
@@ -419,11 +423,11 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "Aldrachi Reaver | Cleave",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsxMGDAAAAYMDGGwEGmZGLAAAAYwAQAmZAGAAAAA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsZmxYAAAAAz2MYYssxEGmZGLAAAAYwAQAmZAGAAAAD",
 				},
 				[1] = {
 					label = "Aldrachi Reaver | Council",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsxMGDAAAAYMDGGwEGmZGLAAAAYwAQAmZAGAAAAA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsZmxYAAAAAz2MYYssxEGmZGLAAAAYwAQAmZAGAAAAD",
 				},
 				[2] = {
 					label = "Aldrachi Reaver | Delves",

@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-27 04:00:50",
+	updated = "2026-04-28 04:00:47",
 
 	[1] = {
 		specs = {
@@ -45,7 +45,7 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "Colossus | Raid",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzY2MzsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZLmZDmxMDmtBAzMAAMAD",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMDzMzMzMzmxsMjxYmGmZYZMzMDzYmBAAAALDAzYAgNzYYjMwMsQjZWgZMzgZbAAmZAADwA",
 				},
 				[1] = {
 					label = "Mountain Thane | Raid Best",
