@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-04-30 04:00:47",
+	updated = "2026-05-01 04:00:50",
 
 	[1] = {
 		specs = {
@@ -155,7 +155,7 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "Archon | Mythic",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZmMbGAYMYzYsAoZMzYMMzstMADYA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZmMbGAYMYzYsBoZMzYMMzstMADYA",
 				},
 				[1] = {
 					label = "Oracle | Mythic",
