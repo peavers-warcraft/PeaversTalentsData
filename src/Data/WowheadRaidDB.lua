@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-04-30 04:00:47",
+	updated = "2026-05-01 04:00:50",
 
 	[1] = {
 		specs = {
@@ -399,7 +399,7 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Keeper Of The Grove | Raid Best",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsMjZsxyMLjZGmFMAYAW2GbYamZZEAAAgNzMzMD2MGGzAYmBAGA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsNjZsxyMGzMzYBDAGgltxGmmZWGBAAAYzMzMzgNjhxMAmZAgB",
 				},
 				[1] = {
 					label = "Elunes Chosen | Raid",
