@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersMythicDB = addonTable.TopPlayersMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-03 13:42:25",
+	updated = "2026-05-03 21:42:22",
 
 	[1] = {
 		specs = {
