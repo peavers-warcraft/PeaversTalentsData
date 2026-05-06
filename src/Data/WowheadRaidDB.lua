@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-05-05 04:00:49",
+	updated = "2026-05-06 04:00:47",
 
 	[1] = {
 		specs = {
@@ -13,7 +13,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Slayer | Raid MT Best",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzMWmZmZGMmZAAAAAMzyMDslxYZZgFwAmhJkZwGwM2MbjBzsNAzMAMjhB",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzMzgxMDAAAAgZWmZgtMGLLDsAGwMMhMD2AzM2MbjBzsNAzMAMjhB",
 				},
 				[2] = {
 					label = "Colossus | ST Raid",
@@ -111,19 +111,19 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Raid",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYYmttNzMzyMzMzMzCmlBzAAAmZmZMAmZabjFDwGzA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDzstxMzsMzMmZmFMLDmBAAMmZmZAMz0GziBYjZGD",
 				},
 				[1] = {
 					label = "Sentinel | Raid AoE/Cleave Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZMzMzMzsgZZYmBAAMzMzMAMz0GWMAbMzYA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmtNmZGzMzMzMLYWGmZAAAjZmZAYmpNmFDwGzMzA",
 				},
 				[2] = {
 					label = "Dark Ranger | Raid Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAmgZYLwsAAAAAAAAAMjZMDzYmZMDGTzYmZstxYmlZmZmZmlxMLDGAAgxMzMzMzAkNYA2YGA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAmgZYLwsAAAAAAAAAMjZMDzYmZMDGTzYmZstxYmlZmZmZmlhZZwAAAMmZmZmZGgwsYA2YGA",
 				},
 				[3] = {
 					label = "Dark Ranger | Raid AoE/Cleave Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAmgZYLwsAAAAAAAAAMjZMDGzMjZwYaGDmtNmZmlZmZmZmFMLDzMAAgZmZMzMzAmwsYA2YGA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAmgZYLwsAAAAAAAAAMjZMDzYmZMDGTzYwstxMzsMzMzMzsgZZYmBAAMmZmZmZGwEmFDwGzA",
 				},
 			},
 			[255] = {
