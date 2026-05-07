@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-06 04:00:47",
+	updated = "2026-05-07 04:00:48",
 
 	[1] = {
 		specs = {
@@ -87,7 +87,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Mythic",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGMbbMzMmZmZmZWYmlhZGAAAzMGAmZaDMAbMzMD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGMLbMzMmZmZmZWYmlhZGAAAzMGAmZaDMAbMzMD",
 				},
 				[1] = {
 					label = "Dark Ranger | Mythic Best",
@@ -369,7 +369,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Elunes Chosen | Mythic Best",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlhZMziZZMzMWGY2MMaimZmlZmZmZZMDAAAAAAzYZGwy2MDGzyAYKAAAwmxMPAwiZwAWwAMzAYA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWMLm5BmZZZgZzMGNRmZWmZmZmlxMAAAAAAYsYGYbbmBjZZAMFAAAYDz8ADYxMYgZxyGgZGAA",
 				},
 			},
 			[105] = {
