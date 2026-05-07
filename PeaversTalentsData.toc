@@ -12,6 +12,8 @@
 ## X-Source-Code: https://github.com/peavers-warcraft/PeaversTalentsData
 ## X-Curse-Project-ID: 1198986
 
+Changelog.lua
+
 src\Data\TopPlayersMythicDB.lua
 src\Data\TopPlayersNormalRaidDB.lua
 src\Data\TopPlayersHeroicRaidDB.lua
