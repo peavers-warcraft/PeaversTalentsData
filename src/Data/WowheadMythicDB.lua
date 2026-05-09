@@ -2,14 +2,14 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-08 04:00:48",
+	updated = "2026-05-09 04:00:51",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "Slayer | Mythic",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMzYGAAAghphxYmZzMzMzYmxMDAAAAgxiZAxMW2GYBMgZYCZGsBmZYYwsNz2AMzAgZGGA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxYmZzMzMzYmxMDAAAAgxyMDsFGLbDsAGwMMhMD2AzMMMY2mZbAmZAwYYA",
 				},
 				[1] = {
 					label = "Colossus | Mythic Best",
@@ -135,7 +135,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Trickster | Mythic Best",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAziWoFbYGwMDmxA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAziWoFbYGwMDmxA",
 				},
 			},
 		},
