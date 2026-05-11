@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-10 04:00:49",
+	updated = "2026-05-11 04:00:49",
 
 	[1] = {
 		specs = {
@@ -121,7 +121,7 @@ local talentData = {
 			[260] = {
 				[0] = {
 					label = "Trickster | Mythic Best",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZMzsNzMzMzMzsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMkBmFWoF2YAmZwAD",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMkBmFWoF2YAmZwAD",
 				},
 				[1] = {
 					label = "Fatebound | Mythic",
