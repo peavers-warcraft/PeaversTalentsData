@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-12 04:00:48",
+	updated = "2026-05-13 04:00:49",
 
 	[1] = {
 		specs = {
@@ -91,7 +91,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Dark Ranger | Mythic Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAmgZYLwsAAAAAAAAAMjZmZsNjZmxMsMmmxgZZjZmZZmZmZmZhZWGmZAAAMzYmZmBMBMAbMDA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAmgZYJwsAAAAAAAAAMjZmZsZMzMmhlx0MGMLbmZGmZGzMzCzsMMzAAAMjxMzMDYCYA2YmxA",
 				},
 			},
 			[255] = {
