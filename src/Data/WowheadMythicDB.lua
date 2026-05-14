@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-13 04:00:49",
+	updated = "2026-05-14 04:00:47",
 
 	[1] = {
 		specs = {
@@ -87,7 +87,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Mythic",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbmZGzMzMzMLMzywMDAAgZGDAzMtBGgNmZM",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGMLbbzMDzMzMzMLMzywMDAAgZGDAzMtBGgNmZM",
 				},
 				[1] = {
 					label = "Dark Ranger | Mythic Best",
@@ -331,11 +331,11 @@ local talentData = {
 			[270] = {
 				[0] = {
 					label = "Conduit Of The Celestials | Mythic Best",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswMaGzAGMYMLzMzMMbYGsMTAAAAAEgFbzsMLzMAAwAAMDYMwiMmBA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAEgFbzsMLzMAAwAAMDYMwiMmBA",
 				},
 				[1] = {
 					label = "Master Of Harmony | Mythic",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBjZZmZmhZDzglHYCAAAAMLTbz2MLzGAAAADwMDAMGYRGA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMYMLzMzMMbYGmlHYCAAAAMLTbz2MLzGAAAADwMDAMGYRGA",
 				},
 			},
 		},
