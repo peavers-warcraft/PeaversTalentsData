@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-05-13 04:00:49",
+	updated = "2026-05-14 04:00:47",
 
 	[1] = {
 		specs = {
@@ -87,7 +87,7 @@ local talentData = {
 			[254] = {
 				[0] = {
 					label = "Sentinel | Delves Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjNjHYmxMsMmmxgZbjZmxMzYmZ2YmthZGAAgZMmBwMTbwMAbMzMD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjNjHYmxMsMmmxgZbbbmZYmZmZmZjZ2GmZAAAmxYAYmpNYGgNmZM",
 				},
 				[1] = {
 					label = "Dark Ranger | Delves",
