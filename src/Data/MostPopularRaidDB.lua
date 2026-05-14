@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-05-13 04:00:49",
+	updated = "2026-05-14 04:00:47",
 
 	[1] = {
 		specs = {
@@ -115,7 +115,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Sentinel | Raid AoE/Cleave Best",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmttNzMjZmZmZmFMLDzMAAgxMzMAMz0GziBYjZGD",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmtttZmhZmZmZmFMLDzMAAgxMzMAMz0GziBYjZGD",
 				},
 				[2] = {
 					label = "Dark Ranger | Raid Best",
@@ -427,7 +427,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Elunes Chosen | Raid",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxs4BGjxmZZmZMLLDMbwoJamZWmZmZGjZMDAAAAAYYZGw22MDGz2AYKAAAwGmZAWMDGMYZbAmZAM",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxs4BGjZ2MLzMMLLDMbwoJamZWmZmZGjZMDAAAAAYGLzA22mZwY2GATBAAA2wMDwiZwAWsYAmZAM",
 				},
 			},
 			[105] = {
