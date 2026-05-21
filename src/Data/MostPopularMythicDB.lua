@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-20 04:01:09",
+	updated = "2026-05-21 04:00:55",
 
 	[1] = {
 		specs = {
@@ -179,7 +179,7 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Deathbringer | Mythic Best",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMGAAAAwMmZmZmZYGjBAjZmZGAAgxsNwAWCWGmADLAmhZAAMzAYYA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMGAAAAwMmZmZmZYGjBAjZmZGAAgxsNwAWC2GmADLAmhZAAMzAYYA",
 				},
 				[1] = {
 					label = "Sanlayn | Mythic Best",
