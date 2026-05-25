@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-05-24 04:00:50",
+	updated = "2026-05-25 04:00:52",
 
 	[1] = {
 		specs = {
@@ -407,7 +407,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Elunes Chosen | Raid",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYGzyMbzwMzYhlZWmZMmZDDAGLbzMYMbjATAAAAWMzMzMYzwYMAAMzADA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYGjZ2mhxMWYZmlZGjZ2wAgx22MDGz2IwEAAAgFzMzMD2MMGzAAYmBLDA",
 				},
 			},
 			[103] = {
