@@ -19,5 +19,5 @@ jobs:
     uses: peavers-warcraft/workflow-templates/.github/workflows/auto-merge.yml@master
     with:
       allowed_user: peavers
-      use_self_hosted: false
+      use_self_hosted: true
     secrets: inherit
