@@ -17,5 +17,5 @@ jobs:
       addon_name: PeaversTalentsData
       git_user_name: Chris Turner
       git_user_email: peavers@gmail.com
-      use_self_hosted: false
+      use_self_hosted: true
     secrets: inherit
