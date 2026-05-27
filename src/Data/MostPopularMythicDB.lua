@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-05-26 04:00:47",
+	updated = "2026-05-27 04:00:55",
 
 	[1] = {
 		specs = {
@@ -111,7 +111,7 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "Deathstalker | Mythic",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmZmZzgBAAAAAmlBbzAAAAAAabbmZmZmZMmZmZ2mZZmBPwMzMzYYmxYA2MLDMglglhJwwixmZGAGD",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZG8AzMzMjhZGjBYzsMwAWCWGmADLGLmZAYMA",
 				},
 				[1] = {
 					label = "Fatebound | Mythic Best",
@@ -331,7 +331,7 @@ local talentData = {
 			[270] = {
 				[0] = {
 					label = "Conduit Of The Celestials | Mythic Best",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAEgFbzsMLzMAAwAAMDYMwiMmBA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAEgFbzsMbzMAAwAAMDYMwiMmBA",
 				},
 				[1] = {
 					label = "Master Of Harmony | Mythic",
