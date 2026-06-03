@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-06-02 04:00:50",
+	updated = "2026-06-03 04:00:49",
 
 	[1] = {
 		specs = {
@@ -311,11 +311,11 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Hellcaller | Raid",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAYmZZWMzsMGAwCMwsY0YGQmFwyAAAwMAAwMDYmZMmZGmxMzMGMzMzAAmBG",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAYmZZ2mZmlxAAWgBmFjGzAysBWGAAAmBAAmZgZGjxwwMjZmZGMzMzAAmBG",
 				},
 				[1] = {
 					label = "Hellcaller | Raid Cleave",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAYmZZWMzsMGAwCMwsY0YGQmFwyAAAwMAAwMDYmZMmZGmxMzMGMzMzAAmBG",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAYmZZ2mZmlxAAWgBmFjGzAysBWGAAAmBAAmZgZGjxwwMjZmZGMzMzAAmBG",
 				},
 				[2] = {
 					label = "Soul Harvester | Raid Best",
