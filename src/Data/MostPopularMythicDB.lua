@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-06-14 04:00:52",
+	updated = "2026-06-15 04:00:51",
 
 	[1] = {
 		specs = {
