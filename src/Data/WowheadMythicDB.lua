@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadMythicDB = addonTable.WowheadMythicDB or {}
 
 local talentData = {
-	updated = "2026-06-15 04:00:51",
+	updated = "2026-06-16 04:00:50",
 
 	[1] = {
 		specs = {
@@ -76,11 +76,11 @@ local talentData = {
 		specs = {
 			[253] = {
 				[0] = {
-					label = "Pack Leader | Mythic",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYGzyMzsYGmZmZGzMMmxMMzYmZGbzMDjZYZoZAAAAAAAAAzDMmZAzshAmFw2AA",
+					label = "Pack Leader | Mythic Best",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZYMDLDNDAAAAAAAAYegxMDYmNEwsA2GA",
 				},
 				[1] = {
-					label = "Dark Ranger | Mythic Best",
+					label = "Dark Ranger | Mythic",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBZsAAgZGLzMDzwMzMYGzMzwMmZGzMzYbmZYMDLDNDAAAAgZAAAYegxMDzMABMLgtBA",
 				},
 			},
@@ -393,7 +393,7 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Fel Scarred | Mythic Best",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsopxMzYGbAAAADAAAgZGMAAAAM",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsMbmxwsopxMzYGbAAAADAAAgZGMAAAAM",
 				},
 				[1] = {
 					label = "Aldrachi Reaver | Mythic",
