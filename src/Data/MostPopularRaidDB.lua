@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-06-16 04:00:50",
+	updated = "2026-06-17 04:00:50",
 
 	[1] = {
 		specs = {
@@ -296,8 +296,8 @@ local talentData = {
 			},
 			[63] = {
 				[0] = {
-					label = "Sunfury | Raid",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZIjxYwMMA",
+					label = "Sunfury | Raid Best",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzYGzMzMzGAmZIjxYwMMA",
 				},
 				[1] = {
 					label = "Frostfire | Raid",
