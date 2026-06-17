@@ -46,15 +46,6 @@ local PROVIDERS = {
     }
 }
 
--- Helper function to get valid sources
-local function GetValidSources()
-    local sources = {}
-    for source, _ in pairs(PROVIDERS) do
-        table.insert(sources, source)
-    end
-    return sources
-end
-
 ---Helper function to validate inputs for API functions
 ---@param classID number The WoW class ID (1-13)
 ---@param specID number|nil The specialization ID
