@@ -25,13 +25,13 @@ function ConfigUI:InitializeOptions()
     title:SetPoint("TOPLEFT", 25, yPos)
     title:SetText("Peavers Talents Data")
     title:SetTextColor(1, 0.84, 0)  -- Gold color for main title
-    title:SetFont(title:GetFont(), 24, "OUTLINE")
+    title:SetFont(title:GetFont() --[[@as string]], 24, "OUTLINE")
     yPos = yPos - 40
 
     local subtitle = content:CreateFontString(nil, "ARTWORK", "GameFontHighlight")
     subtitle:SetPoint("TOPLEFT", 25, yPos)
     subtitle:SetText("Datasource for PeaversTalents and other addons")
-    subtitle:SetFont(subtitle:GetFont(), 14)
+    subtitle:SetFont(subtitle:GetFont() --[[@as string]], 14)
     yPos = yPos - 30
 
     -- Add separator
