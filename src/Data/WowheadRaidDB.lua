@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-06-17 04:00:50",
+	updated = "2026-06-18 04:00:51",
 
 	[1] = {
 		specs = {
@@ -491,7 +491,7 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "Flameshaper | Raid",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MDGmZMbGzMzsMDAAwMmxgZMjMzMAAAAzMzkZmZGz2MzAgZMDsAWAzwEyGsZYAMzMGA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MzMGmZMMmZmZxAAAMjZMYGzIzMDAAAwMzMZmZmxsNzMAYGzALgFwMMhsBbGGAzMjB",
 				},
 				[1] = {
 					label = "Chronowarden | Raid Best",
