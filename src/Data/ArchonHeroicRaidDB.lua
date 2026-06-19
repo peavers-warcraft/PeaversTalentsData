@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonHeroicRaidDB = addonTable.ArchonHeroicRaidDB or {}
 
 local talentData = {
-	updated = "2026-06-18 02:04:27",
+	updated = "2026-06-19 02:02:09",
 
 	[1] = {
 		specs = {
@@ -25,7 +25,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmxyMzMzgxMDAAAAgZWmZgtMGLLDsAGwMMBmBbAzgZbMYmtBYmBgZMMA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYGWmZmZGMmZAAAAAMzyMDIjxyyALgBMDTgZwGYmxmZbMYGDwMDAzYYA",
 				},
 				[5] = {
 					label = "Vanguard",
@@ -45,7 +45,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYmxyMzMzgxMDAAAAgZWmZAZMWWGYBMgZYCMD2AmxmZbMYGDwMDAzYYA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYmxyMzMzwMmZAAAAAMzyMDIjxyyALgBMDTgZwGwMY2GDmxAMzAwMGGA",
 				},
 			},
 			[72] = {
@@ -63,7 +63,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmhlZmZmZYMzMzYGzsMzMGzMbjZmBAAixyyALgBMDTgZYDYmBz2AAgZGDjZmhBD",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -75,7 +75,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmhlZmZmZYMzMzYGzsMzMGzMbjZmBAAixyyALgBMDTgZYDYmBz2AAgZGDjZmhBD",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -83,11 +83,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjxMsMzMzMDjZmZGzYmlZmxYmZbMzMAAQMWWGYBMgZYCMDbAzMbMbDAAmZMMmZGGM",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjxMsMzMzMDjZmZGzYmlZmxYmZbMzMAAQMWWGYBMgZYCMDbAzMbMbDAAmZMMmZGGM",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmhlZmZmZYMzMzYGzsMzMGzMbjZmBAAixyyALgBMDTgZYDYmBz2AAgZGDjZmhBD",
 				},
 			},
 			[73] = {
@@ -125,7 +125,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzY2MzsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZDzsBzYmBz2AgZGAAGgB",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMzYmZGzMzmxsMjxYmGmZYZMzMDzYmBAAAALDAzYAGYDWWMaMDgZDzsBzYmBz2AgZGAAGgB",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -319,7 +319,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMY22YmZWmZmZmZWwsMMzAAAGzMzMzMDYgZxAsxMA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMzM22YMzyMzMzMzywsMYAAAGzMzMzMDAMLGgNmB",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -335,7 +335,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMzM22YMzyMzMzMzywsMYAAAGzMzMzMDAMLGgNmB",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -343,7 +343,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmtNmZGzMzMzMLYWGmZAAAjZmZAYmxGziBYjZmZA",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMzM22YMzyMzMzMzywsMYAAAGzMzMzMDAMLGgNmB",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -357,19 +357,19 @@ local talentData = {
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNDA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNDA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNDA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNDA",
 				},
 				[5] = {
 					label = "Vanguard",
@@ -431,11 +431,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzyglZAAAAAAttNzMzMzMGzMzMbzsMzMDzMzMzMMDzMAGYBmxoxsAYbAbGAMzAD",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsNDGAAAAAYWGsMDAAAAAottZmZmZmxYmZmZbmlZmZwYmZmxMjhBwALwMGNmFALDYzAgZmBD",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzyglZAAAAAAttNzMzMzMGzMzMbzsMzMDmZmZmxMDjBwALwMGNmFALDYzAgZmBD",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzyglZAAAAAAttNzMzMzMGzMzMbzsMzMDzMzMzMMDzMAGYBmxoxsAYbAbGAMzAD",
 				},
 			},
 			[260] = {
@@ -457,7 +457,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzYmHYmFGmx0ygtZAAAAAAz22MzMMzMzMmZmtBAAAgBwAbwMGNmNAbDswAgZmBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmNeAmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
 				},
 				[5] = {
 					label = "Vanguard",
@@ -465,7 +465,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmNeAmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmNeAmZbaZw2MAAAAAgZbbmZGmZmZGzMzyAAAAwYAwYWMMwAzCL0CbMAzMYgB",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -541,11 +541,11 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYGmBmpZamBYmFMEGzyAMGsAAAjxMjBzAMzMMDD",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYGmBmpZamBYmFMEGzyAMGsAAAjxMjBzAMzMMDD",
 				},
 				[5] = {
 					label = "Vanguard",
@@ -553,7 +553,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYGmBmpZamBYmFMEGzyAMGsAAAjxMjBzAMzMMDD",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -561,7 +561,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYGmBmpZamBYmFMEGzyAMGsAAAjxMjBzAMzMMDD",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -633,11 +633,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDjx2MzYmZGQmhtZaAmZmBACwsNbbgZjBAGMzMzMmtxMYmBzgB",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDzw2MzYmZGbIzYxMNAzMzAABY2mtNwsxAADGzMzY2GzgZGMDGA",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsNzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMAjZmZMbjZ2WGgZwA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -671,7 +671,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -679,7 +679,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
 				},
 				[6] = {
 					label = "Crown",
@@ -695,7 +695,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMLzMz0MLGzMmxAAAAAzMzMzMzMDzYMAgZmZGAAADMwM20YZDwyA2AMDzAAAzMwwA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
 				},
 			},
 			[251] = {
@@ -721,11 +721,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmhZMzYY2mZmZmZzMzkZMzMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGAgB",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMmZYGGPgZGMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgZAMMzAMzgB",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmhZMzYY2mZmZmZzMzkZMzMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGAgB",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMmZYGGPgZGMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgZAMMzAMzgB",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -809,11 +809,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAYbmZmZmtlZCzYhlZmZGzwsMjFzMMzCAwAYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZwMjBAAAAYxMbwAGwsxEYWAgZbmZGjtFTLMzsNWmZmZMsZZY5BmZMzsMAghBwMjhhB",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAYbmZmZmtlZCzYhlZmZGzwsMjFzMMzCAwAYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -821,11 +821,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMmZmZZbbgxMDAAAAAsYGDbwCMDDN2AgZZmZGjtFTYmZZsMzMzYYZWmxiZmxMLAADgZGYYYA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAYbmZmZmtlZCzYhlZmZGzwsMjFzMMzCAwAYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
 				},
 			},
 			[263] = {
@@ -855,7 +855,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLGLMzsxyMzMDDjZAAMAjZmYmBAGD",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -909,7 +909,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYB2gZsox2AYGYjxwM2GjZa2WmZYGzCLmZmxMMLDAAMgZmBzMAwgB",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwA",
 				},
 			},
 		},
@@ -939,7 +939,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZGzMzMziZmZMjZAAAgZmZWWmZaDAA2AAAA2AYbZMzMDmthxMsAAAwMbAzADYGMA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
 				},
 				[6] = {
 					label = "Crown",
@@ -961,15 +961,15 @@ local talentData = {
 			[62] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNmZmxstYZmZGzMGjZmxYhZmZMDAwAAAYmFAwMAYYA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNmZmxstYZmZGzMGjZmxYhZmZMDAwAAAYmFAwMAYYA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNmZmxstYZmZGzMGjZmxYhZmZMDAwAAAYmFAwMAYYA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -989,11 +989,11 @@ local talentData = {
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNmZmxstYZmZGzMGjZmxYhZmZMDAwAAAYmFAwMAYYA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1023,11 +1023,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswDMDZmZGAAAmZZGzMLzCAAAYxMzYbMzMjFAAAAAYzMzMzAAgxMmZmZmZmFgZGQMjxgBD",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMGGLzMzsYxMjMzMDAAADAYmZaWW2mBAYzMzYbMzMjNAAAAAYzMzMzAAgxMMmZmZmlBgZGgxYwMMA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZ2GAmZgxYMYGG",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1085,7 +1085,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAYmZxyMzsMzAAjllBGwAmhtADbDAAAzAAAYmhZmxADzMzMjZwMzMDAYGYA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAYmZxyMzsMzAAjllBGwAmhtADbDAAAzAAAYmhZmxADzMzMjZwMzMDAYGYA",
 				},
 			},
 			[266] = {
@@ -1115,11 +1115,11 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGDYA",
 				},
 				[7] = {
 					label = "Chimaerus",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGDYA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
 				},
 				[8] = {
 					label = "Beloren",
@@ -1127,7 +1127,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjZ2mZGzyAAAAAAAAGzYYBGYbYhGWMGjlZZmZGzAAzMmZmZmBwMjZAAAMmZmxwwyMGwA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMAAAAAAAgxMGWgB2GWohFjxYZWmZmxMAwMjZmZmZAmZGzMAAAjZmZMMsMjBMA",
 				},
 			},
 			[267] = {
@@ -1149,15 +1149,15 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZjhZmxsMLzMzMLGz2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBzMjZGAAAmZmZAAMGG",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZZMzMLGz2iHYAAwMzYmZWsADMLGNmBwshNGAAYMAbAAzMwMjxAAAwMzMDAAzwA",
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZjZmZxgFzAAgZmxMzsAGzYYBGYbYjGLMAAwYgxGAmZAMzYMAAAMzMzAAYmhB",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmZmZGNbM2MzYWmlxMzsYMLLmBAAzYMzMLWgBmFjGzAY2wGDAAMGgNAgZGMegZGzGAAgZmxAAwMM",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjhZmxsMLjZmZxw2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBzMjZGAAAmZmBAgZGG",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLzMzMLGz2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBmZMzAAAwMzMDAgxwA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1165,11 +1165,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZzMzMLGjFzAAgZmxMzsAGzYYBGYbYjGLMAAwYgxGAmZAMzYMAAAMzMzAAYMM",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZjZmZxgFzAAgZmxMzsAGzYYBGYbYjGLMAAwYgxGAmZAMzYMAAAMzMzAAYmhB",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZzMzMLGjFzAAgZmxMzsAGzYYBGYbYjGLMAAwYgxGAmZAMzYMAAAMzMzAAYMM",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZjZmZxgFzAAgZmxMzsAGzYYBGYbYjGLMAAwYgxGAmZAMzYMAAAMzMzAAYmhB",
 				},
 			},
 		},
@@ -1229,7 +1229,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2MGsNzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbjhZmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsYmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -1309,7 +1309,7 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZbYGzYjlZMzMjZ2wAgBYZbshpZmlBAAAAbmZmZGsZMMmBwMDAMA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsNjZsxyMGzMzYBDAGgltxGmmZWGAAAAsZmZmZwmxwYGAzMAwA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1317,15 +1317,15 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYGzyMLDzYGbsMzyMzMMLYYAGgltxGmmZWGAAAAsxMzMD2MwYGAzMAwA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsNjZsxyMGzMzYBDAGgltxGmmZWGAAAAsZmZmZwmxwYGAzMAwA",
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsNjZsxyMGzMzYBDAGgltxGmmZWGAAAAsZmZmZwmxwYGAzMAwA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDDzyMLDzYGbsMzyMzMMLYYAGgltxGmmZWGAAAAsZmZmZwmxMGzAYmBAGA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsNjZsxyMGzMzYBDAGgltxGmmZWGAAAAsZmZmZwmxwYGAzMAwA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
 				},
 				[5] = {
 					label = "Vanguard",
@@ -1333,7 +1333,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmFzMzMADzyMLjlZMjNWmZZMzwsghBYAW2GbYamZZAAAAwmZmZmBbGDjZAMzAADA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlZmZmhhZYWmZZsMjZsxyMLjZGmFMAYAW2GbYamZZAAAAwGzMzMYzAjZAMzAADA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1345,7 +1345,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDDzyMLDzYGbsMzyMzMMLYYAGgltxGmmZWGAAAAsZmZmZwmxMGzAYmBAGA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYGzyMLDzYGbsMzyMzMMLYYAGgltxGmmZWGAAAAsxMzMD2MwYGAzMAwA",
 				},
 			},
 			[103] = {
@@ -1367,11 +1367,11 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2MMmZUzYWmZmZGjZMAAAAAAMwAAAAAAMbzs0sNzyGYmHAYxMYAAMzAgB",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtlxyMbzYGzMDAAAALBzihxMjaGziZmZGjZYAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2MMmZUzYWmZmZGjZMAAAAAAMwAAAAAAMbzs0sNzyGYmHAYxMYAAMzAgB",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtlxyMbzYGzMDAAAALBzihxMjaGziZmZGjZYAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
 				},
 				[6] = {
 					label = "Crown",
@@ -1383,11 +1383,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzmhxMjaGzyYmZmlxMMAAAAAAGYAAAAAAmtZWa2mZZDMzDAsYGMAAmZAwA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzGMmZUzYWYmZGjZmZAAAAAAAGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzmhxMjaGziZmZGjZYAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzGMmZUzYWYmZGjZmZAAAAAAAGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 			},
 			[104] = {
@@ -1417,7 +1417,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGMWGgZGjmoZmZZmZmZMmhBAAAAwgZsMDYZbmBjZbAMBAAAshZMgFzgBsYZbAmZAM",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGMWGgZGjmoZmZZmZmZMMPgBAAAAwgZsMDYZbmBjZbAMBAAAshZMgFzgBsYZbAmZAM",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1429,7 +1429,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGMWGgZGjmoZmZZmZmZMMPgBAAAAwgZsMDYZbmBjZbAMBAAAshZMgFzgBsYZbAmZAM",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
 				},
 			},
 			[105] = {
@@ -1501,11 +1501,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZmZmwMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1523,7 +1523,7 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2MzYMAAAAAAAAgZmxGAAAAGMmZmZWabmZGAYAAAAMA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmtZGbjZMGzAAAAAAAAwMzYDAAAADMzMzMLtNzMDAmBAAAwA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1535,7 +1535,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYYmZGDzYmxMmxMmxMmZsNzMGDAAAAAAAAYmZsBAAAgBjZmZml2mZmBAGAAAAD",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2MzYMAAAAAAAAgZmxGAAAAGMmZmZWabmZGAYAAAAMA",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1543,11 +1543,11 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vanguard",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMzMMjMzMwiZMDmZMzYmZmZGDmtZGbzMz2YYAAAAAAAAYmZsBAAAgBmZmZmt2mZmBAAAAAYA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmtZGbjZMGzAAAAAAAAwMzYDAAAADMzMzMLtNzMDAmBAAAwA",
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAWmxMzMGmRmZGMLmxMYmxMjZMzMjhZ2mZsZmZbMMAAAAAAAAMjZ2AAAAwAzMzMzWbzMzAADAAAgB",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2MzYMAAAAAAAAgZmxGAAAAGMmZmZWabmZGAYAAAAMA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1555,11 +1555,11 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2MzYMAAAAAAAAgZmxGAAAAGMmZmZWabmZGAYAAAAMA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmtZGbjZMGzAAAAAAAAwMzYDAAAADMzMzMLtNzMDAmBAAAwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2MzYMAAAAAAAAgZmxGAAAAGMmZmZWabmZGAYAAAAMA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmtZGbjZMGzAAAAAAAAwMzYDAAAADMzMzMLtNzMDAmBAAAwA",
 				},
 			},
 			[1480] = {
@@ -1619,7 +1619,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMz2YmBmZzYwCsMGGbDgZQshZGYmBwA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZGYmBwA",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -1689,7 +1689,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZamZmpZM2mxMzMz8AzMzAmxMGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZZmZgBGDWglxox2AYGA2wAzMYYA",
 				},
 			},
 			[1468] = {
