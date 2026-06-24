@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-06-22 04:00:52",
+	updated = "2026-06-24 04:00:49",
 
 	[1] = {
 		specs = {
@@ -77,7 +77,7 @@ local talentData = {
 			[66] = {
 				[0] = {
 					label = "Templar | Raid Best",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZGDzyYZmZMzYbZMGzsYbGDAwAAAAAAg0MziZMzMGmt2AwAGwgNAAwMTbzMLzAAsxwMGAjZYMAALzAMzgMA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZmZYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxws1GAGwAGsBAAmZabmZZGAgNwMGAjZYMAALzAMzgMA",
 				},
 				[1] = {
 					label = "Lightsmith | Raid",
