@@ -18,6 +18,6 @@ jobs:
   auto-merge:
     uses: peavers-code/peavers-warcraft-workflows/.github/workflows/auto-merge.yml@master
     with:
-      allowed_user: peavers
+      allowed_user: "peavers-data-scrapers[bot]"
       use_self_hosted: true
     secrets: inherit
