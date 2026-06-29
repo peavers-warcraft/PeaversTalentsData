@@ -18,6 +18,9 @@ src\Data\TopPlayersMythicDB.lua
 src\Data\TopPlayersNormalRaidDB.lua
 src\Data\TopPlayersHeroicRaidDB.lua
 src\Data\TopPlayersMythicRaidDB.lua
+src\Data\TopPlayersSporefallNormalDB.lua
+src\Data\TopPlayersSporefallHeroicDB.lua
+src\Data\TopPlayersSporefallMythicDB.lua
 src\Data\CommunityMiscDB.lua
 src\Data\CommunityMythicDB.lua
 src\Data\CommunityRaidDB.lua
