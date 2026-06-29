@@ -18,6 +18,9 @@ src\Data\ArchonMythicDB.lua
 src\Data\ArchonNormalRaidDB.lua
 src\Data\ArchonHeroicRaidDB.lua
 src\Data\ArchonMythicRaidDB.lua
+src\Data\ArchonSporefallNormalDB.lua
+src\Data\ArchonSporefallHeroicDB.lua
+src\Data\ArchonSporefallMythicDB.lua
 src\Data\IcyVeinsMiscDB.lua
 src\Data\IcyVeinsMythicDB.lua
 src\Data\IcyVeinsRaidDB.lua

@@ -35,7 +35,10 @@ local PROVIDERS = {
             mythic = { db = "ArchonMythicDB", category = "mythic" },
             normal_raid = { db = "ArchonNormalRaidDB", category = "normal_raid" },
             heroic_raid = { db = "ArchonHeroicRaidDB", category = "heroic_raid" },
-            mythic_raid = { db = "ArchonMythicRaidDB", category = "mythic_raid" }
+            mythic_raid = { db = "ArchonMythicRaidDB", category = "mythic_raid" },
+            sporefall_normal = { db = "ArchonSporefallNormalDB", category = "sporefall_normal" },
+            sporefall_heroic = { db = "ArchonSporefallHeroicDB", category = "sporefall_heroic" },
+            sporefall_mythic = { db = "ArchonSporefallMythicDB", category = "sporefall_mythic" }
         }
     },
     ugg = {
