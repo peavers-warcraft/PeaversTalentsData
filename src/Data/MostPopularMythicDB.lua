@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-07-03 04:00:49",
+	updated = "2026-07-04 04:00:49",
 
 	[1] = {
 		specs = {
@@ -408,6 +408,16 @@ local talentData = {
 				[1] = {
 					label = "Annihilator | Mythic Best",
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmtZGbjZMGzAAAAAAAIgZmxGAAAAGYmZmZWabmZGAMDAAAgB",
+				},
+			},
+			[1480] = {
+				[0] = {
+					label = "Void Scarred | Mythic",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAAWmxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsNzYsJLAIgBYYmZWmZmmlZ2mZGjZA",
+				},
+				[1] = {
+					label = "Annihilator | Mythic Best",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgZMYMD",
 				},
 			},
 		},

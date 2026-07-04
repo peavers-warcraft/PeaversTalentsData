@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-07-03 04:00:49",
+	updated = "2026-07-04 04:00:49",
 
 	[1] = {
 		specs = {
@@ -444,6 +444,16 @@ local talentData = {
 				[5] = {
 					label = "Annihilator | Delves Best",
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjxMjMzMwiZMDmZMzYmHYGzYMzsNzYbMDGzAAAAAAAIgZmxGAAAAGMzMzMzSbzMzAADAAAgB",
+				},
+			},
+			[1480] = {
+				[0] = {
+					label = "Void Scarred | Delves Best",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAmxAmBAAAAAAAgZMDzMzMzMzMzwMbzMGbyGACYAGzMzsMzMNbzsNzMGzA",
+				},
+				[1] = {
+					label = "Annihilator | Delves",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAmxAmBAAAAAAAgZMDzMzMzMzMzwMbmxYR2YmZmZrlZmZAMmBgAzYwYGA",
 				},
 			},
 		},
