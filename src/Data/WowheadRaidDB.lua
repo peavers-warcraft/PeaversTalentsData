@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.WowheadRaidDB = addonTable.WowheadRaidDB or {}
 
 local talentData = {
-	updated = "2026-07-03 04:00:49",
+	updated = "2026-07-04 04:00:49",
 
 	[1] = {
 		specs = {
@@ -462,6 +462,16 @@ local talentData = {
 				[1] = {
 					label = "Annihilator | Raid Best",
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzYmZYGmx2MzYMAAAAAAAQAzMjNAAAAMYMzMzs02MzMAwAAAAYA",
+				},
+			},
+			[1480] = {
+				[0] = {
+					label = "Void Scarred | Raid",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAAWmxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsNzYsJLAIgBYYmZWmZmmlZ2mZGjZA",
+				},
+				[1] = {
+					label = "Annihilator | Raid Best",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAegxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAQgZMYMD",
 				},
 			},
 		},
