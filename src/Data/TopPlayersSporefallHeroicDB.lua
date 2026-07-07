@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersSporefallHeroicDB = addonTable.TopPlayersSporefallHeroicDB or {}
 
 local talentData = {
-	updated = "2026-07-06 02:01:20",
+	updated = "2026-07-07 02:01:18",
 
 	[1] = {
 		specs = {
@@ -291,7 +291,7 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmxAAAzYGDmxMyMzAAAAMzMTmxMjZbmZAwAjZsxCMwMM0AWgxMDwYA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmxAAAzYGDmxMyMzAAAAMzMTmxMjZZmZAwAjZsxCMwMM0AWgxMDwYA",
 				},
 			},
 		},
