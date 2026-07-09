@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonSporefallMythicDB = addonTable.ArchonSporefallMythicDB or {}
 
 local talentData = {
-	updated = "2026-07-08 02:00:58",
+	updated = "2026-07-09 02:01:01",
 
 	[1] = {
 		specs = {
@@ -235,7 +235,7 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZYmZmZMmNzDsM2mZmZegZGAAAAWCmNDjZG1MmFmZmxYmHwAAAAAAYgBAAAAAY2mZpZbmlNwMPAwiZGGAAzMAYA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzmZMzMGzmx2YbmZm5BmZAAAAYLY2gxMjaGziZmZGjZYAAAAAAMwAAAAAAMbzs0sMzyGMzMALMDDAgZGAMA",
 				},
 			},
 			[104] = {
@@ -263,7 +263,7 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbzMz2YYAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAA2mxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZs9AzMbjhBAAAAAAAgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
 				},
 			},
 			[1480] = {
@@ -291,7 +291,7 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MDGmZMbGzMzsMDAAwMzMmBjZEmBAAAYmZEzMzMzyMzAgZMDsBWAzwEYD2MMAmZGD",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
 				},
 			},
 		},
