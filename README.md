@@ -19,6 +19,7 @@ Import the library in your addon and access talent data through the provided API
 API documentation is available in the [docs folder](https://github.com/peavers/PeaversTalentsData/blob/master/docs/index.md).
 <!-- /peavers:custom -->
 
+
 ## Installation
 
 This is a data library used by other Peavers addons and doesn't require direct user interaction. [PeaversUpdater](https://github.com/peavers-warcraft/PeaversUpdater/releases/latest) installs and updates it automatically alongside its parent addon, or download it directly from [CurseForge](https://www.curseforge.com/wow/addons/peaverstalentsdata).
