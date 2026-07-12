@@ -1,6 +1,6 @@
 # PeaversTalentsData
 
-[![AddonSentry](https://api.addonsentry.io/api/public/repos/peavers-warcraft/PeaversTalentsData/badge.svg)](https://addonsentry.io/dashboard/peavers-warcraft/PeaversTalentsData)
+[![AddonSentry](https://addonsentry.io/api/public/repos/peavers-warcraft/PeaversTalentsData/badge.svg)](https://addonsentry.io/dashboard/peavers-warcraft/PeaversTalentsData)
 
 A data library addon for World of Warcraft that provides daily updated talent export codes from wowcompare.io.
 
