@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.ArchonSporefallMythicDB = addonTable.ArchonSporefallMythicDB or {}
 
 local talentData = {
-	updated = "2026-07-12 02:00:57",
+	updated = "2026-07-13 02:00:59",
 
 	[1] = {
 		specs = {
@@ -257,13 +257,13 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzixMzMmZmMmZAAAAAAAzyDMmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZmZmwMDAAAAAAYYMbzwMDmZsNbzDMzYMGWGYbWMjhZjpxMzYGbAAAAAAAAMzgBAAAgB",
 				},
 			},
 			[581] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAA2mxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZs9AzMbjhBAAAAAAAgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbzMz2YYAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
 				},
 			},
 			[1480] = {
