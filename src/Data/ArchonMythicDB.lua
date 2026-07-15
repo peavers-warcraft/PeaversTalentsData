@@ -2,122 +2,122 @@ local addonName, addonTable = ...
 addonTable.ArchonMythicDB = addonTable.ArchonMythicDB or {}
 
 local talentData = {
-	updated = "2026-07-15 05:42:38",
+	updated = "2026-07-15 13:43:00",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxYmZzMzMzYmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[72] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDjZ2WmZmZmxMmZMjZmZWmZGjxsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMjZMzMzyMzYMzsNmHYGAAIGLLDsAGwMMBmhNAzgxAAgZGDzMzMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[73] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwyMmZGmxMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDmtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwyMmZGzwMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDjtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwiZmZGzwMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDjtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwyMmZGmxMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDmtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwyMmZGzwMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDjtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwyMmZGzwMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDjtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxYbxMzMjZYmBAAAALzMAzYAGYDWWMaMDgZBzsBjZmhhBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwyMmZGzwMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDjtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxwyMmZGzwMDAAAAWmZAmxAMwGssY0YGAzCmZDGzMDjtBAzMAAMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -127,115 +127,115 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGPwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbAzYGAAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGPwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbAzYGAAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGPwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbAzYGAAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGPwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbAzYGAAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMYGzMzCjxYWGbzMLmpJmlZMzMjhZLDADAbgN2mxMLz2Mzs1AAAAswCGsZgZMwAAYmhZMGGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGWGbzMLGNxwYmZGDzWGAGA2AbsNzMzysNzMbNAAAALshBbGYGDmBAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGPwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbAzYGAAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGPwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbAzYGAAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMMzYmZWYMGPwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbAzYGAAwMDzYMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[66] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsBAAAAzMLbLtMzYxMYAMYGGDAmZAwMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGmt2AwADYGsBAAAAzMLbLtMzYxMYAAzwYAwMDAmZAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLDDAwAAAAAAgmmZWmZMzMGmt2AwADYGsBAAAAzMLbLtMzYxMYAAzwYAwMDAmZAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsBAAAAzMLbLtMzYxMYAMYGGDAmZAwMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsBAAAAzMLbLtMzYxMYAMYGGDAmZAwMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsBAAAAzMLbLtMzYxMYAMYGGDAmZAwMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsBAAAAzMLbLtMzYxMYAMYGGDAmZAwMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLDDAwAAAAAAgmmZWmZMDGmt2AwADYGsBAAAAzMLbLtMzYxMYAMGzwYAwMDAmZAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGegt2AwADYGsBAAAAzMLbLtMzYxMYAMYGGDAmZAwMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[70] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMGzMAAAAAAmpMLzwMjthZbYmtZMGjhhN2AAAYmptZmtZAAbAGYBGzsBMzMzshlZwwYGDG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAwMMwMzMzGWmBDjZMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAwMMwMzMzGWmBDjZMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMGzMAAAAAAmpMLzwMjthZbYmtZMGjhZsxGAAAzMtNzsNDAYDwAgxMMwMzMzGWmBDjZMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMGzMAAAAAAmpMLzwMjthZbYmtZMGjhZsxGAAAzMtNzsNDAYDwAgxMMwMzMzGWmBDjZMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxwMAAAAAAmpMLzwMjthZbYmtZMGjhZsxGAAAzMtNzsNDAYDwAgxMMwMzMzGWmBDjZMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -245,115 +245,115 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYGbmZMjZYZMNDAAAAAAAAYmxYAzsBAzCYbAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2GA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYGbmZMjZYZMNDAAAAAAAAYmxYAzsBAzCYbAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwQzAAAAAAAAAMjxAmZDAzsA2GA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYGbzMjZMDGaGAAAAAAAAwMjZGwMbAwsA2GA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYGbzMjZMDGaGAAAAAAAAwMjxAmZDwwsA2GA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2GA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2GA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2GA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[254] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMmhZMzMmhlx0MGMLbmZGmZGzMzCzsMMzAAAMjxMzMDYghBYhZGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMzMMjZmxMYMNjBzymZmhZmxMzswMLDzMAAAzYMzMzAGYYAWYmxA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMzM2MmZGzgx0MGMLbmZGmZGzMzCzsMMzAAAmZMmZmZADgBYjZGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNzMDzMjZmZhZWGmZAAAmxYmZmBMAGgNmZM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMmhZMzMmhlx0MGMLbmZGmZGzMzCzsMMzAAAMjxMzMDYghBYhZGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMzM2mxMGzgx0MGMLbmZGmZGzMzCzsMMzAAAmHYMzMzMDYAMAbMzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMmhZMzMmhlx0MGMLbmZGmZGzMzCzsMMzAAAMjxMzMDYghBYhZGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNzMDzMjZmZhZWGmZAAAmxYmZmBMAGgNmZM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsEYWAAAAAAAAAmxMzM2MmZGzgx0MGMLbmZGmZGzMzCzsMMzAAAMjxMzMDYAmBYjZGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[255] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMWmxYGzgx0MAAAAMAwYZZmZWMzMDzYAMzGgxMGzMLGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxYGzwyYaGAAAAGAYssMzMLmZmhZMGwMbAwYMzsZA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMMjxMmBjpZAAAAYAgxyyMzsYmZGzMGDYmNAMjxMzmBA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMMjhxMsNmmBAAAgBAGLLzMziZmZMzYMgZ2AwMGzMbGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -363,115 +363,115 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAollZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzwYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjZAGYBmxoxsBYbAbGAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMDwALwMGNmNAbDYDAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[260] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgZ2mBzMzMzsNzMjZmZmFwMbTLD2mBAAAAAYZZmZGmZmZGzMzyAAAAwYAwYWMMwAzCL0CbMAzMYgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMzYmZWGAAAAGDAGzihBGYWYhWYjBYmBzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgZ2mBzMzMzsNzMjZmZmFwMbTLD2mBAAAAAYZZmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAmZAwYWMMwAzCL0CbMAzMYgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[261] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYmZbZmZMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYmZbZmZMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYmZbZMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -481,115 +481,115 @@ local talentData = {
 			[256] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAADzyMYmZGmhZATzEDwMLYIMmlBYMYBAAGzMzYYmBYmZGwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAADzyMYmZGmxMDYamYAmZBDhxsMAjBLAAwYmZGDmBYmZGwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAAjZWmhZmZmxMmZwmpZiBYmFMEGzyAMGsAAADzDYMYAMzMDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAADzyMMzMzMmhZM2MNTMAzsghwYWGgxgFAAYMzYMYGgZGAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAAjZWmBzMzwMMDYamYAmZBDhxsMAjBLAAwYmxYYmBYmZGwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAAjZWmBzMzMmhZM2MNTMAzsghwYWGgxgFAAYMzYMYGgZGAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsNzDwyMjxMzgZbmtZmxMmZAAAAAAAAAAMGLzgZmZGzwMYz0MxAMzCGCjZZAGDWAAgxMzMGMDwMzAM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAADzyMYmZGmhZATzEDwMLYIMmlBYMYBAAGzMzYYmBYmZGwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAADzyMYmZGmhZATzEDwMLYIMmlBYMYBAAGzMzYYmBYmZGwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[257] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzwMjhZYsMzMzAAAAYYWmhZmZGmxMDgZKAmZBDhxsMAjBWMzMAYGzMGDmBYmZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzwMjhZYsMzMzAAAAYYWmZMzMzYbGzMAmpAYmFMEGzyAMGYxMzAgZMeAjBzAMzMDMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzYGzygxMzMDzMjtZmZGAAAADzyMMzMzwMmZAMTBAmZxMMbGAYMYzMjNANjZGjBzstMAzAPA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzwMjhZYsMzMzAAAAYYWmhZmZGmhZMgZKAmZBDhxsMAjBWMzMAYGzMGDmBYmZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzwMjhZYsMzMzAAAAYMzyMYmZGmhZAMTBwMLYIMmlBYMwiZmBAzYmxYYmBYmZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzwMjhZYsMzMzAAAAYMzyMYmZGmhZMgZKAmZBDhxsMAjBWMzMAYGzMGDmBYmZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzYGzygxMzMDzMjtZmZGAAAAjZWmBzMzMmxMD2wMFAYmFzwsZAgxgNzM2A0MMPgxgZ2WGgZgHA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzwMjhZYsMzMzAAAAYYWmhZmZGmxMDgZKAmZBDhxsMAjBWMzMAYGzMGDmBYmZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzYGzygxMzMDzMjtZmZGAAAADzyMMzMzwMmZAMTBAmZxMMbGAYMYzMjNANjZGjBzstMAzAPA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[258] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDDz2MzYmZGbIDLmpxAzMzAABY2mtNwsxAADGzMzY2GzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDDz2MzYmZGbID2MNGYmZGAIAz2stBmNGAYwMzMzY2GzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDDz2MzYmZGbIDLmpxAzMzAABY2mtNwsxAADGzMzY2GzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDzw2MzYmZGbIzYhpBYmZGAIAz2stBmNGAYwYmZGz2MzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDjx2MzYmZGbIDLmpxAzMzAABY2mtNwsxAADGzMzY2GzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDjx2MzYmZGbIDLmpxAzMzAABY2mtNwsxAADGzMzY2GzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDzM2mxYmZmZDZYZz0AMzMDAEgZb22AzGDAMYMzMjZbMDmZwMYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDDz2MzYmZGbID2mpxAzMzAABY2mtNwsxAADGzMzY2GzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAAjZZmxYZmxMz2MDDz2MzYmZGbIDLmpxAzMzAABY2mtNwsxAADGzMzY2GzgZGMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -599,115 +599,115 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMGMLzMz0MLzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmxgZZmZmmZZmZMzMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDwYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMGMLzMz0MLzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmZMLzMz0MbzMjxMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmxgZZmZmmZZmZMzMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDwYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMzMzMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMGMLzMz0MLzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMGMLzMz0MLzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmxYMLzMz0MLzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[251] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMGDz2MzMzMbzY0MjxMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGAGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMYMmZY2mZmZmZbGjmZMzMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGAGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMGDz2MzMzMbzY0MjxMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGAGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjxYY2mZmZmZbmZ0MjxMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGAGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMmZYWmZmZmxMGNzYMzMzMwYmhZmZGzAAAAAAAAAwY2GYALglhJwYBzMMzAzAYYmBgBD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjxYGzyMzMzMbzY0MjxMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGAGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMDjxMDz2MzMzMbzYkZMzMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGAGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjZmZYWmZmZmxMzIzYMzMzMwYmhZmZGzAAAAAAAAAwY2GYALglhJwYBzMMzAzAYYmBgBD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjxYGzyMzMzMLzY0MjxMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGAGM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[252] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2GzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -717,115 +717,115 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMLLmYmx2YZGzMGWmlZsYmZMzCAwMAzMwwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmxYbx0CzMGLz8AzMPwwysMjFzMjZWAAGAzMwwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbx0CzYbsMzMzYYZWmxiZmxMLAADgZGYYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAYWmZmxYZxEmZMWmZmZMmlZZGLmZGzsAAMAmZghhB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMLLmYmx2YZGzMGWmlZsYmZMzCAwMAzMwwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMLLmYmx2YZGzMGWmlZsYmZMzCAwMAzMwwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmZ2GLzMzMmxilZsYmZMzCAwAYmBGGG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEzMwyMmZmxsYxYxMzYmFAgZAmZghhB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLz0mZGGLzYmxYMLGLmZGzsAAMDwMDMMMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[263] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxYZZGYmZbsMzMzwYZMDAwMMmZYmAzMYwYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxYZxYhZmtxyMzMzAMDAwMMmZYmGYmBDGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAzyMmxYZxYhZmtZWmxMDmlxMAAzwYmxMTgZGMYMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxYZZGYmZbsMzMzwYZMDAwMMmZYmAzMYwYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxYZZGYmZbsMzMzwMLjZAAmhxMDjAzMYwYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxMLLzgZmZbsMzMzALjZAAmhxMDjAzMYwYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxYZZGYmZbsMzMzMGGzAAMDjZGGBmZwgxA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxYZxAzMbzsMzMzMYZMDAwMMmZYEYmBDGD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAzyMmxYZxYjZmtxyMzMDsMmBAYGGzMmZCMzgBjB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[264] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGDDLwGMjFN2GAzAbYmBz2MjRz2yMDzY2YxYmxYWmlZAAYAMzgZGAGDG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGDDLwGMjFN2GAzAbYmBzyMzMa2WmZWMjBLzYmxgZZGAAGAzMYmBgxgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGDDLwGMjFN2GAzAbYmBz2MjRz2yMDzY2YxYmxYWmlZAAYAMzgZGAGDG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGDDLwGMjFN2GAzAbYmBz2MjZaWWmZYGzGLmHYmxwysMAAYAMzgZGAGDG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGDDLwGMjFN2GAzAbYmBz2MjRzyyMDzY2YxYmxYWmlZAAYAMzgZGAGDG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGzYYB2gZsox2AYGYDzMY2mZMTzyyMDzY2Yx8AzMGMLDAAGAzMYmBgxgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGDDLwGMjFN2GAzAbYmBz2MzMaWWmZYGzGLzYmxMMLDAAGAzMYmBgxgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGDDLwGMjFN2GAzAbYmBz2MjRz2yMDzY2YxYmxYWmlZAAYAMzgZGAGDG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZZbZMzMzYmZGzYYB2gZsox2AYGYDzMY2mZmRzyyMzmZMYZGzMGWmFAAYAMzgZGAGDG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -835,115 +835,115 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzywMiZGjZmZmZxMzwMmBAAAmZmZZZmpNAAYDAAAYBgttxMzMDz2wYmxCAAAzsBMDMgZwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsMMzEzMzYmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMDmthxMjFAAAmZDYGYAzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsMbmZiZGjZmZmZxMzwMmBAAAmZmZZZmpNAAYDAAAYBgttxMzMY2GGzMWAAAYmNgZgBMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzywMiZGjZmZmZxMzwMmBAAAmZmZZZmpNAAYDAAAYBgttxMzMDz2wYmxCAAAzsBMDMgZwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzywMTMzYMzMzMLmZGmxMAAAwMzMLLzMtBAAbAAAALAstNmZmBz2wYmxCAAAzsBMDjBMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGLjlZmZWGmZiZGjZmZmZxMzwMmBAAAmZmZZZmpNAAYDAAAYBgttxMzMDz2wYmxCAAAzsBMDMgZwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMbmRMzMjZmZmZxMzwMmBAAAmZmZZZmpNAAYDAAAYBgttxMzMDz2wYmxCAAAzsBMDMgZwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmlhZmYmxYmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbZMzMzDwsNMmZsAAAwMbAzwYAzgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzywMTMzMjZmZmZxMzwMmBAAAmZmZZZmpNAAYDAAAYBgttxMzMY2GGzMWAAAYmNgZgBMDGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[62] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGmZZmZmFMDamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzMzAAMAAAmZBAMDAGG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMzAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAmZAwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMzAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAmZAwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMDamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzMzAAMAAAmZBAMDAGG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMzAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[63] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzYmBAAwAAmZmmlllZAA2MzM2GzMzYDAAAAA2MzMzAAAjZYMzMzMbDAzMYGjxgZYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZZAYmBGjxgZYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGmZZmZmFMzIzYmBAAwAAmZmmlllZAA2MzM2GzMzYDAAAAA2MzMzAAAjZYMzMzMbDAzMYGjxgZYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxMAAAGAwMz0stsMDAwmZmx2YmZGLAAAAAwiZmZGAAYMjZMzMzMbAYmBGjxgZYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZIzMGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMbDAzMwYMGMDD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzYmBAAwAAmZmmlllZAA2MzM2GzMzYDAAAAA2MzMzAAAjZYMzMzMbDAzMYGjxgZYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGLjlZmZWsZmRmZmBAAgBAMzMNLLLzAAsZmZsNmZmxGAAAAAsYmZmBAAGzwYmZmZWGAmZgxYMYGG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZIzMGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMbDAzMwYMGMDD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZZAYmBGjxgZYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -953,115 +953,115 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMegZGNLmxmZmZWGAAwMzsMbmZWGDAM2WGYADYG2CMsNAAAMDAAgZmxMmZ2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[266] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzY2GAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMzmZmZ2GAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAsZGmZ0sZmZbmZMbDAAAAAAAYMjhFYgthFaYxYmxysNzMjZAgZGjZmZGAmxMzGAAYMzMjhhlZMgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzY2GAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMzsBAAGzMzYYYZGDYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMDjNAAwYmZGDDLzYAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAsZGmZ0sZmZbmZMLDAAAAAAAYMjhFYgthFaYxYmxysNzMjZAgZGjZmZGAmxMzGAAYMzMjhhlZMgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAsZGmZ0sZmZbmZMLDAAAAAAAYMjhFYgthFaYxYmxysNzMjZAgZGjZmZGAmxMzGAAYMzMjhhlZMgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzY2GAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLMz2MzMzysZmZmFzMLLjBAAzYMzMLgxMGWgB2GWoxCDAAMGMAAzMAjZMDAAAmZmZAAYGG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGz2sZmZmFzMLLjBAAzYMzMLgxMGWgB2GWoxCDAAMGMsBgZGgxMmBAAAzMzMAAGDD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgxMzMNbMzGzMz2sZmZmFzMLLjBAAzYMzMLgxMGWgB2GWoxCDAAMGMAAzMAzMjZGAAAmZmBAAzwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLMz2MzMzysZmZmFzMLLjBAAzYMzMLgxMGWgB2GWoxCDAAMGMAAzMAjZMDAAAmZmZAAYGG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgxMzoZzM2mZmZWmNzMzsYmZZZMAAYGjZmZBMmxwCMw2wCNWYAAgxgBAYmBYMjZGAAAmZmBAAzwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzY2mNzMzsYmZZZMAAYGjZmZBMmxwCMw2wCNWYAAgxgBAYmBYMjZGAAAmZmBAAzwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMegZGNLmZ2MzMzysNzMzsYmZZZMAAYGjZmZzCMwsY0YGAzG2YAAgxMMAAYmBjZMjNAAAzMzAAADD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgxMzoZzM2mZmZWmNzMzsYmZZZMAAYGjZmZBMmxwCMw2wCNWYAAgxgBAYmBYMjZGAAAmZmBAAzwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgxMzoZzM2mZmZWmNzMzsYmZZZMAAYGjZmZBMmxwCMw2wCNWYAAgxgBAYmBYMjZGAAAmZmBAAzwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -1071,115 +1071,115 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEmBmhxmBmZmZMzGzMmZZYZ7BW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBjYmBmhZ2AmZmZY2YmxMLDLbPwy2shZBAAWmlplZbmlBAAAwwGYmBMNGgBAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEmBmhxmBmZmZY2sNzYmlhltHYZb2wsAAALzy0ysNzyAAAAYYDMzAmGDAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBjYmBmhZ2MwMzMDzGzMmZZYZ7BW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2MwMzMDzmtZGjlhltHYZb2wsAAALzy0ysNzyAAAAYYDMzAmGDAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEmBmhxmBmZmZMzGzMmZZYZ7BW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2MwMzMDzmtZGjlhltHYZb2wsAAALzy0ysNzyAAAAYYDMzAmGDAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2AmZmZY2sNzYmlhltHYZb2wsAAALzy0ysNzyAAAAYYDMzAmGDAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBjYmBmhZ2MwMzMDzGzMmZZYZ7BW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjmxMMMGMMMzMzwshZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYMDMzAwwAYAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjmxMMMghhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAGLDgBM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZGzwsNbmhZZmAAWMz2YYMzMAA2AgZZWamZmFghBmZAglxAGwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjmxMMMghhZmZGmNMDzyMBAsYmtxwYmZAAsBAzys0MzMLAjZgZGAGbDgBM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjmxMMMGMMMzMzwshZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAGLDgBM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjwMMMgZMjZmZGmNmZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAGLDgBM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjmxMgxgZMjZmZGmNMDzyDMBAsYmtxwYmZAAsBAzys0MzMLADDMzAwYZAMgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDz0MmBMgxMjZmZGmNbjhZ5BmAAWMz2YYMzMAA2AgZZWamZmFghBmZAglBwAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjmxMMMghhZmZGmNMDzyMBAsYmtxwYmZAAsBAzys0MzMLAjZgZGAGbDgBM",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[270] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsYstsMjZ2Mz2yyMjFGaGzAGMALzMzMMbYGmlZCAAAAAAWsNzysNzAAADAwMgxgZRGzA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsYstsMjZ2Mz2yyMjFGaGzAGMALzMzMMbYGmlZCAAAAAAWsNzysNzAAADAwMgxgZRGzA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsYstsMjZ2Mz2yyMjFmRzYGwgBwMzMDzGmhZZmAAAAAAgFbzsMbzMAAwgBgZAjBWkxMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsYstsMjZ2Mz2yyMjFGaGzAGMAmZmZY2wMMLzEAAAAAAsYbmlZbmBAAGMAMDYMYWkxMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjFjtllZMzmZ2WWmZswMaGzAGjBwMzMDzGMMLzEAAAAAAsYbmlZbmBAAGMAMDYMYWkxMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwYMAmZmZY2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGbYMGAzMzMMbYGmlZCAAAAAAWsNzysNzAAADAwMgxgZRGzA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjFjtllZMzmZ2WWmZswMaGzAGMAmZmZY2mNGmlZCAAAAAAWsNzysNzAAADAwMgxgZRGzA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsYstsMjZ2Mz2yyMjFmRzYGwgBwMzMDzGmhZZmAAAAAAgFbzsMbzMAAwgBgZAjBWkxMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -1189,153 +1189,153 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwswMzMLMMjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwCzMzMYzYGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDzYWmZZmFzMjNWmZZMzYsghBYstNzgxsNAmAAAAsYmZmZwmhxYAAYmBGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[103] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMziZmZmxY2M2GbzMzMmZAAAAYLY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMziZmZmxY2M2GbzMzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMziZmZmxY2M2GbzMzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMziZmZmxY2M2GbzMzMmZAAAAYLY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzmZmZmxY2M2GbzMzMmZAAAAYLY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMziZmZmxY2M2GbzMzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMziZmZmxY2M2GbzMzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzCzMzMGzm5B2GbzMzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMziZmZmxY2M2GbzMzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[104] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZGjZMDAAAAAwYzMwy2MDGzyAYCAAAYDzMALGDDMLWAYmBA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZGjZMDAAAAAwYzMwy2MDGzyAYCAAAYDzMALGDDMLWAYmBA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbzwoJyMzyMzMzsMMAAAAAwAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbzwoJyMzyMzMzYMDAAAAAMwYzMwy2MDGzyAYCAAAYDzMALGDDMLWAYmBA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[105] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbGmmZMMmFzMzghZGAAAAADAwMAAAAAY2mZrZZmFbMmBmZWANDAwMDAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbGmmZM8AmFzMzYZGeADAAAAgBAYGAAAAAMbzs1sMziNmZGYmZB0MAAzMAMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbw0MjhHwsYmZGMMDAAAAADAwMAAAAAY2mZrZZmFbMzMDmZWANDAwMDAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZzw0MjhxsYmZGLzwDMDAAAAAAAGAAAAAMbzs1sMziNGzMYmZB0MAAzMAMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsANbzw0MDMmFzMzYxwAAAAAgBAYGAAAAAMbzs1sMziNmZmBzMLgmBAYmBgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbw0MDMmFzMzYxwAAAAAgBAYGAAAAAMbzs1sMziNmZmBzMLgmBAYmBgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbGmmZM8AmFzMzYZGeADAAAAgBAYGAAAAAMbzs1sMziNmZGYmZB0MAAzMAMA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsNoZbGmmZMMmFzMzghxAAAAAYAAmBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZjx0MjxMmFzMzMmhxAAAAAAAgBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -1345,115 +1345,115 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmlZYmBmx2sNzMjxALDsMbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZWmxMzMGzkxMDAAAAAAYWMmlZeAzMwM2mtZmZMGYZglZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmlZYmBmx2sNzMjxALDsMbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZglZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmlZYmBmx2sNzMjxALDsMbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmlZYmBmx2sNzMjxALDsMbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmlZYmBmx2sNzMjxALDsMbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmlZYmBmx2sNzMjxALDsMbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZglZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[581] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYbmZ2GjZAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMmZkZmBziZMDmZMzYmHYmZGDmtZGbmZ2GDDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYbmZ2GjZAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAWmxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZs9AzMbjxMAAAAAAAAMzwGAAAAGYmZmZ2abmZGAAAAAgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YMDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAWmxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZs9AzMbjhBAAAAAAAgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YMDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YYAAAAAAAAYmZmNAAAAMwMzMzs12MzMAwAAAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMmZkZmBziZMDmZMzYmHYmZGDmtZGbmZ2GDDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[1480] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAAWmxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAAMjZmZmxMjhZAAAAAAAYMbjxMAAAAAAAAMjZYmZmZmZmZGmZxMGLyCzMzMbtNzMDghBAgZMYMD",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -1463,115 +1463,115 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAYmhxMYM1YmZGAAAAYmZMmZWGzMwMbzYwCsMGGLDgZQshxAzMAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmZMmBjpGzMzAAAAAjZmxMzyYmBmZzYwCsMGGLDgZQshxAzMAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAgBAAmhZGYM1YmZGAAAAMjZMmZWGzMwMbzYwCsMGGLDgZQshxMYmBwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAYmhxMYM1YmZGAAAAYmZMmZWGzMwMbzYwCsMGGLDgZQshxAzMAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMMzAjpGzMzAAAAAzMzMmZWGzMwMbzYwCsMGGLDgZQshxMYmBwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMMmBjpGzMzAAAAAjZmxMzyYmBmZbGDWglxwYZAMDiNMmBzMAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMMmBjpGzMzAAAAAjZmxMzyYmBmZbGDWglxwYZAMDiNMmBzMAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwM8AzYGjpGzMzAAAAAzMjxMzyYmBmZbGDWglxwYZAMDiNMmBzMAG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMMzYGjpGzMzAAAAAzMjxMzyYmBmZbGDWglxwYZAMDiNMGYmBwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[1467] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmhxAjHYamZmpZY2mxMzMzMzMzAMzMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGM8AmHAjZaMzMNDz2MmZmZmZmZGgZmZGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDmZMzwM8AGYMTjZmJDMmZmhZmZmBYmZmxMzyMzgZgZMDsBWAzwEYDsMMDwMzwA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZbmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDmZMzwMwMYMTjZmJDMmZmhZmZmBYMzMmZWmZGMDMjZgNwCYGmAbglhZAmZGG",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmhxAjHYamZmpZY2mxMzMzMzMzAMzMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmhHwwYMTjZmpZY2mxMzMzMzMzAmxMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmhxAjHYamZmpZY2mxMzMzMzMzAMzMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[1468] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMzsZGjx2YGAAYGzYGjhZiZmBAAAMzMTGzMjxMzAAwYGbsADMDDNMsAjZGgxA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[1] = {
 					label = "Algethar Academy",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GGAAYGmZGMMTjZmBAAAMzMTGmZmZZMDAMmB2AbgZYCsZGbGmBYmhB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[2] = {
 					label = "Magisters",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMzsZGjx2wAAAzYGzYMmZiZmBAAAMzMTGzMjxYGAAGzYjFYgZYohhFYmZGAGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[3] = {
 					label = "Maisara Caverns",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMzsZGjx2wAAAzYGzYMmZCzMAAAgZmZyYmZegxYGAAGzYjFYgZYohhFYmZGAGA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[4] = {
 					label = "Nexus Point Xenas",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GAAAzYGzghZaMzMAAAgZmZaGmZmZZMDAMmBWAbgZYCsZGbGmBYmhB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[5] = {
 					label = "Pit Of Saron",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GAAAzYGzghZaMzMAAAgZmZaGmZmZZMDAMmBWAbgZYCsZGbGmBYmhB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[6] = {
 					label = "Seat",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMzsZGjx2YGAAYGzYGjhZiZmBAAAMzMTGzMjxMzAAwYGbsADMDDNMsAjZGgxA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[7] = {
 					label = "Skyreach",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMPwsZGjx2wAAAzYGzMjhZiZmBAAA2mZmJjZmxYmZAAYMjNWgBmhhGGWgxMDwYA",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 				[8] = {
 					label = "Windrunner Spire",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GAAAzYmZGMMTjZmBAAAMzMTzwMzMLjZAgxMwCYDMDTgNzYzwAYmhB",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
