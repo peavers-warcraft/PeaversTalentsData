@@ -2,26 +2,26 @@ local addonName, addonTable = ...
 addonTable.TopPlayersSporefallMythicDB = addonTable.TopPlayersSporefallMythicDB or {}
 
 local talentData = {
-	updated = "2026-07-15 02:00:58",
+	updated = "2026-07-16 02:01:01",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[72] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMz2yMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[73] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMjZmZmZGzmxsMjxY0wMDLzMzMDGzMAAAAYZAYGDwAbwyiRjZAMbYmNYGzMY2GAMzAAwMgB",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -31,19 +31,19 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[66] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[70] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZmBAAAAAwoMMMzYbY2GmZbGzMGDzYjNAAAmZabmZbGAwGgBWgxMMDmxMzGWmBjZMMYA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -53,19 +53,19 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZYMDGTzAAAAAAAAAGjZGwMbAYmFw2AA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[254] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwQzYwsttZmZMzMzMzsgZZYmBAAMzMzAgZGbbGGgNmZM",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[255] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNDA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -75,19 +75,19 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAIbzMzMzMjxMzMz2MmZMmxMzMmhZMGADsAzY0Y2AsNgNDAmZmhB",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[260] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[261] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -97,19 +97,19 @@ local talentData = {
 			[256] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[257] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBG",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[258] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsMzwMjNzMmZmxGTGYmGDMDwMbmhZzAQGjFAMDwYmZGz2YmtlBYGMA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -119,19 +119,19 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYMmhZMzYY2mZmpZWmZGjZMDAAAAmZmZmxMzwMmZAwYmZmBAAwADMjNNW2AsMgNAzYGAAwMDMMA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[251] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMGDz2MzMzMbmZ0MjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[252] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjxYY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMbGGYgZjhGLYAzAwYmZMDwMzMGD",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -141,19 +141,19 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMGjZZZZMmhBAAAAYxMbwAGwsxEYWAgZZmZGjtFTYmZbsMzMzYYZWGzyMGzMLAADDgZGDDD",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[263] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmZmZmZGAAAAAAAAgNAbmxwGsAzwQDWAYWmxMmZZZGbMzglZmZmHwwYGAgZYMDmJwMDGMuAA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[264] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYB2gZsox2AYGYzMMY2GjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -163,19 +163,19 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZGzMzMziZmZMjZAAAgZmZWWmZaDAA2AAAA2AYbZMzMDmthxMsAAAwMbAzADYGMA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[62] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[63] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGLAAAAAwiZmZmBAAjZMjZmZmZBAzMAjxgZYA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -185,19 +185,19 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[266] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMz2AAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZAAAMmZmxwwyMGwA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZZMzMLmZ2WYAAwMGzMzCYMjhFYgthFaswAAAjBDbAYmBwMjxAAAwMzMDAAzwA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -207,19 +207,19 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAAYA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsYmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[270] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -229,25 +229,25 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmFzMzMAzY2mZZsNjZsxyMGzMjZBDDwAssN2w0MzyAAAAgNmZmZwmhxYGAzMAwA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[103] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzmZMzMGzmx2YbmZm5BmZAAAAYLY2gxMjaGziZmZGjZYAAAAAAMwAAAAAAMbzs0sMzyGMzMALMDDAgZGAMA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[104] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[105] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDwMzmxCzAAAAAAAAAAgNDNbmx0MDwsMzMzMMMDAAAAADAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -257,19 +257,19 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzyMmZmxMzkxMDAAAAAAY2MmtZeAjBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[581] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbzMz2YYAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[1480] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzMzMGmBAAAAAAgxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmB",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
@@ -279,19 +279,19 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZGYmBwA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[1467] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 			[1468] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbmZGzsMjBAAMmxwYmZmwMDAAAYmZkZmZGz2MzAgBGzYjFYgZYohhFYMzAMGA",
+					talentString = "No data on wowcompare.io - Coming soon!",
 				},
 			},
 		},
