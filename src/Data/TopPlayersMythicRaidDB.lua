@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.TopPlayersMythicRaidDB = addonTable.TopPlayersMythicRaidDB or {}
 
 local talentData = {
-	updated = "2026-07-17 02:03:08",
+	updated = "2026-07-18 02:03:17",
 
 	[1] = {
 		specs = {
@@ -683,7 +683,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZxMjxMGAAAAYmZmZmZmZYGjBAjZmZGAAADMwMW0YZDw2A2AMDDAAYmBzwA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -691,7 +691,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZxMjxMGAAAAYmZmZmZmZYGjBAjZmZGAAADMwMW0YZDw2A2AMDDAAYmBzwA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZzMjxMGAAAAYmZmZmZmZYGjBAjZmZGAAADMwMW0YZDw2A2AMDDAAYmBzwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -775,7 +775,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzYMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -797,7 +797,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -821,7 +821,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAYbmZGzstMTMzYhlZmZGDsMjFzMMzCAYGGYmBGGG",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -847,7 +847,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAz2MmxYZZGLMzsNWmZmZYsMmBAYGGzMMCMzgBjB",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmZmZmZGAAAAAAAAgNAbmxwGsAzwQDWAY2mxMGLLzYhZmtxyMzMDjlxMAAzwYGMCMzgBjLA",
 				},
 				[5] = {
 					label = "Vanguard",
@@ -1073,7 +1073,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZmZmpZzM2mZGz2AAAMzsMbzMziZAgxyyADYAzwWghtBAAgZAAAMzwMGDMMzMzMmBzMzMAgZgB",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZjhZmxsMAAAzML2mZmlZGAYstMwAGwMsFYYbAAAYGAAAzMzMjZGYYmZmZGDmZmBAYGYA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1115,7 +1115,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMGjlZbmZGzAAzMmZmZmBYmZMzAAAMmZmxwwyMGwA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjhZmxsMAAAAAAAgxMGWgB2GWohFjxYZ2mZmxMAwMjZmZmZAmZGzMAAAjZmZMMsMjBMA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1123,7 +1123,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMegZGNbjhZmZmlBAAAAAAAMmxwCMw2wCNsYMGLzyMzMmBAmZMzMzMDwMzYmBAAYMzMjhhlZMgB",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjx2MzMzyAAAAAAAAGzYYBGYbYhGWMGjlZZmZGzAAzMmZmZmBwMjxAAAMmZmxwwyMGwA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1133,7 +1133,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMLzMzMLGz2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBzMjZGAAAmZmBAgxwA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZZmZmZxY2WMDAAmxYmZWsADMLGNmBwshNGAAYMAbAAzMwMjxAAAwMzMDAgxwA",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1211,7 +1211,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyM2YmZAAAAAAAYZBjYmBmhZ2MjxMzMDz2wMmZ5BYZ7B22mtxMLAAwGAAAY2mlmZmZhhNAmZYaMAAgB",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWM2wMDAAAAAAALLYEzMwMMzmZMmZmZY2GmxYZYZz22sNjZBAA2AAAAz2s0MzMLmhFAmZYaMAAgB",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1345,7 +1345,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlxMzMADWmZbGzYGbsMjZmZMzGGGgBYZbshpZmlBAAAAbmZmZGsZMjxMAmZAgB",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmlxMzMAzwyMbzYGzYjlZMzMjZ2wwAMALbjNMNzsMAAAAYzMzMzgNDjxMAmZAgB",
 				},
 			},
 			[103] = {
@@ -1363,7 +1363,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Salhadaar",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWGzMzYMDAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMDDAgZGAMA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzmhxMjaGzCzMzYMzDMAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
 				},
 				[4] = {
 					label = "Vaelgor Ezzorak",
@@ -1383,7 +1383,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWGzMzYMjZAAAAAAMwAAAAAAMbzs0sNzyGYmHAYxMYAAMzAgB",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLYYYMzomxswMzMLjZeADAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1425,7 +1425,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Beloren",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGM2GYYGjmoZmZZmZmZMmhBAAAAAMzsNDYZbmBjZbAMBAAAshZeAgFzgBsYZbAmZAM",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGMWGAzY0ENzMLzMzMjxMMAAAAAgZsNDYZbmBjZbAMBAAAshZmBsYGMgFLbDwMDgB",
 				},
 				[9] = {
 					label = "Midnight Falls",
@@ -1489,7 +1489,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Vorasius",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxMzkxMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsMLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZmZmwMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
 				},
 				[3] = {
 					label = "Salhadaar",
@@ -1635,7 +1635,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAwMjxMYM1YmZGAAAAMjZMmZWGzMwMbGDWglxwYbAMDiNMzAzMAG",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZGYmBwA",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1647,13 +1647,13 @@ local talentData = {
 				},
 				[9] = {
 					label = "Midnight Falls",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAYmZghZM1YmZGAAAAMjZmxMzyYmBmZxAjZswCMwMM0ALYmxMDAM",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZxAjZswCMwMM0ALYmxMDAM",
 				},
 			},
 			[1467] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZwMDGMgBjZamZmJjxyMzMzwMzMzAmxMzYmZZmZwMwMmB2ALgZYCsBWGGAzMDD",
 				},
 				[1] = {
 					label = "Imperator",
@@ -1677,7 +1677,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDmZwwMgBjZamZmJjxyMzMzwMzMzAmxMzYmZZmZwMwMmB2ALgZYCsBWGGAzMDD",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDmZwwMDMYMTjZmJjxyMzMzwMzMzAmxMGzMLzMDmBmxMwGYBMDTgNwywAYmZGD",
 				},
 				[7] = {
 					label = "Chimaerus",
@@ -1695,11 +1695,11 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MzMmxMjhxMzMbYAAgZMj5BwYGZmZAAAAmZGZMzMzsMzMAwYGYDsAmhJwCsZYAMzMGA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MzMmxMjhxMzMbYAAgZMj5BMGzIMDAAAwMzIzYmZmlZmBAzYGYDsAmhJwCsZYAMzMGA",
 				},
 				[1] = {
 					label = "Imperator",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMz2MzAgBGzYjFYgZYohhFYMzAMGA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGYmZkZmBAAAYmZEjZmZWmZGAMwYGbsADMDDNMsAjZGgxA",
 				},
 				[2] = {
 					label = "Vorasius",
