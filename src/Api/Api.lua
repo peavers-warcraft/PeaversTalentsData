@@ -16,21 +16,21 @@ local ERR_INVALID_DUNGEON = "Invalid dungeon ID provided"
 
 -- Provider configuration
 local PROVIDERS = {
-    most-popular = {
+    ["most-popular"] = {
         databases = {
             mythic = { db = "MostPopularMythicDB", category = "mythic" },
             raid = { db = "MostPopularRaidDB", category = "raid" },
             misc = { db = "MostPopularMiscDB", category = "misc" }
         }
     },
-    ["community"] = {
+    community = {
         databases = {
             mythic = { db = "CommunityMythicDB", category = "mythic" },
             raid = { db = "CommunityRaidDB", category = "raid" },
             misc = { db = "CommunityMiscDB", category = "misc" }
         }
     },
-    wowcompare.io = {
+    ["top-players"] = {
         databases = {
             mythic = { db = "TopPlayersMythicDB", category = "mythic" },
             normal_raid = { db = "TopPlayersNormalRaidDB", category = "normal_raid" },
@@ -41,7 +41,7 @@ local PROVIDERS = {
             sporefall_mythic = { db = "TopPlayersSporefallMythicDB", category = "sporefall_mythic" }
         }
     },
-    ugg = {
+    worldwide = {
         databases = {
             mythic = { db = "WorldwideMythicDB", category = "mythic" },
             raid = { db = "WorldwideRaidDB", category = "raid" }

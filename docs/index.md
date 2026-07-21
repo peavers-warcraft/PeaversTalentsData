@@ -53,7 +53,7 @@ Retrieves a list of builds for a specific class & specialization. You can option
 
 **Behavior and Filtering Details:**
 
-- If `source` is `nil`, the function aggregates builds from all available data sources (`most-popular`, `community`, `wowcompare.io`).
+- If `source` is `nil`, the function aggregates builds from all available data sources (`most-popular`, `community`, `top-players`).
 - If `dungeonID` is `nil`, the function aggregates builds for all possible dungeon/raid IDs (0 to 8, in ascending order).
 - If any validation fails (invalid class, spec, source, or dungeon), the function returns `nil` and an error message.
 

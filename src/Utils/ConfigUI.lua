@@ -59,10 +59,10 @@ function ConfigUI:InitializeOptions()
 
     -- List of sources
     local sources = {
-        "wowcompare.io - Mythic dungeons and raid builds",
-        "community - Mythic dungeons, raid, and miscellaneous builds",
-        "most-popular - Mythic dungeons, raid, and miscellaneous builds",
-        "worldwide - Mythic dungeons and raid builds"
+        "Top 1% of Players - Mythic dungeons and raid builds",
+        "Community Favorites - Mythic dungeons, raid, and miscellaneous builds",
+        "Most Popular - Mythic dungeons, raid, and miscellaneous builds",
+        "Best Players Worldwide - Mythic dungeons and raid builds"
     }
 
     for _, source in ipairs(sources) do
