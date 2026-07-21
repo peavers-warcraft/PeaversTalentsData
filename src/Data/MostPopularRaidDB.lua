@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularRaidDB = addonTable.MostPopularRaidDB or {}
 
 local talentData = {
-	updated = "2026-07-19 04:00:53",
+	updated = "2026-07-20 04:00:50",
 
 	[1] = {
 		specs = {
@@ -194,7 +194,7 @@ local talentData = {
 			},
 			[257] = {
 				[0] = {
-					label = "wowcompare.io | Raid Best",
+					label = "Archon | Raid Best",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMTmFDAMGsZmZWA0MMjxwMz2yAMDMA",
 				},
 				[1] = {
@@ -204,7 +204,7 @@ local talentData = {
 			},
 			[258] = {
 				[0] = {
-					label = "wowcompare.io | Raid Cleave",
+					label = "Archon | Raid Cleave",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsNzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMQGzMzY2GzstMAzED",
 				},
 				[1] = {

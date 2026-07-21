@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMythicDB = addonTable.MostPopularMythicDB or {}
 
 local talentData = {
-	updated = "2026-07-19 04:00:53",
+	updated = "2026-07-20 04:00:50",
 
 	[1] = {
 		specs = {
@@ -154,7 +154,7 @@ local talentData = {
 			},
 			[257] = {
 				[0] = {
-					label = "wowcompare.io | Mythic",
+					label = "Archon | Mythic",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZmMbGAYMYzYsBoZMzYMMzstMADYA",
 				},
 				[1] = {
@@ -164,7 +164,7 @@ local talentData = {
 			},
 			[258] = {
 				[0] = {
-					label = "wowcompare.io | Mythic",
+					label = "Archon | Mythic",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYmx2MGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGIjZmZMbjZ2WGgZiB",
 				},
 				[1] = {

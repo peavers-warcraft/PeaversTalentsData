@@ -2,7 +2,7 @@ local addonName, addonTable = ...
 addonTable.MostPopularMiscDB = addonTable.MostPopularMiscDB or {}
 
 local talentData = {
-	updated = "2026-07-19 04:00:53",
+	updated = "2026-07-20 04:00:50",
 
 	[1] = {
 		specs = {
@@ -150,17 +150,17 @@ local talentData = {
 			},
 			[257] = {
 				[0] = {
-					label = "wowcompare.io | Delves",
+					label = "Archon | Delves",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGGzyYGzMjxMDjlZmZGAAAADzyMjZmZGbGzMmtNMTBAmZxMZ2MAwYwmxYBQDzwYwMLLDwAG",
 				},
 			},
 			[258] = {
 				[0] = {
-					label = "wowcompare.io | Single Target",
+					label = "Archon | Single Target",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDmtZmxMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMQGzMzY2GzstMAzED",
 				},
 				[1] = {
-					label = "wowcompare.io | Delves",
+					label = "Archon | Delves",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYmx2MGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGIjZmZMbjZ2WGgZiB",
 				},
 				[2] = {

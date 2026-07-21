@@ -46,7 +46,7 @@ local talentData = {
 			},
 			[257] = {
 				[0] = {
-					label = "wowcompare.io Raid Apotheosis",
+					label = "Archon Raid Apotheosis",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAGjxsNzMjZY8AzwMbzMmBAAAAmFLz2w2MzgZhxMmZMYZDmxUzCAwMbWGmNDAZMYDzsN",
 				},
 			},
