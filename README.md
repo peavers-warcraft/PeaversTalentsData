@@ -24,7 +24,7 @@ API documentation is available in the [docs folder](https://github.com/peavers/P
 
 ## Installation
 
-This is a data library used by other Peavers addons and doesn't require direct user interaction. [PeaversUpdater](https://github.com/peavers-warcraft/PeaversUpdater/releases/latest) installs and updates it automatically alongside its parent addon, or download it directly from [CurseForge](https://www.curseforge.com/wow/addons/peaverstalentsdata).
+This is a data library used by other Peavers addons and doesn't require direct user interaction. It is released exclusively through [addons.peavers.io](https://addons.peavers.io) and is no longer published to CurseForge. [PeaversUpdater](https://github.com/peavers-warcraft/PeaversUpdater/releases/latest) installs and updates it automatically alongside its parent addon, or you can download the zip from [Releases](https://github.com/peavers-warcraft/PeaversTalentsData/releases/latest).
 
 ---
 
