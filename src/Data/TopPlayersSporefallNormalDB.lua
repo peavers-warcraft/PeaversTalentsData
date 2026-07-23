@@ -2,26 +2,26 @@ local addonName, addonTable = ...
 addonTable.TopPlayersSporefallNormalDB = addonTable.TopPlayersSporefallNormalDB or {}
 
 local talentData = {
-	updated = "2026-07-20 02:01:01",
+	updated = "2026-07-23 02:01:02",
 
 	[1] = {
 		specs = {
 			[71] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[72] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[73] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -31,19 +31,19 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[66] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[70] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -53,19 +53,19 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[254] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[255] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -75,19 +75,19 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[260] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[261] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -97,19 +97,19 @@ local talentData = {
 			[256] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[257] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[258] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -119,19 +119,19 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[251] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[252] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -141,19 +141,19 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[263] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[264] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -163,19 +163,19 @@ local talentData = {
 			[64] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[62] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[63] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -185,19 +185,19 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[266] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[267] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -207,19 +207,19 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[269] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[270] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -229,25 +229,25 @@ local talentData = {
 			[102] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[103] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[104] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[105] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -257,19 +257,19 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[581] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[1480] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
@@ -279,19 +279,19 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[1467] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 			[1468] = {
 				[0] = {
 					label = "Rotmire",
-					talentString = "No data on wowcompare.io - Coming soon!",
+					talentString = "No data on Archon.gg - Coming soon!",
 				},
 			},
 		},
