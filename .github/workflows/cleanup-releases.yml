@@ -15,4 +15,9 @@ jobs:
     uses: peavers-code/peavers-warcraft-workflows/.github/workflows/cleanup-releases.yml@master
     with:
       use_self_hosted: true
+      # Downloads are sourced from GitHub for this addon, so each deleted
+      # release's count has to be banked before it disappears.
+      bank_downloads: true
+      git_user_name: Chris Turner
+      git_user_email: peavers@gmail.com
     secrets: inherit
