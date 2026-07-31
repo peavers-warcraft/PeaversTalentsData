@@ -2,18 +2,47 @@
 
 [![AddonSentry](https://addonsentry.io/api/public/repos/peavers-warcraft/PeaversTalentsData/badge.svg)](https://addonsentry.io/dashboard/peavers-warcraft/PeaversTalentsData)
 
-A data library addon for World of Warcraft that provides daily updated talent export codes from wowcompare.io.
+A data library addon for World of Warcraft that provides daily updated talent export codes from [parses.gg](https://parses.gg).
 
 ## Features
 
 <!-- peavers:features -->
-- High-quality talent data sourced from wowcompare.io
-- Daily updates for accuracy and relevance
+- Talent builds from parses.gg, taken from real logged pulls
+- Every build is a loadout somebody actually ran, not a consensus assembled pick by pick
+- Daily updates
 - Optimized for minimal performance impact
 - Designed for integration with other addons
 <!-- /peavers:features -->
 
 <!-- peavers:custom -->
+## Where the builds come from
+
+Every build here comes from [parses.gg](https://parses.gg), and nothing else.
+Archon and Wowhead were both retired as sources -- Archon at their request that
+we stop using their data.
+
+That is a smaller pool than the addon used to draw on, and the databases say so
+rather than papering over it: a spec with no logged pulls at a difficulty is
+simply absent from that database. Coverage grows as people log fights, with no
+change needed here.
+
+| Database | Content |
+| --- | --- |
+| `ParsesLfrRaidDB` | Raid, Looking For Raid |
+| `ParsesNormalRaidDB` | Raid, Normal |
+| `ParsesHeroicRaidDB` | Raid, Heroic |
+| `ParsesMythicRaidDB` | Raid, Mythic |
+| `ParsesMythicDB` | Mythic+ -- empty; parses.gg does not index keystone runs yet |
+
+**A raid is data, not a database.** One file per difficulty, and each boss build
+carries `instanceId` and `instanceName`, so a difficulty holds every raid being
+run at it. A new raid appears as new rows -- no new file, no new scraper, and no
+change in any addon reading this one.
+
+Builds also carry `gameBuild`, the patch the loadout string was spelled against.
+A loadout code is a walk over every node of the spec's talent tree in the
+client's order, so it only means anything against the tree that produced it.
+
 ## For Developers
 
 Import the library in your addon and access talent data through the provided API. See [PeaversTalents](https://github.com/peavers/PeaversTalents) for a practical implementation example.

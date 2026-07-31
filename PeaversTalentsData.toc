@@ -14,20 +14,10 @@
 
 Changelog.lua
 
-src\Data\TopPlayersMythicDB.lua
-src\Data\TopPlayersNormalRaidDB.lua
-src\Data\TopPlayersHeroicRaidDB.lua
-src\Data\TopPlayersMythicRaidDB.lua
-src\Data\TopPlayersSporefallNormalDB.lua
-src\Data\TopPlayersSporefallHeroicDB.lua
-src\Data\TopPlayersSporefallMythicDB.lua
-src\Data\CommunityMiscDB.lua
-src\Data\CommunityMythicDB.lua
-src\Data\CommunityRaidDB.lua
-src\Data\WorldwideMythicDB.lua
-src\Data\WorldwideRaidDB.lua
-src\Data\MostPopularMiscDB.lua
-src\Data\MostPopularMythicDB.lua
-src\Data\MostPopularRaidDB.lua
+src\Data\ParsesMythicDB.lua
+src\Data\ParsesLfrRaidDB.lua
+src\Data\ParsesNormalRaidDB.lua
+src\Data\ParsesHeroicRaidDB.lua
+src\Data\ParsesMythicRaidDB.lua
 
 src\Api\Api.lua
