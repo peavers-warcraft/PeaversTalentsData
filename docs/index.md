@@ -23,6 +23,32 @@ Every build is a loadout somebody actually ran. That is deliberate: a build asse
    ```
 
 ---
+## Version 1.0 — what changed
+
+`PeaversTalentsData` 1.0 is a breaking change. The sources it drew on were
+retired (Archon at their request; Wowhead alongside them), so:
+
+| Before | Now |
+| --- | --- |
+| sources `top-players`, `most-popular`, `community`, `worldwide` | `parses` |
+| categories `mythic`, `raid`, `misc`, `sporefall_*` | `mythic`, `lfr_raid`, `normal_raid`, `heroic_raid`, `mythic_raid` |
+| a database per raid per difficulty | one per difficulty; bosses carry `instanceId` / `instanceName` |
+| `dungeonID` capped at 8 | `index`, no upper bound |
+
+**Detecting the version.** WoW's `## Dependencies:` names an addon and nothing
+more, so the TOC version is invisible to code. `API.VERSION` is the check:
+
+```lua
+local API = _G["PeaversTalentsData"] and _G["PeaversTalentsData"].API
+if not API or (API.VERSION or 0) < 1 then
+    -- pre-1.0: different sources, categories and build shape
+end
+```
+
+Calling a retired source returns an error naming it, rather than a generic one,
+so a consumer a version behind gets told what happened.
+
+---
 ## API Overview
 
 The **PeaversTalentsData** library exposes a set of functions via `PeaversTalentsData.API` that allow you to:

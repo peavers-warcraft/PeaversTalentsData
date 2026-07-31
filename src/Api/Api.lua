@@ -8,9 +8,38 @@ local publicAPI = _G["PeaversTalentsData"]
 publicAPI.API = publicAPI.API or {}
 local API = publicAPI.API
 
+--[[
+    The API's own version, so a consumer can tell which shape it is talking to.
+
+    WoW has no dependency version constraints -- `## Dependencies:` names an
+    addon and nothing more -- so the number in the TOC is invisible to code. A
+    consumer written against the old API and loaded beside the new one would
+    otherwise just get empty results and no way to know why.
+
+    Bumped when something already published changes meaning or disappears. 1 is
+    the first version to say so; everything before it reported no version at all,
+    so `(API.VERSION or 0) < 1` identifies the old shape.
+
+        local API = _G["PeaversTalentsData"] and _G["PeaversTalentsData"].API
+        if not API or (API.VERSION or 0) < 1 then
+            -- too old: sources were "top-players" / "most-popular", categories
+            -- were mythic / raid / misc, and builds carried no raid
+        end
+]]
+local API_VERSION = 1
+
 -- Constants for error messages
 local ERR_INVALID_CLASS = "Invalid class ID provided"
 local ERR_INVALID_SPEC = "Invalid specialization ID provided"
+-- Names the retired sources rather than only the surviving one. A caller still
+-- asking for "top-players" is not making a typo, it is a version behind, and
+-- "the only source is 'parses'" would not tell it that.
+local RETIRED_SOURCES = {
+    ["top-players"] = "archon.gg",
+    ["most-popular"] = "Wowhead",
+    community = "a frozen 2025 snapshot",
+    worldwide = "a frozen 2025 snapshot"
+}
 local ERR_INVALID_SOURCE = "Invalid source provided. The only source is 'parses'"
 local ERR_INVALID_INDEX = "Invalid build index provided"
 
@@ -72,6 +101,12 @@ local function ValidateInputs(classID, specID, source, index)
     end
 
     if source and not PROVIDERS[source] then
+        local retired = RETIRED_SOURCES[source]
+        if retired then
+            return false, ("Source '%s' (%s) was retired in PeaversTalentsData 1.0. "):format(source, retired)
+                .. "The only source is 'parses'; categories are now mythic, lfr_raid, "
+                .. "normal_raid, heroic_raid and mythic_raid."
+        end
         return false, ERR_INVALID_SOURCE
     end
 
@@ -152,6 +187,9 @@ local function AddBuildsFromDB(builds, db, sourceName, category, classID, specID
         end
     end
 end
+
+---The version of this API's shape. See API_VERSION above for what it is for.
+API.VERSION = API_VERSION
 
 ---Retrieves talent builds for a specific class and specialization
 ---@param classID number The WoW class ID (1-13)

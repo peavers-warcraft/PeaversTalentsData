@@ -15,6 +15,14 @@ A data library addon for World of Warcraft that provides daily updated talent ex
 <!-- /peavers:features -->
 
 <!-- peavers:custom -->
+## Version 1.0 is a breaking change
+
+The sources this drew on were retired -- Archon at their request that we stop
+using their data, and Wowhead alongside them -- so source names, category names
+and the build shape all moved. `API.VERSION` is how a consumer detects it; WoW's
+`## Dependencies:` carries no version constraint, so the TOC number cannot be
+read from code. See the [docs](docs/index.md) for the before/after.
+
 ## Where the builds come from
 
 Every build here comes from [parses.gg](https://parses.gg), and nothing else.
