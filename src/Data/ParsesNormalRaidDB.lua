@@ -5,7 +5,7 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-08-05 02:00:50",
+	updated = "2026-08-06 02:00:44",
 	gameBuild = "12.0.7.68887",
 
 	[1] = {
@@ -61,11 +61,11 @@ local talentData = {
 			[73] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0CAAYmZYmZmZmZ2MzsNjHwYmGGzsZmZmZYGzMAAAAgZAmxAALmxwCMwMsQjZWYmZMzwMGAgZGAgB8AA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzMMzMzMmNzMLDjxoZMGWMzMzYGmZAAAAgZGgZ2GgB2glFjGzAYWwMbwMzMDjtBAzMAAMD4BA",
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0CAAYmZYmZmZmZ2MzsNjHwYmGGzsZmZmZYGzMAAAAgZAmxAALmxwCMwMsQjZWYmZMzwMGAgZGAgB8AA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzMMzMzMmNzMLDjxoZMGWMzMzYGmZAAAAgZGgZ2GgB2glFjGzAYWwMbwMzMDjtBAzMAAMD4BA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -77,11 +77,11 @@ local talentData = {
 			[65] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYZmZxMNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYM8AA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglZmZGzYmZ2YMGzyYbmZxoJmlZMzMMMbZAYADbgNWmxMLz2Mzs1AAAAsAAbGGzYGAAwMDGjhHA",
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYZmZxMNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYM8AA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglZmZGzYmZ2YMGzyYbmZxoJmlZMzMMMbZAYADbgNWmxMLz2Mzs1AAAAsAAbGGzYGAAwMDGjhHA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -97,6 +97,36 @@ local talentData = {
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
+				[2] = {
+					label = "Imperator Averzian",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwMlhhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwDA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vorasius",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwMlhhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwDA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMMMzYbY2GmZbGjxMDzYjthBAAmZabmZbGAwGgBMYMDzgZMmNsMDGGzYwDA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwMlhhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwDA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxMzMDAAAAAwMlhhZGbDz2wMbzYMGDzYjNMAAwMTbzMbzAA2AMAYMDDMzMshlZwwYGDeA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
 			},
 		},
 	},
@@ -108,84 +138,96 @@ local talentData = {
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 				},
 				[1] = {
-					label = "Freya",
+					label = "Auriaya",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 					instanceId = 759,
 					instanceName = "Ulduar",
 				},
 				[2] = {
-					label = "General Vezax",
+					label = "Freya",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 					instanceId = 759,
 					instanceName = "Ulduar",
 				},
 				[3] = {
-					label = "Hodir",
+					label = "General Vezax",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 					instanceId = 759,
 					instanceName = "Ulduar",
 				},
 				[4] = {
-					label = "Mimiron",
+					label = "Hodir",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 					instanceId = 759,
 					instanceName = "Ulduar",
 				},
 				[5] = {
-					label = "Thorim",
+					label = "Kologarn",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 					instanceId = 759,
 					instanceName = "Ulduar",
 				},
 				[6] = {
-					label = "XT-002 Deconstructor",
+					label = "Mimiron",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 					instanceId = 759,
 					instanceName = "Ulduar",
 				},
 				[7] = {
-					label = "Yogg-Saron",
+					label = "Thorim",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
 					instanceId = 759,
 					instanceName = "Ulduar",
 				},
 				[8] = {
+					label = "XT-002 Deconstructor",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
+					instanceId = 759,
+					instanceName = "Ulduar",
+				},
+				[9] = {
+					label = "Yogg-Saron",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAgZMGwMbAwsA2eAA",
+					instanceId = 759,
+					instanceName = "Ulduar",
+				},
+				[10] = {
 					label = "Rotmire",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZYZMNDAAAAAAAAgxYAzsBYYWAbPAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMzAMzGghZBs9AA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
-				[9] = {
-					label = "Imperator Averzian",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2eAA",
-					instanceId = 1307,
-					instanceName = "The Voidspire",
-				},
-				[10] = {
-					label = "Vorasius",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2eAA",
-					instanceId = 1307,
-					instanceName = "The Voidspire",
-				},
 				[11] = {
-					label = "Vaelgor & Ezzorak",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2eAA",
+					label = "Imperator Averzian",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGMmmBAAAAAAAAMzYMgZ2AYxsA2eAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[12] = {
-					label = "Fallen-King Salhadaar",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2eAA",
+					label = "Vorasius",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGMmmBAAAAAAAAMzYMgZ2AYxsA2eAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[13] = {
-					label = "Lightblinded Vanguard",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2eAA",
+					label = "Vaelgor & Ezzorak",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGMmmBAAAAAAAAMzYMgZ2AYxsA2eAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[14] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGMmmBAAAAAAAAMzYMgZ2AYxsA2eAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[15] = {
+					label = "Lightblinded Vanguard",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGMmmBAAAAAAAAMzYMgZ2AYxsA2eAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[16] = {
 					label = "Crown of the Cosmos",
 					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2eAA",
 					instanceId = 1307,
@@ -207,7 +249,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawiZmZmZYZAAAAAAwMzMzM2mxYGzgx0MAAAAMAALLzMziZmZGGjBMzGghxYmZzDAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNPAA",
 				},
 				[1] = {
 					label = "Rotmire",
@@ -265,13 +307,43 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
 				},
 				[1] = {
 					label = "Rotmire",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
+				},
+				[2] = {
+					label = "Imperator Averzian",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vorasius",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
 				},
 			},
 		},
@@ -281,7 +353,7 @@ local talentData = {
 			[256] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADswwyMzMDMmZxsNzMjxMDAAAAAAAAAgZMLjxMMjthZGYmmpZGgZ2wQYMLDwYwCAAMmZMzgZAmZGgHA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzCjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMgpZamBYmFMEGzyAMGsAAAjxMjBzAMzMjZ4BA",
 				},
 				[1] = {
 					label = "Rotmire",
@@ -290,6 +362,36 @@ local talentData = {
 					instanceName = "Sporefall",
 				},
 				[2] = {
+					label = "Imperator Averzian",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzCjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMgpZamBYmFMEGzyAMGsAAAjxMjBzAMzMjZ4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vorasius",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzCjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMgpZamBYmFMEGzyAMGsAAAjxMjBzAMzMjZ4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzCjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMgpZamBYmFMEGzyAMGsAAAjxMjBzAMzMjZ4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzCjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMgpZamBYmFMEGzyAMGsAAAjxMjBzAMzMjZ4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzCjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMgpZamBYmFMEGzyAMGsAAAjxMjBzAMzMjZ4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[7] = {
 					label = "Crown of the Cosmos",
 					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADswwyMzMDMmZxsNzMjxMDAAAAAAAAAgZMLjxMMjthZGYmmpZGgZ2wQYMLDwYwCAAMmZMzgZAmZGgHA",
 					instanceId = 1307,
@@ -303,7 +405,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZBmxyYmxMmZMzMjtZYGAAAAzYWmZMDzwMjZgZMTNAwMLmhZxAAjBbMzsBoZMmZMYssMAG4BA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBeA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -347,7 +449,7 @@ local talentData = {
 			[258] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsMzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMAjZmZMbjZ2WGgZwDA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsNzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMAjZmZMbjZ2WGgZwDA",
 				},
 				[1] = {
 					label = "Rotmire",
@@ -444,10 +546,46 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 			},
+			[251] = {
+				[0] = {
+					label = "All Bosses",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjxYY2mZmZmZbGjmZMmZYGGPgZmZmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGAzgHA",
+				},
+				[1] = {
+					label = "Imperator Averzian",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmhZMzYY2mZmZmZzMjmZMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAYgHA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[2] = {
+					label = "Vorasius",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmhZMzYY2mZmZmZzMjmZMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAYgHA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZzMjMjxMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGgZgHA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGgZgHA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmhZMzYY2mZmZmZzMjmZMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAYgHA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+			},
 			[252] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAwyMmZ2MzYMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzY8AA",
 				},
 				[1] = {
 					label = "Rotmire",
@@ -456,18 +594,36 @@ local talentData = {
 					instanceName = "Sporefall",
 				},
 				[2] = {
+					label = "Imperator Averzian",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzY8AA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vorasius",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzY8AA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
 					label = "Vaelgor & Ezzorak",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAwyMmZ2MzYMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[3] = {
+				[5] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzY8AA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
 					label = "Lightblinded Vanguard",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAwyMmZ2MzYMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[4] = {
+				[7] = {
 					label = "Crown of the Cosmos",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzY8AA",
 					instanceId = 1307,
@@ -557,31 +713,31 @@ local talentData = {
 				},
 				[3] = {
 					label = "Imperator Averzian",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYB2gZsox2AYGYjxwM2GjZa2WmZYGzCLmZmxMMLDAAMgZmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[4] = {
 					label = "Vorasius",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYB2gZsox2AYGYjxwM2GjZa2WmZYGzCLmZmxMMLDAAMgZmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[5] = {
 					label = "Vaelgor & Ezzorak",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYB2gZsox2AYGYjxwM2GjZa2WmZYGzCLmZmxMMLDAAMgZmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[6] = {
 					label = "Fallen-King Salhadaar",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYB2gZsox2AYGYjxwM2GjZa2WmZYGzCLmZmxMMLDAAMgZmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[7] = {
 					label = "Lightblinded Vanguard",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzwYmZmZGzYB2gZsox2AYGYjxwM2GjZa2WmZYGzCLmZmxMMLDAAMgZmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -615,7 +771,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzYGzMzMzGAmZgxYMYGeA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDPA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -745,12 +901,18 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor & Ezzorak",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGD4BA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAPA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[5] = {
 					label = "Fallen-King Salhadaar",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGD4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
 					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGD4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
@@ -805,13 +967,43 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMLbGDmxyMWMzMDAAAAAAALLYmwMwMMWMDmZmZMz2wMmZZYZzy2sNjZBAA2AAAAz2s0MzMbMsBwMDTjBAA8AA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
 				},
 				[1] = {
 					label = "Rotmire",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMLbGDmxyMWMzMDAAAAAAALLYmwMwMMWMDmZmZMz2wMmZZYZzy2sNjZBAA2AAAAz2s0MzMbMsBwMDTjBAA8AA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
+				},
+				[2] = {
+					label = "Imperator Averzian",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vorasius",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
 				},
 			},
 			[269] = {
@@ -941,7 +1133,7 @@ local talentData = {
 			[104] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbGGNRzMzyYmZmlZmBAAAAAAsNzALbzMYMbDgJAAAgNMzAsYGMYmFLbAmZAA",
 				},
 				[1] = {
 					label = "Rotmire",
@@ -949,11 +1141,41 @@ local talentData = {
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
+				[2] = {
+					label = "Imperator Averzian",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbGGNRzMzyYmZmlZmBAAAAAAsNzALbzMYMbDgJAAAgNMzAsYGMYmFLbAmZAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vorasius",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbGGNRzMzyYmZmlZmBAAAAAAsNzALbzMYMbDgJAAAgNMzAsYGMYmFLbAmZAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbGGNRzMzyYmZmlZmBAAAAAAsNzALbzMYMbDgJAAAgNMzAsYGMYmFLbAmZAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbGGNRzMzyYmZmlZmBAAAAAAsNzALbzMYMbDgJAAAgNMzAsYGMYmFLbAmZAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMPwMLLDMbGGNRzMzyYmZmlZmBAAAAAAsNzALbzMYMbDgJAAAgNMzAsYGMYmFLbAmZAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
 			},
 			[105] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhJzAAAAAAAAAAAAAwsNzSz2Mb2YMzMMzAjmBAYmBgHA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzsNjFbzAAAAAAAAAAgFDNbzw0MAmFzMzMLmMAAAAAYAAmBAAAAAz2MbNbzsYjZmZGMzGoZAAmZA4BA",
 				},
 				[1] = {
 					label = "Rotmire",
@@ -963,19 +1185,31 @@ local talentData = {
 				},
 				[2] = {
 					label = "Imperator Averzian",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhJzAAAAAAAAAAAAAwsNzSz2Mb2YMzMMzAjmBAYmBgHA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbmx0MjhHwswMzMLmMDAAAAAAAAAAAAAz2MLNbzsZjxMzwMDMaGAgZGAeAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[3] = {
 					label = "Vorasius",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhJzAAAAAAAAAAAAAwsNzSz2Mb2YMzMMzAjmBAYmBgHA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbmx0MjhHwswMzMLmMDAAAAAAAAAAAAAz2MLNbzsZjxMzwMDMaGAgZGAeAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
 				[4] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbmx0MjhHwswMzMLmMDAAAAAAAAAAAAAz2MLNbzsZjxMzwMDMaGAgZGAeAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
 					label = "Fallen-King Salhadaar",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhJzAAAAAAAAAAAAAwsNzSz2Mb2YMzMMzAjmBAYmBgHA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbmx0MjhHwswMzMLmMDAAAAAAAAAAAAAz2MLNbzsZjxMzwMDMaGAgZGAeAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbmx0MjhHwswMzMLmMDAAAAAAAAAAAAAz2MLNbzsZjxMzwMDMaGAgZGAeAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -987,13 +1221,43 @@ local talentData = {
 			[577] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMjZMmZmZmJDDAAAAAAwsZMbzMmZmtZmxysNzMWGMjlB2mFzYYWYaYmxM2AAAAAAAAYmBDAAAAPA",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmZGzEmZAAAAAAAz2wsNzDYmZ2mHYGsNPwMMGGLDsNbmxwsw0YmZMsBAAAAAAAwMDGAAAAeA",
 				},
 				[1] = {
 					label = "Rotmire",
 					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMjZMmZmZmJDDAAAAAAwsZMbzMmZmtZmxysNzMWGMjlB2mFzYYWYaYmxM2AAAAAAAAYmBDAAAAPA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
+				},
+				[2] = {
+					label = "Imperator Averzian",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmZGzEmZAAAAAAAz2wsNzDYmZ2mHYGsNPwMMGGLDsNbmxwsw0YmZMsBAAAAAAAwMDGAAAAeA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Vorasius",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmZGzEmZAAAAAAAz2wsNzDYmZ2mHYGsNPwMMGGLDsNbmxwsw0YmZMsBAAAAAAAwMDGAAAAeA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmZGzEmZAAAAAAAz2wsNzDYmZ2mHYGsNPwMMGGLDsNbmxwsw0YmZMsBAAAAAAAwMDGAAAAeA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Fallen-King Salhadaar",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmZGzEmZAAAAAAAz2wsNzDYmZ2mHYGsNPwMMGGLDsNbmxwsw0YmZMsBAAAAAAAwMDGAAAAeA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmZGzEmZAAAAAAAz2wsNzDYmZ2mHYGsNPwMMGGLDsNbmxwsw0YmZMsBAAAAAAAwMDGAAAAeA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
 				},
 			},
 			[1480] = {
