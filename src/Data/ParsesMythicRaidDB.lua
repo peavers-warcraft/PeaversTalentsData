@@ -5,7 +5,7 @@ addonTable.ParsesMythicRaidDB = addonTable.ParsesMythicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic.
 
 local talentData = {
-	updated = "2026-08-05 02:00:55",
+	updated = "2026-08-06 02:00:45",
 	gameBuild = "12.0.7.68887",
 
 	[1] = {
@@ -642,12 +642,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[16] = {
-					label = "Midnight Falls",
+					label = "Belo'ren, Child of Al'ar",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZzMjxMmBAAAAzMzMzMzMDzMjBAMzMzAAAYgBmxiGLbA2GwGgZYAAAzMYwDA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
 				[17] = {
+					label = "Midnight Falls",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZzMjxMmBAAAAzMzMzMzMDzMjBAMzMzAAAYgBmxiGLbA2GwGgZYAAAzMYwDA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[18] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwDA",
 					instanceId = 1314,
@@ -855,7 +861,7 @@ local talentData = {
 			[266] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbjhZmZmlBAAAAAAAMmxwCMw2wCNsYMGLz2MzMmBAmZMzMzMDgZGzMAAAjZmZMMsMjB8AA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAAAAAAMmxwCMw2wGNsYMGLz2MzMmBAmZMzMzMDgZGjBAAYMzMzMMsMjB8AA",
 				},
 				[1] = {
 					label = "Imperator Averzian",
@@ -889,7 +895,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Belo'ren, Child of Al'ar",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzY2GAAAAAAAwYGDLwAbDL0wixYsMbzMzYGAYmxMzMzMAjZYmNAAwYmZmZYYZGD4BA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAAAAAAMmxwCMw2wGNsYMGLz2MzMmBAmZMzMzMDgZGjBAAYMzMzMMsMjB8AA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
@@ -1273,13 +1279,37 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZwDMjBzY2MzMmZZGAAgZMjZwYmJMzAAAAmZGxYmZmlZmBADMmxGLwAzwQDDLwYmBY8AA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmBAAYGzYwMmRmZGAAAgZmZyMmZegZZmZAwAjZsxCMwMM0AWgxMDw4BA",
 				},
 				[1] = {
-					label = "Rotmire",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZwDMjBzY2MzMmZZGAAgZMjZwYmJMzAAAAmZGxYmZmlZmBADMmxGLwAzwQDDLwYmBY8AA",
-					instanceId = 1305,
-					instanceName = "Sporefall",
+					label = "Vaelgor & Ezzorak",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDmZgZmZ2MmZmZDDAAMjZMwYGZmZAAAAmZmJzMzMmlZmBAzYGYBsAmhJwCsZYAMzMeAA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[2] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmBDzMGGzMzsMDAAwMmxMzYMjwMAAAAzMjYMzMzyMzAgBGzYjFYgZYoBsAjZGgxDA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Crown of the Cosmos",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmBDzMGGzMzsMDAAwMmxMzYMjwMAAAAzMjYMzMzyMzAgBGzYjFYgZYoBsAjZGgxDA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
+					label = "Belo'ren, Child of Al'ar",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmBAAYGzYwMmRmZGAAAgZmZyMmZegZZmZAwAjZsxCMwMM0AWgxMDw4BA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[5] = {
+					label = "Midnight Falls",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmBAAYGzYwMzMyMzAAAAMzMyMmZegZZmZAwAjZsxCMwMM0AWgxMDw4BA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
 				},
 			},
 			[1473] = {
