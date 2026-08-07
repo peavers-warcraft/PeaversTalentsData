@@ -5,7 +5,7 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-08-06 02:00:44",
+	updated = "2026-08-07 02:00:45",
 	gameBuild = "12.0.7.68887",
 
 	[1] = {
@@ -640,42 +640,48 @@ local talentData = {
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsBzwQjNAY2mZmxMbLzEmBWmZmZeADzyMWMzMmZBAYGgZGYY4BA",
 				},
 				[1] = {
+					label = "Yogg-Saron",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEzM2GLzYm5BGWsMjFzMjZWAAGAzMwwwDA",
+					instanceId = 759,
+					instanceName = "Ulduar",
+				},
+				[2] = {
 					label = "Rotmire",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMmZmZZbbgxMDAAAAAsYGDbwCMDDN2AgZZmZGjtFTYmZZsMzMzYYZWmxiZmxMLAADgZGYY4BA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
-				[2] = {
+				[3] = {
 					label = "Imperator Averzian",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsBzwQjNAY2mZmxMbLzEmBWmZmZeADzyMWMzMmZBAYGgZGYY4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[3] = {
+				[4] = {
 					label = "Vorasius",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsBzwQjNAY2mZmxMbLzEmBWmZmZeADzyMWMzMmZBAYGgZGYY4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[4] = {
+				[5] = {
 					label = "Vaelgor & Ezzorak",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsBzwQjNAY2mZmxMbLzEmBWmZmZeADzyMWMzMmZBAYGgZGYY4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[5] = {
+				[6] = {
 					label = "Fallen-King Salhadaar",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsBzwQjNAY2mZmxMbLzEmBWmZmZeADzyMWMzMmZBAYGgZGYY4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[6] = {
+				[7] = {
 					label = "Lightblinded Vanguard",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsBzwQjNAY2mZmxMbLzEmBWmZmZeADzyMWMzMmZBAYGgZGYY4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[7] = {
+				[8] = {
 					label = "Crown of the Cosmos",
 					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsBzwQjNAY2mZmxMbLzEmBWmZmZeADzyMWMzMmZBAYGgZGYY4BA",
 					instanceId = 1307,
