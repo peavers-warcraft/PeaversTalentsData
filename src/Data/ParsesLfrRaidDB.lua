@@ -5,7 +5,7 @@ addonTable.ParsesLfrRaidDB = addonTable.ParsesLfrRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at LFR.
 
 local talentData = {
-	updated = "2026-08-07 02:00:46",
+	updated = "2026-08-08 02:00:48",
 	gameBuild = "12.0.7.68887",
 
 	[1] = {
@@ -59,7 +59,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZWMzMzMzMjZmZmZmZsYMzMzMbmZmBAAixy2ALgBMDTgBbAzMMWGAAMzwYMgZ4BA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjxMsMzMzMDjZmZGzMzsMzMGzMbDzMAAQMWWGYBMgZYCMDbAzMbMbDAAmZMMmZGG8A",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -70,18 +70,24 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[3] = {
+					label = "Crown of the Cosmos",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMzMmxMjZMzMzyMzYMmlxMzAAAhB2glFjGzAYWwMWAMwYAwMDghZmZGG8A",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
 					label = "Belo'ren, Child of Al'ar",
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMGz2yMmZmZmxMzMjZMzyMzYmxsNmZGAAIGLLDsAGwMMBmhNAzgxAAgZmZYGmhBPA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[4] = {
+				[5] = {
 					label = "Midnight Falls",
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMGz2yMmZmZmxMzMjZMzyMzYmxsNmZGAAIGLLDsAGwMMBmhNAzgxAAgZmZYGmhBPA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[5] = {
+				[6] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZWMzMzMzMjZmZmZmZsYMzMzMbmZmBAAixy2ALgBMDTgBbAzMMWGAAMzwYMgZ4BA",
 					instanceId = 1314,
@@ -147,7 +153,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglZmZGzYmBGjxsM2MziRTMMmZGGmtMAMAsB2YZmZmlZbmZ2aAAAAWYDwmhxMmhBAgZGmxY4BA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxY4BA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -218,6 +224,12 @@ local talentData = {
 					instanceName = "Sporefall",
 				},
 				[2] = {
+					label = "Crown of the Cosmos",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMDzyYbmZMzMLbjxYmlZbGDAwAAAAAAg0MDDmhhZLAYgZAD2GAAAAMzsts02MjFGMwCMmhxAgZGAjZGkHA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYZMjZmZZbMzwsMLzYAAGAAAAAA00MziZMzwws1GAGYAzgNAAwMTbzMLzAAsZGMAYMDjBAYZGgZGwDA",
 					instanceId = 1314,
@@ -231,7 +243,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAMAAaW2mZmtZmZmBAAAAAwoMmhZGbGzygZZmxMmZMzYhtHAAAwMTbzMLzAA2AMwyYGmhBmZMDsNDGDAeA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwDA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -301,7 +313,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYsAAgZGbzMjZmxMjBzYmBzMmZGzYGLzMjZMDGaGAAAAAzAAAwMzMGmZAC2MLAPAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYsAAgZMbjZ2egZYGzMMmxYmZmxMzMzMDzYMjZwQzAAAAAAAAAmZMGmZACDzCY7BAA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -337,7 +349,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Crown of the Cosmos",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYmx2MzYmhZGDmxMDmZMzMmxMWmZGzYGM0MAAAAAmBAAgZmZAMzCAbmFw2DAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZYMDLDNDAAAAAAAAYegxMDYmNAYWAbPAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -567,7 +579,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzwyMjZmBMbzYmZMjZGAAAAAAAAAADzyMYmZGmxMDYamYAmZBDhxsMAjBLAAwYmZGDmBYmZGwDA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYYWmZMmZmhZbGzMzYMzAAAAAAAAAAYYWmBzMzwMMD2MNTMAzshhwYWGgxgFAAYMzMjhZGgZmB4BA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -699,7 +711,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYmx2MGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwM4BA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsNzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMAjZmZMbjZ2WGgZwDA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -769,7 +781,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwY2mZmxMmZmhZZmZmmZxYMmxAAAAAmxMzMzMDzYMAYMzMzAAAYgBmxiGLLAWGwGgZMzAAAzMwwDA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMbzMz0MLmZMmxAAAAAmZmZmZmZYmZMAgZmZGAAgxsNwAWAbDTghFAzwAAwMDA8AA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -947,7 +959,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhHA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMzMzMLLLzMYmBAAAAAsYGDLwCMDDN2AgZZmZmZssNaDsYWMzMzMDzywixMmZBAYGgZGYY4BA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -1018,18 +1030,24 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[4] = {
+					label = "Crown of the Cosmos",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZGzMzMzMzMzYGAAAAAAAAAYB2gZsox2AYGwGAzyMmxMLLGYmZjlZmZmBGzAAAjZGzMxMDwgxDA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
 					label = "Belo'ren, Child of Al'ar",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzw4BmZmZmZmZmZGAAAAAAAAAA2MjhNYDmhhGsAwsNjZG2MsMMzmZzMzMmZMmBAYGGzgRzGmZwgxDA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[5] = {
+				[6] = {
 					label = "Midnight Falls",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzw4BmZmZmZmZmZGAAAAAAAAAA2MjhNYDmhhGsAwsNjZG2MsMMzmZzMzMmZMmBAYGGzgRzGmZwgxDA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[6] = {
+				[7] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzYMzMzMzMzMzMzAAAAAAAAAsBYzMG2gFYGGawCAzyMmxMLLGYmZbsMzMzMYZMDAgBmBjAzMYw4BA",
 					instanceId = 1314,
@@ -1197,7 +1215,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzywMTMzMjZmZmZxMzwMmBAAAmZmZZZmpNAAYDAAAYBgttxMzMY2GGzMWAAAYmNgZgBMDeAA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzsZsMzMzGzMTMDjZmZmZxMzwMmBAAAmZmZZZmpNAAYBAAAYBgttxMzMY2GGzMWAAAYmNgZYMgZwDA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -1233,7 +1251,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Crown of the Cosmos",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzMMbDjZYBAAgZ2AmBGwM4BA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYmNjlZmZ2YmZiZGjZmZmhZmZGzYAAAgZmZ2WmZaDAA2AAAAWAYbbMzMDmNDzMjFAAAmZBYGGDYgHA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1267,7 +1285,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsNbmZWGDAM22GYADYG2CMsNAAAMDAAgZmxMmZ2GjZMmZmZMMzMDAwAeA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAsMmhhmFzMLmZmZZAAAzMzysMzMLmBAsBDMLGNmBwsAWGAAAMAAwMDGzMMbjBzgZmZeAmZmZAAzAPA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -1351,7 +1369,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Crown of the Cosmos",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMz2AAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZAAAMmZmxwwyMGwDA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZzMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMDAAgxMzYGG2mxAeAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1451,7 +1469,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgxyMmhZYmZhZmBAAAAAAglFMiZGYGGLmxYegZmhZZMzYmlhlNLbzGzsAAAbAAAgZZ2amZmNGWAYmhpZGAAwDA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZZzYGzwyM2MmZMAAAAAAALLwEzMwMMYGMzMzYmNMjZWG22ssNbzYWAAgNAAAwsNLNzMzGDbAMzw0YADA4BA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -1481,7 +1499,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAPA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMjBjBbzMz2MAAAAAAAAAAAALDjwMzGGwYmxMjZGz2swwsMTAAbmZZMMmZGAAbAwsNLNzMzCwwAzMAwyAYAPA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -1523,7 +1541,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMzyYZYxixMjNzsstMjZWMzyy2MjFGaGzYBDGmxsNzMzwsBY2mJAAAAwsMtMLzsMbAAAAMYYmBAGDADA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMzyMbjZZWMjZsglllZw2Mzy2yMDmx0MmZWwghBLzMmhZZMGsZCAAAAAAWsNzysNzEAAGAgZAjhBZMDA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -1559,7 +1577,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Crown of the Cosmos",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZbGbYmZYmlllZGLMjmxMgBDGz2MjZY2GMYzEAAAAAAsYZmlZbmJAAMYMAzAGDjFZMDA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMzyMbjZZWMjZsglllZw2Mzy2yMDmx0MmZWwghBLzMmhZZMGsZCAAAAAAWsNzysNzEAAGAgZAjhBZMDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1743,7 +1761,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Crown of the Cosmos",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMMjZ2MLzMjxyAzGMaimZmlZmZmxYGDAAAAAwMWmBAAAANzysMzMDAgFjZGgFzgBsgBAzsBPA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmNzMjZWMLm5BmZZZgZzMGNRmZWmZmZmlxMAAAAAAYsYGYbbmBjZZAMBAAAshZegBsYGMwsYZDwMDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1867,7 +1885,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Crown of the Cosmos",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzmxMzMzMz0MGDAAAAAAYWGzYmHADzMD2mxMLjZwyMLzghx2GTYmxYGLAAAAAAAgZGwMAAAA8A",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMzYmMmZAAAAAAAzixsMDzMwM2mtZmZMGYZglZzMGmFmGzMjhNAAAgBAAAwMDGAAAAeA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1897,7 +1915,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Rotmire",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAWMmZmxwMTmZGYxMmBzMmZMzDMzMjhZ2mZsZmxYYAAAAAAAAYmZmNAAAAMwMzMzs12MzMAwAAAA4BA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAWmxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZsNzMGDDAAAAAAAAzMjNAAAAMwMzMzs12MzMAAAAAAPA",
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
@@ -2026,54 +2044,60 @@ local talentData = {
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GAAAzYGzghZaMzMAAAgZmZaGmZmZZMDAMmBWAbgZYCsZGbGmBYmhHA",
 				},
 				[1] = {
+					label = "Rotmire",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMPwsNzYM2GGAAYGzYGjhZixMAAAgZmZaGzMzMLjZAAYMjNWgBmhhGGWgZmZA4BA",
+					instanceId = 1305,
+					instanceName = "Sporefall",
+				},
+				[2] = {
 					label = "Imperator Averzian",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmNzYM2mxAAAzwMzYMMTMzMAAAw2MzMNDzMzsNmBAgxM2YBGYGGaYYBGzMA8AA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[2] = {
+				[3] = {
 					label = "Vorasius",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmNzYM2mxAAAzwMzYMMTMzMAAAw2MzMNDzMzsNmBAgxM2YBGYGGaYYBGzMA8AA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[3] = {
+				[4] = {
 					label = "Vaelgor & Ezzorak",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GAAAzYGzghZaMzMAAAgZmZaGmZmZZMDAMmBWAbgZYCsZGbGmBYmhHA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[4] = {
+				[5] = {
 					label = "Fallen-King Salhadaar",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmNzYM2mxAAAzwMzYMMTMzMAAAw2MzMNDzMzsNmBAgxM2YBGYGGaYYBGzMA8AA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[5] = {
+				[6] = {
 					label = "Lightblinded Vanguard",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GAAAzYGzghZaMzMAAAgZmZaGmZmZZMDAMmBWAbgZYCsZGbGmBYmhHA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[6] = {
+				[7] = {
 					label = "Crown of the Cosmos",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAegZmZ2WGYYmxsZGjx2wAAAzYmZmZMMTMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZA4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[7] = {
+				[8] = {
 					label = "Belo'ren, Child of Al'ar",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2MwwMzDMbmZGsNjBAAmZMmhZYmMzMDAAAYmZmmBzMjxMAAMmxCLwAzwQDYBmZmBgHA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[8] = {
+				[9] = {
 					label = "Midnight Falls",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2MwwMzDMbmZGsNjBAAmZMmhZYmMzMDAAAYmZmmBzMjxMAAMmxCLwAzwQDYBmZmBgHA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[9] = {
+				[10] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGYYmZmNzA2GAAAzYGzghZaMzMAAAgZmZaGmZmZZMDAMmBWAbgZYCsZGbGmBYmhHA",
 					instanceId = 1314,
@@ -2106,6 +2130,12 @@ local talentData = {
 				[4] = {
 					label = "Fallen-King Salhadaar",
 					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAMDMMjpGzMzAAAAgZMzMPwMz2YmBmZzYwCsMGN2GAzgYDzMwMDgHA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
+					label = "Crown of the Cosmos",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsNjxwMAAAAAAAAwMMzAjpGzMzAAAAAzMjxMz2YmBmZzYwCsMGN2GAzgYDzMDmZwgHA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
