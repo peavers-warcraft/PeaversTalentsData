@@ -5,7 +5,7 @@ addonTable.ParsesHeroicRaidDB = addonTable.ParsesHeroicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Heroic.
 
 local talentData = {
-	updated = "2026-08-08 02:00:48",
+	updated = "2026-08-09 02:00:45",
 	gameBuild = "12.0.7.68887",
 
 	[1] = {
@@ -242,6 +242,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[5] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNj5BYWGLjZMzMLLjZGmlZZGDAAAAAAAA00MziZMzwwsFAMgBMYbAAgZm2mZWmBAYzMYAwYGGDAwyMgZmB8AA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[6] = {
+					label = "Crown of the Cosmos",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYZMjZmZZZMzwsMLDDAwAAAAAAgmmZMzYmhhZrFAMwAGYDAAMz02MzyMAAbmBDgxYGzYAAWmBYmB8AA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[7] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMYWGLjZMjZbZMzwsMbzYAAGAAAAAA00MDzYmhxMbtBgBAMYbAAgZm2mZWmBAYzADYwYGGDAwyMgZmB8AA",
 					instanceId = 1314,
@@ -285,7 +297,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Lightblinded Vanguard",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAMAAa22mZsMGzMAAAAAAGlZbGmZsNMbDzsNjZGzMMjF2eAAmlZbmZ2aAAAgFADAGDmBzYmZDYmZYMM4BA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxMzMDAAAAAwMlhhZGbDz2wMbzYMGDzYjNMAAwMTbzMbzAA2AMAYMDDMzMshlZwwYGDeA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -355,7 +367,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Crown of the Cosmos",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGMmmBAAAAAAAAMzYMgZ2AYxsA2eAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMzAMzGghZBs9AA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -627,7 +639,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Crown of the Cosmos",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAzCjZYmZMbzsNzMzMMDAAAAAAAAAgZYZGMzMDzwMgpZamBYmNMEGzyAMGsAAAjxMjBzAMzMjZ4BA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDPA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1220,6 +1232,12 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[7] = {
+					label = "Crown of the Cosmos",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZGzMzMziZmZMjZAAAgZmZWWmZaDAAAAAAsBw2yYmZGMbDjZYBAAgZ2AmhxAmBPA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[8] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFbPwMTMzYmZmZmZzMzMmxMAAAwMzMbLzMtBAALAAAALAstNmxMYWMGzMWAAAYmNgZYMAwDA",
 					instanceId = 1314,
@@ -1402,18 +1420,24 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[4] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYBgZGmGDAA4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[5] = {
 					label = "Crown of the Cosmos",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[5] = {
+				[6] = {
 					label = "Midnight Falls",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[6] = {
+				[7] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAA4BA",
 					instanceId = 1314,
@@ -1870,6 +1894,12 @@ local talentData = {
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMzMzgZYGGMzwYMTjZmJzMWmZmZGzYmZGwMzMYmZZMDMwYwGsMGN2GAzggNMwMDwDA",
 				},
 				[1] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmHYGmZMzwMjxMMzMTzYmJzM2GzMMGzMzAmZGwMLjZwMgxMwGYBMDTgNwywAYmBPA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[2] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMzMzgZYGGMzwYMTjZmJzMWmZmZGzYmZGwMzMYmZZMDMwYwGsMGN2GAzggNMwMDwDA",
 					instanceId = 1314,
