@@ -5,7 +5,7 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-08-08 02:00:50",
+	updated = "2026-08-09 02:00:45",
 	gameBuild = "12.0.7.68887",
 
 	[1] = {
@@ -129,7 +129,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Lightblinded Vanguard",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxY4BA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglZmZGzYmZ2YwYWGbzMLzoJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxY4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -549,7 +549,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Lightblinded Vanguard",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBeA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBeA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -655,7 +655,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Lightblinded Vanguard",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmxYMLzMz0MbzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAY8AA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLjZmmZzMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1033,6 +1033,12 @@ local talentData = {
 					instanceId = 1305,
 					instanceName = "Sporefall",
 				},
+				[2] = {
+					label = "Lightblinded Vanguard",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMA4BYA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
 			},
 			[63] = {
 				[0] = {
@@ -1249,7 +1255,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Lightblinded Vanguard",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZzMzMLGjFzAAgZmxMzsAGzYYBGYbYjGLMAAwYgxGAmZAMzYMAAAMzMzAAYM8A",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjx2MzYWmlhZmFjZZxMAAYMjZmZBMmxwCMw2wGNWYAAgBYsBgZGgZmxYAAAYmZGAAmZ4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1309,7 +1315,7 @@ local talentData = {
 			[269] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAGLDgB8A",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMTYGbDDYGDzMzMMLYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAPA",
 				},
 				[1] = {
 					label = "Rotmire",
@@ -1320,6 +1326,12 @@ local talentData = {
 				[2] = {
 					label = "Vaelgor & Ezzorak",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgB8A",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[3] = {
+					label = "Lightblinded Vanguard",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzMD2GGsMzMbzAAAAAAAAAAAAsMMTYGbDDYGDzMzMMLYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAPA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1622,6 +1634,18 @@ local talentData = {
 				[6] = {
 					label = "Lightblinded Vanguard",
 					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2MmZmZGzEmZAAAAAAAz2wsNzDYmZ2mHYGsNPwMMGGLDsNbmxwsw0YmZMsBAAAAAAAwMDGAAAAeA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+			},
+			[581] = {
+				[0] = {
+					label = "All Bosses",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMzkZmhZWMjZgZMzYGzMzYYmtZGbMz2YYAAAAAAAAYmZmNAAAAMwMzMzs12MzMAwAAAA4BA",
+				},
+				[1] = {
+					label = "Lightblinded Vanguard",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMzkZmhZWMjZgZMzYGzMzYYmtZGbMz2YYAAAAAAAAYmZmNAAAAMwMzMzs12MzMAwAAAA4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
