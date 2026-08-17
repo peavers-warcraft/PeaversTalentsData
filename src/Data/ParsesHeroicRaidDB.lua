@@ -5,7 +5,7 @@ addonTable.ParsesHeroicRaidDB = addonTable.ParsesHeroicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Heroic.
 
 local talentData = {
-	updated = "2026-08-16 02:00:45",
+	updated = "2026-08-17 02:00:47",
 	gameBuild = "12.0.7.68887",
 
 	[1] = {
@@ -110,6 +110,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[8] = {
+					label = "Belo'ren, Child of Al'ar",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZmZGzMzCMGWGbzMLmpJmlZMzMMMbZAYAYDsZWmZmZZ2mZmtGAAAgF2AsBjhZGAAYmhZMGeAA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZmZGzMzCMGWGbzMLmpJmlZMzMMMbZAYAYDsZWmZmZZ2mZmtGAAAgF2AsBjhZGAAYmhZMGeAA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[10] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwgtxMYGzMzCjxYWGmZWmZaiZZGzMDDzWGAGA2AbsMzMzysNzMbNAAAALshBbAzsYGAAYmBjxwDA",
 					instanceId = 1314,
@@ -346,6 +358,12 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[8] = {
+					label = "Midnight Falls",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBz4BA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[9] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwMzMzYMbDzMbLzMjZmZMYMz2AAAAwgxAGzmhBGYWYhWshZAzMYGPAA",
 					instanceId = 1314,
@@ -453,7 +471,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor & Ezzorak",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMjZMGAAAAAAAAAAAADLzMGLzMMzyMDzMzmZGzYGbIzYxMNAzMzAABY2mtNwsxAMGDGzMzMz2YGMzgZwDA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsNzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMAjZmZMbjZ2WGgZwDA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -476,6 +494,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[8] = {
+					label = "Belo'ren, Child of Al'ar",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbMZYxMNAzAMziZY2MAkxYBAzAMmZmxsNmZbZAmBPA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsNzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMAjZmZMbjZ2WGgZwDA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[10] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjxyMDzsNzwMsNzMmZmxGyMWMTDwMAzsZGmNDAZMWAwMAjZmZMbjZ2WGgZwDA",
 					instanceId = 1314,
@@ -706,6 +736,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[7] = {
+					label = "Belo'ren, Child of Al'ar",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYBWgZsox2AYGwGAzyMmxMLLzAzMbsNzMzwwYGAADwYmJmZAgxDA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[8] = {
+					label = "Midnight Falls",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAAsBYzMG2gFYGGawCAzyMmZGLLzAzMbsMzMz8AGLjZAAmhxMDjAzMYw4BA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[9] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmZmZmZGAAAAAAAAgNAbmxwGsAzwQDWAYWmxMmZZZGMzMbjFzMzMYhZAAmhxMYEYmBDGPA",
 					instanceId = 1314,
@@ -958,30 +1000,36 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[3] = {
+					label = "Vaelgor & Ezzorak",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYmxyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZzy2YGzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
+					instanceId = 1307,
+					instanceName = "The Voidspire",
+				},
+				[4] = {
 					label = "Fallen-King Salhadaar",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAA4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[4] = {
+				[5] = {
 					label = "Lightblinded Vanguard",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYBgZGmGDAA4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[5] = {
+				[6] = {
 					label = "Crown of the Cosmos",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
-				[6] = {
+				[7] = {
 					label = "Midnight Falls",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbzYGzwyM2wMjBAAAAAAYZBjYmBmhZ2YwMzMDz2wMmZZYZ7B22GDzCAAsBAAAmtZpZmZWYYDgZGmGDAA4BA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
-				[7] = {
+				[8] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAA4BA",
 					instanceId = 1314,
@@ -1107,7 +1155,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Vaelgor & Ezzorak",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYGjZWGbzYGbsMzyYmZMLYYAGgltxGmmZWGAAAAsxMzMD2MwYGAzMAwDA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBMDzyMLjlZMjNWmxYmZGLYAwAssN2w0MzyAAAAgNmZmZwmBGzAYmBAeAA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1130,6 +1178,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[8] = {
+					label = "Belo'ren, Child of Al'ar",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMmZmZhBjZZmlZWMzMWYZmlxMjxGGGgx22MDGz2AYCAAAwCzMzMYzYGjBAgZG4BA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[9] = {
+					label = "Midnight Falls",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsNjZsxyMLjZGmFMMADwy2YDTzMLDAAAA2YmZmBbGDjZAMzAAPAA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[10] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmlZmZmBYYWmZZsNjZsxyMLjZmhFMAYAW2GbYamZZAAAAwmZmZmBbGDjZAMzAAPAA",
 					instanceId = 1314,
@@ -1263,7 +1323,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Vaelgor & Ezzorak",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDYmZYswMAAAAAAAAAAYzQzGjpZGYMLjZmZYyMAAAAAMAAAAAAAgZbmlmtZ2sxMzMYmBGNDAwMDAPA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDMmxmxCzAAAAAAAAAAgFDNbzMmmZAmlxMzMLmYGAAAAADAwAssN2w0MzyAAAAYBzMGmZsxoZAwMDA4BA",
 					instanceId = 1307,
 					instanceName = "The Voidspire",
 				},
@@ -1286,12 +1346,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[7] = {
-					label = "Midnight Falls",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbmx0MjhHwswMzMLmMDAAAAAAAAAAAAAz2MLNbzsZjxMzwMDMaGAgZGAeAA",
+					label = "Belo'ren, Child of Al'ar",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLjZMzMmthHYMjFsMmBAAAAAAAAAALGa2mZMNzAMLjZmZWMxMAAAAAGAgZAbbjFMNzsMAAAAWwMjBzYjRzAgZGAwDA",
 					instanceId = 1308,
 					instanceName = "March on Quel'Danas",
 				},
 				[8] = {
+					label = "Midnight Falls",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDYmZYswMAAAAAAAAAAYbQzGjpZGDPgZZmZmZYyMAAAAAAAAAAAAAMbzs0sNzmNGzMDzMwoZAAmZA4BA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[9] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wMzM2MWGzAAAAAAAAAAgtBNbMmmZMmxsYmZmxMZMAAAAAAAYAbbjNMNzsMAAAAWgZeAYmFDaGAMzAAA",
 					instanceId = 1314,
@@ -1338,6 +1404,18 @@ local talentData = {
 					instanceName = "The Voidspire",
 				},
 				[6] = {
+					label = "Belo'ren, Child of Al'ar",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGLz2YGLjZMWmZbGMMW2YCjZGDLAAAAAAAgZGgBAAAgHA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[7] = {
+					label = "Midnight Falls",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxMzkxMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAeA",
+					instanceId = 1308,
+					instanceName = "March on Quel'Danas",
+				},
+				[8] = {
 					label = "Chimaerus the Undreamt God",
 					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxMzkxMDAAAAAAYWMzsNzDgBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAeA",
 					instanceId = 1314,
