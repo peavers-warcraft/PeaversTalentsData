@@ -62,9 +62,15 @@ local ERR_INVALID_INDEX = "Invalid build index provided"
     had three of its own) and adding a raid meant a new file, a new scraper and
     a new tab. A new raid is now new rows and nothing else.
 
-    `mythic` is Mythic+, and it is empty: parses.gg does not index keys yet. The
-    entry exists so the day it does, builds appear with no addon change --
-    `GetBuilds` simply returns nothing for it until then.
+    `mythic` is Mythic+, pooled by keystone band rather than by exact level, so
+    a build is what people ran across a band. A dungeon is data on the row the
+    same way a raid is, which is why one database covers all of them.
+
+    It shipped empty and this comment used to say why: parses.gg did not index
+    keys. It did -- the read that was meant to notice had been failing quietly,
+    and the file stayed empty for seventeen days while the platform published
+    keys the whole time. Worth remembering the next time a category is empty and
+    there is a comment here explaining that it should be.
 ]]
 local PROVIDERS = {
     parses = {

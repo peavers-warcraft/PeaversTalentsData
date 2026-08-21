@@ -134,7 +134,7 @@ Gets the last update time for each data source or a specific one if provided.
 
 - Each source entry is keyed by category: `mythic` (Mythic+), `lfr_raid`, `normal_raid`, `heroic_raid`, `mythic_raid`.
 - A category with no database loaded appears as `nil`.
-- `mythic` is currently empty: parses.gg does not index keystone runs yet. The category exists so builds appear without an addon change when it does.
+- `mythic` is Mythic+, pooled by keystone band rather than by exact level. A dungeon is data on the row, like a raid is, so a new dungeon needs no change here.
 
 ### 3. `API.GetSources()`
 

@@ -40,7 +40,7 @@ change needed here.
 | `ParsesNormalRaidDB` | Raid, Normal |
 | `ParsesHeroicRaidDB` | Raid, Heroic |
 | `ParsesMythicRaidDB` | Raid, Mythic |
-| `ParsesMythicDB` | Mythic+ -- empty; parses.gg does not index keystone runs yet |
+| `ParsesMythicDB` | Mythic+, pooled by keystone band |
 
 **A raid is data, not a database.** One file per difficulty, and each boss build
 carries `instanceId` and `instanceName`, so a difficulty holds every raid being
