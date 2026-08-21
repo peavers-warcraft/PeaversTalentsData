@@ -34,6 +34,14 @@ rather than papering over it: a spec with no logged pulls at a difficulty is
 simply absent from that database. Coverage grows as people log fights, with no
 change needed here.
 
+**Only the current season's content is published**, and a database with none of
+it yet ships empty rather than stale. A season opens on a server-side switch
+rather than a client patch, so a partition holds the pre-season week
+permanently -- filtering on the patch alone leaves last expansion's raids in the
+pool for good. `ParsesHeroicRaidDB` and `ParsesMythicRaidDB` are empty at the
+time of writing for exactly that reason: they are real, loadable databases that
+hold nothing, and they fill in as the season is logged.
+
 | Database | Content |
 | --- | --- |
 | `ParsesLfrRaidDB` | Raid, Looking For Raid |
