@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-08-21 00:17:53",
+	updated = "2026-08-21 00:42:30",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -406,7 +406,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzYmZbGAAAAAAzYmZmltZMmxMsMmmBAAAYAAW2mZsMjZGMGDAzYDMGmZzDAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMzMbzAAAAAAYGzMzYbGjZMDbjpZAAAAGAgltZGLDzM8AjxAwM2AjhZ28AAA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -434,7 +434,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMzMbzAAAAAAYmZmZGbzYMjZGGTzAAAAMAALbzMWGmZwYMAMjNwYYmNPAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMzMbzAAAAAAYGzMzYbGjZMDbjpZAAAAGAgltZGLDzM8AjxAwM2AjhZ28AAA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -1525,6 +1525,12 @@ local talentData = {
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLzMjZmxsNMYmNjNmBAAAAAAAAAAbDa2YMNzY4BMLzMzMDTmBAAAAAAAAAAAAgZbmlmtZ2sxYmZYmBGNDAwMDAPAA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
+				},
+				[4] = {
+					label = "Voidscar Arena",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMmZmZxMjZmZmlBzYGMbYAAAAAAAAAAwihmtZYaGAziZmZmFTGAAAAAMAgZGAAAAAMbzs1sNziNmZmZwYD0MAAzMA8AA",
+					instanceId = 1313,
+					instanceName = "Voidscar Arena",
 				},
 			},
 		},
