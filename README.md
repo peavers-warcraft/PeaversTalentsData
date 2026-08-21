@@ -2,18 +2,63 @@
 
 [![AddonSentry](https://addonsentry.io/api/public/repos/peavers-warcraft/PeaversTalentsData/badge.svg)](https://addonsentry.io/dashboard/peavers-warcraft/PeaversTalentsData)
 
-A data library addon for World of Warcraft that provides daily updated talent export codes from wowcompare.io.
+A data library addon for World of Warcraft that provides daily updated talent export codes from [parses.gg](https://parses.gg).
 
 ## Features
 
 <!-- peavers:features -->
-- High-quality talent data sourced from wowcompare.io
-- Daily updates for accuracy and relevance
+- Talent builds from parses.gg, taken from real logged pulls
+- Every build is a loadout somebody actually ran, not a consensus assembled pick by pick
+- Daily updates
 - Optimized for minimal performance impact
 - Designed for integration with other addons
 <!-- /peavers:features -->
 
 <!-- peavers:custom -->
+## Version 1.0 is a breaking change
+
+The sources this drew on were retired -- Archon at their request that we stop
+using their data, and Wowhead alongside them -- so source names, category names
+and the build shape all moved. `API.VERSION` is how a consumer detects it; WoW's
+`## Dependencies:` carries no version constraint, so the TOC number cannot be
+read from code. See the [docs](docs/index.md) for the before/after.
+
+## Where the builds come from
+
+Every build here comes from [parses.gg](https://parses.gg), and nothing else.
+Archon and Wowhead were both retired as sources -- Archon at their request that
+we stop using their data.
+
+That is a smaller pool than the addon used to draw on, and the databases say so
+rather than papering over it: a spec with no logged pulls at a difficulty is
+simply absent from that database. Coverage grows as people log fights, with no
+change needed here.
+
+**Only the current season's content is published**, and a database with none of
+it yet ships empty rather than stale. A season opens on a server-side switch
+rather than a client patch, so a partition holds the pre-season week
+permanently -- filtering on the patch alone leaves last expansion's raids in the
+pool for good. `ParsesHeroicRaidDB` and `ParsesMythicRaidDB` are empty at the
+time of writing for exactly that reason: they are real, loadable databases that
+hold nothing, and they fill in as the season is logged.
+
+| Database | Content |
+| --- | --- |
+| `ParsesLfrRaidDB` | Raid, Looking For Raid |
+| `ParsesNormalRaidDB` | Raid, Normal |
+| `ParsesHeroicRaidDB` | Raid, Heroic |
+| `ParsesMythicRaidDB` | Raid, Mythic |
+| `ParsesMythicDB` | Mythic+, pooled by keystone band |
+
+**A raid is data, not a database.** One file per difficulty, and each boss build
+carries `instanceId` and `instanceName`, so a difficulty holds every raid being
+run at it. A new raid appears as new rows -- no new file, no new scraper, and no
+change in any addon reading this one.
+
+Builds also carry `gameBuild`, the patch the loadout string was spelled against.
+A loadout code is a walk over every node of the spec's talent tree in the
+client's order, so it only means anything against the tree that produced it.
+
 ## For Developers
 
 Import the library in your addon and access talent data through the provided API. See [PeaversTalents](https://github.com/peavers/PeaversTalents) for a practical implementation example.

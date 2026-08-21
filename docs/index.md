@@ -5,7 +5,9 @@ layout: default
 
 # PeaversTalentsData
 
-**PeaversTalentsData** is a World of Warcraft addon library that provides access to curated talent builds for each class specialization from multiple sources. It exposes a public API that developers can leverage to retrieve talent builds and metadata such as last update times and available sources.
+**PeaversTalentsData** is a World of Warcraft addon library that provides talent builds for each class specialization, taken from real logged pulls on [parses.gg](https://parses.gg). It exposes a public API for retrieving builds and metadata such as last update times and available sources.
+
+Every build is a loadout somebody actually ran. That is deliberate: a build assembled by taking the most popular pick at each node independently can spend more points than the game allows, and is a build nobody played.
 
 ## Installation & Setup
 
@@ -21,21 +23,48 @@ layout: default
    ```
 
 ---
+## Version 1.0 — what changed
+
+`PeaversTalentsData` 1.0 is a breaking change. The sources it drew on were
+retired (Archon at their request; Wowhead alongside them), so:
+
+| Before | Now |
+| --- | --- |
+| sources `top-players`, `most-popular`, `community`, `worldwide` | `parses` |
+| categories `mythic`, `raid`, `misc`, `sporefall_*` | `mythic`, `lfr_raid`, `normal_raid`, `heroic_raid`, `mythic_raid` |
+| a database per raid per difficulty | one per difficulty; bosses carry `instanceId` / `instanceName` |
+| `dungeonID` capped at 8 | `index`, no upper bound |
+
+**Detecting the version.** WoW's `## Dependencies:` names an addon and nothing
+more, so the TOC version is invisible to code. `API.VERSION` is the check:
+
+```lua
+local API = _G["PeaversTalentsData"] and _G["PeaversTalentsData"].API
+if not API or (API.VERSION or 0) < 1 then
+    -- pre-1.0: different sources, categories and build shape
+end
+```
+
+Calling a retired source returns an error naming it, rather than a generic one,
+so a consumer a version behind gets told what happened.
+
+---
 ## API Overview
 
 The **PeaversTalentsData** library exposes a set of functions via `PeaversTalentsData.API` that allow you to:
 
-- Retrieve talent builds for a given class specialization from various sources.
-- Query the last update timestamps for each data source.
+- Retrieve talent builds for a given class specialization.
+- Group a difficulty's builds by the raid they came from.
+- Query the last update timestamps for each category.
 - List which sources are currently available.
 
 ---
 
 ## Function Reference
 
-### 1. `API.GetBuilds(classID, specID, [source], [dungeonID])`
+### 1. `API.GetBuilds(classID, specID, [source], [index])`
 
-Retrieves a list of builds for a specific class & specialization. You can optionally filter by `source` and/or a specific `dungeonID`.
+Retrieves a list of builds for a specific class & specialization. You can optionally filter by `source` and/or a specific build `index`.
 
 **Parameters:**
 
@@ -43,8 +72,8 @@ Retrieves a list of builds for a specific class & specialization. You can option
 |-------------|--------|----------|--------------------------------------------------------------------------------------------------------------|
 | `classID`   | number | Yes      | The class ID (1 to 13).                                                                                     |
 | `specID`    | number | Yes      | The specialization ID for the class. Must be a valid numeric ID > 0.                                        |
-| `source`    | string | No       | Filter by data source: `"most-popular"`, `"community"`, or `"top-players"`. If omitted, returns all sources.           |
-| `dungeonID` | number | No       | Filter by a specific dungeon ID (`0` to `8`). A value of `0` might indicate “All” or “General Builds”. If omitted, returns builds for all valid dungeon IDs. |
+| `source`    | string | No       | Filter by data source. `"parses"` is the only one. If omitted, returns all sources.           |
+| `index`     | number | No       | Filter to one build. `0` is the whole difficulty ("All Bosses"); `1` and up are individual bosses. There is no upper bound — a difficulty holds every raid being run at it. If omitted, returns every build. |
 
 **Returns:**
 
@@ -53,9 +82,38 @@ Retrieves a list of builds for a specific class & specialization. You can option
 
 **Behavior and Filtering Details:**
 
-- If `source` is `nil`, the function aggregates builds from all available data sources (`most-popular`, `community`, `top-players`).
-- If `dungeonID` is `nil`, the function aggregates builds for all possible dungeon/raid IDs (0 to 8, in ascending order).
-- If any validation fails (invalid class, spec, source, or dungeon), the function returns `nil` and an error message.
+- If `source` is `nil`, the function aggregates builds from every available source. There is currently one.
+- If `index` is `nil`, every build for the spec is returned in ascending index order, so the whole-difficulty build leads.
+- If any validation fails (invalid class, spec, source, or index), the function returns `nil` and an error message.
+
+### 1b. `API.GetRaids(classID, specID, category)`
+
+Groups one difficulty's builds by the raid they came from.
+
+A difficulty database holds **every raid being run at that difficulty** — bosses
+carry `instanceId` and `instanceName` rather than living in separate files — so
+this is here to save every caller rediscovering the grouping.
+
+| Parameter  | Type   | Required | Description |
+| ---------- | ------ | -------- | ----------- |
+| `classID`  | number | Yes      | The WoW class ID (1–13). |
+| `specID`   | number | Yes      | The specialization ID. |
+| `category` | string | Yes      | e.g. `"mythic_raid"`. |
+
+**Returns**
+
+1. `raids` (table) – Array of `{ instanceId, instanceName, builds }`, in the order each raid's first boss appears.
+2. `overall` (table or `nil`) – The whole-difficulty build. Not a raid, so returned separately.
+
+```lua
+local raids, overall = API.GetRaids(8, 64, "lfr_raid")
+for _, raid in ipairs(raids) do
+    print(raid.instanceName)               -- "The Voidspire"
+    for _, build in ipairs(raid.builds) do
+        print("  " .. build.label)         -- "Imperator Averzian"
+    end
+end
+```
 
 ### 2. `API.GetLastUpdate([source])`
 
@@ -65,7 +123,7 @@ Gets the last update time for each data source or a specific one if provided.
 
 | Name     | Type   | Required | Description                                                                      |
 |----------|--------|----------|----------------------------------------------------------------------------------|
-| `source` | string | No       | One of `"most-popular"`, `"community"`, or `"top-players"`. If omitted, returns updates for all known sources. |
+| `source` | string | No       | `"parses"`. If omitted, returns updates for all known sources. |
 
 **Returns:**
 
@@ -74,12 +132,13 @@ Gets the last update time for each data source or a specific one if provided.
 
 **Behavior Details:**
 
-- Each source entry contains up to three keys: `mythic`, `raid`, and `misc`, representing different data categories.  
-- If a category is not present for a source, it may appear as `nil` in the table or may be omitted entirely.
+- Each source entry is keyed by category: `mythic` (Mythic+), `lfr_raid`, `normal_raid`, `heroic_raid`, `mythic_raid`.
+- A category with no database loaded appears as `nil`.
+- `mythic` is Mythic+, pooled by keystone band rather than by exact level. A dungeon is data on the row, like a raid is, so a new dungeon needs no change here.
 
 ### 3. `API.GetSources()`
 
-Returns an array-like table of all currently available sources. A source is considered available if at least one database (Mythic, Raid, or Misc) for that source is loaded in the addon.
+Returns an array-like table of all currently available sources. A source is available if at least one of its databases is loaded.
 
 **Parameters:**
 
@@ -87,7 +146,7 @@ None
 
 **Returns:**
 
-- `sources` (table) – A list of strings where each string is a source name (`"most-popular"`, `"community"`, or `"top-players"`).
+- `sources` (table) – A list of source names. Currently just `"parses"`.
 
 ---
 
@@ -101,11 +160,11 @@ The following error messages can be returned by functions when input validation 
 - **`"Invalid specialization ID provided"`**  
   Returned if `specID` is not a valid positive number.
 
-- **`"Invalid source provided. Valid sources are: 'most-popular', 'community', 'top-players'"`**  
-  Returned if `source` is supplied but is not one of the recognized source strings.
+- **`"Invalid source provided. The only source is 'parses'"`**  
+  Returned if `source` is supplied but is not recognised.
 
-- **`"Invalid dungeon ID provided"`**  
-  Returned if `dungeonID` is out of the range `0` to `8`.
+- **`"Invalid build index provided"`**  
+  Returned if `index` is negative or not a number.
 
 Whenever an error occurs, the function will return `nil` for the main data result plus the `errorMsg` string. The consumer should check for `nil` and handle the error message accordingly.
 
@@ -119,7 +178,12 @@ When `API.GetBuilds()` is successful, it returns a table of Build Objects with t
 
 | Key            | Type   | Description                                                                                                                |
 |----------------|--------|----------------------------------------------------------------------------------------------------------------------------|
-| `source`       | string | The source of the build: `"most-popular"`, `"community"`, or `"top-players"`.                                                        |
+| `source`       | string | The source of the build. `"parses"`.                                                        |
+| `instanceId`   | number | The raid this boss belongs to. Absent on the whole-difficulty build, which spans raids.      |
+| `instanceName` | string | That raid's name, e.g. `"The Voidspire"`. Absent for the same reason.                        |
+| `gameBuild`    | string | The patch the loadout string was spelled against, e.g. `"12.0.7.68887"`. A code is a walk over every node of the spec's tree in the client's order, so it only means anything against the tree that produced it. |
+| `partition`    | string | The patch the parses behind this build were recorded in, e.g. `"12.1"`. Every build in a database comes from one partition, which is what makes the single `gameBuild` true of all of them. Nil on a database published before 1.0. |
+| `index`        | number | The build's index within the spec. Same value as `dungeonID`, under a name that describes it. |
 | `category`     | string | The content category: `"mythic"`, `"raid"`, or `"misc"`.                                                                   |
 | `dungeonID`    | number | The numeric ID representing which dungeon/encounter set this build is intended for.                                        |
 | `label`        | string | A human-readable label or title for the build.                                                                             |
