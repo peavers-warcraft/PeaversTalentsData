@@ -182,6 +182,7 @@ When `API.GetBuilds()` is successful, it returns a table of Build Objects with t
 | `instanceId`   | number | The raid this boss belongs to. Absent on the whole-difficulty build, which spans raids.      |
 | `instanceName` | string | That raid's name, e.g. `"The Voidspire"`. Absent for the same reason.                        |
 | `gameBuild`    | string | The patch the loadout string was spelled against, e.g. `"12.0.7.68887"`. A code is a walk over every node of the spec's tree in the client's order, so it only means anything against the tree that produced it. |
+| `partition`    | string | The patch the parses behind this build were recorded in, e.g. `"12.1"`. Every build in a database comes from one partition, which is what makes the single `gameBuild` true of all of them. Nil on a database published before 1.0. |
 | `index`        | number | The build's index within the spec. Same value as `dungeonID`, under a name that describes it. |
 | `category`     | string | The content category: `"mythic"`, `"raid"`, or `"misc"`.                                                                   |
 | `dungeonID`    | number | The numeric ID representing which dungeon/encounter set this build is intended for.                                        |

@@ -143,7 +143,13 @@ local function ToBuild(db, row, sourceName, category, index)
         -- The game build the loadout string was spelled against. A code is a
         -- walk over every node of the spec's tree in the client's order, so it
         -- only means anything against the tree that produced it.
-        gameBuild = db.gameBuild
+        gameBuild = db.gameBuild,
+        -- The patch the parses behind this build were recorded in. Every build
+        -- in a database comes from one partition, which is what makes the single
+        -- gameBuild above true of all of them -- carrying it lets a caller check
+        -- that rather than take it on trust. Nil on a database published before
+        -- 1.0, where the two could disagree silently.
+        partition = db.partition
     }
 end
 
