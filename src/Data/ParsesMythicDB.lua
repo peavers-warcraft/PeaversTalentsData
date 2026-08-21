@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-08-20 23:58:56",
+	updated = "2026-08-21 00:17:53",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -406,7 +406,7 @@ local talentData = {
 			[255] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMjZbeAAAAAAAzYmZGbzYMjZYZMNDAAAwAAjllZGLYmZ8AjxAwM2AjxMzmHAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzYmZbGAAAAAAzYmZmltZMmxMsMmmBAAAYAAW2mZsMjZGMGDAzYDMGmZzDAA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -464,7 +464,7 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMjZGjBwALwMGNmNAbDYzAgZmx4BA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYZmZmtZWmZmHwMmZMGmZMGgNzyADYBsMMBGWAzMAjxDA",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
@@ -548,7 +548,7 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDjZmZmZGGbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAzCL0iNYAzMYm5BA",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
@@ -672,7 +672,7 @@ local talentData = {
 			[258] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZzMmZZmxMzyMGzM2mxYmZGYyAz0MDMDwMbmhZzAQGjFAMDPAGzMzY2YmtlBYG8AA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMMzyMDjx2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzYgxMzMmtxMbLDwM4BA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -724,7 +724,7 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxYmxMGAAAAwMmZmZmZYGjBAjZmZGAAADMwMW0YZBwyA2AMjZAAAzMwwDA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMmBAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwDA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -932,7 +932,7 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZbGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMeAA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMeAA",
 				},
 				[1] = {
 					label = "Ruby Life Pools",
@@ -1126,7 +1126,7 @@ local talentData = {
 			[265] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAmZmlZxMz2YAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAeA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMz2AAAmZmlZxMz2YAgx22ADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAeA",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
@@ -1216,7 +1216,7 @@ local talentData = {
 			[267] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZbMz2MzYWmtZmZmFzMLLjBAAzYMzMbgxMGWgB2GWoxCDAAMmhBAYmBYMDDAAAmZmBAAGeA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzysZmZmFzMLLzDMAAYGjZmZBMmxwCMw2wCNWYAAgxMMAAzMAjZMjNAAAzMzAAADPA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -1310,7 +1310,7 @@ local talentData = {
 			[269] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgB8A",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwiZ2mZGzMzMAA2AgZZWamZmFAMwMDAswAGwDA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -1694,7 +1694,7 @@ local talentData = {
 			[1468] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmxMz2yADzMPwsZGjx2wAAAzYGzMjxMaMzAAAA2mZmpZYmxYMDAAjZsxCMwMM0AWgZmZA4BA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDPA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -1736,7 +1736,7 @@ local talentData = {
 			[1473] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMjxMYM1YmZGAAAAYMzMmZ2GzMwMbzYwCsMGNWGAzgYDjBmZA8A",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmhZGYM1YmZGAAAAMzMjxMz2YmBmZzYwCsMGN2GAzgYDjZwMDgHA",
 				},
 				[1] = {
 					label = "Kings' Rest",
