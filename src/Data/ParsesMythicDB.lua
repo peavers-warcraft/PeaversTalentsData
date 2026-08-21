@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-08-21 00:42:30",
+	updated = "2026-08-21 02:00:47",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -906,7 +906,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhHA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLDLzMjZmFAgZAwMjhhHA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -1367,18 +1367,24 @@ local talentData = {
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
+					label = "Voidscar Arena",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhhmxMgBDwyMzMDz2ghZZmAAAAAAgFbzsMbzMBAgBAYGwYwsIjZA",
+					instanceId = 1313,
+					instanceName = "Voidscar Arena",
+				},
+				[4] = {
 					label = "Den of Nalorakk",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAAwitZWmtZmAAwAAMDYMwiMmBA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[4] = {
+				[5] = {
 					label = "Murder Row",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAAwitZWmtZmAAwAAMDYMwiMmBA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
-				[5] = {
+				[6] = {
 					label = "Altar of Fangs",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhhmxMgBDYWmZmZY2wMMLzEAAAAAAsYbmtZbmJAAMAAzAGDsIjZA",
 					instanceId = 1322,
@@ -1446,9 +1452,15 @@ local talentData = {
 			[103] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshHA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
 				},
 				[1] = {
+					label = "Voidscar Arena",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
+					instanceId = 1313,
+					instanceName = "Voidscar Arena",
+				},
+				[2] = {
 					label = "Den of Nalorakk",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshHA",
 					instanceId = 1311,
@@ -1658,7 +1670,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwMGMmHA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMzYmFzYsolFmZmZ2abmZGADDAAGDGzDA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
