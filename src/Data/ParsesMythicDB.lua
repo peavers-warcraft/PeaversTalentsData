@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-08-21 02:00:47",
+	updated = "2026-08-22 02:00:50",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -42,7 +42,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphZGzMbmZmZGmxMDAAAAgxyMDMhxy2AbgBMDTgZwGYmhhBzyMbDwMDAmhHAA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxwMbLzMzMjZGzMAAAAAGLzMwEGLbDsAGwMMBmBbgZGGGMLzsNAzMAYGeAA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -54,13 +54,13 @@ local talentData = {
 				},
 				[7] = {
 					label = "Murder Row",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphZGzMbmZmZGmxMDAAAAgxyMDMhxy2AbgBMDTgZwGYmhhBzyMbDwMDAmhHAA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxwMbLzMzMjZGzMAAAAAGLzMwEGLbDsAGwMMBmBbgZGGGMLzsNAzMAYGeAA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphZGmZzMzMzYmxMDAAAAgxyMDMhxy2ALgBMDTgZwGYmhhBzyMbDwMDAmhHAA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxYmZzMzMzYmxMDAAAAgxyMDMhxy2AbgBMDTgZwGYmhhBzyMbDwMDAmhHAA",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -144,7 +144,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmFzMLzYMmpxMGWMzMzYGmZAAAAwyMDwMGgB2gtFjGzAYWwMbgZmZYsAAzMAAMgHwA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzwMzMzMmNzMLzYMGNmxMWmxMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbwYmZYsBAzMAAYgHwA",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -160,7 +160,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Kings' Rest",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2mZGmZWmZsAzMsM2mZWMaihxMzwY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzMYGDMAAmZYGjhHA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2GzMzMjZmZBmZYZsZmFjmYYMzMMmtMAMAsB2YZmZmlZbmZ2aAAAAWAGsZgZMDzAAYmhZMGeAA",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
@@ -202,7 +202,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2mZGmZWmZsAzMsM2mZWMaihxMzwY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzMYGDMAAmZYGjhHA",
+					talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2GzMzMjZmZBmZYZsZmFjmYYMzMMmtMAMAsB2YZmZmlZbmZ2aAAAAWAGsZgZMDzAAYmhZMGeAA",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -220,13 +220,13 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZeAzyYGzYmZWWGjZZWmlZMAADAAAAAAaamhZMzwY2aDADMgZw2AAAzMtNzsMDAwmlFMAgZYMAALzAmZGwDYB",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZeAzyYGzYmZWWGjZZWmlZMAADAAAAAAaamhZMzwY2aDADMgZw2AAAAgZmttlWmZsYZBDAYGGDAmZAYmZQeAL",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
 					label = "Ruby Life Pools",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNDjxMmxMzssNGz2sMLzYAAGAAAAAA00MDzYmhxs1GAGYAzgtBAAmZabmZZGAgNLLMDAGzwYAAWmBMzA8AWA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZeAzyYGzYmZWWGjZZWmlZMAADAAAAAAaamhZMzwY2aDADMgZw2AAAAgZmttlWmZsYZBDAYGGDAmZAYmZQeAL",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
@@ -238,7 +238,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZmNLjZegZmZGbLDsMLz2MGAgBAAAAAANNzsYGzgxs1GAGYAzgtBAAmZaZmZZGAgNLLYAAzwYAAWmBMzMgHwC",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZeAzyYGzYmZWWGjZZWmlZMAADAAAAAAaamhZMzwY2aDADMgZw2AAAzMtNzsMDAwmlFMAgZYMAALzAmZGwDYB",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -256,7 +256,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZsNLjZMzMzMLLjxYWmlZMAADAAAAAAaamZZmxMYMbtBgBGwAbAAAAwMzy2SLzMWssgBwYMDjBAzMAYmB5BsA",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZeAzyYGzYmZWWGjZZWmlZMAADAAAAAAaamhZMzwY2aDADMgZw2AAAAgZmttlWmZsYZBDAYGGDAmZAYmZQeAL",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -264,7 +264,7 @@ local talentData = {
 			[70] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzMAAAAAAzUGGmZsNmthZ2mxYMGmxGbYAAgZm2mZ2mBAsBYAwYGGYmZYDLzghxMG8AA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMG8AA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -274,37 +274,37 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzMAAAAAAzUGzwMjtxsNMz2MGjxwM2YDAAgZm2mZ2mBAsBYAwYGGYGzYDLzghxMG8AA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMG8AA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
 					label = "Ruby Life Pools",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmysMDzw2Y2GmZbGjxYYGbsBAAwMTLzMbzAA2AMAYMMDMjZmNsMDGGzYwDA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzMAAAAAAzUGGmZsNmthZ2mxYMGmxGbYAAgZm2mZ2mBAsBYAwYGGYmZYDLzghxMG8AA",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
 				[4] = {
 					label = "The Blinding Vale",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzMAAAAAAzUGGmZsNmthZ2mxYMGmxGbYAAgZm2mZ2mBAsBYAwYGGYmZYDLzghxMG8AA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzMAAAAAAzUGzwMjtxsNMz2MGjxwM2YDAAgZm2mZ2mBAsBYAwYGGYGzYDLzghxMG8AA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzMAAAAAAzUGGmZsNmthZ2mxYMGmxGbYAAgZm2mZ2mBAsBYAwYGGYmZYDLzghxMG8AA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMG8AA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGjZGAAAAAAzUmFDzM2Gz2wMbzYMGDzYjNAAAmZabmZbGAwGgBAjZ2AmZmZ2wyMYYMjBPA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMG8AA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
 				[7] = {
 					label = "Murder Row",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmywwMjtxsNMz2MGjZGmxGbYAAgZm2mZ2mBAsBYAwYGGYGjZDLzghxMG8AA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMG8AA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
@@ -322,7 +322,7 @@ local talentData = {
 			[253] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAA8AjxAmZDAzCY7BAYA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYmxMzsYGmZmZmZmZMmxMMzYmZGbzMjZMDLjpZAAAAAAAAAjxAmZDYYWAbPAAA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -332,7 +332,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsFYsAAgZGzMDzwMzMYGzMzwMmZGjZGmZGzYGMmmBAAAAMDAAAjxYYmBEmlZWAbPAAD",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYmxMzsYGmZmZmZmZMmxMMzYmZGbzMjZMDLjpZAAAAAAAAAjxAmZDYYWAbPAAA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -350,7 +350,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbmZMjZwYaGAAAAAAAAMzYMgZWAsYWAeAAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZYMDLDNDAAAAAAAAmHYMzAmZDAzCY7BAYA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -362,13 +362,13 @@ local talentData = {
 				},
 				[7] = {
 					label = "Murder Row",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZoZAAAAAAAAgZMGwMbAYWAbPAAD",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYmxMzsYGmZmZmZmZMmxMMzYmZGbzMjZMDLjpZAAAAAAAAAjxAmZDYYWAbPAAA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZmZMzYbmZMjZGGTzAAAAAAAAgxYAMzGglZWAeAAG",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYGPwMzsMzwMzMjZGMzYmhZGzMzYbmZYMDLDNDAAAAAAAAmHYMzAmZDAzCY7BAYA",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -402,11 +402,17 @@ local talentData = {
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
+				[5] = {
+					label = "Murder Row",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwGMwMGNWGAzgNAAAAAAAAwMmZmx2MmZGzwyYaGDmltlZmZmZmZmZhZWGmBAAwDMGDAzYDMAb8Az2MG",
+					instanceId = 1304,
+					instanceName = "Murder Row",
+				},
 			},
 			[255] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMzMbzAAAAAAYGzMzYbGjZMDbjpZAAAAGAgltZGLDzM8AjxAwM2AjhZ28AAA",
+					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMzMbzAAAAAAYGzMzYbGjZMDLjpZAAAAGAgltZGLDzM8AjxAwM2AjhZ28AAA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -464,11 +470,11 @@ local talentData = {
 			[259] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYZmZmtZWmZmHwMmZMGmZMGgNzyADYBsMMBGWAzMAjxDA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAottZmZmZmxYZmZmtZWmZmHwMmZMGmZMGADsAzY0Y2AsNgNAwMzM8AA",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwY8AA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAottZmZmZmxYZmZmtZWmZmHwMmZMGmZMGADsAzY0Y2AsNgNAwMzM8AA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -495,6 +501,12 @@ local talentData = {
 					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAotlxMzMzMGLzMzsNzyMz8AmxMjxwMjxMgFzyADYBsMMBGWMYmBYwDA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
+				},
+				[6] = {
+					label = "Altar of Fangs",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAILzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwY8AA",
+					instanceId = 1322,
+					instanceName = "Altar of Fangs",
 				},
 			},
 			[260] = {
@@ -548,27 +560,51 @@ local talentData = {
 			[261] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAzCL0iNYAzMYm5BA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMzMzMzAbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
 				},
 				[1] = {
+					label = "Kings' Rest",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMzMzMzAbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
+					instanceId = 1041,
+					instanceName = "Kings' Rest",
+				},
+				[2] = {
 					label = "Temple of Sethraliss",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDjZmZmZGGbzYGbLzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
-				[2] = {
+				[3] = {
+					label = "Ruby Life Pools",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMzMzMzAbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
+					instanceId = 1202,
+					instanceName = "Ruby Life Pools",
+				},
+				[4] = {
 					label = "The Blinding Vale",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDjZmZmZGGbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMzMzMzAbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
-				[3] = {
+				[5] = {
+					label = "Voidscar Arena",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMzMzMzAbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
+					instanceId = 1313,
+					instanceName = "Voidscar Arena",
+				},
+				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZYmZmZG8AbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMzMzMzAbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[4] = {
+				[7] = {
+					label = "Murder Row",
+					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMzMzMzAbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAz4BA",
+					instanceId = 1304,
+					instanceName = "Murder Row",
+				},
+				[8] = {
 					label = "Altar of Fangs",
 					talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMMzMzYMbzYmZbZMzMzMjBjZ2GAAAAGMGwYWMMwAzCL0iNYAzMYm5BA",
 					instanceId = 1322,
@@ -610,7 +646,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Den of Nalorakk",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMzMWYMGzgZzsNzMzMzMDAAAAAAAAAgZGLzgZmZsZMzAmmJGMzAAAMbz2CYsZAAYMzDMjBzgZGMTwDM",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxYZGMzMjNjZGsZamYAmZDDhxsMAjBLAAwYmZGDmBYmZAegB",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -630,7 +666,7 @@ local talentData = {
 			[257] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAMLMzY2GzwMzMzDMzMzsMzAAAAADWmZMDzwMmZM2mxMFAzsghwYWGgxALwsAwMMjxwMAmZmBeAA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZGmNDAMGsZM2A0MmZMGmZ2WGgB8AA",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
@@ -646,7 +682,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "The Blinding Vale",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmx2MmZAMTBwMLYIMmtBYMwiZmBAzYmxYwMAzMD4BA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGwMzMjZmZsMzMzAAAAYMzyMYmZGbGzMGwMFAYmNzwsZAgxgNjxCgmxMjxgZ2WGgB8AA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -657,12 +693,18 @@ local talentData = {
 					instanceName = "Voidscar Arena",
 				},
 				[5] = {
+					label = "Den of Nalorakk",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmx2MmZAMTBwMLYIMmtBYMwiZmBAzYmxYwMAzMD4BA",
+					instanceId = 1311,
+					instanceName = "Den of Nalorakk",
+				},
+				[6] = {
 					label = "Murder Row",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAMLMzY2GzwMzMzDMzMzsMzAAAAADWmZMDzwMmZM2mxMFAzsghwYWGgxALwsAwMMjxwMAmZmBeAA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzMmZMMDsMzMzAAAAYMzyMMzMzYbGzMAmpAYmFMEGz2AMGYxMzAgZMzDYMYGgZmB8AA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
-				[6] = {
+				[7] = {
 					label = "Altar of Fangs",
 					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZDGzygxMzMjZmZsMzYGAAAAjxyMYmZGbGzMGwMFAYmNzwsZAgxgNjZWA0MmZMGmZ2WGgB8AA",
 					instanceId = 1322,
@@ -672,7 +714,7 @@ local talentData = {
 			[258] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMMzyMDjx2MzYmZGbIzYxMNAzAMziZY2MAkxYBAzYgxMzMmtxMbLDwM4BA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzMgxMzMmNmZbZAmBPAA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -700,13 +742,13 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDzAAAAAAAAAAAAwMLmxMbzMmZWmxYG2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmNmZbZAmBPAA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGbzMmZWmZYmx2MGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwM4BA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZzMmZZmxMzyMGzM2mxYmZGYyAz0MDMDwMbmhZzAQGjFAMDPAGzMzY2YmtlBYG8AA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzMgxMzMmNmZbZAmBPAA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -716,6 +758,12 @@ local talentData = {
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
+				[8] = {
+					label = "Altar of Fangs",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzMgxMzMmNmZbZAmBPAA",
+					instanceId = 1322,
+					instanceName = "Altar of Fangs",
+				},
 			},
 		},
 	},
@@ -724,7 +772,7 @@ local talentData = {
 			[250] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMmBAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwDA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDA8AA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -734,13 +782,13 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMz2MzwMmZmhZbmZmmZxMjZmBAAAAwMMzMzMjZmZAAjZmZGAAADMwMW0YZDw2A2AMjBAAYmBGeAA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDA8AA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
 					label = "Ruby Life Pools",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMmBAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwDA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDA8AA",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
@@ -752,19 +800,19 @@ local talentData = {
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMz2MzwMmZmhZZmZmmZxMjZmBAAAAwMMzMzMjZmZAAjZmZGAAADMwMW0YbDw2A2AMjBAAYmBGeAA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMGMLzMz0MLzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAY8AA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMGAAAAwMmZmZmZ8AzMDAYMzMzAAAYgBmxiGLLAWGwGgZYAAAzMwwDA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLjZmmZxYmZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwDA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
 				[7] = {
 					label = "Murder Row",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMmBAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwDA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMGMLzMz0MLzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAY8AA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
@@ -812,7 +860,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAYgHA",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMjZAz2MzMzMLzMjmZMmZYGGPgZGMzMzMDAAAAAAAAAjZbgBsBWGmAjFMzYYgZAMMzAMzgHA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -832,7 +880,7 @@ local talentData = {
 			[252] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAwyMmZ2MzYMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMY2GzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGPA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -842,7 +890,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMYWGzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGPA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMY2GzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGPA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -853,18 +901,30 @@ local talentData = {
 					instanceName = "Ruby Life Pools",
 				},
 				[4] = {
+					label = "The Blinding Vale",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMzMDz2MzMTzmZGjZAAAAAAAAgZGDDAWmxMzmZGzMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
+					instanceId = 1309,
+					instanceName = "The Blinding Vale",
+				},
+				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMjBzyMzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMbGGYgZjhGLYAzAwYmZMDwMzYGPA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMY2GzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGPA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[5] = {
+				[6] = {
+					label = "Den of Nalorakk",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZYY2mZmZa2MmZMjBAAAAAAAgZGDDAWmxMzmZGzMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
+					instanceId = 1311,
+					instanceName = "Den of Nalorakk",
+				},
+				[7] = {
 					label = "Murder Row",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAwyMmZ2MzYMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMY2GzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGPA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
-				[6] = {
+				[8] = {
 					label = "Altar of Fangs",
 					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTzmxMzMjBAAAAAAAgZGzYAwyMmZ2MzYMDYzsZYgBmNGasgBMDAjZmxMAzMzY8AA",
 					instanceId = 1322,
@@ -882,7 +942,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Kings' Rest",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsNzMjx2ipFmZ2GLzMzMGWmlhlZmxMzCAwAAzMGGeAA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhHA",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
@@ -900,13 +960,13 @@ local talentData = {
 				},
 				[4] = {
 					label = "The Blinding Vale",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAgNzYYDWgZYoxGAMbzMzYstYCzYbsMzMzYGLWmxiZmxMLAADDMzADDPA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhHA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLDLzMjZmFAgZAwMjhhHA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhHA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -918,13 +978,13 @@ local talentData = {
 				},
 				[7] = {
 					label = "Murder Row",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhHA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZbMmhZAAAAgFzsBDYAzGTgZBAmtZmZM2WMtxMjxyMzMzMsYZY5BmZMzsAAMAwMjhhHA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsNzMjxyipNmZ2GLzYm5BGWmlZmlZMmZWAAGAYmxwwDA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsNzMjZ2WmpNmZ2YZGzMmBLzMLDzMzsAAMMAmZMM8AA",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -932,25 +992,49 @@ local talentData = {
 			[263] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMeAA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZMWYGAgZYMzwIwMDGMeAA",
 				},
 				[1] = {
+					label = "Temple of Sethraliss",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZMWYGAgZYMzwIwMDGMeAA",
+					instanceId = 1030,
+					instanceName = "Temple of Sethraliss",
+				},
+				[2] = {
 					label = "Ruby Life Pools",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMeAA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssMjFmZMWmZmZGjFmBAYGGzMMCMzgBjHA",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
-				[2] = {
+				[3] = {
 					label = "Voidscar Arena",
 					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZbGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMeAA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
+				[4] = {
+					label = "Den of Nalorakk",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMeAA",
+					instanceId = 1311,
+					instanceName = "Den of Nalorakk",
+				},
+				[5] = {
+					label = "Murder Row",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZMWYGAgZYMzwIwMDGMeAA",
+					instanceId = 1304,
+					instanceName = "Murder Row",
+				},
+				[6] = {
+					label = "Altar of Fangs",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZMWYGAgZYMzwIwMDGMeAA",
+					instanceId = 1322,
+					instanceName = "Altar of Fangs",
+				},
 			},
 			[264] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmltlxMzYMzYMjZsAbwMW0YbAMDsxMzYmZbmxoZZZmZzMmNWMmZMsMLDAAmBYmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNbLzMbmxswixMjhlZZAAAgZmBzMAwgHYA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -960,7 +1044,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmltlxMzYMzYMjZsAbwMW0YbAMDsxMzYmZbmxoZZZmZzMmNWMmZMsMLDAAmBYmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZmZMjhFYBmxiGbDgZgNMzgZbmxoZbZmhZMbsYMzYYZWmBAgBwMDmZAgBPA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -984,7 +1068,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmltlxMzYMzYMjZsAbwMW0YbAMDsxMzYmZbmxoZZZmZzMmNWMmZMsMLDAAmBYmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNLLzMbmxswixMjhlZZAAAgZmBzMAwgHYA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -996,7 +1080,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZmltlxMzYMzYMjZsAbwMW0YbAMDsxMzYmZbmxoZZZmZzMmNWMmZMsMLDAAmBYmBzMAwgHA",
+					talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNLLzMbmxswixMjhlZZAAAgZmBzMAwgHYA",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -1095,24 +1179,30 @@ local talentData = {
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
+					label = "The Blinding Vale",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGmZZmZmlhZmYegZmZmZmZ2MzMMjBAAAMzMzyyMTbAAwGAAAYBgttxMmBz2wYmxCAAAzsBMjZmBMDeAA",
+					instanceId = 1309,
+					instanceName = "The Blinding Vale",
+				},
+				[4] = {
 					label = "Voidscar Arena",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMmNjlZmZWmNzMxMzMzMzMzsYmZGzYGAAAYmZmllZm2AAgNAAAwGAbbjZMDmthxMsBAAwMbAzADYG8AA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[4] = {
+				[5] = {
 					label = "Den of Nalorakk",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMmNjlZmZWmNzMxMzMzMzMzsYmZGzYGAAAYmZmllZm2AAgNAAAwGAbbjZMDmthxMsBAAwMbAzADYG8AA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[5] = {
+				[6] = {
 					label = "Murder Row",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMmNjlZmZWmNzMxMzMzMzMzsYmZGzYGAAAYmZmllZm2AAgNAAAwGAbbjZMDmthxMsBAAwMbAzADYG8AA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
-				[6] = {
+				[7] = {
 					label = "Altar of Fangs",
 					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGzMzMzMziZmZMjZAAAgZmZWWmZaDAAAAAA2AYbZMzMDmthxMsAAAwMbAzwYAzgHAA",
 					instanceId = 1322,
@@ -1136,7 +1226,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "The Blinding Vale",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMLmZ2GDAM2WGYADYG2CMsNAAAMDAAgZmxMmZ2GjZMmZmZMMzMDAwAeA",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAMDAAgZmxMmZ2GjZMmZmZMMzMDAwAeA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -1172,7 +1262,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAAAAAAwYGDLwAbDb0wiBjlxMzMzMAwMmZMzMDwYGmZDAAMzMzMzMD2mZAeAA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGD4BA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -1202,7 +1292,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Murder Row",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMz2AAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMDjNAAwYmZGDDLzYAPA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGD4BA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
@@ -1243,6 +1333,12 @@ local talentData = {
 					instanceName = "Voidscar Arena",
 				},
 				[5] = {
+					label = "Den of Nalorakk",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzysZmZmFzMLLzDMAAYGjZmZBMmxwCMw2wCNWYAAgxMMAAzMAjZMmNAAAzMzAAADPA",
+					instanceId = 1311,
+					instanceName = "Den of Nalorakk",
+				},
+				[6] = {
 					label = "Murder Row",
 					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNLMz2MzMzysNzYmFzYZZMAAYGjZmZBMmxwCMw2wCNWYAAgxMMsBgZGgZmhBAAAzMzAAwY4BA",
 					instanceId = 1304,
@@ -1325,34 +1421,46 @@ local talentData = {
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
+					label = "Ruby Life Pools",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgB8A",
+					instanceId = 1202,
+					instanceName = "Ruby Life Pools",
+				},
+				[4] = {
 					label = "The Blinding Vale",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgxYZmZ2mBAAAAAAAAAAAYZY0MmBMgZMMzMzwsNMDzyMBAswsxMmZmZAAsYmlZZMBAAmxAYGgxyAxMzs5BA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgxYZmZ2mBAAAAAAAAAAAYZYmmxMMMghhZmZGmthZYWegJAgFmNmxMzMDAgFzsMLjJAAwMGAzAMWGImZmNPA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
-				[4] = {
+				[5] = {
 					label = "Voidscar Arena",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsNMDzyMBAsYmtxwYmZAAsBAzys0MzMLADDMzAwYZMgB8A",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[5] = {
+				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgB8A",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwiZ2mZGzMzMAA2AgZZWamZmFAMwMDAswAGwDA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[6] = {
+				[7] = {
 					label = "Murder Row",
 					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwiZ2mZGzMzMAA2AgZZWamZmFAMwMDAswAGwDA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
+				[8] = {
+					label = "Altar of Fangs",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwiZ2mZGzMzMAA2AgZZWamZmFAMwMDAswAGwDA",
+					instanceId = 1322,
+					instanceName = "Altar of Fangs",
+				},
 			},
 			[270] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAAwitZWmtZmAAwAAMDYMwiMmBA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhhmxMgBDYWmZmZY2wMMLzEAAAAAAsYbmtZbmJAAMAAzAGDsIjZA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -1367,24 +1475,30 @@ local talentData = {
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
+					label = "Ruby Life Pools",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMWmZZML2mxMjNjtllZMzmZ2sMzYhhmxMgBDDMzMzwshZYWmJAAAAAAYx2MLz2MTAAYwAwMgxALyYGA",
+					instanceId = 1202,
+					instanceName = "Ruby Life Pools",
+				},
+				[4] = {
 					label = "Voidscar Arena",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhhmxMgBDwyMzMDz2ghZZmAAAAAAgFbzsMbzMBAgBAYGwYwsIjZA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhhmxMgBDYWmZmZY2wMMLzEAAAAAAsYbmtZbmJAAMAAzAGDsIjZA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[4] = {
+				[5] = {
 					label = "Den of Nalorakk",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAAwitZWmtZmAAwAAMDYMwiMmBA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[5] = {
+				[6] = {
 					label = "Murder Row",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGwgBjZZmZmhZDzwsMTAAAAAAwitZWmtZmAAwAAMDYMwiMmBA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
-				[6] = {
+				[7] = {
 					label = "Altar of Fangs",
 					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhhmxMgBDYWmZmZY2wMMLzEAAAAAAsYbmtZbmJAAMAAzAGDsIjZA",
 					instanceId = 1322,
@@ -1420,7 +1534,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "The Blinding Vale",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZgHwsMzMzMLMgxMLzswMjFWmZZMmZshBAjltZGMmtBwEAAAgFzMzMD2MmxYGAAzMY5BA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMLMgxMLzsYmZswyMLjxMjNMMAjttZGMmtBwEAAAgFmZmZwmxMGDAAzMY5BA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -1438,7 +1552,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Murder Row",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwswMzMLMYMmZZmFzMjNWmZZMmZshhBYstNzgxsNAmAAAAsYmZmZwmxMGDAAzMY5BA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWMzMzMYzYGjBAgZG4BA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
@@ -1455,16 +1569,40 @@ local talentData = {
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
 				},
 				[1] = {
+					label = "Kings' Rest",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
+					instanceId = 1041,
+					instanceName = "Kings' Rest",
+				},
+				[2] = {
+					label = "Ruby Life Pools",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
+					instanceId = 1202,
+					instanceName = "Ruby Life Pools",
+				},
+				[3] = {
+					label = "The Blinding Vale",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
+					instanceId = 1309,
+					instanceName = "The Blinding Vale",
+				},
+				[4] = {
 					label = "Voidscar Arena",
 					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[2] = {
+				[5] = {
 					label = "Den of Nalorakk",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshHA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
+				},
+				[6] = {
+					label = "Murder Row",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWGzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAmZAWYGGAAAzshHA",
+					instanceId = 1304,
+					instanceName = "Murder Row",
 				},
 			},
 			[104] = {
@@ -1485,30 +1623,36 @@ local talentData = {
 					instanceName = "Temple of Sethraliss",
 				},
 				[3] = {
+					label = "Ruby Life Pools",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwMjZWMLGmZZZgZzwoJamZWmZmZmlxMAAAAAAMjlZALbzMYMLDgJAAAgNMzAsYGMgNLAMzA4BA",
+					instanceId = 1202,
+					instanceName = "Ruby Life Pools",
+				},
+				[4] = {
 					label = "The Blinding Vale",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZml5BmZMziZxwMLLDMbGGNRzMzyMzMzsMmBAAAAAgZsYAbbzMYMLDgJAAAgNMzAsYGMgNLAMzA4BA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
-				[4] = {
+				[5] = {
 					label = "Voidscar Arena",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmlZGjxiZh5BmZZZgZzwoJamZWmZmZmlxMAAAAAAMsMDYZbmBjZZAMBAAAsZMzDAsYGMYwy2AMzA4BA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[5] = {
+				[6] = {
 					label = "Den of Nalorakk",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZml5BmZMziZxwMLLDMbGGNRzMzyMzMzsMmBAAAAAgZsYAbbzMYMLDgJAAAgNMzAsYGMgNLAMzA4BA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[6] = {
+				[7] = {
 					label = "Murder Row",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxwMLLDMbmxoJyMzyMzMzsMmBAAAAAAjtZALbzMYMLDgJAAAgNMzAsYMMwsYZDwMDgHA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
-				[7] = {
+				[8] = {
 					label = "Altar of Fangs",
 					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMMAAAAAgZsZALbzMYMLDgJAAAgNMzAsYgBsYBgZGAPA",
 					instanceId = 1322,
@@ -1543,6 +1687,18 @@ local talentData = {
 					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMmZmZxMjZmZmlBzYGMbYAAAAAAAAAAwihmtZYaGAziZmZmFTGAAAAAMAgZGAAAAAMbzs1sNziNmZmZwYD0MAAzMA8AA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
+				},
+				[5] = {
+					label = "Murder Row",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZbMjZmxsN8AMzswsZbGAAAAAAAAAAsMoZbmx0MMjxsMmZGLmYGAAAAADYAmBAAAAAz2MbNLzsZjxMwMDQzAAMzAwDA",
+					instanceId = 1304,
+					instanceName = "Murder Row",
+				},
+				[6] = {
+					label = "Altar of Fangs",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmxM5BmBAAAAAAADAAAAAmtZ2a2mZxGjZGYmFMaGAgZGAeAA",
+					instanceId = 1322,
+					instanceName = "Altar of Fangs",
 				},
 			},
 		},
@@ -1606,7 +1762,7 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAA2mxMzMGmRmZGYxMmBzMmZMzDMzMjhZmZGbPwMz2YYAAAAAAAAYmZsBAAAgBmZmZmt2mZmBAAAAA4BA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmZmx2YGjxMAAAAAAAAMzM2AAAAwAzMzMzSbzMzAgZAAAA8AA",
 				},
 				[1] = {
 					label = "Kings' Rest",
@@ -1637,6 +1793,18 @@ local talentData = {
 					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAA2mxMzMGmRmZGYxMmBzMmZMzDMzMjhZmZGbPwMz2YYAAAAAAAAYmZsBAAAgBmZmZmt2mZmBAAAAA4BA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
+				},
+				[6] = {
+					label = "Den of Nalorakk",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmZmx2YGjxMAAAAAAAAMzM2AAAAwAzMzMzSbzMzAgZAAAA8AA",
+					instanceId = 1311,
+					instanceName = "Den of Nalorakk",
+				},
+				[7] = {
+					label = "Altar of Fangs",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmZmx2YGjxMAAAAAAAAMzM2AAAAwAzMzMzSbzMzAgZAAAA8AA",
+					instanceId = 1322,
+					instanceName = "Altar of Fangs",
 				},
 			},
 			[1480] = {
@@ -1688,7 +1856,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2mxMzMzYmxwMAAAAAAAMmthZGAAAAAAAAmxMMzMzMzMzMzYmFzYsolFmZmZ2abmZGADDAAGDGzDA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAAWmZmZmZGjxwMAAAAAAALGz2gZAAAAAAAAYGzw8AzMzMzMzMMz2MjxmsAAADwMmZmtZmpZZmlZmhZGA",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -1700,7 +1868,7 @@ local talentData = {
 			[1467] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZYGMwwYMTzMzMNjZWmxMzMzYmZGwMmxYmZZmZgBGDWglxox2AYGEshZwMDGeA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZAMzwMwMzYMTDzMNzMz2MMzMzMzMzAmxMGzMbzMDMwYwGsMGN2GAzggNMwMDGeA",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
@@ -1708,47 +1876,71 @@ local talentData = {
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
+				[2] = {
+					label = "Den of Nalorakk",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZAMzwMwMzYMTDzMNzMz2MMzMzMzMzAmxMGzMbzMDMwYwGsMGN2GAzggNMwMDGeA",
+					instanceId = 1311,
+					instanceName = "Den of Nalorakk",
+				},
+				[3] = {
+					label = "Murder Row",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZAMzwMwMzYMTDzMNzMz2MMzMzMzMzAmxMGzMbzMDMwYwGsMGN2GAzggNMwMDGeA",
+					instanceId = 1304,
+					instanceName = "Murder Row",
+				},
 			},
 			[1468] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDPA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGzYYmxsZGw2wAAAzYGzMjhZiZmBAAAMzMTGzMjxMzAAjZgFwCYGmAbM2MMAmZGPA",
 				},
 				[1] = {
 					label = "Kings' Rest",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmxMz2yADzMPwsZGjx2wAAAzYGzMjxMaMzAAAA2mZmpZYmxYMDAAjZsxCMwMM0AWgZmZA4BA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDPA",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
 				[2] = {
+					label = "Temple of Sethraliss",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGzYYmxsZGw2wAAAzYGzMjhZiZmBAAAMzMTGzMjxMzAAjZgFwCYGmAbM2MMAmZGPA",
+					instanceId = 1030,
+					instanceName = "Temple of Sethraliss",
+				},
+				[3] = {
 					label = "Ruby Life Pools",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDPA",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
-				[3] = {
+				[4] = {
 					label = "The Blinding Vale",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ22mZGDjxsZGw2wAAAzYGzYMMTMzMAAAgZmZyYmZmxYGAYMDsA2AzwEYjxmhZAmZ4BA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
-				[4] = {
+				[5] = {
 					label = "Voidscar Arena",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDPA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[5] = {
+				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmxMz2yADzMPwsZGjx2wAAAzYGzMjxMaMzAAAA2mZmpZYmxYMDAAjZsxCMwMM0AWgZmZA4BA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZs4BmxwMjZzMgthBAAmxMGzYMjMzMAAAAzMz0MMzYWmZGAYMDsB2AzwEYxM2MMAmZGPA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[6] = {
+				[7] = {
 					label = "Murder Row",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDPA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGzYYmxsZGw2wAAAzYGzMjhZiZmBAAAMzMTGzMjxMzAAjZgFwCYGmAbM2MMAmZGPA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
+				},
+				[8] = {
+					label = "Altar of Fangs",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGzYYmxsZGw2wAAAzYGzMjhZiZmBAAAMzMTGzMjxMzAAjZgFwCYGmAbM2MMAmZGPA",
+					instanceId = 1322,
+					instanceName = "Altar of Fangs",
 				},
 			},
 			[1473] = {
@@ -1764,7 +1956,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Temple of Sethraliss",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMjxMYM1YmZGAAAAYMzMmZ2GzMwMbzYwCsMGNWGAzgYDjBmZA8A",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmhZGYM1YmZGAAAAMzMjxMzyYmBmZzYwCsMGN2GAzgYDjZwMDgHA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -1776,13 +1968,13 @@ local talentData = {
 				},
 				[4] = {
 					label = "The Blinding Vale",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMjxMYM1YmZGAAAAYMzMmZ2GzMwMbzYwCsMGNWGAzgYDjBmZA8A",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmhZGYM1YmZGAAAAMzMjxMzyYmBmZzYwCsMGN2GAzgYDjZwMDgHA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
 				[5] = {
 					label = "Voidscar Arena",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAgZmZbMzgZYmZZGzMjZ2AAAAAAAAwMjxMYM1YmZGAAAAYMzMmZ2GzMwMbzYwCsMGNWGAzgYDjBmZA8A",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmhZGYM1YmZGAAAAMzMjxMzyYmBmZzYwCsMGN2GAzgYDjZwMDgHA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
