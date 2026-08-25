@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-08-24 15:46:50",
+	updated = "2026-08-25 02:00:57",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -96,7 +96,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Blinding Vale",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMMz2yMzMzMzMmZmZmZMzyMGzMzsZmZGAAIGLLDsAGwMMBmhNgZGGAAgZGGjBGMG",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZ2MzMzMzMjZmZmZmZeglZMmZMbmZmBAAixy2ALgBMDTgZYDYmhBAAYmhxsMwgxA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -332,7 +332,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYmxMzsYGmZmZmZmZMmxMMzYmZGbzMjZMDLjpZAAAAAAAAAjxAmZDYYWAbDAA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAA8AjxAmZDAzCYbAYA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -392,7 +392,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Kings' Rest",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAwMmZmx2MmZGzwyYaGDmltlZmZmZmZmZhZWGmBAAwDMGDAzYDMAbMz2MG",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAwMmZmx2MmZGzw2YaGDmltlZmZmZmZmZhZWGmBAAwDMGDAzYDMAbMz2MG",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
@@ -736,7 +736,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Blinding Vale",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmx2MmZAMTBwMLYIMmtBYMwiZmBAzYmxYwMAzMDYA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzMmZMMDsMzMzAAAAYMzyMMzMzYbGzMAmpAYmFMEGz2AMGYxMzAgZMzDYMYGgZmBMA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -878,7 +878,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmhZMGDz2MzMzMLzMjmZMGDjxgZmZmZmZmZAAAAAAAAAAsYWMMwAzGDNshZGzMDMAMAMzwgB",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMzMDY2mZmZmZzMjmZMzYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAYgB",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -1418,7 +1418,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Murder Row",
-					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNLMz2MzMzysNzYmFzYZZMAAYGjZmZBMmxwCMw2wCNWYAAgxMMsBgZGgZmhBAAAzMzAAwYYA",
+					talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzYmFzYZZMAAYGjZmZDMmxwGMw2wCNWYAAgxMMsBgZGgxMjZ2AAAMzMzAAYMM",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
@@ -1508,11 +1508,11 @@ local talentData = {
 			[269] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwiZ2mZGzMzMAA2AgZZWamZmFAMwMDAswAGwA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgBM",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgBM",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -1566,7 +1566,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsYsZZGmtZmtllZGLMmmxMgxYAMzMzwsBDzyMBAAAAAAL2mZb2mZCAADGAmBMGYRGzA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMMwMzMDzGmhZZmAAAAAAgFbzsMbzMBAgBDAzAGDsIjZA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -1738,7 +1738,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Kings' Rest",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWGzMzsMmxAAAAAAMzsZAbbzMYMLDgJAAAgNMzDAsYMMgFLAMzAYA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwMjZWMLGmZZZgZzwoJamZWGzMzsMmBAAAAAgZsMDYZbmBjZZAMBAAAshZGgFzMMgNLAMzAYA",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
@@ -1786,7 +1786,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbjZmZmxsN8AMzsYsxMAAAAAAAAAAYZQzmZMNzYYMLmZmxyM5BmBAAAAAAAAAAAAwsNzWz2ML2YMzDgZmFQzAAMzAwA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMzMzMmthHgZmlhNbzAAAAAAAAAAgtBNbzw0MMwsMzMzMLmMDAAAAADAwAAAAAAz2MbNbzsZjxMDmZAaGAgZGAGA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -2064,7 +2064,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WGzYYmxsZGw2wAAAzYGzMjhZiZmBAAAMzMTGzMjxMzAAjZgFwCYGmAbM2MMAmZGD",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDD",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
