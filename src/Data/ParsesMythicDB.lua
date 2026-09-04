@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-09-03 02:01:25",
+	updated = "2026-09-04 02:01:30",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -754,7 +754,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Murder Row",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZDGzyAzMzMjZmZsMzMzAAAAYwyMjZmZGbzYmBwMFAYmNzwsZAgxgNjxCgmxMjxgZ2WGgBMA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAgZmxsMmZMzYYGYZmZmBAAAwYmlZwMzM2mxMDgZKAmZDDhxsMAjBWMzMLAMjZGjBzAMzMgB",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
@@ -848,7 +848,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZbMz0MbmZmZmxAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbA2GwGgZMAAAzMAGA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLzMz0MLGjxMGAAAAwMmZmZmZYGDAYmZmZGAAADMwMW0YZBwyA2AMjZAAAzMwwA",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
@@ -1233,36 +1233,42 @@ local talentData = {
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMGwMMGA",
 				},
 				[1] = {
+					label = "Temple of Sethraliss",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMGwMMGA",
+					instanceId = 1030,
+					instanceName = "Temple of Sethraliss",
+				},
+				[2] = {
 					label = "Ruby Life Pools",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstMDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMmBMMGA",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
-				[2] = {
+				[3] = {
 					label = "Murder Row",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMGwMMGA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
-				[3] = {
+				[4] = {
 					label = "The Blinding Vale",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMGwMMGA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
-				[4] = {
+				[5] = {
 					label = "Den of Nalorakk",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZkZGzAAAYAAzMTzy22MAAbmZGbzMzMjFAAAAAsYmZmBAAmxYmZmxMz2AwMDwYAzwYA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
-				[5] = {
+				[6] = {
 					label = "Voidscar Arena",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMGwMMGA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
-				[6] = {
+				[7] = {
 					label = "Altar of Fangs",
 					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMGwMMGA",
 					instanceId = 1322,
