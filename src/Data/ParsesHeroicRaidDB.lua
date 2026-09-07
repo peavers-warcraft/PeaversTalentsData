@@ -5,7 +5,7 @@ addonTable.ParsesHeroicRaidDB = addonTable.ParsesHeroicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Heroic.
 
 local talentData = {
-	updated = "2026-09-06 02:02:22",
+	updated = "2026-09-07 02:01:17",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -14,7 +14,7 @@ local talentData = {
 			[71] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZGAAAghphZGzMWmZmZGMmZAAAAAMzyMDMhxy2ALgBMDTgZwGYmhx2ALzsNAzMAYGGA",
+					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZGAAAghphxYmxyMzMzgxMDAAAAgZWmZgJMW2GYBMgZYCMD2AzM2GbDsMz2AMzAgZYA",
 				},
 				[1] = {
 					label = "Nymrissa Wavecaller",
@@ -78,7 +78,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Nymrissa Wavecaller",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZ2MzMzMDjZmZmZGzsMjxMjZzMzMAAQMW2GYBMgZYCMDbAzMbGAAgZGGzywYwYA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMzMzMjZWmZmZmxsYmZGAAIMwGssY0YGAzCmxCgZwAAmZAYYxMAjB",
 					instanceId = 1317,
 					instanceName = "The Tidebound Grotto",
 				},
@@ -108,7 +108,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzwMz2yMzMzMMmZmZMzMzyMzYmZmNjZGAAIGLbDsAGwMMBmhNgZGGbAAwMDjxwYwYA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZ2MzMzMDjZmZGzMzsMzMmZmZzYmBAAixy2ALgBMDTgZYDYmhxGAAMzwYMMGMG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -274,7 +274,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNDzyMz8AzMzMsMGzywyMGAgBAAAAAApZmlZGzgxs1GAGwAzgNAAAAYmZZbplZGL22YGAMmhxAgZGAMzgM2A",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzDYWmZYGzM2WGjZZWsMMAADAAAAAAaamxMjZGGzWbAYgBMD2AAAAgZmltlWmZsYbjZAMYGmZAwMDAmByYB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -310,7 +310,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Entombed Sentinels",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAANbbzMzywMDAAAAAAzUGzwMjtxsNMz2MGjZGmxCbDAAgZm2mZ2mBAsBYAwYGmBzYMbYbGMMmxgB",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAANbbzMzyYmZGAAAAAAzUGzwMjtxsNMz2MGjxwMWYDAzysNzMbNAAAwCgBAjZYGMjZmNgZmhxMGMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -392,7 +392,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYGzsYmZMjZwYaGAAAAwMAAAMmZGgZ2gNYWAbDAD",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYGzwMzYGzghmBAAAAMDAAAzMzMAzsBMMLgtBgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -458,7 +458,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAwMmZmZxMmZGzgx0MGMbbmZmZmZmZGYWGmZAAAjZmxAYGbMMAbMz2MG",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAwMmZmZxMmZGzgx0MGMbbmZmZmZmZmFmZZYmBAAMmZAgZsxwAsxMbzYA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -796,7 +796,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxMjZmZYmZYZGmBAAAwwsMDzMzMYGzAYmaAgZWMDziBAGD2MzMbAaGmxYYmZbZAmBGA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMMDgZqBwMLYIMmlBYMwiZmZBgZMGjhZGgZmZgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -850,7 +850,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxMMjx2MDzsNzwMjtZMmZmBmMwMNzAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBDA",
+					talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDzAAAAAAAAAAAAwMLmxMbzMGz2MGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzMgxMzMmNmZbZAmBDA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -920,7 +920,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwY2mZmxMmZmhZbMz0MLGjZmxMAAAAwwMzMzMjZGjBAzMzMzAAAYgBmxiGLbA2GwGgZMDAAYmBwA",
+					talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZZmZmmZxYMmxAAAAAmZmZmZmZYGjZAYMzMzAAAYgBmxiGLLAWGwGgZYAAAzMwwA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -980,7 +980,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZmZGDz2MzMzMLmZmMjxYYmxgZMzMzMzMDAAAAAAAAAgNzihBGY2YohNMzYmZgBgBgZGgB",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMjxYY2mZmZmZzMjmZwYYmxgZMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1010,7 +1010,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMDDz2MzMTz2MzYmZMAAAAAAAAMzwYAwyMmZ2mZGjZAbmFDDMwsxQjFMgZAYMzMmBYmhZMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAwyMmZ2mZGzMDYzsYYgBmNGasAgZAgZmxMAzMzYMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1276,13 +1276,13 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAGAwMz0sssMDAgNAA2wMzMjNLzMzsMjxYmZwCzMzMzAAMAAADwMDwAghZmB",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAGAwMz0sssMDAgNAA2gZmhNLzYmlZMmZmZGWYmZmZGAgBAAYAmZAGAMMzM",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDamZGAAAGAwMz0sssMDAgNAAAzMDbWmxMLzYMzMzMswMmZmBAYAAAGgZGwMAYYmZA",
+					talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAGAwMz0sssMDAgNAA2gZmhNLzYmlZMmZmZGWYmZmZGAgBAAYAmZAGAMMzM",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1478,7 +1478,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAAAAAAgxMGWgB2GWohFjZGLzyMzMmBAmZMzMmZAMzYmBAAYMzMzMMsMjBMA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmZMzoZjhZmxsMAAAAAAAgxMGWgB2GWohFjxYZWmZmxMAwMjZmZmZAmZGzMAAAjZmZmhhlZMgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1584,7 +1584,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Entombed Sentinels",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2MwMzMDz2YmxYZYZ7BW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mxMDAAAAAAALLYEmBmhxmZMmZmZMzywMmZZYZbW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1762,13 +1762,13 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMLNjxMDwsMzMzMYYGjZWmhxMWYZmlZGjZ2wAgx2yMDGz2AYCAAAwiZmZmBbGGjZAAMzglBA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYGjZWmhxMWYZmlZGjZ2wAgx2yMDGz2AYCAAAwiZmZmBbGGjZAAMzglBA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMLNjxMD8AmlZmZmBDzYMzyMLmZGbsMzyYMzYBDDwYZZmBjZbAMBAAAYhZmZGsZgxMAAmZgBA",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwswMzMYYGjZWmZxMzYhlZWGjZGLYYAGbbzMYMbDgJAAAALmZmZGsZMjxMAAmZgBA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1822,13 +1822,13 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAwgZwYmZmxstMPwyYbmZGzMDAAAALBzmhxMjaGzCzMzYMjZAAAAAAMwAAAAAAMbzs0sMzyGYmHAYxMDDAgZGAMA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAwgZ2YMzMzY2W8ALjtZmZMzMAAAAsEMbwYmRNjZZMzMjxMmBAAAAAwADAAAAAwsNzSzyMLbgZGgFzgBAwMDAGA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzGzMzMzMzmx2YbGzMmZAAAAYJY2gxMjaGziZmZGjZAAAAAAgBGAAAAAgZZmlmlZ22gZmBYxMDDAgZGAMA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzGzMzMzMzm5BM2mxMjZGAAAAWCmNYMzomxsMmZmxYGDAAAAAADMAAAAamlZZmZGAwCYmBYxMDDAAgZ2wA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1906,7 +1906,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Entombed Sentinels",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLzMjZmxsNMYmNjNmBAAAAAAAAAALGa2YMNzAPgZxMzMDTmBAAAAgBAAAAAAAMbzs0sNzmNGzMDzMbY0MAAzMAMA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLzMjZmxsNMDjFjNmBAAAAAAAAAAbGa2mZMNzAPgZhZmZWM5BGAAAAAGAgBAAAAAmtZWa2mZzGzMzDgZGY0MAAzMAMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1924,7 +1924,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLzMjZmxsNMYmFjNmBAAAAAAAAAALDa2YMNzY4BMLzMzMDTmBAAAAAAAAAAAAgZbmlmtZ2sxYmZYmBGNDAwMDADA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbzMjZmxsNMYmFjNmBAAAAAAAAAAbDa2MjpZGDPgZZMzMziJzAAAAAAAAAbbjFMNzsMAAAAWYMzgZGY0MAYmBAMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1982,7 +1982,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxYmMmZAAAAAAAzixsNDzMYmxyMjZYmxYWGYZ2MjhZhpxMzYGbAAAAAAAAMzgBAAAgB",
+					talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYAzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmxyMzYZm5BmZWmZWGjBWmFzYY2YaYmxwGAAAAAAAAzMYAAAAYA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -2008,11 +2008,11 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAA2MmZmxwMyMzALmxMYmxMjZegZmZMMzMzYbMjxYGAAAAAAAAmxYDAAAADMzMzMLtNzMDAmBAAAwA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZY2MzMjhZMzYGzYmZYGmx2MzYMAAAAAAAAgZmxGAAAAGMmZmZWabmZGAYAAAAMA",
 				},
 				[1] = {
 					label = "Nymrissa Wavecaller",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMzMzMjMzMY2MzMDMjZGzYmZGDzMzM2MzYMMAAAAAAAAMzM2AAAAwAzMzMzWbzMzAADAAAgB",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZY2MzMjhZMzYGzYmZYGmx2MzYMAAAAAAAAgZmxGAAAAGMmZmZWabmZGAYAAAAMA",
 					instanceId = 1317,
 					instanceName = "The Tidebound Grotto",
 				},
@@ -2256,7 +2256,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Entombed Sentinels",
-					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbzMzgZYmZZGzMjZ2AAAAAAAAYmhxMYM1YmZGAAAAMjZMmZWGzMwMMwYGLsADMDDNwCGjZGAYA",
+					talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbzMzgZYmZZGzMjZ2AAAAAAAAYmhxMYM1YmZGAAAAMjZMmZ2GzMwMMwYGLsADMDDNwCGjZGAYA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
