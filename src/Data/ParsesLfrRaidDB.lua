@@ -5,7 +5,7 @@ addonTable.ParsesLfrRaidDB = addonTable.ParsesLfrRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at LFR.
 
 local talentData = {
-	updated = "2026-09-07 02:01:05",
+	updated = "2026-09-08 02:01:05",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -438,13 +438,13 @@ local talentData = {
 				},
 				[2] = {
 					label = "Entombed Sentinels",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMzMzsNzMjZMmF4BmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwADMLsQLsxAMzgBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMzMzsNzMjZmxsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwADMLsQLsxAMzgBG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
 				[3] = {
 					label = "Vashnik the Malignant",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMmZmtZmZmZMmF4BmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwADMLsQLsxAMzgBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMzMzsNzMjZmxsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwADMLsQLsxAMzgBG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1158,7 +1158,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Entombed Sentinels",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGzGziZmZMAAAAAAAWgJMDMjBmBzMzMMbMzYmthltZZb2YmFAAYDAAAMbzSzMzsxwCDYmhpBwwAwA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGz4BGWmxGmZMAAAAAAALLYmYmBmhxGMmZmZY2GzMGLDLb22mtZMLAAwGAAAY2mlmZmZxMsBwMDTjBAAMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
