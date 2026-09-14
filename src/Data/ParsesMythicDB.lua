@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-09-13 02:01:38",
+	updated = "2026-09-14 02:01:25",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -108,7 +108,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Voidscar Arena",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMzMmxMzMzMjZWmZGzMmFzMzAAAhB2glFjGzAYWwMWAMDGAwMDADLmhBjB",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzwMzmZmZmZmZMzMzMzYsMjxMzMbmZmBAAixy2ALgBMDTgZYDYmhBAAYmhxsMjxgxA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -380,7 +380,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZYMDLDNDAAAAAAAAmHYMzAmZDAzCYbAYA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzs8AzYmZmZMzgZGzMMzYmZGbzMjZMDLjpZAAAAAAAAgHYMGwMbAYWAbDAA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -594,7 +594,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Blinding Vale",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwADMLsQLsxAMzgBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwADMLsQLsxAMzgBG",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -694,7 +694,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Ruby Life Pools",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsZGWmZMzMzgZbGzMzMDzAAAAAAAAAAYMWmBzMzYzYmBMNTMAzsghwYWGgxgFAAYMzMjBzAMzMDYA",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxYZGMzMjNjZGsZamYAmZDDhxsMAjBLAAwYmZGDmBYmZAmB",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
@@ -1240,7 +1240,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Kings' Rest",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzIzMzAAAwAAmZmmlttZAA2MzM2mZmZGbAAAAAYxMjZAAgZMmZmZMzsNAMzAjxAmhxA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsMAMzAMGwMMGA",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
@@ -1602,7 +1602,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Voidscar Arena",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNzMmZmZAAsBAzys0MzMLAYgZGAYZMgBM",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDzGmhZZmAAWMz2MzYmZmBAwGAMLzSzMzsAwMwMDAswAGwA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
@@ -1816,7 +1816,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWGzMzsMmxAAAAAAMzsZAbbzMYMLDgJAAAgNMzDAsYMMgFLAMzAYA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -1976,7 +1976,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Blinding Vale",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMwiZMDmZMzYmZmZGDmZmxmZmtxYGAAAAAAAAmZGbAAAAYgZmZmZrtZmZAgBAAAwA",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmZmx2YGjxMAAAAAAAAMzM2AAAAwAzMzMzSbzMzAgZAAAAMA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -2106,7 +2106,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Altar of Fangs",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZAMzwMwwYMTjZmpZMz2MmZmZmZmZGwMzMGzMLzMDMwYwGsMGN2GAzggNMDmZwwA",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMwYGjZaMzMNjZWmxMzMzYmZGwMzMGzMmZGYgxgFYZMasNAmBBbYGMzghB",
 					instanceId = 1322,
 					instanceName = "Altar of Fangs",
 				},
@@ -2154,7 +2154,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Voidscar Arena",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDD",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmHYGDjxsZGw2wAAAzYGzYMMTMzMAAAgZmZaGzMjZbMDAMmBWAbgZYCsZGbGmBYmhB",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
