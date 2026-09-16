@@ -5,7 +5,7 @@ addonTable.ParsesMythicRaidDB = addonTable.ParsesMythicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic.
 
 local talentData = {
-	updated = "2026-09-15 02:01:03",
+	updated = "2026-09-16 02:00:59",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -25,6 +25,18 @@ local talentData = {
 				[2] = {
 					label = "The Lost Explorers",
 					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZGAAAghphZGzMWmZmZGMmZAAAAAMzyMDMhxy2ALgBMDTgZwGYmhx2ALzsNAzMAYGGA",
+					instanceId = 1320,
+					instanceName = "The Venomous Abyss",
+				},
+			},
+			[73] = {
+				[0] = {
+					label = "All Bosses",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzMmZmZmxsZmZZGPgxMNMzMWmZmZGwMDAAAAMzAMzyAMwGssY0YGAzGmZDDmZYmNAYmBAADMG",
+				},
+				[1] = {
+					label = "The Lost Explorers",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzMmZmZmxsZmZZGPgxMNMzMWmZmZGwMDAAAAMzAMzyAMwGssY0YGAzGmZDDmZYmNAYmBAADMG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -64,7 +76,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "The Lost Explorers",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzYGAAAAAAzUmlZYmx2Y2GmZbGzMGDzYhNAMLz2Mzs1AAAALAGAwMbAzYmZDYmZMjhBD",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxCbAYWmtZmZrBAAAWAMAYMDDMjZmNgZmhxMGMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -102,6 +114,12 @@ local talentData = {
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
+				[2] = {
+					label = "The Lost Explorers",
+					talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAwMmZmhZMzMmBjpZMY222mZmZmZmZGMzywMAAAegZGzAYGbMMAbMz2MG",
+					instanceId = 1320,
+					instanceName = "The Venomous Abyss",
+				},
 			},
 			[255] = {
 				[0] = {
@@ -109,16 +127,10 @@ local talentData = {
 					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGwmxMzYYZAAAAAAYGzYGMGzYGMmmBAAAYAwMWWmZmFmZmZmZGAYGLMLGjZmNDA",
 				},
 				[1] = {
-					label = "Nek'zali the Soulcoiler",
+					label = "Nymrissa Wavecaller",
 					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGwmxMzYYZAAAAAAYGzYGMGzYGMmmBAAAYAwMWWmZmFmZmZmZGAYGLMLGjZmNDA",
-					instanceId = 1320,
-					instanceName = "The Venomous Abyss",
-				},
-				[2] = {
-					label = "The Lost Explorers",
-					talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGwmxMzYYZAAAAAAYGzYGMGzYGMmmBAAAYAwMWWmZmFmZmZmZGAYGLMLGjZmNDA",
-					instanceId = 1320,
-					instanceName = "The Venomous Abyss",
+					instanceId = 1317,
+					instanceName = "The Tidebound Grotto",
 				},
 			},
 		},
@@ -138,7 +150,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "The Lost Explorers",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsYwAAAAAAzygtZAAAAAAttNzMzMzMGbzMzsNzyMzMmxMjxwMjxAYgFYGjGzGgtBsBAmZGjB",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsYwAAAAAAzygtZAAAAAAttNzMzMzMGLzMzsNzyMz8AmxMjxwMjxAsZWGYALglhJwwixmZGADD",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -197,6 +209,18 @@ local talentData = {
 				[2] = {
 					label = "The Lost Explorers",
 					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMmxyYmxYmHAmZbmZmZmZAAAAAAAAAAYYWmBzMzwMMDYammZwMDAAwsNbLgxmBAgxYmxgZwMDmJYA",
+					instanceId = 1320,
+					instanceName = "The Venomous Abyss",
+				},
+			},
+			[257] = {
+				[0] = {
+					label = "All Bosses",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMmZMgZKAmZBDhxsMAjBWMzMLAMjZGjBzAMzMgB",
+				},
+				[1] = {
+					label = "The Lost Explorers",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMmZMgZKAmZBDhxsMAjBWMzMLAMjZGjBzAMzMgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -284,7 +308,7 @@ local talentData = {
 			[262] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZbZMmhBAAAAsYmNYADY2YCMLAwsNzMjx2iJMzYsMzMzYGLWmZWGGzMLDAYYAMzYYGfA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZbZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZ2GLzMzMGWmlxsMMmZWGAwAAzMGmxHA",
 				},
 				[1] = {
 					label = "Nek'zali the Soulcoiler",
@@ -294,7 +318,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "The Lost Explorers",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZbZMmhBAAAAsYmNYADY2YCMLAwsNzMjx2iJMzYsMzMzYGLWmZWGGzMLDAYYAMzYYGfA",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZbZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZ2GLzMzMGWmlxsMMmZWGAwAAzMGmxHA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -367,6 +391,18 @@ local talentData = {
 	},
 	[9] = {
 		specs = {
+			[265] = {
+				[0] = {
+					label = "All Bosses",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAsxYmZ0sZGbmZMbDAAYmZWmFzMLjBAGbLDMgBMDLBG2GAAAmBAAwMzMzYmxYMjxMzMjhZmZAAGwA",
+				},
+				[1] = {
+					label = "Nymrissa Wavecaller",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAsxYmZ0sZGbmZMbDAAYmZWmFzMLjBAGbLDMgBMDLBG2GAAAmBAAwMzMzYmxYMjxMzMjhZmZAAGwA",
+					instanceId = 1317,
+					instanceName = "The Tidebound Grotto",
+				},
+			},
 			[266] = {
 				[0] = {
 					label = "All Bosses",
@@ -414,7 +450,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "The Lost Explorers",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgxYZmZ2mxAAAAAAAAAAAALDz0MmhhBMMMzMzwshZYWmJAgFmtxMGzMDAgFzsMbjJAAgxAYGgxyAxMzsZA",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMgxYbmZ2mBAAAAAAAAAAAYZYmwMgBMmZMzMzwsNMDzyMBAsYmtxMGzMDAgFzsMLjJAAgxAYGgxyAxMzsZA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -441,6 +477,18 @@ local talentData = {
 	},
 	[11] = {
 		specs = {
+			[102] = {
+				[0] = {
+					label = "All Bosses",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDzY2mZZsMjZsZWmxYmZGbYYAGgttxGmmZWGAAAAsZmZmZwmhxYAYmBAGA",
+				},
+				[1] = {
+					label = "Nymrissa Wavecaller",
+					talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDzY2mZZsMjZsZWmxYmZGbYYAGgttxGmmZWGAAAAsZmZmZwmhxYAYmBAGA",
+					instanceId = 1317,
+					instanceName = "The Tidebound Grotto",
+				},
+			},
 			[103] = {
 				[0] = {
 					label = "All Bosses",
@@ -536,7 +584,7 @@ local talentData = {
 			[1467] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZgZYGmBMYMTzMzMNjx2MmZmZmZmZGwMmZGzMLzMDMwYwGsMGN2GAzggNMwMDGG",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZgZYGzMwMYMTjZmpZM2mxMzMzMzMzAmxMGzMLzMDMwYwGsMGN2GAzggNMwMDGG",
 				},
 				[1] = {
 					label = "Nek'zali the Soulcoiler",
@@ -546,7 +594,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "The Lost Explorers",
-					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZgZYGmBMYMTzMzMNjx2MmZmZmZmZGwMmZGzMLzMDMwYwGsMGN2GAzggNMwMDGG",
+					talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZgZYGzMwMYMTjZmpZM2mxMzMzMzMzAmxMGzMLzMDMwYwGsMGN2GAzggNMwMDGG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -559,6 +607,12 @@ local talentData = {
 				[1] = {
 					label = "Nek'zali the Soulcoiler",
 					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDmZMYGzmhZmZbYAAgZMjZMGzIMDAAAwMzIzYmZmlxMAYGzALgFwMMB2MsZYAMzMGA",
+					instanceId = 1320,
+					instanceName = "The Venomous Abyss",
+				},
+				[2] = {
+					label = "The Lost Explorers",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDmZMYGzmhZmZbYAAgZMj5BwYGZmZAAAAmZGZmZmxsMzMAYGzALgFwMMB2MsZYAMzMGA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
