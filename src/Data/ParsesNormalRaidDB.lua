@@ -5,7 +5,7 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-09-19 02:02:04",
+	updated = "2026-09-21 02:01:56",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -434,7 +434,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Ula'tek",
-					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAA8AjxAmZDAzCYbAYA",
+					talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYGzwMzYGzghmBAAAAMDAAAzMzMAzsBMMLgtBgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -576,7 +576,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwYMA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsNDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMzYGzYMmZMMAbmlBGwCYZYCMsYwMDwYMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -820,7 +820,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxMjZmZYmZYZGmBAAAwwsMDzMzMYGzAYmaAgZWMDziBAGD2MzMbAaGmxYYmZbZAmBGA",
+					talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAADAAAAAAYBmZWGzMmZMMDzsMzYGAAAAzYWmBzMzwMMDgZqBwMbYIMmlBYMwiZmZBgZMGjhZGgZmZgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1194,7 +1194,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Entombed Sentinels",
-					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMGA",
+					talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDLwCMDDNYBgZZGzMjllZgZmNWmZmZYYMDAwMMmZMzEYmBDGDA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1592,7 +1592,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "The Coiled Altar",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjZ2mZGzyAAAAAAAAGzYYBGYbYhGWMGjlZZmZGzAAzMmZmZmBwMjZAAAMmZmxwwyMGwA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmZMzoZjhZmxsMAAAAAAAgxMGWgB2GWohFjxYZWmZmxMAwMjZmZmZAmZGzMAAAjZmZmhhlZMgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
