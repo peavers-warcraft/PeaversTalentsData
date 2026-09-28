@@ -5,7 +5,7 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-09-27 02:02:31",
+	updated = "2026-09-28 07:33:59",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -576,7 +576,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsNDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMzYGzYMmZMMAbmlBGwCYZYCMsYwMDwYMA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAttNzMzMzMGLzMzsNzyMz8AjxMjxYmZmxAYgFYGjGzGgtBsZAwMzgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -802,7 +802,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Ula'tek",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzYmBMNTzMYmBAAY2mtFwYzAAwYMzYwMYmBjgB",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzwMgpZamBzMAAAz2stAGbGAAGjZGDzMYmBjgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1366,13 +1366,13 @@ local talentData = {
 				},
 				[1] = {
 					label = "Nymrissa Wavecaller",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMmNzsYmZWGmZkZmZAAAYmtZamZbWAAAALmZMGMzMbAAAAAYzMjxAAAzwMmZmZmNDMzAiZMDMDDA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstMDAwmZmx2MzMzYBAAAAALmZmZAAgZMmZmZMzsNAMzAMGwMMGA",
 					instanceId = 1317,
 					instanceName = "The Tidebound Grotto",
 				},
 				[2] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzswDMzIzMGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAYxMzMDAAMmxMmZmZmNAMzAjxYwMMA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZkZmZAAAYAAzMTz222MAAbmZGbzMzMjFAAAAAsYmZmBAAmxYmZmxMzyAwMDwYAzwYA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1800,7 +1800,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMjZwsYzMmZZZGbYmZ2mZ2sMzYhhmxMgBziZwMzMDz2ghZzEAAAAY2m2mtZWmNAAAAGgZGAYMMWwAA",
+					talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2YZYzixMzyyM2wYGmZZZbmxCzoZMDYwgxYmZmhZbMGsYCAAAAAAWsMzysNzEAAGwAMDYMMWkxMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
