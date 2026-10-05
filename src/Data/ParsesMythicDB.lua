@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-10-04 02:00:33",
+	updated = "2026-10-05 02:01:45",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -534,7 +534,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "Murder Row",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYZmZmtZWmZmHwDMmZMzwMjxAYgFYGjGzGgtBsBAmZGjB",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDAAAAAAzygtZAAAAAAttNzMzMzMGLzMzsNzyMz8AmxMjxwMjxAYgFYGjGzCgtBsZAwMzMMA",
 					instanceId = 1304,
 					instanceName = "Murder Row",
 				},
@@ -1376,7 +1376,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMz2AAAmZmlZxMz2YAgx22ADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
+					talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAmZmlZxMz2YAgx2yADYAzwWghtBAAgZAAAMzMmxM2GjZMmZmZMMzMDAwAG",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -1430,7 +1430,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxMzYmBYMjZsBAAGzMzYYYZGDYA",
+					talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmhZGNbmx2MzYWGAAAAAAAwYGDLwAbDb0wixMjlZbmZGzAAzMGzMzMAzMDzsBAAGzMzYYYZGDYA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -1870,7 +1870,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzsMjNbzAAAAAAAAAAglBNbGmmZMDmFzMzMLzkHYGAAAAAAAMAAAAAY2mZrZbmFbMmZgZWANDAwMDADA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmZZm8AzAAAAAAAgBAAAAAz2MbNbzsYjxMDMzCoZAAmZAYA",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
