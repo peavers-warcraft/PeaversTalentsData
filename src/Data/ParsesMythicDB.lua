@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-10-05 02:01:45",
+	updated = "2026-10-06 02:01:22",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -316,7 +316,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Blinding Vale",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMGMA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxCbAYWmtZmZrBAAAWAMAYMDDMjZmNgZmhxMGMA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -1512,7 +1512,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMLbGDzwyM2MmZMAAAAAAALLwEzMwMMYGMzMzwsNMjZWGW2stNbzYWAAgNAAAwsNLNzMzGDbAMzw0YADAYA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
 					instanceId = 1030,
 					instanceName = "Temple of Sethraliss",
 				},
