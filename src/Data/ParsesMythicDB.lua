@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-10-07 02:01:55",
+	updated = "2026-10-08 02:00:32",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -316,7 +316,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "The Blinding Vale",
-					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxCbAYWmtZmZrBAAAWAMAYMDDMjZmNgZmhxMGMA",
+					talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMGMA",
 					instanceId = 1309,
 					instanceName = "The Blinding Vale",
 				},
@@ -600,7 +600,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Den of Nalorakk",
-					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwADMLsQLsxAMzgBG",
+					talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAAbbzMzwMzMziZmZbAAAAYmBAjZxwADMLsQLsxAMzgBG",
 					instanceId = 1311,
 					instanceName = "Den of Nalorakk",
 				},
@@ -1836,7 +1836,7 @@ local talentData = {
 			[105] = {
 				[0] = {
 					label = "All Dungeons",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMmNzsZbGAAAAAAAAAAsNoZbGmmhBmFzMzMLm8ADAAAAADAwMAAAAAY2mZrZbmNbMzMDmZWANDAwMDADA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmZZm8AzAAAAAAAgBAAAAAz2MbNbzsYjxMDMzCoZAAmZAYA",
 				},
 				[1] = {
 					label = "Temple of Sethraliss",
@@ -1846,7 +1846,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Kings' Rest",
-					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMmNzsZbGAAAAAAAAAAsNoZbGmmhBmFzMzMLm8ADAAAAADAwMAAAAAY2mZrZbmNbMzMDmZWANDAwMDADA",
+					talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmZZm8AzAAAAAAAgBAAAAAz2MbNbzsYjxMDMzCoZAAmZAYA",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
