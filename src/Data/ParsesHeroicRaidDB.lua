@@ -5,7 +5,7 @@ addonTable.ParsesHeroicRaidDB = addonTable.ParsesHeroicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Heroic.
 
 local talentData = {
-	updated = "2026-10-11 02:16:33",
+	updated = "2026-10-12 02:15:56",
 	gameBuild = "12.1.0.69382",
 	partition = "12.1",
 
@@ -274,7 +274,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Entombed Sentinels",
-					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNDzyYmZmZmx2yYYZMLzYAAGAAAAAAkmZWmZMzwY2aDADMgZw2AAAAgZmltlWmZsYZDDgxYGGDAmZAgByYB",
+					talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzYWmZYGzM2WGDLzithBAYAAAAAAQamZxMmZGjZrNAMgBMYbAAgZm2mZWmBAYzyGzAgxMMGAgtZAmZAjN",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1082,7 +1082,7 @@ local talentData = {
 				},
 				[5] = {
 					label = "Vashnik the Malignant",
-					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
+					talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTjZmxYGDAAAAAAAAzDMMGAsMDzsZmxMzYgBmxiGLbA2GsBgZAMzMzMmBzMYmZMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1674,7 +1674,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Nymrissa Wavecaller",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYmYmBzMMzGDmZmZY2GmxMLYZz22sNjZBAA2AAAAz2s0MzMbMsAwMDTjBAAMA",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMLbGzYG2mxGmZMAAAAAAALLYEmBmhxmZMmZmZY2GzMmZDLb22GzYWAAglZZaZ2mZZAAAAmhNwMDYaMgBAMA",
 					instanceId = 1317,
 					instanceName = "The Tidebound Grotto",
 				},
@@ -1930,7 +1930,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Entombed Sentinels",
-					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAwgZwYmZmxstMPwyYbmZGzMDAAAALBzmhxMjaGzCzMzYMjZAAAAAAMwAAAAAAMbzs0sMzyGYmHAYxMDDAgZGAMA",
+					talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAwYMjxYmZMmtFWGbzMzYmZAAAAYLYYYMzomxswMzMGzMAAAAAAYgBAAAAAY2mZpZZmlNwMDwiZGGAAzMAYA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
