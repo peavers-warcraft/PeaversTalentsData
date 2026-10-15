@@ -5,8 +5,8 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-10-14 02:11:58",
-	gameBuild = "12.1.0.69382",
+	updated = "2026-10-15 02:12:12",
+	gameBuild = "12.1.5.70391",
 	partition = "12.1",
 
 	[1] = {
