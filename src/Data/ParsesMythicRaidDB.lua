@@ -5,7 +5,7 @@ addonTable.ParsesMythicRaidDB = addonTable.ParsesMythicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic.
 
 local talentData = {
-	updated = "2026-10-16 02:21:03",
+	updated = "2026-10-17 02:20:55",
 	gameBuild = "12.1.5.70391",
 	partition = "12.1",
 
@@ -37,6 +37,18 @@ local talentData = {
 				[4] = {
 					label = "Vashnik the Malignant",
 					talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphZGzMWmZmZGMmZAAAAAMWmZgJMW2GYBMgZYCMD2AzMM2GMLzsNAzMAYGGA",
+					instanceId = 1320,
+					instanceName = "The Venomous Abyss",
+				},
+			},
+			[72] = {
+				[0] = {
+					label = "All Bosses",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZ2MzMzMDjZmZmZmZmlZMmZMbmZmBAAixy2ALgBMDTgZYDYmhxGAAMzwYMMGMG",
+				},
+				[1] = {
+					label = "Nek'zali the Soulcoiler",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZ2MzMzMDjZmZmZmZmlZMmZMbmZmBAAixy2ALgBMDTgZYDYmhxGAAMzwYMMGMG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
