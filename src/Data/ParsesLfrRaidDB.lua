@@ -5,8 +5,8 @@ addonTable.ParsesLfrRaidDB = addonTable.ParsesLfrRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at LFR.
 
 local talentData = {
-	updated = "2026-10-20 02:06:37",
-	gameBuild = "12.1.5.70391",
+	updated = "2026-10-21 02:05:56",
+	gameBuild = "12.1.5.70448",
 	partition = "12.1",
 
 	[1] = {
