@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-10-22 02:00:38",
+	updated = "2026-10-23 02:00:40",
 	gameBuild = "12.1.5.70448",
 	partition = "12.1",
 
@@ -1300,7 +1300,7 @@ local talentData = {
 				},
 				[3] = {
 					label = "Ruby Life Pools",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAwsZsMzMzysZmJmZmZmZmZmFzMzYGzAAAAzMzssMz0GAAsBAAA2AYbbMjZwsNMmhNAAAmZDYGYAzghB",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMmNjlZmZWGmZiZmZmZmZmZxMzMmxMAAAwMzMLLzMtBAAbAAAgNA22GzYGMbDjZYDAAgZ2AmBGwMYYA",
 					instanceId = 1202,
 					instanceName = "Ruby Life Pools",
 				},
