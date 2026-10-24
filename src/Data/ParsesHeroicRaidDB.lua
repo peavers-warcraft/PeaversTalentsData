@@ -5,8 +5,8 @@ addonTable.ParsesHeroicRaidDB = addonTable.ParsesHeroicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Heroic.
 
 local talentData = {
-	updated = "2026-10-23 02:16:30",
-	gameBuild = "12.1.5.70448",
+	updated = "2026-10-24 02:16:24",
+	gameBuild = "12.1.5.70529",
 	partition = "12.1",
 
 	[1] = {
@@ -784,7 +784,7 @@ local talentData = {
 				},
 				[6] = {
 					label = "Sszorak",
-					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxYZGMzMDzwMGMNTMAzsghwYWGgxgFAAYMzMjBzAMzMDYG",
+					talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzYmBMNTzMYmBAAY2mtFwYzAAwYMzYwMYmBjgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1034,7 +1034,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZmZGDz2MzMzMLmZmMjxYYmxgZMzMzMzMDAAAAAAAAAgNzihBGY2YohNMzYmZgBgBgZGgB",
+					talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAmZMjZAz2MzMzMLzMjMjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAMzgB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -2158,7 +2158,7 @@ local talentData = {
 			[581] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMmZkZmBziZmZgZMzYGzMzYYmZmxmZmtxAAAAAAAAAmZGbAAAAYwMzMzMbtNzMDAMAAAAG",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmxMjMzMYWMzMDMjZGzYmZGDzMzM2MzsNGAAAAAAAAwMzYDAAAADMzMzMbtNzMDAMAAAAG",
 				},
 				[1] = {
 					label = "Nymrissa Wavecaller",
@@ -2180,7 +2180,7 @@ local talentData = {
 				},
 				[4] = {
 					label = "The Lost Explorers",
-					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMzkZmBziZmZwMjZGzYmZGDmZmxmZGjhBAAAAAAAgZmZ2AAAAwAzMzMzWbzMzAADAAAgB",
+					talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmxMjMzMYWMzMDMjZGzYmZGDzMzM2MzsNGAAAAAAAAwMzYDAAAADMzMzMbtNzMDAMAAAAG",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
