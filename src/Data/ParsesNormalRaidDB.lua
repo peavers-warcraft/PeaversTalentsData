@@ -5,7 +5,7 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-10-25 02:11:46",
+	updated = "2026-10-26 02:11:27",
 	gameBuild = "12.1.5.70575",
 	partition = "12.1",
 
@@ -1402,7 +1402,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Twin Fangs",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAYxMzMDAAMmxMmZmZmFAMzAMGDmhxA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzIzMzAAAwAAmZmmlttZAA2MzM2mZmZGLAAAAAYxMjZAAgZMmZmZMzsMAMzAjxAmhxA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
