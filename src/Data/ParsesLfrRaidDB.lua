@@ -5,7 +5,7 @@ addonTable.ParsesLfrRaidDB = addonTable.ParsesLfrRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at LFR.
 
 local talentData = {
-	updated = "2026-10-26 02:06:05",
+	updated = "2026-10-27 02:06:25",
 	gameBuild = "12.1.5.70575",
 	partition = "12.1",
 
@@ -558,7 +558,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Ula'tek",
-					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYbmZmtZWmZGzDMmZMGmZMGgNzyADYBsMMBGWMWMzAMYA",
+					talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsYwAAAAAAzygtZAAAAAAZbmZmZmZMWmZmZbmlZmZGjZGjxMzYMAGYBmxoxsBYbAbGAMzMGD",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1050,7 +1050,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Coiled Altar",
-					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMmZmZZbZMMjBAAAAsYmNYADY2YCMLAwsNzMjZ2WmJMzsxyMzMjZwyMWMzwMLDAYAgZGDDD",
+					talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhB",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1270,13 +1270,13 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Coiled Altar",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZm5BsgZGZmZGAAAGAwMz0sssMDAwmZmZ2mxYmZBAAAAAbmZmZGAAMjxMmZMzsNAMzgxMGghBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzstYWGzDMb2MzIzMmBAAwAAmZmmlltZAA2MzY2GzMz8ALAAAAAYzMzMzAAAMzMDjZmt5BAMzAwwwMMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
 				[8] = {
 					label = "Ula'tek",
-					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZm5BsgZGZmZGAAAGAwMz0sssMDAwmZmZ2mxYmZBAAAAAbmZmZGAAMjxMmZMzsNAMzgxMGghBA",
+					talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzstYWGzDMb2MzIzMmBAAwAAmZmmlltZAA2MzY2GzMz8ALAAAAAYzMzMzAAAMzMDjZmt5BAMzAwwwMMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1547,6 +1547,12 @@ local talentData = {
 					instanceName = "The Venomous Abyss",
 				},
 				[7] = {
+					label = "The Coiled Altar",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMWMGGjNmlxMzYAAAAAAAWWwMxMDmZGzsBMzYGmFmZMWG22mtlZhxCAAsMbTLz2MLDAAAghFwMDYaGAAgB",
+					instanceId = 1320,
+					instanceName = "The Venomous Abyss",
+				},
+				[8] = {
 					label = "Ula'tek",
 					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMLbGDzwyM2MmZMAAAAAAALLwEzMwMMYGMzMzwsNMjZWGW2stNbzYWAAgNAAAwsNLNzMzGDbAMzw0YADAYA",
 					instanceId = 1320,
@@ -1596,7 +1602,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "The Coiled Altar",
-					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+					talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYM2GmhlZGbzAAAAAAAAAAAAsMMCzwwAmZGmZmZY2GmhZZmAAWMz2MjZmZmBAwGAMLzSzMzsAgBmZAYsMAGwFA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -2154,7 +2160,7 @@ local talentData = {
 				},
 				[8] = {
 					label = "Ula'tek",
-					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDegZMMzY2MMzMbDDAAMjZMPAGzIzMDAAAwMzMZGzMmtZmBAzYGYBsAmhJwmhNDDgZmxA",
+					talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZW2mZmZmZegBAmlZMAAwYmxMYMz0YmZAAAAmZmmxMzMjxAAGzAbgNwMMBWgNDAMzMGA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
