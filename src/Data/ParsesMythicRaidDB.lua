@@ -5,7 +5,7 @@ addonTable.ParsesMythicRaidDB = addonTable.ParsesMythicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic.
 
 local talentData = {
-	updated = "2026-10-26 02:21:01",
+	updated = "2026-10-27 02:20:52",
 	gameBuild = "12.1.5.70575",
 	partition = "12.1",
 
