@@ -5,7 +5,7 @@ addonTable.ParsesHeroicRaidDB = addonTable.ParsesHeroicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Heroic.
 
 local talentData = {
-	updated = "2026-11-01 02:16:28",
+	updated = "2026-11-02 02:16:34",
 	gameBuild = "12.1.5.70688",
 	partition = "12.1",
 
@@ -1474,7 +1474,7 @@ local talentData = {
 				},
 				[9] = {
 					label = "Ula'tek",
-					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZGzMzMziZmZMjZAAAgZmZWWmZaDAAAAAA2AYbZMzMDmthxMsAAAwMbAzADYGMMA",
+					talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmlxMzEzMGzMzMzmZmZMjZAAAgZmZWWmZaDAA2AAAAbAstNmZmBz2wYG2AAAYmNgZgBMDGA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
