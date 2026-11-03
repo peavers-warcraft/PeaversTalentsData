@@ -5,7 +5,7 @@ addonTable.ParsesNormalRaidDB = addonTable.ParsesNormalRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Normal.
 
 local talentData = {
-	updated = "2026-11-02 02:11:37",
+	updated = "2026-11-03 02:11:57",
 	gameBuild = "12.1.5.70688",
 	partition = "12.1",
 
@@ -1670,7 +1670,7 @@ local talentData = {
 			[268] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mxMDAAAAAAALLYEmBmhxmZMmZmZMzywMmZZYZbW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMLbGDzwyM2MmZMAAAAAAALLwEzMwMMYGMzMzwsNMjZWGW2stNbzYWAAgNAAAwsNLNzMzGDbAMzw0YADAYA",
 				},
 				[1] = {
 					label = "Nymrissa Wavecaller",
@@ -1680,7 +1680,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mxMDAAAAAAALLYEmBmhxmZMmZmZMzywMmZZYZbW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+					talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGPwYWM2mxMDAAAAAAALLYEmBmhxmZMmZmZMzywMmZZYZzy2sNMLAAwysMtMbzsMAAAAzwGYmBMNGAAwA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
