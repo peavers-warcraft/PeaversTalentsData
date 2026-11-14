@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-11-13 02:00:29",
+	updated = "2026-11-14 02:00:28",
 	gameBuild = "12.1.5.70783",
 	partition = "12.1",
 
@@ -108,7 +108,7 @@ local talentData = {
 				},
 				[7] = {
 					label = "Voidscar Arena",
-					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzwMzmZmZmZmZMzMzMzYsMjxMzMbmZmBAAixy2ALgBMDTgZYDYmhBAAYmhxsMjxgxA",
+					talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMzM2Mz8AzYmhZGzYmZmlZmxMzMLDPwMAAQYgFYZxoxMAmFYsAMDmZBAmZAMmhZGzwYA",
 					instanceId = 1313,
 					instanceName = "Voidscar Arena",
 				},
