@@ -5,7 +5,7 @@ addonTable.ParsesMythicDB = addonTable.ParsesMythicDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic+.
 
 local talentData = {
-	updated = "2026-11-14 02:00:28",
+	updated = "2026-11-15 02:00:31",
 	gameBuild = "12.1.5.70783",
 	partition = "12.1",
 
@@ -132,7 +132,7 @@ local talentData = {
 				},
 				[2] = {
 					label = "Kings' Rest",
-					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAjZGzMzMGzmZmlhxY0YGjFzMzMDzYmBAAAALzMAzYAGYDWWMaMDgZBzsBjZmBDAYmBAgZgxA",
+					talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAjZmxMzMDzCzsMMGjGzYYxMzMjZYmBAAAALzMAGDwALw2iRjZAMLYmNMzMzMM2AgZGAAmBGD",
 					instanceId = 1041,
 					instanceName = "Kings' Rest",
 				},
