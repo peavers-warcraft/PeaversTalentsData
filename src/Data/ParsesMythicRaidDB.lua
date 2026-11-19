@@ -5,8 +5,8 @@ addonTable.ParsesMythicRaidDB = addonTable.ParsesMythicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Mythic.
 
 local talentData = {
-	updated = "2026-11-18 02:20:40",
-	gameBuild = "12.1.5.70783",
+	updated = "2026-11-19 02:20:42",
+	gameBuild = "12.1.5.70961",
 	partition = "12.1",
 
 	[1] = {
@@ -1084,7 +1084,7 @@ local talentData = {
 				},
 				[1] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYZbmBjZZAMBAAAshZGgFjhBsYBgZGAD",
+					talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYGjZ2MLGMLLDMbwoJamZWmZmZGjZMDAAAAAYGbzAW2mZwY2GATAAAAbYmBYxMYAbW2GgZGAD",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
@@ -1222,11 +1222,11 @@ local talentData = {
 			[1480] = {
 				[0] = {
 					label = "All Bosses",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAAWmZmZmZGjxwMAAAAAAALGz2gZAAAAAAAAYGzw8AzMzMzMzMMz2MjxmsAAADwMmZmtZmpZZmlZmxYGA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAegxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwDMmhxMA",
 				},
 				[1] = {
 					label = "Nek'zali the Soulcoiler",
-					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAAWmZmZmZGjxwMAAAAAAALGz2gZAAAAAAAAYGzw8AzMzMzMzMMz2MjxmsAAADwMmZmtZmpZZmlZmxYGA",
+					talentString = "CgcBAAAAAAAAAAAAAAAAAAAAAAA2MmZmZmZmxwMAAAAAAAegxsNYGAAAAAAAAmxMMzMzMzMzMDzsYGjFZhZmZmt2mZmBwwAAwDMmhxMA",
 					instanceId = 1320,
 					instanceName = "The Venomous Abyss",
 				},
