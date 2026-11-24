@@ -5,7 +5,7 @@ addonTable.ParsesHeroicRaidDB = addonTable.ParsesHeroicRaidDB or {}
 -- Every build here is a loadout somebody actually ran, at Heroic.
 
 local talentData = {
-	updated = "2026-11-23 02:16:50",
+	updated = "2026-11-24 02:16:17",
 	gameBuild = "12.1.5.70961",
 	partition = "12.1",
 
